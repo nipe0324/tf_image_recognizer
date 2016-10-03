@@ -4,5 +4,8 @@ source 'https://rubygems.org'
 gem 'thor' # command-line interfaces
 gem 'selenium-webdriver'
 
+# Process images
+gem 'rmagick'
+
 # Debug
 gem 'pry-byebug'

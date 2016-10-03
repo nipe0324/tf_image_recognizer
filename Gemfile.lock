@@ -16,6 +16,7 @@ GEM
     pry-byebug (3.2.0)
       byebug (~> 5.0)
       pry (~> 0.10)
+    rmagick (2.16.0)
     rubyzip (1.2.0)
     selenium-webdriver (2.53.4)
       childprocess (~> 0.5)
@@ -30,6 +31,7 @@ PLATFORMS
 
 DEPENDENCIES
   pry-byebug
+  rmagick
   selenium-webdriver
   thor
 
