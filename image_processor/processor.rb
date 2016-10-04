@@ -2,6 +2,7 @@
 #coding: utf-8
 require 'rubygems'
 require 'thor'
+require 'json'
 require_relative './image'
 
 # Process your images to CIFAR-10 binary
@@ -20,7 +21,8 @@ class Processor < Thor
     src_dir = options[:src_dir]
     out_dir = options[:out_dir]
     src_path = "#{src_dir}/*"
-    out_path = "#{out_dir}/images.bin"
+    out_bin_path = "#{out_dir}/images.bin"
+    out_labels_path = "#{out_dir}/labels.json"
 
     puts "Read Images from #{src_path}"
     labels = Hash[Dir[src_path].map.with_index { |dir, idx| [idx, dir.gsub("#{src_dir}/", "")] }]
@@ -39,12 +41,13 @@ class Processor < Thor
     puts "shuffle images"
     images.shuffle!
 
-    puts "Write cifar10 image to #{out_path}"
+    puts "Write binary data formattted for cifar10 model: #{out_bin_path}"
     data = String.new
     images.each { |image| data << image.to_cifar10_binary }
-    File.open(out_path, "wb") do |out|
-      out.write(data)
-    end
+    File.open(out_bin_path, "wb") { |out| out.write(data) }
+
+    puts "Write labels json format file: #{out_labels_path}"
+    File.open(out_labels_path, "w") { |out| out.write(labels.to_json) }
 
     puts "Complete to process images!!"
   end
