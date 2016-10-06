@@ -44,8 +44,9 @@ class GoogleImageScraper
   # For load images
   def scroll_buttom(num_images)
     scroll_times = (num_images / 100.0).ceil # maybe load 100 image by 1 scroll
-    scroll_times.times do
-      images_elements[-3].location_once_scrolled_into_view
+    scroll_times.times do |n|
+      driver.find_element(:id, 'smb').click if driver.find_element(:id, 'smb').displayed?
+      driver.execute_script "window.scrollBy(0, document.body.scrollHeight)"
       sleep 2
     end
   end
