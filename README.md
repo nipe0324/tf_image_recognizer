@@ -18,7 +18,7 @@ You can gather images, convert them to fit learning model's input. and then trai
 
 # Usage
 
-1. [Optional] Download images you want to recognize.
+## 1. [Optional] Download images you want to recognize.
 
 You don't need download any images because the sample images already exist in `data/raw`. If you need original images and recognize them, execute below commands.
 
@@ -27,29 +27,56 @@ You don't need download any images because the sample images already exist in `d
 # Download url: http://chromedriver.storage.googleapis.com/index.html
 
 # gem installs
-bundle install
+$ bundle install
 
 # Scrape google images by using `keyword`
-./scrape/scrape.rb -k <keyword>
+$ ./scrape/scrape.rb -k <keyword>
 ```
 
-2. Process your images to fit TensorFlow CNN model dataset (CIFAR-10)
+## 2. Process your images to fit TensorFlow CNN model dataset (CIFAR-10)
+
+Process your images to CIFAR-10 binary
 
 ```
-# Process your images to CIFAR-10 binary
-# -s src directory
-# -o output directory
-#   Be carefull directory path starts with '.' and doesn't end with '/'
-./image_processor/processor.rb -s ./data/raw -o ./data/input
+# Options
+#   -s src directory
+#   -o output directory
+#   (Be carefull directory path starts with '.' and doesn't end with '/')
+$ ./image_processor/processor.rb -s ./data/raw -o ./data/input
 ```
 
-3. Train images by using TensorFlow CNN model.
+## 3. Train images by using TensorFlow CNN model.
 
-Processing
+Run training (training will take 1 hours. depends on machine power)
+Be careful to re-run this command. because checkpoint file(trained data) is removed and new one is created.
 
-4. Classify images as web application.
+```
+$ cd recognizer/cifar10
+$ python ./recognizer/cifar10/cifar10_train.py
+Filling queue with 40 CIFAR images before starting to train. This will take a few minutes.
+2016-10-07 11:02:45.512924: step 0, loss = 4.77 (78.8 examples/sec; 0.813 sec/batch)
+2016-10-07 11:02:55.742913: step 10, loss = 4.72 (87.8 examples/sec; 0.729 sec/batch)
+2016-10-07 11:03:03.609812: step 20, loss = 4.70 (53.7 examples/sec; 1.191 sec/batch)
+2016-10-07 11:03:10.959503: step 30, loss = 4.64 (85.9 examples/sec; 0.745 sec/batch)
+2016-10-07 11:03:18.221603: step 40, loss = 4.58 (94.1 examples/sec; 0.680 sec/batch)
+...
+```
 
-Processing
+Visualize results by TensorBoard.
+
+```
+$ tensorboard --logdir=/tmp/my_cifar10_train
+```
+
+## 4. Classify images as web application.
+
+Measure accuracy by using test data.
+
+```
+$ cd recognizer/cifar10
+$ python cifar10_eval.py
+2016-10-07 13:30:44.203764: precision @ 1 = 0.802
+```
 
 # Reference
 
