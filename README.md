@@ -30,7 +30,10 @@ You don't need download any images because the sample images already exist in `d
 $ bundle install
 
 # Scrape google images by using `keyword`
-$ ./scrape/scrape.rb -k <keyword>
+# num is less than 400 because of bugs
+$ ./scrape/scrape.rb -k <keyword> -n <num>
+
+# and then remove the images not matched with keyword.
 ```
 
 ## 2. Process your images to fit TensorFlow CNN model dataset (CIFAR-10)
@@ -51,8 +54,8 @@ Run training (training will take 1 hours. depends on machine power)
 Be careful to re-run this command. because checkpoint file(trained data) is removed and new one is created.
 
 ```
-$ cd recognizer/cifar10
-$ python ./recognizer/cifar10/cifar10_train.py
+$ cd recognizer/my_cifar3
+$ python cifar10_train.py
 Filling queue with 40 CIFAR images before starting to train. This will take a few minutes.
 2016-10-07 11:02:45.512924: step 0, loss = 4.77 (78.8 examples/sec; 0.813 sec/batch)
 2016-10-07 11:02:55.742913: step 10, loss = 4.72 (87.8 examples/sec; 0.729 sec/batch)
@@ -73,9 +76,14 @@ $ tensorboard --logdir=/tmp/my_cifar10_train
 Measure accuracy by using test data.
 
 ```
-$ cd recognizer/cifar10
+$ cd recognizer/my_cifar3
 $ python cifar10_eval.py
+
+# if 2 classifications (cat or dog)
 2016-10-07 13:30:44.203764: precision @ 1 = 0.802
+
+# if 3 classification (cat, dog or bird)
+2016-10-07 15:00:27.723453: precision @ 1 = 0.656
 ```
 
 # Reference
