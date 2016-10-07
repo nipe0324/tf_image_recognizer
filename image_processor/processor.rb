@@ -21,7 +21,6 @@ class Processor < Thor
     src_dir = options[:src_dir]
     out_dir = options[:out_dir]
     src_path = "#{src_dir}/*"
-    out_bin_path = "#{out_dir}/images.bin"
     out_labels_path = "#{out_dir}/labels.json"
 
     puts "Read Images from #{src_path}"
@@ -41,10 +40,16 @@ class Processor < Thor
     puts "shuffle images"
     images.shuffle!
 
-    puts "Write binary data formattted for cifar10 model: #{out_bin_path}"
-    data = String.new
-    images.each { |image| data << image.to_cifar10_binary }
-    File.open(out_bin_path, "wb") { |out| out.write(data) }
+    # Write images
+    split_index = images.size / 10 / 8 # 80%
+    train_images, test_images = images[0, images.size-split_index], images[images.size-split_index, images.size]
+
+    [train_images, test_images].each_with_index do |images, i|
+      data = String.new
+      images.each { |image| data << image.to_cifar10_binary }
+      File.open("#{out_dir}/images#{i}.bin", "wb") { |out| out.write(data) }
+      puts "Write binary data formattted for cifar10 model: #{out_dir}/images#{i}.bin"
+    end
 
     puts "Write labels json format file: #{out_labels_path}"
     File.open(out_labels_path, "w") { |out| out.write(labels.to_json) }
