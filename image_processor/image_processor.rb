@@ -11,32 +11,26 @@ class ImageProcessor
     @src_dir = src_dir
     @out_dir = out_dir
     @image_size = 32
-    @images = []
+    @images = {}
   end
 
   def read_images
     puts "Read images: #{src_dir}"
     labels_with_index.each do |label_no, label_name|
+      @images[label_name] = []
       paths = [src_dir, label_name, "*.jpeg"].join('/') # FIXME: only read jpeg file
       Dir[paths].each do |path|
         data = File.open(path).read
-        @images << Image.new(data, image_size, label_no)
+        @images[label_name] << Image.new(data, image_size, label_no)
       end
     end
   end
 
   def write_images_with_train_cv_test
-    # train:80%, cv:10%, test:10%
-    split_index1 = images.size / 10 / 8
-    split_index2 = images.size / 10 / 9
-
-    train_images = images[0, images.size - split_index1]
-    cv_images    = images[images.size-split_index1, images.size-split_index2]
-    test_images  = images[image_size-split_index2, images.size]
-
-    datasets = [[train_images, cv_images, test_images], IMAGE_BIN_FILE_NAMES].transpose
-    datasets.each do |images, filename|
-      write_images_by_cifar10bin(images, filename)
+    datasets = split_images
+    images_and_outpath = [datasets, IMAGE_BIN_FILE_NAMES].transpose
+    images_and_outpath.each do |imgs, out_path|
+      write_images_by_cifar10bin(imgs, out_path)
     end
   end
 
@@ -47,7 +41,7 @@ class ImageProcessor
   end
 
   def shuffle_images
-    images.shuffle!
+    images.each { |_, images| images.shuffle! }
   end
 
   private
@@ -60,11 +54,28 @@ class ImageProcessor
     @labels_with_index ||= Hash[labels.map.with_index { |label, i| [i, label] }]
   end
 
-  def write_images_by_cifar10bin(images, filename)
+  def split_images
+    train_imgs = []
+    cv_imgs    = []
+    test_imgs  = []
+
+    images.each do |label_name, imgs|
+      # train:60%, cv:20%, test:20% (250 => 150/50/50)
+      split_index1 = imgs.size / 10 * 6
+      split_index2 = imgs.size / 10 * 8
+
+      train_imgs.concat(imgs.select.with_index {|_, i| 0 <= i && i < split_index1})
+      cv_imgs.concat(imgs.select.with_index {|_, i| split_index1 <= i && i < split_index2})
+      test_imgs.concat(imgs.select.with_index {|_, i| split_index2 <= i && i < imgs.size})
+    end
+    [train_imgs.shuffle!, cv_imgs.shuffle!, test_imgs.shuffle!]
+  end
+
+  def write_images_by_cifar10bin(imgs, filename)
     out_path = [out_dir, filename].join('/')
     data = String.new
-    images.each { |image| data << image.to_cifar10_binary }
+    imgs.each { |img| data << img.to_cifar10_binary }
     File.open(out_path, "wb") { |out| out.write(data) }
-    puts "Write cifar10 binary: #{out_path}"
+    puts "Write cifar10 binary: #{out_path} (num: #{imgs.size})"
   end
 end

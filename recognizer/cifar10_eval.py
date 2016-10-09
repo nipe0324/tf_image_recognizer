@@ -56,7 +56,9 @@ tf.app.flags.DEFINE_string('eval_data', 'test',
 #                            """Directory where to read model checkpoints.""")
 tf.app.flags.DEFINE_string('checkpoint_dir', '/tmp/my_cifar10_train',
                            """Directory where to read model checkpoints.""")
-tf.app.flags.DEFINE_integer('eval_interval_secs', 60 * 5,
+# tf.app.flags.DEFINE_integer('eval_interval_secs', 60 * 5,
+#                             """How often to run the eval.""")
+tf.app.flags.DEFINE_integer('eval_interval_secs', 20,
                             """How often to run the eval.""")
 # tf.app.flags.DEFINE_integer('num_examples', 10000,
 #                             """Number of examples to run.""")
