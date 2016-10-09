@@ -35,8 +35,9 @@ IMAGE_SIZE = 32
 # NUM_EXAMPLES_PER_EPOCH_FOR_TRAIN = 50000
 # NUM_EXAMPLES_PER_EPOCH_FOR_EVAL = 10000
 NUM_CLASSES = 3
-NUM_EXAMPLES_PER_EPOCH_FOR_TRAIN = 100
-NUM_EXAMPLES_PER_EPOCH_FOR_EVAL = 20
+NUM_EXAMPLES_PER_EPOCH_FOR_TRAIN = 140
+NUM_EXAMPLES_PER_EPOCH_FOR_CV    = 30
+NUM_EXAMPLES_PER_EPOCH_FOR_EVAL  = 30
 
 
 def read_cifar10(filename_queue):
@@ -218,7 +219,7 @@ def inputs(eval_data, data_dir, batch_size):
     num_examples_per_epoch = NUM_EXAMPLES_PER_EPOCH_FOR_TRAIN
   else:
     # filenames = [os.path.join(data_dir, 'test_batch.bin')]
-    filenames = [os.path.join(data_dir, 'test.bin')]
+    filenames = [os.path.join(data_dir, 'cv.bin')]
     num_examples_per_epoch = NUM_EXAMPLES_PER_EPOCH_FOR_EVAL
 
   for f in filenames:
