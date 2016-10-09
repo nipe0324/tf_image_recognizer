@@ -4,10 +4,11 @@ require 'rubygems'
 require 'thor'
 require 'json'
 require_relative './image'
+require_relative './image_processor'
 
 # Process your images to CIFAR-10 binary
 #
-# [Usage] ./image_processor/processor.rb -s ./data/raw -o ./data/input
+# [Usage] ./image_processor/processor.rb -s ./data/raw -o ./data/input -i 32
 #
 class Processor < Thor
   IMAGE_SIZE = 32
@@ -17,43 +18,18 @@ class Processor < Thor
   desc 'Processor', 'Process your images to CIFAR-10 binary'
   option :src_dir,  type: :string,  aliases: '-s', desc: 'Src dir'
   option :out_dir,  type: :string,  aliases: '-o', desc: 'Out dir'
+  option :image_size, type: :string,  aliases: '-i', desc: 'Image size (width = height)'
   def execute
     src_dir = options[:src_dir]
     out_dir = options[:out_dir]
-    src_path = "#{src_dir}/*"
-    out_labels_path = "#{out_dir}/labels.json"
+    image_size = options.fetch(:image_size, 32).to_i
 
-    puts "Read Images from #{src_path}"
-    labels = Hash[Dir[src_path].map.with_index { |dir, idx| [idx, dir.gsub("#{src_dir}/", "")] }]
-
-    puts "Labels: #{labels}"
-
-    images = []
-    labels.each do |label_no, label_name|
-      path = [src_dir, label_name, "*.jpeg"].join('/') # FIXME: only read jpeg
-      Dir[path].each do |file_path|
-        data = File.open(file_path).read
-        images << Image.new(data, IMAGE_SIZE, label_no)
-      end
-    end
-
-    puts "shuffle images"
-    images.shuffle!
-
-    # Write images
-    split_index = images.size / 10 / 8 # 80%
-    train_images, test_images = images[0, images.size-split_index], images[images.size-split_index, images.size]
-
-    [train_images, test_images].each_with_index do |images, i|
-      data = String.new
-      images.each { |image| data << image.to_cifar10_binary }
-      File.open("#{out_dir}/images#{i}.bin", "wb") { |out| out.write(data) }
-      puts "Write binary data formattted for cifar10 model: #{out_dir}/images#{i}.bin"
-    end
-
-    puts "Write labels json format file: #{out_labels_path}"
-    File.open(out_labels_path, "w") { |out| out.write(labels.to_json) }
-
+    puts "Start Image Processor"
+    processor = ImageProcessor.new(src_dir, out_dir, image_size)
+    processor.read_images
+    processor.shuffle_images
+    processor.write_images_with_train_cv_test
+    processor.write_labels_as_json
     puts "Complete to process images!!"
   end
 end
