@@ -1,0 +1,1102 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Home - Welcome to the OLX career site</title>
+    <meta name="description" content="Everything you need to know about working at OLX: who we are, how to join us, contact information and the latest jobs we have. ">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <META name="Content-Language" Content="nl">
+    <meta name="author" content="OLX Lisbon Tech Hub" />
+    
+	<meta property="og:title" content="Home"/>
+	<meta property="og:image" content="http://www.joinolx.com//assets/uploads/files/resized/11952943_874368202638975_4825784230981884745_o1443623537.jpg"/>
+	<meta property="og:url" content="http://www.joinolx.com/"/>
+      
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="http://www.joinolx.com/assets/css/normalize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+    <link href="http://www.joinolx.com/assets/css/flexslider.css" rel="stylesheet">
+    <link href="http://www.joinolx.com/assets/css/jquery.fancybox.css" type="text/css" rel="stylesheet" media="screen" />
+    <link href="http://www.joinolx.com/assets/css/main.css?v=1474362601" type="text/css" rel="stylesheet" media="screen,projection"/>
+    <link href="http://www.joinolx.com/assets/css/print.css" type="text/css" rel="stylesheet" media="print"/>
+    <link href="http://www.joinolx.com/assets/css/multi-select.css" media="screen" rel="stylesheet" type="text/css">
+
+    <!-- https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css -->
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" type="text/css" rel="stylesheet">
+      
+	        
+    <script type="text/javascript">
+
+        var login_url = '';
+
+
+                        var linkedin_user = false;
+            </script>
+
+	<script src="http://www.joinolx.com/assets/js/vendor/modernizr-2.8.3.min.js"></script>
+        </head>
+<body class="tpl-home fixed-home">
+
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5RKHDZ"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5RKHDZ');</script>
+<!-- End Google Tag Manager -->
+
+
+    <!--
+    <div class="container clearfix">
+        <div class="feedback-cont border-radius-t-l">
+        <a href="http://www.joinolx.com/feedback" class="fc-white beta-button">
+            <span class="first">
+                BETA
+            </span>
+            <span class="second">
+                version
+            </span>
+            <span class="third">
+                Provide us with your
+            </span>
+            <span class="fourth">
+                feedback
+            </span>
+        </a>
+        <div class="closeBut"></div>
+    </div>
+        -->
+        <header>
+            <nav class="menu-wrap clearfix">
+                <div class="menu-mobile mobile-icon"><span></span></div>
+                <div class="menu-wrap-logo">
+                    <a href="http://www.joinolx.com/" class="full-link"></a>
+                    <img src="http://www.joinolx.com/assets/img/olx-group-logo-trans-1.png" alt="OLX Logo">
+                </div>
+                <ul class="navigation">
+                                                                <li class="sub-page">
+                            <a href="http://www.joinolx.com/this-is-olx" class="fc-blue">
+                                This is OLX
+                                                                    <span class="arrow fa"></span>
+                                                            </a>
+                                                    <ul class="sub-menu">
+                                                                    <li>
+                                        <a href="http://www.joinolx.com/this-is-olx/our-story" class="fc-blue">Our story</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="http://www.joinolx.com/this-is-olx/our-why-how--what" class="fc-blue">Our why, how & what</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="http://www.joinolx.com/this-is-olx/facts--figures-" class="fc-blue">Facts & Figures </a>
+                                    </li>
+                                                                    <li>
+                                        <a href="http://www.joinolx.com/this-is-olx/giving-back" class="fc-blue">Giving back</a>
+                                    </li>
+                                                            </ul>
+                                                                    </li>
+                                                            <li class="sub-page">
+                            <a href="http://www.joinolx.com/working-at-olx" class="fc-blue">
+                                Working at OLX
+                                                                    <span class="arrow fa"></span>
+                                                            </a>
+                                                    <ul class="sub-menu">
+                                                                    <li>
+                                        <a href="http://www.joinolx.com/working-at-olx/this-is-what-its-like-to-work-at-olx" class="fc-blue">This is what it’s like to work at OLX</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="http://www.joinolx.com/working-at-olx/5-reasons-to-work-at-olx" class="fc-blue">5 reasons to work at OLX</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="http://www.joinolx.com/working-at-olx/meet-your-future-colleagues" class="fc-blue">Meet your future colleagues</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="http://www.joinolx.com/working-at-olx/you-and-us-a-perfect-fit" class="fc-blue">You and us: a perfect fit?</a>
+                                    </li>
+                                                            </ul>
+                                                                    </li>
+                                                            <li>
+                            <a href="http://www.joinolx.com/find-a-job" class="fc-blue">
+                                Find a job
+                                                            </a>
+                                                                    </li>
+                                                            <li>
+                            <a href="http://www.joinolx.com/contact" class="fc-blue">
+                                Contact us
+                                                            </a>
+                                                                    </li>
+                                                            <li class="menu-hightlight-item">
+                            <a href="http://www.joinolx.com/for-engineers" class="fc-white bg-d-blue menu-highlight-link">For engineers</a>
+                                            </li>
+                                </ul>
+            </nav>
+        </header>
+        <div class="wrapper clearfix">
+            
+            <div class="shade-on-menu"></div>
+            
+            
+                            
+   <section class="slider-media border-radius-t-l border-radius-b-r">
+       <img src="http://www.joinolx.com/assets/img/slider-media-ratio.png" class="ratio-blank">
+      <div class="shade-slider"></div>
+       <div class="flexslider border-radius-t-l border-radius-b-r">
+          <ul class="slides">
+                          <li class="border-radius-t-l border-radius-b-r" style="background-image: url('http://www.joinolx.com//assets/uploads/files/This is OLX/This_is_OLX_02.jpg'); background-size:cover; background-position:center center;">
+                              </li>
+                              <li class="border-radius-t-l border-radius-b-r" style="background-image: url('http://www.joinolx.com//assets/uploads/files/Home/phone.jpg'); background-size:cover; background-position:center center;">
+                              </li>
+                              <li class="border-radius-t-l border-radius-b-r" style="background-image: url('http://www.joinolx.com//assets/uploads/files/resized/Office setting1445983226.jpg'); background-size:cover; background-position:center center;">
+                              </li>
+                          </ul>
+       </div>
+
+       <div class="main-text fc-white overlay-big  background-color-slider border-radius-t-l">
+           <h1>
+              We are OLX
+           </h1>
+           <div>
+            <p>The OLX Group is a network of leading classifieds platforms in 40 markets, including brands like OLX, Avito, letgo, dubizzle, among others.&nbsp;</p>
+
+<p>The OLX Group connects local people to buy, sell or exchange used goods and services by making it fast and easy for anyone to post a listing through their mobile phone or on the web. Hundreds of millions of people in local markets around the world generate more than 1.7 billion monthly visits, 35 billion monthly page views and 54 million listings every month on the OLX Group&#39;s online marketplaces.</p>
+
+           </div>
+       </div>
+
+   </section>
+
+            
+
+               
+               
+                       
+   <section class="clearfix blocks">
+         <div class="block-3 bg-orange half-tile border-radius-t-l border-radius-b-r" style="background-image: url('http://www.joinolx.com//assets/uploads/files/Buttons/01_Vacancies.png')">
+                 <a href="http://joinOLX.com/find-a-job"  >
+                 <img src="http://www.joinolx.com/assets/img/ratio-3-block.png" class="ratio-blank">
+           <div class="block-3-content clearfix">
+               <div class="block-3-content-left">
+               </div>
+               <div class="block-3-content-right">
+                                       <h3 class="fc-white">Find a job</h3>
+                                                     </div>
+           </div>
+                    </a>
+                </div>
+            <div class="block-3 bg-green half-tile border-radius-t-l border-radius-b-r" style="background-image: url('http://www.joinolx.com//assets/uploads/files/Buttons/01_This_is_OLX.png')">
+                 <a href="http://joinOLX.com/this-is-olx"  >
+                 <img src="http://www.joinolx.com/assets/img/ratio-3-block.png" class="ratio-blank">
+           <div class="block-3-content clearfix">
+               <div class="block-3-content-left">
+               </div>
+               <div class="block-3-content-right">
+                                       <h3 class="fc-white">This is OLX</h3>
+                                                     </div>
+           </div>
+                    </a>
+                </div>
+            <div class="block-3 bg-d-purple half-tile border-radius-t-l border-radius-b-r" style="background-image: url('http://www.joinolx.com//assets/uploads/files/Buttons/01_Join_OLX.png')">
+                 <a href="http://joinOLX.com/working-at-olx"  >
+                 <img src="http://www.joinolx.com/assets/img/ratio-3-block.png" class="ratio-blank">
+           <div class="block-3-content clearfix">
+               <div class="block-3-content-left">
+               </div>
+               <div class="block-3-content-right">
+                                       <h3 class="fc-white">Working at OLX</h3>
+                                                     </div>
+           </div>
+                    </a>
+                </div>
+         </section>
+
+              
+   
+      <section class="slider-testimonials small">
+    <div class="top-bar bg-d-blue">
+        <h3 class="fc-white">Other testimonials</h3>
+    </div>
+    <div class="flexslider bg-l-blue margin-0 border-0 border-radius-0 coworker-small">
+        <ul class="slides">
+                        <li>
+                <a href="http://www.joinolx.com/working-at-olx/meet-your-future-colleagues/diogo-valente-">
+                <div class="slider-testimonials-content">
+                                        <div class="left">
+                        <img src="http://www.joinolx.com//assets/uploads/files/resized/OLX8_ODiogo_Valente1445354576.jpg"/>
+                    </div>
+                                        <div class="right fc-white">
+                        <h2>Diogo Valente </h2>
+                        <h4 class="subtitle"> Online Marketing Specialist</h4>
+                        <div>
+                            Motorcycling football fan Diogo joined OLX because he saw it as a great way to grow as a professional and as a person. &ldquo;When I joined the...
+                        </div>
+                        <span class="fc-white">
+                           Read more<span class="arrow-link"></span>
+                        </span>
+                    </div>
+                </div>
+                </a>
+            </li>
+                        <li>
+                <a href="http://www.joinolx.com/working-at-olx/meet-your-future-colleagues/rogrio-machado-">
+                <div class="slider-testimonials-content">
+                                        <div class="left">
+                        <img src="http://www.joinolx.com//assets/uploads/files/resized/OLX_Rogerio_Machado1445354629.jpg"/>
+                    </div>
+                                        <div class="right fc-white">
+                        <h2>Rogério Machado </h2>
+                        <h4 class="subtitle"> Sys Admin</h4>
+                        <div>
+                            There&rsquo;s a simple reason that system administrator and surfing, self-defence and yoga enthusiast Rog&eacute;rio gets a buzz from working at...
+                        </div>
+                        <span class="fc-white">
+                           Read more<span class="arrow-link"></span>
+                        </span>
+                    </div>
+                </div>
+                </a>
+            </li>
+                        <li>
+                <a href="http://www.joinolx.com/working-at-olx/meet-your-future-colleagues/miguel-mascarenhas-">
+                <div class="slider-testimonials-content">
+                                        <div class="left">
+                        <img src="http://www.joinolx.com//assets/uploads/files/resized/Miguel Mascarenhas1444900644.jpg"/>
+                    </div>
+                                        <div class="right fc-white">
+                        <h2>Miguel Mascarenhas </h2>
+                        <h4 class="subtitle"> CTO of Global Verticals</h4>
+                        <div>
+                            As our chief technology officer for Global Verticals (think WHAT, WHAT AND WHAT), Miguel seeks out cool stuff that will enable us to provide a...
+                        </div>
+                        <span class="fc-white">
+                           Read more<span class="arrow-link"></span>
+                        </span>
+                    </div>
+                </div>
+                </a>
+            </li>
+                        <li>
+                <a href="http://www.joinolx.com/working-at-olx/meet-your-future-colleagues/rui-franco-">
+                <div class="slider-testimonials-content">
+                                        <div class="left">
+                        <img src="http://www.joinolx.com//assets/uploads/files/resized/OLX_Rui Franco1445354764.jpg"/>
+                    </div>
+                                        <div class="right fc-white">
+                        <h2>Rui Franco </h2>
+                        <h4 class="subtitle"> CTO OLX Portugal and Europe Verticals</h4>
+                        <div>
+                            Ask Rui how he would explain what he does to a kid, and he says: &ldquo;I bring people together to do fun things all day.&rdquo; And it&rsquo;s...
+                        </div>
+                        <span class="fc-white">
+                           Read more<span class="arrow-link"></span>
+                        </span>
+                    </div>
+                </div>
+                </a>
+            </li>
+                        <li>
+                <a href="http://www.joinolx.com/working-at-olx/meet-your-future-colleagues/miguel-monteiro-">
+                <div class="slider-testimonials-content">
+                                        <div class="left">
+                        <img src="http://www.joinolx.com//assets/uploads/files/resized/OLX_Miguel Monteiro1445354712.jpg"/>
+                    </div>
+                                        <div class="right fc-white">
+                        <h2>Miguel Monteiro </h2>
+                        <h4 class="subtitle"> CEO Portugal</h4>
+                        <div>
+                            Our CEO, Miguel, loves how quickly things move at OLX: &ldquo;Seven, eight times faster than real life,&rdquo; he says. &ldquo;We have different...
+                        </div>
+                        <span class="fc-white">
+                           Read more<span class="arrow-link"></span>
+                        </span>
+                    </div>
+                </div>
+                </a>
+            </li>
+                        <li>
+                <a href="http://www.joinolx.com/working-at-olx/meet-your-future-colleagues/office-manila">
+                <div class="slider-testimonials-content">
+                                        <div class="left">
+                        <img src="http://www.joinolx.com//assets/uploads/files/resized/pasig1447718041.jpg"/>
+                    </div>
+                                        <div class="right fc-white">
+                        <h2>Office Manila</h2>
+                        <h4 class="subtitle"> Philippines</h4>
+                        <div>
+                            OLX&rsquo;s head office in the Philippines is located in Pasig City, one of Manila&rsquo;s central business districts. With shops, malls, hotels,...
+                        </div>
+                        <span class="fc-white">
+                           Read more<span class="arrow-link"></span>
+                        </span>
+                    </div>
+                </div>
+                </a>
+            </li>
+                    </ul>
+    </div>
+    <div class="bottom-bar bg-d-blue">
+        <a href="http://www.joinolx.com/working-at-olx/meet-your-future-colleagues" class="fc-white">
+            Meet other future colleagues<span class="arrow-link"></span>
+        </a>
+    </div>
+</section>
+   
+   
+   
+      
+   
+         
+   
+   
+   
+   
+      
+   
+      <section class="testimonial-slider vacancies">
+    <div class="top-bar bg-d-purple">
+        <h3 class="fc-white">
+            Latest jobs
+        </h3>
+    </div>
+    <div class="testim-wrapper bg-l-purple flexsliderCarousel">
+        <ul class="testim-blocks slides clearfix vacancies">
+                    <li class="testim-block-item">
+                <div class="testim-block">
+                    <div class="testim-top-content whole-tile colleague bg-d-purple border-radius-t-l">
+                        <div class="align-text">
+                            <h3 class="">Senior Android Developer (m/f) - CLM Team</h3>
+                            <p class="">You'll work in our Engineering  department</p>
+                        </div>
+                    </div>
+                    <div class="testim-bottom-content bg-white fc-black">
+                                                    <strong>
+                                <p>City</p>
+                            </strong>
+                            <p>You will work in Berlin</p><br>
+                        
+                                                <strong>
+                            <p>Country</p>
+                        </strong>
+                        <p>Germany</p><br>
+                        
+                        <strong>
+                            <p>Date published</p>
+                        </strong>
+                        <p>Online since Oct  7, 2016</p><br>
+                    </div>
+                    <div class="vacancy-bottom-bar bg-d-purple">
+                        <a href="http://www.joinolx.com/careers/job/176965" class="fc-white">
+                            Read more<span class="arrow-link"></span>
+                        </a>
+                    </div>
+                </div>
+            </li>
+                    <li class="testim-block-item">
+                <div class="testim-block">
+                    <div class="testim-top-content whole-tile colleague bg-d-purple border-radius-t-l">
+                        <div class="align-text">
+                            <h3 class="">Key Account Manager</h3>
+                            <p class="">You'll work in our Sales  department</p>
+                        </div>
+                    </div>
+                    <div class="testim-bottom-content bg-white fc-black">
+                                                    <strong>
+                                <p>City</p>
+                            </strong>
+                            <p>You will work in Lima</p><br>
+                        
+                                                <strong>
+                            <p>Country</p>
+                        </strong>
+                        <p>Peru</p><br>
+                        
+                        <strong>
+                            <p>Date published</p>
+                        </strong>
+                        <p>Online since Oct  7, 2016</p><br>
+                    </div>
+                    <div class="vacancy-bottom-bar bg-d-purple">
+                        <a href="http://www.joinolx.com/careers/job/455610" class="fc-white">
+                            Read more<span class="arrow-link"></span>
+                        </a>
+                    </div>
+                </div>
+            </li>
+                    <li class="testim-block-item">
+                <div class="testim-block">
+                    <div class="testim-top-content whole-tile colleague bg-d-purple border-radius-t-l">
+                        <div class="align-text">
+                            <h3 class="">Area Sales Manager - Coimbatore</h3>
+                            <p class="">You'll work in our Sales  department</p>
+                        </div>
+                    </div>
+                    <div class="testim-bottom-content bg-white fc-black">
+                                                    <strong>
+                                <p>City</p>
+                            </strong>
+                            <p>You will work in Chennai</p><br>
+                        
+                                                <strong>
+                            <p>Country</p>
+                        </strong>
+                        <p>India</p><br>
+                        
+                        <strong>
+                            <p>Date published</p>
+                        </strong>
+                        <p>Online since Oct  7, 2016</p><br>
+                    </div>
+                    <div class="vacancy-bottom-bar bg-d-purple">
+                        <a href="http://www.joinolx.com/careers/job/456634" class="fc-white">
+                            Read more<span class="arrow-link"></span>
+                        </a>
+                    </div>
+                </div>
+            </li>
+                    <li class="testim-block-item">
+                <div class="testim-block">
+                    <div class="testim-top-content whole-tile colleague bg-d-purple border-radius-t-l">
+                        <div class="align-text">
+                            <h3 class="">Machine Learning/Computer Vision Scientist (m/f)</h3>
+                            <p class="">You'll work in our Data Science and Analytics  department</p>
+                        </div>
+                    </div>
+                    <div class="testim-bottom-content bg-white fc-black">
+                                                    <strong>
+                                <p>City</p>
+                            </strong>
+                            <p>You will work in Berlin</p><br>
+                        
+                                                <strong>
+                            <p>Country</p>
+                        </strong>
+                        <p>Germany</p><br>
+                        
+                        <strong>
+                            <p>Date published</p>
+                        </strong>
+                        <p>Online since Oct  6, 2016</p><br>
+                    </div>
+                    <div class="vacancy-bottom-bar bg-d-purple">
+                        <a href="http://www.joinolx.com/careers/job/474597" class="fc-white">
+                            Read more<span class="arrow-link"></span>
+                        </a>
+                    </div>
+                </div>
+            </li>
+                    <li class="testim-block-item">
+                <div class="testim-block">
+                    <div class="testim-top-content whole-tile colleague bg-d-purple border-radius-t-l">
+                        <div class="align-text">
+                            <h3 class="">Programmatic Expert</h3>
+                            <p class="">You'll work in our Sales  department</p>
+                        </div>
+                    </div>
+                    <div class="testim-bottom-content bg-white fc-black">
+                                                    <strong>
+                                <p>City</p>
+                            </strong>
+                            <p>You will work in Warsaw</p><br>
+                        
+                                                <strong>
+                            <p>Country</p>
+                        </strong>
+                        <p>Poland</p><br>
+                        
+                        <strong>
+                            <p>Date published</p>
+                        </strong>
+                        <p>Online since Oct  6, 2016</p><br>
+                    </div>
+                    <div class="vacancy-bottom-bar bg-d-purple">
+                        <a href="http://www.joinolx.com/careers/job/474734" class="fc-white">
+                            Read more<span class="arrow-link"></span>
+                        </a>
+                    </div>
+                </div>
+            </li>
+                    <li class="testim-block-item">
+                <div class="testim-block">
+                    <div class="testim-top-content whole-tile colleague bg-d-purple border-radius-t-l">
+                        <div class="align-text">
+                            <h3 class="">Digital Marketing Manager - SSA</h3>
+                            <p class="">You'll work in our Marketing and Communications  department</p>
+                        </div>
+                    </div>
+                    <div class="testim-bottom-content bg-white fc-black">
+                                                    <strong>
+                                <p>City</p>
+                            </strong>
+                            <p>You will work in Dubai</p><br>
+                        
+                                                <strong>
+                            <p>Country</p>
+                        </strong>
+                        <p>UAE</p><br>
+                        
+                        <strong>
+                            <p>Date published</p>
+                        </strong>
+                        <p>Online since Oct  6, 2016</p><br>
+                    </div>
+                    <div class="vacancy-bottom-bar bg-d-purple">
+                        <a href="http://www.joinolx.com/careers/job/142292" class="fc-white">
+                            Read more<span class="arrow-link"></span>
+                        </a>
+                    </div>
+                </div>
+            </li>
+                    <li class="testim-block-item">
+                <div class="testim-block">
+                    <div class="testim-top-content whole-tile colleague bg-d-purple border-radius-t-l">
+                        <div class="align-text">
+                            <h3 class="">Product Manager</h3>
+                            <p class="">You'll work in our Product  department</p>
+                        </div>
+                    </div>
+                    <div class="testim-bottom-content bg-white fc-black">
+                                                    <strong>
+                                <p>City</p>
+                            </strong>
+                            <p>You will work in Buenos Aires</p><br>
+                        
+                                                <strong>
+                            <p>Country</p>
+                        </strong>
+                        <p>Argentina</p><br>
+                        
+                        <strong>
+                            <p>Date published</p>
+                        </strong>
+                        <p>Online since Oct  5, 2016</p><br>
+                    </div>
+                    <div class="vacancy-bottom-bar bg-d-purple">
+                        <a href="http://www.joinolx.com/careers/job/472919" class="fc-white">
+                            Read more<span class="arrow-link"></span>
+                        </a>
+                    </div>
+                </div>
+            </li>
+                    <li class="testim-block-item">
+                <div class="testim-block">
+                    <div class="testim-top-content whole-tile colleague bg-d-purple border-radius-t-l">
+                        <div class="align-text">
+                            <h3 class="">Software Engineer - PHP (m/f) CLM Team, Berlin</h3>
+                            <p class="">You'll work in our Engineering  department</p>
+                        </div>
+                    </div>
+                    <div class="testim-bottom-content bg-white fc-black">
+                                                    <strong>
+                                <p>City</p>
+                            </strong>
+                            <p>You will work in Berlin</p><br>
+                        
+                                                <strong>
+                            <p>Country</p>
+                        </strong>
+                        <p>Germany</p><br>
+                        
+                        <strong>
+                            <p>Date published</p>
+                        </strong>
+                        <p>Online since Oct  5, 2016</p><br>
+                    </div>
+                    <div class="vacancy-bottom-bar bg-d-purple">
+                        <a href="http://www.joinolx.com/careers/job/150874" class="fc-white">
+                            Read more<span class="arrow-link"></span>
+                        </a>
+                    </div>
+                </div>
+            </li>
+                    <li class="testim-block-item">
+                <div class="testim-block">
+                    <div class="testim-top-content whole-tile colleague bg-d-purple border-radius-t-l">
+                        <div class="align-text">
+                            <h3 class="">Senior Frontend Developer (m/f), Berlin</h3>
+                            <p class="">You'll work in our Engineering  department</p>
+                        </div>
+                    </div>
+                    <div class="testim-bottom-content bg-white fc-black">
+                                                    <strong>
+                                <p>City</p>
+                            </strong>
+                            <p>You will work in Berlin</p><br>
+                        
+                                                <strong>
+                            <p>Country</p>
+                        </strong>
+                        <p>Germany</p><br>
+                        
+                        <strong>
+                            <p>Date published</p>
+                        </strong>
+                        <p>Online since Oct  5, 2016</p><br>
+                    </div>
+                    <div class="vacancy-bottom-bar bg-d-purple">
+                        <a href="http://www.joinolx.com/careers/job/473870" class="fc-white">
+                            Read more<span class="arrow-link"></span>
+                        </a>
+                    </div>
+                </div>
+            </li>
+                    <li class="testim-block-item">
+                <div class="testim-block">
+                    <div class="testim-top-content whole-tile colleague bg-d-purple border-radius-t-l">
+                        <div class="align-text">
+                            <h3 class="">UI Designer (m/f), Berlin</h3>
+                            <p class="">You'll work in our Engineering  department</p>
+                        </div>
+                    </div>
+                    <div class="testim-bottom-content bg-white fc-black">
+                                                    <strong>
+                                <p>City</p>
+                            </strong>
+                            <p>You will work in Berlin</p><br>
+                        
+                                                <strong>
+                            <p>Country</p>
+                        </strong>
+                        <p>Germany</p><br>
+                        
+                        <strong>
+                            <p>Date published</p>
+                        </strong>
+                        <p>Online since Oct  5, 2016</p><br>
+                    </div>
+                    <div class="vacancy-bottom-bar bg-d-purple">
+                        <a href="http://www.joinolx.com/careers/job/473790" class="fc-white">
+                            Read more<span class="arrow-link"></span>
+                        </a>
+                    </div>
+                </div>
+            </li>
+                </ul>
+    </div>
+    
+    <div class="bottom-bar bg-d-purple hide-mobile">
+        <a href="http://www.joinolx.com/careers/search" class="fc-white">
+            View more jobs<span class="arrow-link"></span>
+        </a>
+    </div>
+</section>         <section class="search">
+   <div class="top-bar bg-d-purple">
+       <h3 class="fc-white">
+           Search jobs
+       </h3>
+   </div>
+   <div class="vacancy-search-wrap search bg-l-purple border-radius-b-r">
+       <div class="middle no-padding">
+           <form action="http://www.joinolx.com/careers/search" method="POST">
+               <div class="search-field">
+                   <input type="hidden" value="1" name="different_source">
+                       <input type="text" class="border-radius-t-l border-radius-b-l fc-purple border-radius-t-r border-radius-b-r padding-l-10" id="search-input" name="val5">
+                       <input type="submit" value="search" class="searchBut search-but js-goto-searchMapBut bg-d-purple border-radius-t-r border-radius-b-r" >
+               </div>
+               <div class="search-field">  
+                   <p style="text-align: center;">and / or search by:</p>
+                       </div>
+               <div class="select-inputs clearfix">
+                   <select id="countrySelect">
+                        <option value="0" selected>Country</option>
+                                                                                 <option value="6449">Argentina</option>
+                           
+                                                                                 <option value="6437">Bulgaria</option>
+                           
+                                                                                 <option value="6450">Colombia</option>
+                           
+                                                                                 <option value="15911">Costa Rica</option>
+                           
+                                                                                 <option value="6500">Ecuador</option>
+                           
+                                                                                 <option value="6444">Egypt</option>
+                           
+                                                                                 <option value="15913">El Salvador</option>
+                           
+                                                                                 <option value="6434">Germany</option>
+                           
+                                                                                 <option value="15912">Guatemala</option>
+                           
+                                                                                 <option value="6424">India</option>
+                           
+                                                                                 <option value="6423">Indonesia</option>
+                           
+                                                                                 <option value="6442">Kazakhstan</option>
+                           
+                                                                                 <option value="6446">Kenya</option>
+                           
+                                                                                 <option value="6439">Netherlands</option>
+                           
+                                                                                 <option value="6445">Nigeria</option>
+                           
+                                                                                 <option value="6431">Pakistan</option>
+                           
+                                                                                 <option value="6499">Panamá</option>
+                           
+                                                                                 <option value="6584">Peru</option>
+                           
+                                                                                 <option value="6421">Philippines</option>
+                           
+                                                                                 <option value="6435">Poland</option>
+                           
+                                                                                 <option value="6433">Portugal</option>
+                           
+                                                                                 <option value="6436">Romania</option>
+                           
+                                                                                 <option value="6447">South Africa</option>
+                           
+                                                                                 <option value="6443">UAE</option>
+                           
+                                                                                 <option value="6440">Ukraine</option>
+                           
+                                                                                 <option value="16562">Uruguai</option>
+                           
+                                                                                 <option value="6441">Uzbekistan</option>
+                           
+                                          </select>
+                   <input id="countryInput" type="hidden" name="country" value="">
+                   <select id="departmentSelect">
+                     <option value="0" selected>Department</option>
+                                                                                 <option value="10351">Human Resources</option>
+                           
+                                                                                 <option value="10352">Engineering</option>
+                           
+                                                                                 <option value="10354">Customer Support</option>
+                           
+                                                                                 <option value="10355">Marketing and Communications</option>
+                           
+                                                                                 <option value="10356">Product</option>
+                           
+                                                                                 <option value="10357">Finance and Accounting</option>
+                           
+                                                                                 <option value="10358">Data Science and Analytics</option>
+                           
+                                                                                 <option value="10359">Sales</option>
+                           
+                                                                                 <option value="10360">Legal</option>
+                           
+                                                                                 <option value="14133">Logistics and Support Staff</option>
+                           
+                                          </select>
+                   <input id="departmentInput" type="hidden" name="department" value="">
+                   <select id="functionSelect">
+                       <option value="0">Function</option>
+                                          </select>
+                   <select id="professionalSelect">
+                       <option value="0">Professional level</option>
+                                          </select>
+                   <input type="submit" value="search" class="searchBut search-but-2 js-goto-searchMapBut bg-d-purple" >
+               </div>
+           </form>
+       </div>
+   </div>
+   <!-- <div class="bg-l-purple middle border-radius-b-r clearfix">
+       <div class="search-field">
+           <form>
+               <input type="text" class="border-radius-t-l border-radius-b-l fc-purple border-radius-t-r border-radius-b-r">
+               <input type="submit" value="Search" class="search-but bg-d-purple border-radius-t-r border-radius-b-r">
+           </form>
+       </div>
+       <div class="select-inputs">
+           <select id="countrySelect">
+               <option value="0">Country</option>
+               <option value="1" selected>South Africa</option>
+               <option value="2">Germany</option>
+               <option value="3">Argentina</option>
+           </select>
+           <select id="departmentSelect">
+               <option value="0">Department</option>
+               <option value="1">South Africa</option>
+               <option value="2">Germany</option>
+               <option value="3">Argentina</option>
+           </select>
+           <select id="functionSelect">
+               <option value="0">Function</option>
+           </select>
+           <select id="professionalSelect">
+               <option value="0">Professional level</option>
+           </select>
+       </div>
+   </div> -->
+</section>      
+   
+   
+   
+   
+      
+   
+         
+   
+   
+   
+   
+      
+      <section class="linkedin-olx clearfix">
+    <div class="block-1 whole">
+        <div class="top-bar bg-d-blue">
+            <h3 class="fc-white">
+                Your connection with OLX
+            </h3>
+        </div>
+        <div class="linkedin-widget">
+            <script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
+            <script type="IN/CompanyInsider" data-id="167557"></script>
+        </div>
+        <div class="bottom-bar bg-d-blue">
+            <a href="https://www.linkedin.com/company/olx/careers?trk=top_nav_careers" target="_blank" class="fc-white">
+                OLX on LinkedIn<span class="arrow-link"></span>
+            </a>
+        </div>
+    </div>
+</section>   
+   
+        </div>
+            <footer>
+                <div class="shade-on-menu"></div>
+                <div class="footer-wrap">
+                    <div class="footer-top-wrap bg-l-grey clearfix">
+                        <div class="footer-top-content-block clearfix">
+                            <a href="http://www.joinolx.com/home"><img src="http://www.joinolx.com/assets/img/olx-group-logo-trans-1.png" alt="OLX" width="138px;" height="69px;"></a>
+                        </div>
+                        
+                        <div class="footer-top-text-block first clearfix">
+                            <p class="fc-purple">OLX.com</p>
+                            <ul>
+                                                                <li><a href="http://joinOLX.com/">Home</a></li>
+                                                                <li><a href="http://joinOLX.com/this-is-olx">This is OLX</a></li>
+                                                                <li><a href="http://joinOLX.com/working-at-olx">Working at OLX</a></li>
+                                                                <li><a href="http://joinOLX.com/find-a-job">Find a job</a></li>
+                                                                <li><a href="http://joinOLX.com/contact">Contact</a></li>
+                                                                <li><a href="http://joinOLX.com/for-engineers">For engineers</a></li>
+                                                            </ul>
+                        </div>
+                        
+                        <div class="footer-top-text-block clearfix">
+                            <p class="fc-purple">Useful information</p>
+                            <ul>
+                                                                <li><a href="http://joinOLX.com/terms-of-use">Terms of use</a></li>
+                                                                <li><a href="http://joinOLX.com/privacy-statement">Privacy statement</a></li>
+                                                            </ul>
+                        </div>
+                        
+                        <div class="footer-top-text-block last clearfix">
+                            <p class="fc-purple">Other</p>
+                            <ul>
+                                                                <li><a href="http://www.naspers.com/index.html">About Naspers </a></li>
+                                                            </ul>
+                        </div>
+                        
+                        <div class="footer-top-content-block social-icons clearfix">
+                            <a href="https://www.linkedin.com/company/olx/careers?trk=top_nav_careers" target="_blank"><img src="http://www.joinolx.com/assets/img/logo-linkedin.png" alt="OLX" width="34px;" height="34px;"></a>
+                            <!-- a href="https://instagram.com/teamolx/" target="_blank"><img src="http://www.joinolx.com/assets/img/logo-instagram.png" alt="OLX" width="34px;" height="34px;"></a -->
+                        </div>
+
+                        <div class="footer-top-content-block naspers-logo logo-nas clearfix">
+                            <a href="http://www.naspers.com" target="_blank"><img src="http://www.joinolx.com/assets/img/logo-naspers.png" alt="Naspers" width="62px;" height="37px;"></a>
+                        </div>
+                    
+                    </div>
+                    <div class="footer-bottom-wrap">
+                        <p><strong>Copyright &#0169; 2016 OLX</strong></p>
+                    </div>
+                </div>
+            </footer>
+        </div>
+
+        <div id="applyResult"></div>
+        <div id="alertResult"></div>
+
+        <script>window.jQuery || document.write('<script src="http://www.joinolx.com/assets/js/vendor/jquery-2.1.1.min.js"><\/script>')</script>
+		    <script>
+            var base_url      = "http://www.joinolx.com/";
+            var site_url      = "http://www.joinolx.com/";
+            var language_id   = "1";
+            var call_token    = "";
+        </script>
+
+        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <script src="http://www.joinolx.com/assets/js/jquery.ddslick.min.js"></script>
+        <script src="http://www.joinolx.com/assets/js/jquery.fancybox.pack.js" type="text/javascript"></script>
+        <script src="http://www.joinolx.com/assets/js/jquery.flexslider-min.js"></script>
+        <script src="http://www.joinolx.com/assets/js/jquery.multi-select.js" type="text/javascript"></script>
+                <script src="http://www.joinolx.com/assets/js/main.js?v=1470242731"></script>
+
+        
+        
+        
+
+        <script type="text/javascript">
+            var base_url      = "http://www.joinolx.com/";
+            var current_url   = "http://www.joinolx.com/";
+            var call_url      = "https://api.linkedin.com/v1/people/~:(first-name,last-name,email-address,skills,educations,public-profile-url,location,positions,summary,specialties)";
+            var auth_url      = "https://www.linkedin.com/uas/oauth2/authorization";
+            var job_id        = "";
+
+            
+
+            $(document).ready(function() {
+
+                window.oAuth2_call = function()
+                {
+                    var jso = new JSO({
+                        providerID: "linkedin",
+                        client_id: "77468y1cbyui2p",
+                        redirect_uri: "http://localhost",
+                        authorization: auth_url,
+//                        scopes: { request: [call_url]}
+                    });
+
+                    JSO.enablejQuery($);
+
+                    jso.ajax({
+                       url: call_url,
+                        data: {client_id: "77468y1cbyui2p", redirect_uri: 'http://stage.olx.tjuna.com', state: 'xxzzyy' },
+                        oauth:
+                                {
+//                                    scopes:
+//                                            {
+//                                                request: [call_url],
+//                                                require: [call_url]
+//                                            }
+                                },
+                        dataType: 'json',
+                        success: function(data){
+                            console.log("Response YES");
+                            console.log(data);
+                        }
+                    });
+                };
+
+
+            window.liAuth = function()
+            {
+                    //oAuth2_call();
+
+//                    IN.User.authorize(function(){
+//                        onLinkedInLoad();
+//                    });
+
+            };
+            // Setup an event listener to make an API call once auth is complete
+            window.onLinkedInLoad = function() {
+                IN.Event.on(IN, "auth", getProfileData);
+            };
+
+            // Handle the successful return from the API call
+            window.onSuccess = function(data) {
+                console.log(data);
+                var resumeText = data['firstName'] + " " + data['lastName'] + "\n" +
+                        data['location']['name'] +
+                        "\n" +
+                        data['positions']['values'][0]['title']+ " at "+ data['positions']['values'][0]['company']['name'] +
+                        "\n \n" +
+
+                        "-------------------\n" +
+                        "Summary" +
+                        "\n \n" +
+                        data['summary'] +
+                        "\n \n" +
+
+                        "-------------------\n" +
+                        "Experience" +
+                        "\n \n";
+
+                for(index = 0; index < data['positions']['_total']; index++)
+                {
+                    resumeText += "-"+data['positions']['values'][index]['title'] +
+                    " at " +
+                    data['positions']['values'][index]['company']['name'] +
+                    "\n";
+
+                    if(data['positions']['values'][index]['startDate']['month'])
+                        resumeText += prepend_zero(data['positions']['values'][index]['startDate']['month']) + "/";
+
+                    resumeText += data['positions']['values'][index]['startDate']['year'] + " - ";
+
+                    if(data['positions']['values'][index]['isCurrent'])
+                    {
+                        resumeText += "Present \n";
+                    }
+                    else
+                    {
+                        if(data['positions']['values'][index]['endDate']['month'])
+                            resumeText += prepend_zero(data['positions']['values'][index]['endDate']['month']) + "/";
+
+                        resumeText += data['positions']['values'][index]['endDate']['year'] + "\n";
+                    }
+
+                    if(data['positions']['values'][index]['summary'])
+                        resumeText += data['positions']['values'][index]['summary'] + "\n";
+
+                    resumeText += "\n"
+
+                }
+
+                resumeText +="-------------------\n"
+                +"Education"
+                +"\n \n";
+
+                for(index = 0; index < data['educations']['_total']; index++)
+                {
+                    resumeText += data['educations']['values'][index]['schoolName'];
+                    if(data['educations']['values'][index]['degree'])
+                        resumeText += "\n"+data['educations']['values'][index]['degree'];
+
+                    if(data['educations']['values'][index]['fieldOfStudy'])
+                        resumeText += ", " + data['educations']['values'][index]['fieldOfStudy'];
+
+                    resumeText += "\n"+data['educations']['values'][index]['startDate']['year'] + " - " + data['educations']['values'][index]['endDate']['year'] + "\n \n";
+                }
+
+
+                $("#first-name").val(data['firstName']);
+                $("#last-name").val(data['lastName']);
+                $("#form-email").val(data['emailAddress']);
+                $("#form-resume").val(resumeText);
+                $("#form-resume").show();
+                $("#linkedin-profile").val(data['publicProfileUrl']);
+
+            }
+
+
+
+
+            // Handle an error response from the API call
+            window.onError = function(error) {
+                console.log(error);
+            }
+
+            // Use the API call wrapper to request the member's profile data
+            window.getProfileData = function() {
+                IN.API.Raw("/people/~:(first-name,last-name,email-address,skills,educations,public-profile-url,location,positions,summary,specialties)")
+                        .result(onSuccess).error(onError);
+            }
+
+            });
+            
+        </script>
+
+        <script type="text/javascript">
+        
+          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+          })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+          ga('create', 'UA-69458695-1', 'auto');
+          ga('send', 'pageview');
+        
+        </script>
+
+
+            <script type="text/javascript">
+                $('#popup-modal, #closeApply').click( function(){
+                    closeOverlay();
+                });
+
+            </script>
+    </body>
+</html>

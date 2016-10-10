@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="es-ES" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="es-ES" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if !(IE 7) & !(IE 8)]><!-->
+<html lang="es-ES" prefix="og: http://ogp.me/ns#">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	<title>Bulldog Frances &bull; Un perro de moda desde hace más de 100 años</title>
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://www.bulldogfrances.com/xmlrpc.php">
+	<!--[if lt IE 9]>
+	<script src="http://www.bulldogfrances.com/wp-content/themes/twentythirteen/js/html5.js"></script>
+	<![endif]-->
+	
+<!-- This site is optimized with the Yoast SEO plugin v3.5 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://www.bulldogfrances.com/" />
+<meta property="og:locale" content="es_ES" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Bulldog Frances &bull; Un perro de moda desde hace más de 100 años" />
+<meta property="og:description" content="El Bulldog francés ha disfrutado de una larga historia como un compañero ideal. Creado en Inglaterra para ser un dogo miniatura, acompañó confeccionistas y costureras a Francia, donde adquirió su apodo Frenchie. El Bulldog Francés es una raza de perro muy buscado, por lo que un criador responsable tendrá en lista de espera muchos clientes &hellip; Seguir leyendo Bulldog Francés &rarr;" />
+<meta property="og:url" content="http://www.bulldogfrances.com/" />
+<meta property="og:site_name" content="Bulldog Frances" />
+<meta property="og:image" content="http://www.bulldogfrances.com/wp-content/uploads/2016/07/bulldog4-300x186.jpg" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="El Bulldog francés ha disfrutado de una larga historia como un compañero ideal. Creado en Inglaterra para ser un dogo miniatura, acompañó confeccionistas y costureras a Francia, donde adquirió su apodo Frenchie. El Bulldog Francés es una raza de perro muy buscado, por lo que un criador responsable tendrá en lista de espera muchos clientes &hellip; Seguir leyendo Bulldog Francés &rarr;" />
+<meta name="twitter:title" content="Bulldog Frances &bull; Un perro de moda desde hace más de 100 años" />
+<meta name="twitter:image" content="http://www.bulldogfrances.com/wp-content/uploads/2016/07/bulldog4-300x186.jpg" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/www.bulldogfrances.com\/","name":"Bulldog Frances","potentialAction":{"@type":"SearchAction","target":"http:\/\/www.bulldogfrances.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Bulldog Frances &raquo; Feed" href="http://www.bulldogfrances.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Bulldog Frances &raquo; RSS de los comentarios" href="http://www.bulldogfrances.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Bulldog Frances &raquo; Bulldog Francés RSS de los comentarios" href="http://www.bulldogfrances.com/bulldog-frances/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.bulldogfrances.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.6.1"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='cookielawinfo-style-css'  href='http://www.bulldogfrances.com/wp-content/plugins/cookie-law-info/css/cli-style.css?ver=1.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='twentythirteen-fonts-css'  href='https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A300%2C400%2C700%2C300italic%2C400italic%2C700italic%7CBitter%3A400%2C700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='http://www.bulldogfrances.com/wp-content/themes/twentythirteen/genericons/genericons.css?ver=3.03' type='text/css' media='all' />
+<link rel='stylesheet' id='twentythirteen-style-css'  href='http://www.bulldogfrances.com/wp-content/themes/twentythirteen/style.css?ver=2013-07-18' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentythirteen-ie-css'  href='http://www.bulldogfrances.com/wp-content/themes/twentythirteen/css/ie.css?ver=2013-07-18' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='__EPYT__style-css'  href='http://www.bulldogfrances.com/wp-content/plugins/youtube-embed-plus/styles/ytprefs.min.css?ver=4.6.1' type='text/css' media='all' />
+<style id='__EPYT__style-inline-css' type='text/css'>
+
+                .epyt-gallery-thumb {
+                        width: 33.333%;
+                }
+</style>
+<script type='text/javascript' src='http://www.bulldogfrances.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.bulldogfrances.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://www.bulldogfrances.com/wp-content/plugins/cookie-law-info/js/cookielawinfo.js?ver=1.5.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _EPYT_ = {"ajaxurl":"http:\/\/www.bulldogfrances.com\/wp-admin\/admin-ajax.php","security":"9372b70073","gallery_scrolloffset":"20","eppathtoscripts":"http:\/\/www.bulldogfrances.com\/wp-content\/plugins\/youtube-embed-plus\/scripts\/","epresponsiveselector":"[\"iframe.__youtube_prefs_widget__\"]","epdovol":"1","version":"11.4","evselector":"iframe.__youtube_prefs__[src], iframe[src*=\"youtube.com\/embed\/\"], iframe[src*=\"youtube-nocookie.com\/embed\/\"]"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.bulldogfrances.com/wp-content/plugins/youtube-embed-plus/scripts/ytprefs.min.js?ver=4.6.1'></script>
+<link rel='https://api.w.org/' href='http://www.bulldogfrances.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.bulldogfrances.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.bulldogfrances.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.6.1" />
+<link rel='shortlink' href='http://www.bulldogfrances.com/' />
+<link rel="alternate" type="application/json+oembed" href="http://www.bulldogfrances.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.bulldogfrances.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.bulldogfrances.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.bulldogfrances.com%2F&#038;format=xml" />
+	<style type="text/css" id="twentythirteen-header-css">
+			.site-header {
+			background: url(http://www.bulldogfrances.com/wp-content/uploads/2016/07/cropped-Bulldog-cara.jpg) no-repeat scroll top;
+			background-size: 1600px auto;
+		}
+		@media (max-width: 767px) {
+			.site-header {
+				background-size: 768px auto;
+			}
+		}
+		@media (max-width: 359px) {
+			.site-header {
+				background-size: 360px auto;
+			}
+		}
+		</style>
+	<link rel="icon" href="http://www.bulldogfrances.com/wp-content/uploads/2016/08/cropped-Bulldog-Francés-Terminator-27-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="http://www.bulldogfrances.com/wp-content/uploads/2016/08/cropped-Bulldog-Francés-Terminator-27-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://www.bulldogfrances.com/wp-content/uploads/2016/08/cropped-Bulldog-Francés-Terminator-27-180x180.jpg" />
+<meta name="msapplication-TileImage" content="http://www.bulldogfrances.com/wp-content/uploads/2016/08/cropped-Bulldog-Francés-Terminator-27-270x270.jpg" />
+</head>
+
+<body class="home page page-id-2 page-template-default single-author no-avatars">
+	<div id="page" class="hfeed site">
+		<header id="masthead" class="site-header" role="banner">
+			<a class="home-link" href="http://www.bulldogfrances.com/" title="Bulldog Frances" rel="home">
+				<font size="6" font color="white" ><strong>Bulldog Frances</strong></font>
+<br>
+<font size="5"><i></i></font>
+</a>
+
+
+			
+		</header><!-- #masthead -->
+
+		<div id="main" class="site-main">
+
+	<div id="primary" class="content-area">
+		<div id="content" class="site-content" role="main">
+
+						
+				<article id="post-2" class="post-2 page type-page status-publish hentry">
+					<header class="entry-header">
+						
+						<h1 class="entry-title">Bulldog Francés</h1>
+					</header><!-- .entry-header -->
+
+					<div class="entry-content">
+						<p>El <strong>Bulldog francés</strong> ha disfrutado de una larga historia como un compañero ideal. Creado en Inglaterra para ser un dogo miniatura, acompañó confeccionistas y costureras a Francia, donde adquirió su apodo Frenchie.</p>
+<p>El <a title="bulldog frances" href="http://www.bulldogfrances.com.ar/">Bulldog Francés es una raza de perro muy buscado</a>, por lo que un criador responsable tendrá en lista de espera muchos clientes deseosos de adquirir uno de sus cachorros.</p>
+<p><strong>¿ Interesado en comprar un Bulldog Francés ? WhatsApp +54 11 9 6991 5721</strong></p>
+<p>Características de la raza bulldog frances:</p>
+<h2>El Bulldog Francés ideal para principiantes</h2>
+<p>Algunos perros son simplemente más fáciles de mantener que otros: las que adopten para la formación mejor y son bastante tolerante.</p>
+<p>También son lo suficientemente resistente como para recuperarse de sus errores o inconsistencias. Los perros que están pensando muy sensible, independiente, o asertivo puede ser más difícil para el propietario de un primer tiempo de manejar. Tendrá su mejor partido si te tomas tu experiencia propietarias de perro en cuenta al elegir su nuevo perro.</p>
+<p>Nivel de Sensibilidad</p>
+<p>Algunos perros se deje una severa reprimenda salen de la espalda, mientras que otros toman incluso un aspecto sucio a pecho. perros de baja sensibilidad, también llamados &#8220;tolerante&#8221;, &#8220;tolerancia&#8221;, &#8220;resistente&#8221;, e incluso &#8220;piel gruesa&#8221;, puede manejar mejor un hogar ruidoso caótico, dueño de un más alto o más asertivo, y una rutina inconsistente o variable. No tienes hijos pequeños, lanzar un montón de partidos de la cena, jugar en una banda de garaje, o llevar una vida agitada? Ir con un perro de baja sensibilidad.</p>
+<h2>Espacio que necesita el Bulldog Francés</h2>
+<blockquote><p>Se adapta bien a apartamentos y espacios pequeños.</p></blockquote>
+<p>Contrariamente a la creencia popular, perros de tamaño pequeño no necesariamente soportan espacios pequeños para vivir. Muchos perros pequeños son de alta energía y ladradores para la vida en un departamento.</p>
+<p>Estar tranquilo, tener un consumo bajo de energía, mantener buena sociabilidad en espacios limitados, son todas buenas cualidades en un perro de departamento.</p>
+<p>&nbsp;</p>
+<h2>El Bulldog Francés no tolera la soledad</h2>
+<p>El Bulldog Francés gusta de estar muy cerca de su familia y es propenso a preocuparse, sufrir ansiedad e incluso entrar pánico cuando se queda solo en algún sitio.</p>
+<p>Un perro ansioso puede ser muy destructivo, ladrar mucho, gemir, aullar, mascar lo que encuentre y por lo general causar un caos.</p>
+<p>Esta raza de perro, como otras similares, se desarrollan mejor cuando un miembro de la familia está en forma permanente en el hogar durante el día o si se puede llevar al perro cuando se sale de casa.</p>
+<p>Tolerancia a clima frío</p>
+<p>Las razas con capas muy cortas y poca o ninguna capa intermedia o de la grasa corporal, tales como los galgos, son vulnerables al frío. Los perros con una baja tolerancia al frío que tenga que vivir en el interior en climas fríos y deben tener una chaqueta o un suéter para paseos frías.</p>
+<p>Tolerancia a climas calurosos</p>
+<p>Los perros con gruesas capas dobles, son más vulnerables al sobrecalentamiento. Así son las razas de nariz corta, como Bulldogs o amasados, ya que no pueden jadear también para refrescarse apagado. Si desea una raza sensible al calor, el perro tendrá que quedarse en casa con usted en los días cálidos o húmedos, y tendrás que ser muy prudentes sobre el ejercicio de su perro en el calor.</p>
+<iframe  id="_ytid_69789" width="604" height="340" src="https://www.youtube.com/embed/iEucllybH4s?enablejsapi=1&autoplay=0&cc_load_policy=0&iv_load_policy=1&loop=0&modestbranding=0&rel=1&showinfo=1&playsinline=0&autohide=2&theme=dark&color=red&wmode=opaque&vq=&controls=2&" frameborder="0" class="__youtube_prefs__" allowfullscreen data-no-lazy="1"></iframe>
+<h2>El Bulldog Francés es afectuoso con la familia</h2>
+<p>Algunas razas son independientes y distante, incluso si han sido criados por la misma persona desde la etapa de cachorro; otros bonos de cerca a una persona y son indiferentes a todos los demás; y algunas de ducha toda la familia con afecto. Raza no es el único factor que entra en los niveles de afecto; los perros que fueron criados dentro de una casa con la gente alrededor se sienten más cómodos con los seres humanos y los bonos con mayor facilidad.</p>
+<p><strong>Excelente compañero de los niños</strong></p>
+<p>Ser amable con los niños, lo suficientemente resistente para soportar los animales domésticos y los abrazos de mano dura que puede servir hacia fuera, y tener una actitud indiferente hacia consecutivo, los niños gritando son todas las características que hacen a un perro amigable para los niños. Usted puede ser sorprendido por quién está en esa lista: los boxeadores de aspecto feroz se considera bueno con los niños, ya que son terrieres de Staffordshire americano (también conocido como pitbulls). Los perros pequeños, delicados, y potencialmente ágil como chihuahuas no son tan familiares para los niños.</p>
+<p>** Todos los perros son los individuos. Nuestras puntuaciones son generalizaciones, y no son una garantía de cómo se comportarán de cualquier raza o perro individual. Los perros de cualquier raza puede ser bueno con los niños sobre la base de sus experiencias pasadas, formación sobre cómo llevarse bien con los niños , y de la personalidad. No importa cuál sea la raza o el tipo de raza, todos los perros tienen fuertes mandíbulas, dientes puntiagudos afilados y pueden morder en circunstancias estresantes. Los niños pequeños y los perros de cualquier raza siempre deben ser supervisados por un adulto y no se apartaban solos, y punto</p>
+<p>Se admiten perros en</p>
+<p>Amistad hacia los perros y amabilidad hacia los seres humanos son dos cosas completamente diferentes. Algunos perros pueden atacar o tratar de dominar a otros perros aunque sean de amor-bugs con la gente; otros prefieren jugar de luchar; y algunos la vuelta y correr. Raza no es el único factor; perros que vivían con sus compañeros de camada y su madre hasta por lo menos 6 a 8 semanas de edad, y que pasado mucho tiempo jugando con otros perros durante la etapa de cachorro, son más propensos a tener buenas habilidades sociales caninos .</p>
+<p>Amigable con los extraños</p>
+<p>perros extraños con niños recibirá a los clientes con una cola que mueve y un nuzzle; otros son tímidos, indiferente, o incluso agresivo. Sin embargo, cualquiera que sea la raza, un perro que fue expuesto a una gran cantidad de diferentes tipos, edades, tamaños y formas de las personas como un cachorro responderán mejor a los extraños como un adulto.</p>
+<p>salud y estética</p>
+<p>Si usted va a compartir su casa con un perro, tendrá que hacer frente a un cierto nivel de pelo de perro en su ropa y en su casa. Sin embargo, derramamiento varía mucho entre las razas: Algunos perros arrojan durante todo el año, un poco de &#8220;golpe&#8221; estacionalmente &#8211; producir una tormenta de nieve del pelo suelto &#8211; algunos lo tanto, y algunos arrojan casi nada. Si usted es un neatnik tendrá que o bien elegir una raza de bajo vertimiento, o relajar los estándares.</p>
+<p>Babeo potencial</p>
+<p>Cae la baba-propensas perros pueden cubrir cuerdas de baba en el brazo y dejar grandes manchas húmedas, en su ropa cuando vienen a saludar. Si usted tiene una actitud relajada hacia la baba, bien; pero si usted es un neatnik, es posible que desee elegir un perro que un bajo nivel en el departamento de baba.</p>
+<p>Fácil de preparar</p>
+<p>Algunas razas de perros son cepillo-and-go; otros requieren el baño regular, recorte, y otra de aseo sólo para mantenerse limpio y saludable. Tenga en cuenta si usted tiene el tiempo y la paciencia de un perro que necesita mucha preparación, o el dinero para pagar a alguien más para hacerlo.</p>
+<p>General de Salud</p>
+<p>Debido a las prácticas de cría pobres, algunas razas son propensas a ciertos problemas de salud genética, tales como displasia de cadera. Esto no quiere decir que todos los perros de raza que va a desarrollar esas enfermedades; sólo significa que están en un mayor riesgo. Si va a comprar un cachorro, es una buena idea para saber qué enfermedades genéticas son comunes a la raza que le interesa, por lo que puede pedir el criador acerca de la salud física de los padres de su potencial de las crías y otros familiares.</p>
+<p>Potencial para el aumento de peso</p>
+<p>Algunas razas tienen buen apetito y tienden a aumentar de peso con facilidad. Al igual que en los seres humanos, el exceso de peso puede causar problemas de salud en los perros. Si usted escoge una raza que es propenso a embalar en libras, que necesita para limitar golosinas, asegurarse de que obtiene suficiente ejercicio, y medir a cabo su croqueta a diario en las comidas regulares en lugar de dejar la comida fuera todo el tiempo.</p>
+<p>Tamaño</p>
+<p>Los perros vienen en todos los tamaños, desde cachorro más pequeño del mundo, el Chihuahua, a la torre de gran danés, cuánto espacio ocupa un perro es un factor clave para decidir si es compatible con usted y su espacio de vida. razas de perros grandes pueden parecer abrumadora e intimidante, pero algunos de ellos son increíblemente dulce! Echar un vistazo y encontrar el perro de gran tamaño adecuado para usted!<br />
+Fácil de entrenar</p>
+<p>Fáciles de entrenar a los perros son más expertos en la formación de una asociación entre el símbolo (por ejemplo, la palabra &#8220;sentarse&#8221;), una acción (sentado), y una consecuencia (conseguir un regalo) muy rápidamente. Otros perros necesitan más tiempo, paciencia y repetición durante el entrenamiento. Muchas razas son el entrenamiento inteligente, pero con un enfoque de &#8220;¿Qué hay en ella para mí?&#8221; actitud, en cuyo caso se tendrá que utilizar recompensas y juegos para enseñar a querer cumplir con sus peticiones.</p>
+<p>Inteligencia</p>
+<p>Los perros que fueron criados para trabajos que requieren la toma de decisiones, la inteligencia y la concentración, tales como el pastoreo de ganado, tienen que ejercer su cerebro, al igual que los perros que fueron criados para correr todo el día necesidad de ejercer sus cuerpos. Si ellos no reciben la estimulación mental que necesitan, van a hacer su propio trabajo &#8211; por lo general con los proyectos que no se desee, como la excavación y la masticación. El entrenamiento de obediencia y juguetes para perros interactivos son buenas maneras de dar a un perro un entrenamiento del cerebro, al igual que los deportes del perro y las carreras, como la agilidad y búsqueda y rescate.</p>
+<p>Mordedor de cosas ?</p>
+<p>Común en la mayoría de las razas durante la etapa de cachorro y en las razas retriever en todas las edades, mouthiness significa una tendencia a cortar, masticar, y jugar por mordedura (un bocado suave, bastante indoloro que no se perfora la piel). mouthy perros son más propensos a usar sus bocas para sostener o &#8220;manada&#8221; de sus miembros de la familia humana, y necesitan entrenamiento para aprender que está bien para roer en juguetes para masticar, pero no en las personas. razas mouthy tienden a disfrutar realmente un juego de buscar, así como una buena masticar un hueso de juguete que ha sido rellena con croquetas y golosinas.</p>
+<p>El instinto de presa</p>
+<p>Los perros que fueron criados para cazar, como los terriers, tienen un deseo innato de perseguir y, a veces matar a otros animales. Cualquier cosa zumbando por &#8211; gatos, ardillas, tal vez incluso coches &#8211; puede provocar que el instinto. Perros que les gusta perseguir deben ir con correa o se mantiene en un área cercada cuando al aire libre, y usted necesitará una valla alta, seguro en su patio. Estas razas generalmente no son una buena opción para los hogares con animales domésticos más pequeños que pueden verse como una presa, como los gatos, hámsteres o perros pequeños. Las razas que se utilizaron originalmente para la caza de aves, por otro lado, generalmente no perseguir, pero es probable que tenga dificultades para conseguir su atención cuando hay aves que vuelan cerca.</p>
+<p>Tendencia a la corteza o Aullido</p>
+<p>Algunas razas suenan sale con más frecuencia que otros. Al elegir una raza, pensar en cómo el perro vocaliza &#8211; con ladridos o aullidos &#8211; y con qué frecuencia. Si usted está considerando un perro, le encontrar su marca comercial aúlla musical o enloquecedor? Si estás pensando en un organismo de control, será una ciudad llena de &#8220;extraños&#8221; sospechosas lo puso en estado de alerta permanente? Será la fauna local conducir, literalmente, su salvaje perro? ¿Usted vive en viviendas con restricciones de ruido? ¿Tiene vecinos cerca?</p>
+<p>Vagante empedernido ?</p>
+<p>Algunas razas son más de espíritu libre que otros. perros nórdicos, como los perros esquimales siberianos fueron criados para variar largas distancias, y se les da la oportunidad, van a tomar después de todo lo que capta su interés. Y muchos perros simplemente deben seguir sus narices, o ese conejito que acaba de ejecutar a través de la ruta, incluso si esto significa dejarte atrás.</p>
+<p>Necesidades de ejercicio Nivel de Energía</p>
+<p>perros de alta energía son siempre listo y en espera de la acción. Criado originalmente para llevar a cabo un trabajo canino de algún tipo, como recuperar el juego para los cazadores o el pastoreo de ganado, tienen la energía para poner en un día completo de trabajo. Ellos necesitan una cantidad significativa de ejercicio y la estimulación mental, y son más propensos a pasar tiempo de saltar, jugar, y la investigación de nuevas vistas y olores. perros de bajo consumo energético son el equivalente canino de un adicto a la televisión, el contenido de dormitar todo el día. Al escoger una raza, tenga en cuenta su propio nivel de actividad y estilo de vida, y pensar si encontrará un perro juguetón, lleno de energía vigorizante o molesto.</p>
+<p>Ver los perros que tienen baja energía</p>
+<p>Intensidad<br />
+Un perro vigoroso puede o no ser de alta energía, pero todo lo que hace, lo hace con vigor: el se esfuerza en la correa (hasta que lo entrena no), trata de abrirse paso a través de obstáculos, e incluso come y bebe con gran grande tragos. Estos dínamos necesitan mucho entrenamiento para aprender buenos modales, y pueden no ser la mejor opción para un hogar con niños pequeños o alguien que es de edad avanzada o frágil. Un perro de bajo vigor, por el contrario, tiene un enfoque más moderado a la vida.</p>
+<p>Ver los perros con baja intensidad</p>
+<p>Necesidades del ejercicio</p>
+<p>Algunas razas les va bien con un lento paseo por la noche alrededor de la manzana. Otros necesitan todos los días, el ejercicio vigoroso &#8211; especialmente aquellos que fueron criados originalmente para trabajos físicamente exigentes, tales como el pastoreo o la caza. Sin suficiente ejercicio, estas razas pueden poner en peso y descargar su energía reprimida de manera que no me gusta, como ladrar, masticar y cavar. Las razas que necesitan mucho ejercicio son buenos para personas activas, actividades al aire libre, o aquellos interesados en la formación de su perro para competir en un deporte del perro de alta energía, tales como la agilidad.</p>
+<p>Lo lúdico potencial para</p>
+<p>Algunos perros son cachorros perpetuos &#8211; siempre pidiendo un juego &#8211; mientras que otros son más graves y tranquilo. A pesar de que un cachorro juguetón suena simpático, tenga en cuenta la cantidad de juegos de fetch o etiqueta que desea jugar todos los días, y si usted tiene hijos u otros perros que puede interponerse en compañeros de juego como para el perro.</p>
+<p>Ver los perros que son menos de Playfull</p>
+<p>Estadísticas vitales:</p>
+<p>Grupo de perros: perros de compañía<br />
+Altura: 11 pulgadas a 1 pie alto en el hombro<br />
+Peso: 16 a 28 libras<br />
+Duración de la vida: 11 a 14 años<br />
+Orejas de murciélago pero extrañamente hermoso, el Bulldog Francés tiene un atractivo único. Estéticamente, otras razas sin lugar a dudas son más atractivo y llamativo, pero la belleza está en el ojo del espectador y he aquí lo que muchos en el Bulldog Francés son los atributos que hacen de esta raza uno de los mejores perros de compañía en el mundo de hoy.</p>
+<p>El Bulldog Francés es pequeño pero sustancial en la estructura con un cuerpo muscular de gran alcance. Él usa un abrigo corto de fácil cuidado para acompañar a su personalidad tolerante. El Frenchie le gusta jugar, pero también le gusta pasar sus días descansando en el sofá.</p>
+<p>Ese amor por el juego y la actitud relajada llevan más en sus sesiones de entrenamiento. Bulldogs franceses son inteligentes, y la formación de ellos es fácil siempre que usted lo hace parecer como un juego y mantenerlo divertido. Son pensadores libres y no son una raza ideal para competir en la obediencia o agilidad aunque algunos han aceptado el reto. Este enfoque libre pensamiento también puede conducir a un carácter obstinado, y si deciden que cavar en sus talones no hay budging ellos.</p>
+<p>Frenchies son amorosos compañeros que prosperan en el contacto humano. Si quieres un perro al aire libre que puede ser dejado solo por largos períodos de tiempo, el Frenchie no es la raza para usted. Este es un perro que disfruta de prodigar amor en sus compañeros humanos tanto como él ama el mismo tratamiento a cambio. Por lo general se llevan bien con todo el mundo, incluyendo a los niños. Pueden, sin embargo, ser territorial y posesiva de su población, especialmente en presencia de otros perros. La socialización es una necesidad para esta raza, pero con su fácil compañía esta es una tarea agradable.</p>
+<p>Con una naturaleza que es a la vez divertida y traviesa, el Bulldog Francés tiene que vivir con alguien que es coherente, firme y paciente con todas las travesuras y la idiosincrasia que lo hacen tanto frustrante y deliciosa.</p>
+<p>Bulldogs franceses son excelentes perros guardianes y alertarán a su gente a acercarse a extraños, pero no es su estilo a ladrar sin motivo. Pueden ser de protección de su hogar y su familia y algunos tratarán de defender tanto con su vida.</p>
+<p>Bulldogs franceses no necesitan mucho espacio y lo hacen muy bien en apartamentos o viviendas pequeñas. Un par de 15 minutos camina por día debe evitar que el exceso de peso. Mantenga el Frenchie en lugares frescos y cómodos. Es susceptibles al agotamiento por calor y necesita un ambiente con aire acondicionado. Esto no es un perro que puede quedarse fuera en un día caluroso.</p>
+<p>Bulldogs franceses son maravillosos perros de compañía con un carácter amable. Si se trabaja en casa, el Frenchie está feliz de estar a tus pies todo el día o te sigue de una habitación a otra. Las personas que los aman los describen como bolas de goof traviesos y no pueden imaginar la vida sin ellos. Ellos son una presencia constante, y ellos te aman con toda la fuerza de sus cuerpos pequeños, tiempo demostrando una y otra vez que la belleza está en el interior.</p>
+<p>Reflejos</p>
+<p>Bulldogs franceses no necesitan una gran cantidad de ejercicio, sino que necesitan paseos diarios para mantenerlos en un peso saludable.<br />
+Bulldogs franceses no manejan muy bien el calor y deben ser supervisados en los días calurosos para asegurarse de que no se sobre sí mismos.<br />
+Bulldogs franceses pueden ser fáciles de entrenar, pero también pueden ser terco. Sea firme y paciente cuando la formación de esta raza.<br />
+Si el valor de la limpieza del Bulldog Francés puede que no sea el perro para usted, ya que es propenso a babear, flatulencia y algunos derramamiento. También puede ser difícil de housetrain .<br />
+Bulldogs franceses pueden ser una raza tranquila y no se conoce como una raza que ladra mucho, aunque hay excepciones a la regla.<br />
+Debido a que no tienden a ser pregoneros excesivas, bulldogs franceses hacen excepcionales perros del apartamento.<br />
+Aunque es importante supervisar a los niños pequeños siempre y perros cuando están juntos, el Bulldog Francés hace muy bien con los niños.<br />
+Bulldogs franceses hacen perros guardianes maravillosos, pero pueden llegar a ser territoriales. También les gusta ser el centro de atención, lo que puede conducir a problemas de comportamiento si son consentidos.<br />
+Bulldogs franceses son perros de compañía y prosperan cuando tienen contacto humano. No son una raza que se puede dejar solos por largos períodos de tiempo o se deja fuera a vivir.<br />
+Para conseguir un perro sano, nunca compre un cachorro de un criador irresponsable, fábrica de cachorros, o tienda de mascotas.</p>
+<p>&nbsp;</p>
+<p>tamaño</p>
+<p>En general, un Bulldog Francés es alrededor de 11 a 12 pulgadas de alto. Los machos pesan de 20 a 28 libras, hembras de 16 a 24 libras.</p>
+<p>Personalidad</p>
+<p>Este es un perro inteligente, amoroso que quiere y tiene que pasar mucho tiempo con su pueblo. Un librepensador amante de la diversión, el Bulldog Francés lleva así a la formación cuando se hace de manera positiva con una gran cantidad de recompensas de comida, alabanza, y el juego.</p>
+<p><strong><a href="/bulldog-frances-salud-cuidados/">Salud y Cuidados del Bulldog Frances</a></strong></p>
+<p>Los Bulldog frances no necesitan una gran cantidad de ejercicio . Tienen niveles de energía relativamente bajos, aunque hay excepciones a la regla. Para mantener su peso, sin embargo, necesitan ejercicio diario a través de paseos cortos o tiempos de juego en el patio.</p>
+<p>Muchos bulldog frances disfrutan jugando y se pasan gran parte de su tiempo en diversas actividades, pero no son tan alta energía que necesitan un gran patio o largos períodos de ejercicio. Esta raza es propensa al agotamiento por calor y no debe ser ejercido en altas temperaturas. Límite de paseos y juegos activos se enfríe mañanas y las tardes.</p>
+<p>Cuando la formación de un Bulldog francés, tener en cuenta que a pesar de que son inteligentes y por lo general con ganas de agradar, que son también pensadores libres. Esto significa que pueden ser terco. Muchas técnicas de entrenamiento diferentes tienen éxito con esta raza, por lo que no se dio por vencido si un determinado método no funciona; sólo tratar de una técnica diferente. Para despertar su interés de Frenchie, tratar de hacer el entrenamiento parece como un juego con un montón de diversión y premios.</p>
+<p>Es importante tener en tren del cajón su perrito del dogo francés, incluso si va a darle la libertad de la casa cuando llega a la edad adulta. Independientemente de la raza, los cachorros exploran, entrar en cosas que no deberían, y masticar cosas que pueden dañar a ellos. Puede ser costoso tanto para reparar o reemplazar los bienes destruidos y para pagar las facturas del veterinario que podrían surgir, por lo que el entrenamiento del cajón beneficia a su cartera y su temperamento, así como el bienestar de su cachorro.</p>
+<p>Alimentación</p>
+<p>cantidad recomendada diaria: 1 a 1,5 tazas de alimento seco de alta calidad al día, dividida en dos comidas.</p>
+<p>NOTA: ¿Cuánto come su perro adulto depende de su tamaño, edad, estructura, metabolismo y nivel de actividad. Los perros son los individuos, como las personas, y no todos necesitan la misma cantidad de alimento. Casi no hace falta decir que un perro de gran actividad necesitará más de un perro teleadicto. La calidad de la comida para perros de comprar también hace una diferencia &#8211; el mejor la comida para perros, cuanto más lejos se destinará a alimentar a su perro y menos de él se puede tener que agitar en un tazón de su perro.</p>
+<p>Para más información sobre la alimentación de su Frenchie, ver nuestras directrices para la compra de la comida adecuada , la alimentación de su cachorro , y alimentar a su perro adulto</p>
+<p>.</p>
+<p>Capa de color y Aseo</p>
+<p>El pelaje del Bulldog Francés es corto, liso, brillante y fina. La piel es floja y arrugada, especialmente en la cabeza y los hombros, y tiene una textura suave.</p>
+<p>Bulldogs franceses vienen en una variedad de colores, incluyendo beige, crema, varias tonalidades de atigrado &#8211; una capa modelada con motas y franjas de luz y manchas oscuras &#8211; como atigrado negro y el atigrado tigre sorprendente, y atigrado y blanco, conocido como atigrado de varios colores. Bulldogs franceses pueden ser de cualquier color excepto negro sólido, hígado (un sólido de color marrón rojizo con pigmentación marrón en los labios y la nariz), ratón (un gris acero ligero), y negro con blanco o de color canela.</p>
+<p>Ejecutar desde cualquier criador que le dice que un color en particular es rara y por lo tanto un valor de más dinero. Por el contrario, recuerda que no se puede simplemente pedir hasta un cachorro de un color y de género en particular. Tener su corazón puesto en una hembra leonado es una receta para la decepción cuando la camada contiene sólo la crema y los machos atigrados.</p>
+<p>Bulldogs franceses son bastante fácil de preparar y sólo necesitan un ocasional cepillado para mantener su pelo sano. Son excretores promedio. Comenzará la preparación de su Frenchie a una edad temprana y enseñar a su cachorro de pie sobre una mesa o en el suelo para hacer esta experiencia más fácil para los dos. Cuando usted está preparando a su Frenchie en cualquier etapa de la vida, tomar el tiempo para comprobar si hay costras, lesiones en la piel, manchas desnudas, áspera, piel escamosa, o signos de infección. También debe comprobar las orejas, los ojos y los dientes para cualquier descarga o malos olores. Ambos son signos de que su Frenchie deben ver al veterinario.</p>
+<p>oídos limpios regularmente con un paño húmedo y cálido corren un hisopo de algodón alrededor del borde del canal. Nunca introduzca el hisopo de algodón en el conducto auditivo real. Si los bordes de las orejas son seca, aplicar mineral o aceite de bebé con moderación. El aceite también se puede utilizar en una nariz seca.</p>
+<p>Bulldogs franceses no se desgastan de forma natural las uñas hacia abajo y necesitarán sus uñas recortadas regularmente. Esto evita que la división y desgarramiento, que puede ser doloroso para el perro.</p>
+<p>Mantenga las arrugas faciales limpia y seca para prevenir infecciones bacterianas. Siempre que bañe a su perro, tomar el tiempo para secar completamente la piel entre los pliegues. Bañe a su Bulldog Francés mensual o según sea necesario, y utilizar un champú para perros de alta calidad para mantener los aceites naturales de la piel y el pelaje.</p>
+<p>Bulldog Francés debe ser fácil de preparar, y con una formación adecuada y las experiencias positivas durante la etapa de cachorro, el aseo puede ser un tiempo de unión maravillosa para usted y su Frenchie. Si se siente incómodo con cualquier aspecto de la preparación, tales como las uñas de recorte, llevar a su perro a un peluquero profesional que entiende las necesidades de los bulldogs franceses.</p>
+<p>Niños y otras mascotas</p>
+<p>Frenchies se llevan bien con los niños, y no son tan pequeños que no pueden vivir en una casa con un niño pequeño. Dicho esto, ningún perro nunca se debe dejar sola con un niño pequeño. Es de sentido común para supervisar y asegurarse de que no se está metiendo o de otra manera acosar a la otra.</p>
+<p>Cuando están socializados a ellos durante la etapa de cachorro, Frenchies se llevan bien con otros perros y gatos. Frenchies excesivamente consentidos, sin embargo, pueden ser celoso hacia otros perros, especialmente si esos otros perros están llamando la atención desde muy propia persona del Frenchie.</p>
+<p>Grupos de rescate</p>
+<p>Bulldogs franceses son a menudo adquiridos sin ninguna comprensión clara de lo que entra en la posesión de uno, y estos perros a menudo terminan en el cuidado de los grupos de rescate, en la necesidad de adopción o acogimiento. Si usted está interesado en la adopción de un Frenchie, un grupo de rescate es un buen lugar para comenzar.</p>
+<p>&nbsp;</p>
+<p>Read more at http://dogtime.com/dog-breeds/french-bulldog#KqQzbRtICtSDpmti.99</p>
+<figure id="attachment_7" style="width: 300px" class="wp-caption alignnone"><img class="size-medium wp-image-7" src="http://www.bulldogfrances.com/wp-content/uploads/2016/07/bulldog4-300x186.jpg" alt="Bulldog Frances" width="300" height="186" srcset="http://www.bulldogfrances.com/wp-content/uploads/2016/07/bulldog4-300x186.jpg 300w, http://www.bulldogfrances.com/wp-content/uploads/2016/07/bulldog4.jpg 431w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption class="wp-caption-text">Bulldog Frances</figcaption></figure>
+											</div><!-- .entry-content -->
+
+					<footer class="entry-meta">
+											</footer><!-- .entry-meta -->
+				</article><!-- #post -->
+
+
+			
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+
+		</div><!-- #main -->
+		<footer id="colophon" class="site-footer" role="contentinfo">
+				<div id="secondary" class="sidebar-container" role="complementary">
+		<div class="widget-area">
+					<aside id="recent-posts-2" class="widget widget_recent_entries">		<h3 class="widget-title">Entradas recientes</h3>		<ul>
+					<li>
+				<a href="http://www.bulldogfrances.com/colesterol-en-perros/">Colesterol en Perros</a>
+						</li>
+					<li>
+				<a href="http://www.bulldogfrances.com/bronquitis-en-el-perro/">Bronquitis en el Perro</a>
+						</li>
+					<li>
+				<a href="http://www.bulldogfrances.com/bulldog-frances-salud-cuidados/">Bulldog Frances Salud y Cuidados</a>
+						</li>
+					<li>
+				<a href="http://www.bulldogfrances.com/historia-de-la-raza-bulldog-frances/">Historia de la Raza Bulldog Francés</a>
+						</li>
+					<li>
+				<a href="http://www.bulldogfrances.com/adoptar-un-perro/">Adoptar un Perro</a>
+						</li>
+				</ul>
+		</aside>		<aside id="categories-2" class="widget widget_categories"><h3 class="widget-title">Categorías</h3>		<ul>
+	<li class="cat-item cat-item-2"><a href="http://www.bulldogfrances.com/de-bulldog-frances/" >De Bulldog Francés</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://www.bulldogfrances.com/perros/" >Sobre Perros</a>
+</li>
+		</ul>
+</aside><aside id="meta-2" class="widget widget_meta"><h3 class="widget-title">Meta</h3>			<ul>
+						<li><a rel="nofollow" href="http://www.bulldogfrances.com/wp-login.php">Acceder</a></li>
+			<li><a href="http://www.bulldogfrances.com/feed/"><abbr title="Really Simple Syndication">RSS</abbr> de las entradas</a></li>
+			<li><a href="http://www.bulldogfrances.com/comments/feed/"><abbr title="Really Simple Syndication">RSS</abbr> de los comentarios</a></li>
+			<li><a href="https://es.wordpress.org/" title="Gestionado con WordPress, una avanzada plataforma semántica de publicación personal.">WordPress.org</a></li>			</ul>
+			</aside><aside id="text-2" class="widget widget_text">			<div class="textwidget"><a href="http://info.flagcounter.com/zyZ8"><img src="http://s09.flagcounter.com/count/zyZ8/bg_FFFFFF/txt_000000/border_CCCCCC/columns_3/maxflags_18/viewers_Visitan+Bulldog+Frances/labels_1/pageviews_0/flags_0/percent_1/" alt="Flag Counter" border="0"></a>
+
+<script>
+document.write('<script src="//sharebutton.net/plugin/sharebutton.php?type=vertical&u=' + encodeURIComponent(document.location.href) + '"></scr' + 'ipt>');
+</script></div>
+		</aside>		</div><!-- .widget-area -->
+	</div><!-- #secondary -->
+
+			<div class="site-info">
+								<a href="https://es.wordpress.org/">Creado con WordPress</a>
+			</div><!-- .site-info -->
+		</footer><!-- #colophon -->
+	</div><!-- #page -->
+
+	<div id="cookie-law-info-bar"><span>Utilizamos cookies propias y de terceros para mejorar nuestros servicios y experiencia de usuario. Si continua navegando, consideramos que acepta su uso.<a href="#" id="cookie_action_close_header"  class="medium cli-plugin-button cli-plugin-main-button" >Aceptar</a> <a href="http://www.bulldogfrances.com/politica-de-privacidad/" id="CONSTANT_OPEN_URL"  class="cli-plugin-main-link"  >Leer mas</a></span></div><div id="cookie-law-info-again"><span id="cookie_hdr_showagain">Politica de Privacidad y Cookies</span></div>		
+		<script type="text/javascript">
+			//<![CDATA[
+			jQuery(document).ready(function() {
+				cli_show_cookiebar({
+					settings: '{"animate_speed_hide":"500","animate_speed_show":"500","background":"#fff","border":"#444","border_on":true,"button_1_button_colour":"#000","button_1_button_hover":"#000000","button_1_link_colour":"#fff","button_1_as_button":true,"button_2_button_colour":"#333","button_2_button_hover":"#292929","button_2_link_colour":"#444","button_2_as_button":false,"font_family":"inherit","header_fix":false,"notify_animate_hide":true,"notify_animate_show":false,"notify_div_id":"#cookie-law-info-bar","notify_position_horizontal":"right","notify_position_vertical":"bottom","scroll_close":false,"scroll_close_reload":false,"showagain_tab":true,"showagain_background":"#fff","showagain_border":"#000","showagain_div_id":"#cookie-law-info-again","showagain_x_position":"100px","text":"#000","show_once_yn":false,"show_once":"10000"}'
+				});
+			});
+			//]]>
+		</script>
+		
+		<script type='text/javascript' src='http://www.bulldogfrances.com/wp-includes/js/imagesloaded.min.js?ver=3.2.0'></script>
+<script type='text/javascript' src='http://www.bulldogfrances.com/wp-includes/js/masonry.min.js?ver=3.3.2'></script>
+<script type='text/javascript' src='http://www.bulldogfrances.com/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2b'></script>
+<script type='text/javascript' src='http://www.bulldogfrances.com/wp-content/themes/twentythirteen/js/functions.js?ver=20160717'></script>
+<script type='text/javascript' src='http://www.bulldogfrances.com/wp-content/plugins/youtube-embed-plus/scripts/fitvids.min.js?ver=4.6.1'></script>
+<script type='text/javascript' src='http://www.bulldogfrances.com/wp-includes/js/wp-embed.min.js?ver=4.6.1'></script>
+</body>
+</html>

@@ -1,0 +1,622 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1" />
+<title> Animal Health Trust | Animal Health Trust</title><meta name="keywords" content="Animal Health Trust, animal health trust, horses, dogs, cats, diagnostic, treatments, vaccines, animals, clinical referral, veterinary charity, fundraising, volunteer, aht, east anglia, suffolk" /><meta name="description" content="Animal Health Trust - Animal Health Trust" /><meta name="robots" content="index,follow" />
+<meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE" />
+<base href="http://www.aht.org.uk/" />
+<link rel="alternate" type="application/rss+xml" title="Animal Health Trust News feed" href="rss.xml" />
+<link rel="stylesheet" type="text/css" media="all" href="skins/Default/css/all.css" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"  type="text/javascript"></script>
+
+
+<script type="text/javascript" src="media/scripts/frontend.js"></script>
+
+
+
+
+<script type="text/javascript" src="//use.typekit.net/jch8hvb.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<script src="skins/Default/rgbcolor.js"  type="text/javascript"></script>
+<script src="skins/Default/custom.js"  type="text/javascript"></script>
+<link rel="stylesheet" href="scripts/nivo-slider.css" type="text/css" media="screen" />
+<script type="text/javascript" src="scripts/jquery.nivo.slider.pack.js"></script>
+<script type="text/javascript">
+    $(window).load(function() {
+        $('#slider').nivoSlider({
+    startSlide:'rand',
+	effect: 'fade',
+        animSpeed:1000,
+        pauseTime:8000
+});
+});
+$(function(){
+    $(".button").click(function(e){
+      $(this).next("div.button-content").toggle();        
+        e.preventDefault();
+    });
+});
+</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"><link rel="stylesheet" type="text/css" media="all" href="skins/Default/media.css" />		<script src="/skins/Default/bxslider/jquery.bxslider.min.js"></script><link href="/skins/Default/bxslider/jquery.bxslider.css" rel="stylesheet" /><link rel="stylesheet" href="scripts/skin.min.css" /><script type="text/javascript" src="scripts/jquery.pixelentity.kenburnsSlider.min.js"></script>
+<!-- Set Slider Size -->
+<style>
+.peKenBurns {
+	width: 652px;
+	height: 350px;
+}
+</style>
+<script>
+		jQuery(function($){
+			$(".peKenBurns").peKenburnsSlider()
+		})
+	</script>
+<style>
+.peKb_shadow {
+	display:none;
+}
+</style>
+<link rel="icon" href="favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+<script type="text/javascript" src="scripts/rgbcolor.js"></script>
+<!--[if IE 7]>
+<style>.mainMenu a {font-size: 15px;}
+.miniSearch { margin-left: -260px;}
+.searchBack { margin-top: -5px;}
+</style>
+<![endif]-->
+<!--[if IE 8]>
+<style>.mainMenu a {font-size: 15px;}</style>
+<![endif]-->
+<script>var ajaxSearchVal = 'imagesdnatest3.jpg'; $(document).ready(function() { ajaxSearchPage(); });</script><script>
+jQuery(document).ready(function(e) {
+	jQuery('div.relatedLinks a:empty').hide();
+});
+</script>
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+
+
+<script type="text/javascript">
+                            
+  var _gaq = _gaq || [];
+  
+  // Your tracking calls here. e.g.:
+  _gaq.push(['_setAccount', 'UA-26185086-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+  
+</script>
+
+</head>
+
+
+<body class="  ahtweb">
+<div style="display:none;"> <img src="skins/Default/media/slideshow/whatwedo1.png" alt="" /> <img src="skins/Default/media/slideshow/whatwedo2.png" alt="" /> <img src="skins/Default/media/slideshow/whatwedo3.png" alt="" /> </div>
+<div class="topBar"></div>
+<div class="wrapper">
+<div id="header" class="areaWrapper">
+        
+	
+            
+    <div class="accessibility-new">
+<div class="soc-but">
+<iframe src="//www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.aht.org.uk&amp;layout=button&amp;appId=149023305292778" width="58" height="25" scrolling="no" frameborder="0" style="border:none; overflow:hidden;" allowTransparency="true"></iframe>
+</div>
+
+<div class="soc-but">
+            <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.aht.org.uk" data-count="none">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+</div>
+<div class="soc-but">
+<script src="//platform.linkedin.com/in.js" type="text/javascript">
+  lang: en_US
+</script>
+<script type="IN/Share" data-url="http://www.aht.org.uk"></script>
+</div>
+</div>
+
+        
+        <div class="topMenu">
+            <ul>
+            
+<li><a href="cms-display/about-us.html" title="About us">About us</a></li><li><a href="cms-display/careers.html" title="AHT Jobs">AHT Jobs</a></li><li><a href="cms-display/press-page.html" title="Press ">Press </a></li><li><a href="cms-display/vet_professionals.html" title="Vets">Vets</a></li><li><a href="cms-display/Scientists.html" title="Scientists">Scientists</a></li>
+                
+            <li style="border:none;"><a href="/cms-display/contactus.html">Contact</a></li>
+            </ul>
+            
+            <div class="miniSearch">
+            	 <form action="http://www.aht.org.uk/index.php" method="get" id="ecom--minisearch"  enctype="multipart/form-data">
+
+<p class="hidden"><input type="hidden" name="sid" id="ecom--minisearch--sid" value="9tz6j260rrt0b3v6c7943q6r26tp2l62" /></p>
+<p class="hidden"><input type="hidden" name="app" id="ecom--minisearch--app" value="ecom" /></p>
+<p class="hidden"><input type="hidden" name="ns" id="ecom--minisearch--ns" value="prodsearchp" /></p>
+
+<p class="hidden"><label for="ecom--minisearch--ecom--prodsearch--string">Search Term</label></p>
+<p class="inline"><input class="searchBack" type="text" name="ecom--prodsearch--string" id="ecom--minisearch--ecom--prodsearch--string" value="" size="22" maxlength="100" autocomplete="off" /></p>
+<p class="quickform"><input class="searchButton" type="image" src="skins/Default/media/searchButton.png" name="SUBMIT" id="ecom--minisearch--SUBMIT" value="Online Store Search" onclick="return DisableSubmit('ecom--minisearch');" onkeypress="return DisableSubmit('ecom--minisearch');" /></p>
+
+</form>
+
+
+            </div>
+            
+        </div>
+        <div class="logo">
+            <h1>The charity fighting disease and injury in animals</h1> 
+<a href="/" title="Animal Health Trust Home"><img src="skins/Default/media/logo.png" alt="Animal Health Trust" /></a>
+        </div>
+        
+        <div class="stamp">
+        	<img src="skins/Default/media/stamp.png" alt="50 years of Royal Charter" />
+        </div>
+        
+    </div>
+	
+<script>
+$(document).ready(function(){
+    $(".fa-bars").click(function(){
+        $(".repMenu").slideToggle();
+    });
+
+    $(".fa-search").click(function(){
+        $(".reSeac").slideToggle();
+    });
+});
+</script>
+
+<div class="motoo">The charity fighting disease and injury in animals</div>
+<div class="repBut"><i class="fa fa-bars"></i>
+  <div class="mente">Menu</div>
+
+
+<div class="don-ate"><a href="/cms-display/donate.html">Donate</a></div> 
+
+  
+
+    
+
+
+  <i class="fa fa-search"></i>
+</div>
+
+<div class="reSeac">
+      <form action="http://www.aht.org.uk/index.php" method="get" id="ecom--minisearch"  enctype="multipart/form-data">
+
+<p class="hidden"><input type="hidden" name="sid" id="ecom--minisearch--sid" value="9tz6j260rrt0b3v6c7943q6r26tp2l62" /></p>
+<p class="hidden"><input type="hidden" name="app" id="ecom--minisearch--app" value="ecom" /></p>
+<p class="hidden"><input type="hidden" name="ns" id="ecom--minisearch--ns" value="prodsearchp" /></p>
+
+<p class="hidden"><label for="ecom--minisearch--ecom--prodsearch--string">Search Term</label></p>
+<p class="inline"><input class="searchBack" type="text" name="ecom--prodsearch--string" id="ecom--minisearch--ecom--prodsearch--string" value="" size="22" maxlength="100" autocomplete="off" /></p>
+<p class="quickform"><input class="searchButton" type="image" src="skins/Default/media/searchButton.png" name="SUBMIT" id="ecom--minisearch--SUBMIT" value="Online Store Search" onclick="return DisableSubmit('ecom--minisearch');" onkeypress="return DisableSubmit('ecom--minisearch');" /></p>
+
+</form>
+
+
+      <div class="clearboth"></div>
+    </div>
+
+
+<div class="repMenu">
+  <ul>
+    <li class="first">    <a href="/">Home</a>
+    </li>
+            <li><a href="http://www.aht.org.uk/index.php?app=cms&amp;ns=display&amp;ref=what_we_do&amp;sid=9tz6j260rrt0b3v6c7943q6r26tp2l62" title="What we do">What we do</a></li>
+<li><a href="http://www.aht.org.uk/index.php?app=cms&amp;ns=display&amp;ref=what_you_can_do&amp;sid=9tz6j260rrt0b3v6c7943q6r26tp2l62" title="What you can do">What you can do</a></li>
+        <li>    <a href="/cms-xmodnewsrss_list/COREseo.html">News</a>
+    </li>
+    <li><a href="http://www.ahtshop.co.uk/" target="~_blank" title="Animal Health Trust Shop">Shop</a></li>
+    <li class="last"><a href="https://www.aht.org.uk/cms-display/donate.html" title="Donate to Animal Health Trust">Donate</a></li>
+        
+    <a href="/cms-display/careers.html" title="AHT Jobs">
+    <li>AHT Jobs</li>
+    </a> <a href="/cms-display/press-page.html" title="Press">
+    <li>Press</li>
+    </a> <a href="/cms-display/about-us.html" title="About Us">
+    <li>About Us</li>
+    </a> <a href="http://www.aht.org.uk/cms-display/contactus.html" title="Contact">
+    <li>Contact</li>
+    </a>
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="mainMenuArea">
+<div class="mainMenu">
+  <ul>
+    <li class="first">    <a href="/">Home</a>
+    </li>
+            <li><a href="http://www.aht.org.uk/index.php?app=cms&amp;ns=display&amp;ref=what_we_do&amp;sid=9tz6j260rrt0b3v6c7943q6r26tp2l62" title="What we do">What we do</a></li>
+<li><a href="http://www.aht.org.uk/index.php?app=cms&amp;ns=display&amp;ref=what_you_can_do&amp;sid=9tz6j260rrt0b3v6c7943q6r26tp2l62" title="What you can do">What you can do</a></li>
+        <li>    <a href="/cms-xmodnewsrss_list/COREseo.html">News</a>
+    </li>
+    <li><a href="http://www.ahtshop.co.uk/" target="~_blank" title="Animal Health Trust Shop">Shop</a></li>
+    <li class="last"><a href="https://www.aht.org.uk/cms-display/donate.html" title="Donate to Animal Health Trust">Donate</a></li>
+      </ul>
+</div>
+<div class="slideshow"><ul class="bxslider"><li><a title="Give a Dog a Genome" href="http://www.aht.org.uk/cms-display/genetics_gdg_participating_breeds.html"><img src="skins/Default/media/slideshow/GDG_homepage_web_banner_2.jpg" alt="Give a Dog a Genome" /></a></li><li><a title="Fight Disease and Injury in Animals" href="http://www.aht.org.uk/research"><img src="/skins/Default/media/slideshow/Research-hub-banner.jpg" alt="Fight Disease and Injury in Animals"/></a></li><li><a title="Cancer Research Appeal" href="http://www.aht.org.uk/cms-display/cancerhub.html"><img src="skins/Default/media/slideshow/Cancer_hub_banner_2015.jpg" alt="Cancer Research Appeal" /></a></li><li><a title="Horse Owners! Help Us Investigate Sickness" href="http://www.aht.org.uk/cms-display/horses.html"><img src="skins/Default/media/slideshow/Equine-Homepage-Banner-April-15.jpg" alt="Horse Owners! Help Us Investigate Sickness" /></a></li></ul></div><div class="rightS home">
+  <div class="donate">
+    <h2><span class="white">Veterinary </span><span class="orange">Services</span></h2>
+    <table width="95%" border="0" cellspacing="0" cellpadding="0" style="text-align:center; padding-top: 15px; padding-left:15px;">
+      <tr>
+        <td><a href="cms-display/ahtequine.html" title="Equine Referrals"><img src="/skins/Default/media/equine_referrals_layout.jpg" alt="Equine Referrals" style="width:120px; height:80px;-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;" /><br>
+          <span class="layoutText">Equine Referrals</span></a></td>
+        <td><a href="/cms-display/sa.html" title="Small Animal Referrals"><img src="/skins/Default/media/Cat_250x240_layout.jpg" alt="Small Animal Referrals" style="width:120px; height:80px;-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;" /><br>
+          <span class="layoutText">Small Animal Referrals</span></a></td>
+      </tr>
+      <tr>
+        <td style="padding-top: 20px;"><a href="/diagnostics" title="Diagnostic Services"><img src="/skins/Default/media/diagnostic_services_layout.jpg" alt="Diagnostic Services" style="width:120px; height:80px;-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;" /><br>
+          <span class="layoutText">Diagnostic Services</span></a></td>
+        <td style="padding-top: 20px;"><a href="http://www.aht.org.uk/cms-display/genetics_tests.html"  title="DNA testing"><img src="/skins/Default/media/dna_testing_layout.jpg" alt="DNA Testing" style="width:120px; height:80px;-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;" /><br>
+          <span class="layoutText">DNA Testing</span></a></td>
+      </tr>
+    </table>
+  </div>
+</div>
+<div class="clearboth"></div>
+
+<style>
+#slideshowDonate 
+{ 
+					display: none;
+}
+</style>
+<div class="clearboth"></div>
+  <div id="content">
+    <div class="contentLeft">
+    
+			              
+                  <div class="contentleftSpace">
+                    
+                         						
+						 <div id="noitemssearch"><p class="error">There are no items matching your search criteria.  Please use the menu to continue or choose to modify your search.</p>
+
+<p>Please use the below form to search for content.</p>
+
+<p>Required fields are marked with a star (*).  Click the 'Submit' button at the bottom of this form to proceed.</p>
+
+<form action="http://www.aht.org.uk/index.php" method="get" id="ecom--prodsearch">
+
+
+<p class="hidden"><input type="hidden" name="ecom--prodsearch--pricemin" id="ecom--prodsearch--pricemin" value="0.00" /></p>
+
+<p class="hidden"><input type="hidden" name="ecom--prodsearch--pricemax" id="ecom--prodsearch--pricemax" value="" /></p>
+
+<p class="hidden"><input type="hidden" name="sid" id="ecom--prodsearch--sid" value="9tz6j260rrt0b3v6c7943q6r26tp2l62" /></p>
+
+<p class="hidden"><input type="hidden" name="app" id="ecom--prodsearch--app" value="ecom" /></p>
+
+<p class="hidden"><input type="hidden" name="ns" id="ecom--prodsearch--ns" value="prodsearchp" /></p>
+<div class="formsecthead">Advanced Search Criteria</div>
+<div id="ecom--prodsearch--advancedsearchcriteria--d">
+<table id="ecom--prodsearch--advancedsearchcriteria" class="formtable">
+<tr>
+<td style="width: 50%">
+
+<fieldset>
+
+<legend class="strong"><label for="ecom--prodsearch--string">Search Term</label></legend>
+
+<p class="formfieldleg">Search Term</p>
+
+<p>Enter the term you would like to use for your search.</p>
+<input class="formfield" type="text" name="ecom--prodsearch--string" id="ecom--prodsearch--string" value="images/dnatest3.jpg" size="25" maxlength="50" />
+
+</fieldset></td>
+<td style="width: 50%">
+
+<fieldset>
+
+<legend class="strong"><label for="ecom--prodsearch--type">Search Type</label></legend>
+
+<p class="formfieldleg">Search Type</p>
+
+<p>Select how to search for the term you entered.</p>
+<select class="formfield" name="ecom--prodsearch--type" id="ecom--prodsearch--type">
+
+<option value=""></option>
+<option value="ALL">All words</option>
+<option value="ANY" selected="selected">Any word</option>
+<option value="EXACT">Exact Phrase</option>
+</select>
+
+</fieldset></td>
+</tr>
+<tr>
+<td colspan="2" style="width: 100%">
+
+<fieldset>
+
+<legend class="strong"><label for="ecom--prodsearch--resultspp">Results per Page</label></legend>
+
+<p class="formfieldleg">Results per Page</p>
+
+<p>Select how many results per page you would like to view.</p>
+<select class="formfield" name="ecom--prodsearch--resultspp" id="ecom--prodsearch--resultspp">
+
+<option value=""></option>
+<option value="9">Nine per Page</option>
+<option value="10" selected="selected">Ten per Page</option>
+<option value="18">Eighteen per Page</option>
+<option value="20">Twenty per Page</option>
+<option value="27">Twenty Seven per Page</option>
+<option value="30">Thirty per Page</option>
+<option value="36">Thirty Six per Page</option>
+<option value="40">Forty per Page</option>
+<option value="45">Forty Five per Page</option>
+<option value="50">Fifty per Page</option>
+</select>
+
+</fieldset></td>
+</tr>
+</table>
+</div>
+<p><input class="formbutton" type="submit" name="SUBMIT" id="ecom--prodsearch--SUBMIT" value="Submit" onclick="return DisableSubmit('ecom--prodsearch');" onkeypress="return DisableSubmit('ecom--prodsearch');" /> <input class="formbutton" type="submit" name="ns" id="ecom--prodsearch--CANCEL" value="Cancel" /></p>
+
+</form>
+
+</div><div class="storehead">Search <span class="orange">Results</span></div>
+
+<ul id="core--cpul--xg56728q3" class="cpul_search" style="padding-left: 15px;">
+</ul>
+            
+                        
+                       
+                        
+                        
+                   
+                        
+                 </div>
+             
+                
+         </div>
+<div class="contentRight">
+      <div class="spendWisely">
+<h4>Spending <span>your money</span> wisely</h4>
+<div class="shadowRight">&nbsp;</div>
+<p>From every &pound;1 you give<br /> us we spend 93p<br /> fighting disease and <br />injury in animals. <br />We use the remaining 7p <br />to raise the next &pound;1.</p>
+</div><div class="emailsignupBox">
+  <h4><span>sign up</span> to receive news by email</h4>
+     <div class="shadowRight"></div>
+         <div class="marginEmail">
+            
+
+ <iframe width="90%" height="150"  allowTransparency="true" frameborder="0" scrolling="no" style="border:none" src="http://www.ahtmail.co.uk/wp-content/plugins/myMail/form.php?id=0&s=1">        </iframe>
+</div>
+</div><div class="newsletterBox">
+<h4>Download our <span>newsletter</span></h4>
+<div class="shadowRight">&nbsp;</div>
+<p>Read the latest news, views, features and topics in our latest newsletter. <a href="skins/Default/pdfs/AHT_News_80.pdf" target="_blank">Download</a></p>
+<img src="skins/Default/media/newsletter-img80_v2.jpg" alt="Download the AHT Newsletter" width="149" height="138" /></div>  </div>
+<div class="clear">&nbsp;</div>
+    <div class="clearboth"></div>
+    <div id="footer">
+      
+<div class="blueFooter">
+  <div class="keepintouch">
+    <h3>keep in <span class="orange">touch</span></h3>
+  </div>
+  <div class="socialicons"> <span> <a href="http://www.facebook.com/animalhealthtrust" target="_blank"><img src="skins/Default/media/facebook.png" width="36" height="36" class="facebook" alt="AHT Facebook" /></a>
+    <p>Become a Friend on Facebook</p>  <div class="clearboth"></div>
+    </span><span> <a href="http://twitter.com/#!/ahtofficial" target="_blank"><img src="skins/Default/media/twitter.png" width="36" height="36" class="twitter" alt="AHT Twitter" /></a>
+    <p>Follow us on Twitter</p>  <div class="clearboth"></div>
+    </span><span> <a href="http://www.youtube.com/ahttv" target="_blank"><img src="skins/Default/media/youtube.png" width="36" height="36" class="youtube" alt="AHT Youtube" /></a>
+    <p>Watch videos on our Youtube channel</p>  <div class="clearboth"></div>
+    </span> </div>
+    <div class="clearboth"></div>
+</div>
+    </div>
+    <div class="clearboth"></div>
+            <div class="submenu">
+            <h3>About us</h3>
+            <ul>
+				<li><a href="cms-display/careers_mission.html" title="What we stand for">What we stand for</a></li><li><a href="cms-display/history.html" title="History">History</a></li><li><a href="cms-display/people.html" title="People">People</a></li><li><a href="cms-display/staffdirectory.html" title="Staff Directory">Staff Directory</a></li><li><a href="cms-display/annual_review.html" title="Annual Review">Annual Review</a></li><li><a href="cms-display/trustees_report.html" title="Trustees' Report">Trustees' Report</a></li><li><a href="cms-display/faq.html" title="FAQs">FAQs</a></li>            </ul>
+        </div>
+
+        <div class="submenu">
+            <h3>What we do</h3>
+            <ul>
+				<li><a href="cms-display/sa.html" title="Small Animal Veterinary Referrals ">Small Animal Veterinary Referrals </a></li><li><a href="cms-display/genetics_tests.html" title="DNA Testing">DNA Testing</a></li><li><a href="cms-display/inherited_disease_research.html" title="Inherited disease research">Inherited disease research</a></li><li><a href="cms-display/infectious_diseases.html" title="Infectious disease research">Infectious disease research</a></li><li><a href="cms-display/ahtequine.html" title="Equine Veterinary Referrals">Equine Veterinary Referrals</a></li><li><a href="cms-display/disease_surveillance.html" title="Disease surveillance">Disease surveillance</a></li><li><a href="cms-display/diagnostic_services.html" title="Diagnostic Services">Diagnostic Services</a></li><li><a href="cms-display/dlspricelist.html" title="Diagnostic Services Price List">Diagnostic Services Price List</a></li><li><a href="cms-display/science_contract.html" title="Scientific services">Scientific services</a></li><li><a href="cms-display/education_new.html" title="Education">Education</a></li><li><a href="cms-display/clinical_research_new.html" title="Clinical research">Clinical research</a></li>            </ul>
+        </div>
+        
+                <div class="submenu">
+            <h3>What you can do</h3>
+            <ul>
+				<li><a href="cms-display/fundraise.html" title="Fundraise">Fundraise</a></li><li><a href="cms-display/supporting_volunteers.html" title="Volunteer">Volunteer</a></li><li><a href="cms-display/supporting_friends.html" title="Become a Friend">Become a Friend</a></li><li><a href="cms-display/supporting_events.html" title="Come to an event">Come to an event</a></li><li><a href="cms-display/become_a_guardian.html" title="Become a Guardian">Become a Guardian</a></li><li><a href="cms-display/supporting_fellowship.html" title="Become a Fellow">Become a Fellow</a></li><li><a href="cms-display/lanwadespark.html" title="Visit us">Visit us</a></li><li><a href="cms-display/supporting_togetherforanimals.html" title="Together for animals payroll giving">Together for animals payroll giving</a></li><li><a href="cms-display/supporting_sm.html" title="Follow us online">Follow us online</a></li><li><a href="cms-display/supporting_legacy.html" title="Leave a legacy">Leave a legacy</a></li>            </ul>
+        </div>
+
+
+        <div class="submenu">
+            <h3>Press</h3>
+            <ul>
+				<li><a href="cms-display/press-page.html" title="Press ">Press </a></li>            </ul>
+        </div>
+
+
+        <div class="submenu">
+            <h3>Contact</h3>
+            <ul>
+				<li><a href="cms-display/contactus.html" title="Contact Us">Contact Us</a></li><li><a href="cms-display/findus.html" title="How To Find Us">How To Find Us</a></li><li><a href="cms-display/careers_vacancies.html" title="Current Vacancies">Current Vacancies</a></li><li><a href="cms-display/careers_train.html" title="Training opportunities">Training opportunities</a></li>            </ul>
+        </div>
+    <div class="clearboth"></div>
+  </div>
+  <div class="footerbottom"></div>
+  <div class="bottomfooter">
+  <p class="scripttext">Help us to help them... <span class="orange">today, tomorrow and forever'</span></p>
+  <img class="bottomlogo" src="skins/Default/media/bottomlogo.png" alt="Animal Health Trust Donations" />
+  <div class="clearboth"></div>
+</div>
+<div class="footerline"></div>
+<div class="bottomfootertext">
+  <ul>
+    <li><a href="/cms-display/terms.html">Terms &amp; Conditions</a></li>
+    <li><a href="/cms-display/privacy.html">Privacy</a></li>
+    <li><a href="/cms-display/contactus.html">Contact us</a></li>
+    <li><a href="/cms-display/accessibility.html">Accessibility</a></li>
+    <li style="border-right: none"><a href="http://www.designaweb.co.uk" title="Website Development" target="_blank">Website Development</a></li>
+  </ul>
+  <div class="clearboth"></div>
+  <p><strong>Registered address:</strong> Lanwades Park, Kentford, Newmarket, Suffolk CB8 7UU | <strong>Registered Charity No:</strong> 209642</p>
+  <p><em>The Animal Health Trust is a veterinary charity, based in Suffolk, which offers clinical referral services and diagnostic testing for horses, dogs and cats in East Anglia, across the UK and internationally. Through its research programmes it develops new diagnostic tests, treatments and vaccines to help thousands of animals. </em></p>
+</div>
+
+<script type="text/javascript">
+if (typeof jQuery != 'undefined') {
+  jQuery(document).ready(function($) {
+    var filetypes = /\.(zip|exe|dmg|pdf|doc.*|xls.*|ppt.*|mp3|txt|rar|wma|mov|avi|wmv|flv|wav)$/i;
+    var baseHref = '';
+    if (jQuery('base').attr('href') != undefined) baseHref = jQuery('base').attr('href');
+ 
+
+
+    jQuery('a').on('click', function(event) {
+      var el = jQuery(this);
+      var track = true;
+      var href = (typeof(el.attr('href')) != 'undefined' ) ? el.attr('href') :"";
+      var isThisDomain = href.match(document.domain.split('.').reverse()[1] + '.' + document.domain.split('.').reverse()[0]);
+      if (!href.match(/^javascript:/i)) {
+        var elEv = []; elEv.value=0, elEv.non_i=false;
+        if (href.match(/^mailto\:/i)) {
+          elEv.category = "email";
+          elEv.action = "click";
+          elEv.label = href.replace(/^mailto\:/i, '');
+          elEv.loc = href;
+        }
+        else if (href.match(filetypes)) {
+          var extension = (/[.]/.exec(href)) ? /[^.]+$/.exec(href) : undefined;
+          elEv.category = "download";
+          elEv.action = window.location.href;
+          elEv.label = href.replace(/ /g,"-");
+          elEv.loc = baseHref + href;
+        }
+        else if (href.match(/^https?\:/i) && !isThisDomain) {
+          elEv.category = "external";
+          elEv.action = "click";
+          elEv.label = href.replace(/^https?\:\/\//i, '');
+          elEv.non_i = true;
+          elEv.loc = href;
+        }
+        else if (href.match(/^tel\:/i)) {
+          elEv.category = "telephone";
+          elEv.action = "click";
+          elEv.label = href.replace(/^tel\:/i, '');
+          elEv.loc = href;
+        }
+        else track = false;
+ 
+        if (track) {
+          
+         _gaq.push(['_trackEvent', elEv.category.toLowerCase(), elEv.action.toLowerCase(), elEv.label.toLowerCase(), elEv.value, elEv.non_i]);
+
+
+          if ( el.attr('target') == undefined || el.attr('target').toLowerCase() != '_blank') {
+            setTimeout(function() { location.href = elEv.loc; }, 400);
+            return false;
+      }
+    }
+      }
+    });
+  });
+}
+</script></div>
+
+
+
+
+
+<!-- Start of StatCounter Code for Default Guide --> 
+<script type="text/javascript">
+var sc_project=9624389; 
+var sc_invisible=1; 
+var sc_security="141df90f"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ?
+"https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" +
+scJsHost+
+"statcounter.com/counter/counter.js'></"+"script>");
+</script>
+<noscript>
+<div class="statcounter"><a title="web stats"
+href="http://statcounter.com/" target="_blank"><img
+class="statcounter"
+src="http://c.statcounter.com/9624389/0/141df90f/1/"
+alt="web stats"></a></div>
+</noscript>
+<!-- End of StatCounter Code for Default Guide -->
+
+<script type="text/javascript">
+
+$(document).ready(function() { 
+
+	$('.one-third').bind('contextmenu', function(e) {
+	    return false;
+	}); 
+
+});
+</script>
+
+<link rel="stylesheet" href="/access/rvfs.css">
+<script type="text/javascript" src="/access/store.min.js"></script> 
+<script type="text/javascript" src="/access/rv-jquery-fontsize.js"></script> 
+<script type="text/javascript">
+$(document).ready(function() { 
+    $.rvFontsize({
+        targetSection: 'body',
+        store: true, // store.min.js required!
+        controllers: {
+            appendTo: '#rvfs-controllers',
+            showResetButton: true
+        }
+    }); 
+});
+</script>
+<script>
+jQuery(document).ready(function(){
+  $('.bxslider').bxSlider({
+  auto: true,
+		pause: 3000,
+		speed: 3000
+});
+});
+</script>
+</body>
+</html>

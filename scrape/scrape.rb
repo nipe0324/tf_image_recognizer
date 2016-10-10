@@ -3,14 +3,17 @@
 require 'rubygems'
 require 'thor'
 require_relative './google_image_scraper'
+require_relative './image_net_url_scraper'
 
 # Scrape google images by using `keyword`
 #
-# [Usage] ./scrape/scrape.rb -k keyword -n number
+# [Usage]
+# Scrape images from google
+# ./scrape/scrape.rb -k keyword -n number
 #
+# Scrape ImageNet's image paths
+# ./scrape/scrape.rb image_net
 class Scrape < Thor
-  DATA_PATH = './data/raw'
-
   default_command :google_images
 
   desc 'google images', 'Scrape from google image results'
@@ -20,16 +23,36 @@ class Scrape < Thor
     keyword = options[:keyword].downcase
     num_images = options[:num_images].to_i
 
+    # Read image urls
     puts "Search keyword: #{keyword}"
     scraper = ::GoogleImageScraper.new(keyword)
     scraper.scrape(num_images: num_images)
 
-    # create store dir
-    dir = "#{DATA_PATH}/#{keyword}"
-    Dir.mkdir(dir) unless Dir.exists?(dir)
+    # create out dir
+    outdir = "data/raw/google/#{keyword}"
+    Dir.mkdir(outdir) unless Dir.exists?(outdir)
 
-    puts "Download images to #{dir}"
-    scraper.save_images(dir)
+    # Download images from urls
+    puts "Download images to #{outdir}"
+    scraper.save_images(outdir)
+  end
+
+  desc 'ImageNet images', "Scrape from ImageNet's image paths"
+  def image_net
+    Dir["data/image_net_urls/*"].each do |path|
+      # Read image urls
+      file = File.open(path)
+      scraper = ImageNetUrlScraper.new(file)
+      scraper.scrape
+
+      # create out dir
+      outdir = "data/raw/imagenet/#{File.basename(path)}"
+      Dir.mkdir(outdir) unless Dir.exists?(outdir)
+
+      # Download images from urls
+      puts "Download images to #{outdir}"
+      scraper.save_images(outdir)
+    end
   end
 end
 

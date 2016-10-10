@@ -1,0 +1,377 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Page not found</title>
+<link rel="stylesheet" type="text/css" media="screen" href="/home/media/universityoflincoln/styleassets/css/style.css" /><!-- style.css -->
+<link rel="stylesheet" type="text/css" media="screen" href="/home/media/universityoflincoln/styleassets/css/reset.css" /><!-- reset.css -->
+<link rel="stylesheet" type="text/css" media="screen" href="/home/media/universityoflincoln/styleassets/css/tinyMCECustomStyles.css" /><!-- TinyMCE Custom Styles -->
+
+<script type="text/javascript">failedURL=''</script>
+<!--[if IE 7]>
+    <link rel="stylesheet" type="text/css" media="screen" href="/home/media/universityoflincoln/styleassets/css/ie7.css" />
+<![endif]-->
+<!--[if IE 8]>
+    <link rel="stylesheet" type="text/css" media="screen" href="/home/media/universityoflincoln/styleassets/css/ie8.css" />
+<![endif]-->
+<link rel="shortcut icon" type="image/ico" href="/home/media/universityoflincoln/styleassets/images/favicon.ico" />
+<script type="text/javascript" src="/home/media/universityoflincoln/styleassets/js/globaljs.js"></script>
+
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/themes/smoothness/jquery-ui.css" />
+<script type="text/javascript">
+//<![CDATA[ 
+$(document).ready(function(){
+	$("#searchBN").button();
+	$("#reportURLbn").button();
+	$("#reportTEXTbn").button();
+	$("#reportTEXTcancelBn").button();
+	$("#feedback_introBN").button();
+	$("#searchBN").click(function() {
+		$("#mainSearchForm").submit()
+	});
+	$("#reportURLbn").click(function() {
+		$("#pageSource").val("4O4")
+		$("#f404report").submit()
+	});
+	$("#reportTEXTbn").click(function() {
+		$("#pageSource").val("4O4")
+		$("#f404report").submit()
+	});
+	$("#reportTEXTcancelBn").click(function() {
+	  $("#feedback_404").slideUp(function() {
+	    	$( "#feedback_introBN" ).button( "option", "disabled", false );
+	  })
+	});
+	
+	$("#feedback_introBN").click(function() {
+		$( "#feedback_introBN" ).button( "option", "disabled", true );
+		$("#feedback_404").fadeIn()
+	});
+	function arrayOccurrence(arrayA){
+		occCount=0;
+		for(j=0;j<arrayA.length;j++){
+			perCount=0
+			testL=arrayA[j].value
+			//for(i=0;i<arrayA.length;i++){
+				//if(arrayA[i].value==testL){
+					//remove the desc str by increasing the perCount for the conditional statement below
+					//perCount++
+				//}
+			//}	
+			if(perCount==1 && arrayA[j].value.length>5){
+				arrayA[j].desc=""; arrayA[j].sub=""
+			}else{
+				arrayA[j].sub="&lt; "+arrayA[j].sub
+			}
+			//remove JS links
+			if(arrayA[j].url.indexOf("javascript:")!=-1){
+				delete arrayA[j].value
+			}
+		}
+		
+	
+	    return arrayA;
+	}
+	
+
+		$.ajax({
+		    url: "/404/sitemapxcri/compositeSitemapXCRI_with-coreData-and-amps-replaced.xml",
+			dataType: "xml",
+			success: function( xmlResponse ) {
+				var data = $( "li", xmlResponse ).map(function() {
+					return {
+						value: $( "a", this ).text(),
+						url: $( "a", this ).attr("href"),
+						desc: $( "a", this ).attr("href").replace("/home/","").replace("studyatlincoln/",""),
+						sub: $( this ).attr("subSection")
+					};
+				}).get();
+				
+				data=arrayOccurrence(data)
+				data.sort(function(a,b){
+				    if(a.value<b.value) return -1;
+				    if(a.value>b.value) return 1;
+				    return 0;
+				})
+				
+				suggestions=wereYouLookingFor(data)
+				
+				if(typeof suggestions!="undefined"){
+					if(suggestions.length>0){
+						newSuggestionsStr=""
+						for(p=0;p<suggestions.length;p++){
+							newSuggestionsStr=newSuggestionsStr+"<a href='"+suggestions[p].url+"'>"+suggestions[p].value+"</a> "+suggestions[p].sub+"<br />"
+						}
+						$("#suggestions_urlBased").html(newSuggestionsStr)
+						$("#suggestions_urlBasedOuter").slideDown()
+					}
+				}
+
+				$( "#searchQuery" ).autocomplete({
+					source: data,
+					minLength: 3,
+					select: function(event, ui) {
+						document.location.href=ui.item.url
+					}
+				})
+				.data( "autocomplete" )._renderItem = function( ul, item ) {
+					return $( "<li></li>" )
+					.data( "item.autocomplete", item )
+					.append( "<a>" + item.value + " <span class='autoCompleteURLstr'>" + item.sub +"</span></a>" )
+					.appendTo( ul );
+				};
+			}
+		});
+		//limit those results!
+		$.ui.autocomplete.prototype._renderMenu = function( ul, items ) {
+			   var self = this;
+			   $.each( items, function( index, item ) {
+			      if (index < 10) // here we define how many results to show
+			         {self._renderItem( ul, item );}
+			      });
+			}
+		//--------------------//
+		
+		//Define 'Were you looking for?'
+		function wereYouLookingFor(dataArray){
+			var suggestions=[]
+			if(failedURL){
+				failedURL=failedURL.replace("home/","")
+				failedURL=failedURL.replace("studyatlincoln/","")
+				failedURL=failedURL.replace("postgraduateprogrammes/","")
+				failedURL=failedURL.replace("undergraduatecourses/","")
+				failedURL=failedURL.replace("course/","")
+				failedURLs=failedURL.split("/")
+				for(t=failedURLs.length; t>0; t--){
+					if(typeof failedURLs[t]!="undefined" && failedURLs[t].indexOf(".")==-1 && failedURLs[t]!=""){
+						//search json
+						for(u=0;u<dataArray.length;u++){
+							jsonStr=dataArray[u].url
+							if(jsonStr.indexOf("/"+failedURLs[t]+"/")!=-1){
+								//check that this url hasn't already been added
+								var foundDup=0
+								for(r=0; r<suggestions.length; r++){
+									lookingFor=dataArray[u].value
+									if(suggestions[r].value.indexOf(lookingFor)!=-1){
+										foundDup++
+									}
+								}
+								if(foundDup==0){
+									
+									suggestions.push({value:dataArray[u].value, url:dataArray[u].url, desc:dataArray[u].desc, sub:dataArray[u].sub})
+									if(suggestions.length==4){return suggestions}
+								}
+							}
+						}
+					}
+				}
+			}return suggestions
+		}
+})
+
+function respondToUser(respondOK){
+	if(respondOK==1){
+		$("#feedback_404").html('<div class="ui-state-highlight ui-corner-all" id="responseDiv" style="margin: 20px 0 20px 0; padding: 5px; background: #ffef68; width: 800px; text-align:center"><p><strong>Thank-you.</strong> We have logged your broken link report and will investigate it as soon as possible.</p></div>')
+		$('#responseDiv').animate({backgroundColor:"#fcfaf1"},1000)
+	}else{
+		$("#feedback_404").html('<div class="ui-state-error ui-corner-all" id="responseDiv" style="margin: 20px 0 20px 0; padding: 5px; background: #ff6868; width: 550px; text-align:center"><p><strong>Sorry.</strong> We were unable to complete your request at this time.</p></div>')
+		$('#responseDiv').animate({backgroundColor:"#fef8f6"},1000)
+	}
+}
+
+var maxEnquiry=1000
+
+function textCounter(field, maxlimit) {
+		if (field.value.length > maxlimit){
+			field.value = field.value.substring(0, maxlimit);
+			$(field).css("background","url(images/phpThumb_generated_thumbnail.png)")
+			$(".tip_404 STRONG").css("color","#000")
+		}else {
+			if (field.value.length < maxlimit){
+				$(field).css("background","")
+				$(".tip_404 STRONG").css("color","")
+			}
+		}
+	}
+//]]> 
+</script>
+
+<link rel="stylesheet" type="text/css" href="/styles/404/screen.css" />
+
+<!--[if IE 7]>
+	<link rel="stylesheet" type="text/css" href="/styles/404/ie7.css" />
+<![endif]-->
+
+</head>
+
+<body>
+
+<div class="blueBg" id="header_404">
+<div id="logo"><a href="/home/"><img src="/home/media/universityoflincoln/styleassets/images/logo-white.png" alt="University of Lincoln Logo" /></a></div>
+</div>
+
+	<div id="outer_404">
+		<h1>Page Not Found </h1>
+		<p class="subHeading_404">The page you are looking for might have been 
+		moved or archived, please use the search box below. </p>
+		
+		<div id="suggestions_outer">
+			<div>
+				<div class="main_title_404">Search the entire site</div>
+				<div id="searchOuter"><form method="get" action="/home/searchresults/" id="mainSearchForm" name="mainSearchForm"><input placeholder="Enter a search term" type="text" name="searchQuery" id="searchQuery" autocomplete="off" class="text ui-widget-content ui-corner-all" size="23" /> <input type="button" value="Search" name="searchBN" id="searchBN" /></form></div>
+			</div>
+		
+			<div id="suggestions_urlBasedOuter">
+				<div class="main_title_404 lighter">Were you looking for:</div>
+				<div id="suggestions_urlBased"><a href="/home">University of Lincoln Home Page</a><br /><a href="/home/abouttheuniversity/facultiesandschools/">Faculty and Schools</a><br />
+				<a href="/home/studyatlincoln/">Study at Lincoln</a></div>
+			</div>
+		</div>
+		
+		<form action="404report.asp" method="post" target="mC" id="f404report" name="f404report">
+		<div id="feedback_intro"><input type="button" value="Report this broken link" id="feedback_introBN" name="feedback_introBN" /></div>
+		<div id="feedback_404">
+		
+			<div id="feedback_404text">
+				<div class="tip_404">Tell us about the resource that you were trying to reach so that we can improve our service. No personal information will be processed with this request.<br /><strong>Max 1000 characters</strong></div>
+				<div id="feedbackText_404outer"><textarea name="userMessage" id="userMessage" class="text ui-widget-content ui-corner-all" cols="50" rows="10" onKeyDown="textCounter(this,maxEnquiry);" onKeyUp="textCounter(this,maxEnquiry);"></textarea><br /><input type="button" value="Send" name="reportTEXTbn" id="reportTEXTbn" /><input type="hidden" name="failedURL" id="failedURL" value="" /><input type="button" value="Cancel" name="reportTEXTcancelBn" id="reportTEXTcancelBn" /></div>
+			</div>
+		
+		</div>
+        <input type="hidden" value="404" name="pageSource" id="pageSource" />
+		</form>
+	<iframe frameborder="0" id="mC" name="mC" style="width:1px; height:1px; border:0px solid #fff" fameborder="0" src="/styles/404/empty.htm"></iframe>
+	</div><div id="outer_404Links">
+		<div id="inner_404Links">
+			<div id="homepageFooter">
+            	<div class="footerLinkBlock">
+	<h4>Undergraduate</h4>
+	<ul>
+<li><a href="/home/studyatlincoln/discoverlincoln/">Discover Lincoln</a></li>
+<li><a title="Home%20%BB%20University%20of%20Lincoln%20%BB%20Home%20%BB%20Study%20at%20Lincoln%20%BB%20Undergraduate%20Courses" href="/home/studyatlincoln/undergraduatecourses/">Search for a Course</a></li>
+<li><a href="/home/opendays/">Open Days</a></li>
+<li><a href="/home/campuslife/">Campus Life</a></li>
+<li><a href="/home/accommodation/">Accommodation</a></li>
+<li><a href="/home/studyatlincoln/undergraduatecourses/feesandfunding/">Fees and Funding</a></li>
+<li><a href="/home/studyatlincoln/undergraduatecourses/parentsguide/">Parents' Guide</a></li>
+<li><a href="/home/studyatlincoln/undergraduatecourses/howtoapply/">Apply Now</a></li>
+<li><a href="javascript:openProspectusRequest()" title="Home &raquo; University of Lincoln &raquo; Home &raquo; Study at Lincoln &raquo; Undergraduate Courses &raquo; Order a Prospectus">Order a Prospectus</a></li>
+</ul>
+</div>
+<div class="footerLinkBlock">
+	<h4>Postgraduate</h4>
+	<ul>
+<li><a href="/home/studyatlincoln/discoverlincoln/">Discover Lincoln</a></li>
+<li><a title="Home%20%BB%20University%20of%20Lincoln%20%BB%20Home%20%BB%20Study%20at%20Lincoln%20%BB%20Postgraduate%20Programmes" href="/home/studyatlincoln/postgraduateprogrammes/">Search for a Programme</a></li>
+<li><a href="/home/studyatlincoln/postgraduateprogrammes/postgraduateresearch/">Research</a></li>
+<li><a href="/home/studyatlincoln/postgraduateprogrammes/postgraduatesupport/graduateschool/">Graduate School</a></li>
+<li><a href="/home/studyatlincoln/postgraduateprogrammes/feesandfunding/">Finances</a></li>
+<li><a href="/home/campuslife/">Campus Life</a></li>
+<li><a href="/home/studyatlincoln/postgraduateprogrammes/accommodation/">Accommodation</a></li>
+<li><a href="/home/opendays/">Visit Us</a></li>
+<li><a href="javascript:openProspectusRequest()">Order a Prospectus</a></li>
+</ul>
+</div>
+<div class="footerLinkBlock">
+	<h4>Research & Enterprise</h4>
+	<ul>
+<li><a href="/home/research/">Research</a>&nbsp;</li>
+<li><a href="/home/research/centresandgroups/">Research Centres</a></li>
+<li><a href="/home/research/researchshowcase/">Research Showcase</a></li>
+<li><a href="/home/research/researchnews/">Research News</a></li>
+<li><a href="/home/studyatlincoln/postgraduateprogrammes/postgraduateresearch/researchprogrammes/">Research Programmes</a></li>
+<li><a href="/home/businessemployers/">Business &amp; Employers</a></li>
+<li><a href="/home/businessemployers/accessourenterprise/">Consultancy</a></li>
+<li><a href="/home/studyatlincoln/workbasedlearning/">Professional Development</a></li>
+</ul>
+</div>
+<div class="footerLinkBlock">
+	<h4>Information</h4>
+	<ul>
+<li><a href="/home/abouttheuniversity/">About the University</a></li>
+<li><a href="https://www.lincoln.ac.uk/home/media/universityoflincoln/globalmedia/documents/Student,Admissions,Terms,and,Conditions.pdf">Admissions T &amp; C's</a></li>
+<li><a href="/home/abouttheuniversity/collegesandschools/">Colleges and Schools</a></li>
+<li><a href="/home/abouttheuniversity/supportdepartments/">Support Departments</a>&nbsp;</li>
+<li><a href="/home/abouttheuniversity/educationliaison/">Education Liaison</a></li>
+<li><a href="http://lincolnsu.com/" target="_blank">Students' Union</a></li>
+<li><a href="/home/abouttheuniversity/press/">Press and Media</a></li>
+<li><a href="/home/campuslife/whatson/eventsconferences/">Events &amp; Conferences</a></li>
+<li><a href="/home/maps/">How to Find Us</a></li>
+</ul>
+</div>
+<div class="footerLinkBlock">
+	<h4>Useful Links</h4>
+	<ul>
+<li><a href="/home/contacts/">Contact Us</a></li>
+<li><a href="/home/abouttheuniversity/jobopportunities/">Job Opportunities</a></li>
+<li><a href="http://phone.online.lincoln.ac.uk" target="_blank">Staff A-Z</a></li>
+<li><a href="/home/accessibility/">Accessibility</a></li>
+<li><a title="Home &amp;raquo; University of Lincoln &amp;raquo; Home &amp;raquo; Terms &amp;amp; Conditions" href="/home/termsconditions/">T &amp; C's</a><!--, (Cookies)--></li>
+<li><a href="/home/campuslife/onlineshop/">Online Store</a></li>
+<li><a href="/home/abouttheuniversity/makeagift/">Make a Gift</a></li>
+<li><a href="/home/campuslife/whatson/">What's On</a></li>
+<li><a href="http://gateway.lncn.eu/" target="_blank">Staff &amp; Student Gateway</a></li>
+</ul>
+</div>
+
+			</div>		
+		</div>
+	</div>
+	
+	
+	
+
+<script type="text/javascript">
+//<![CDATA[ 
+ var redirTo = ''
+ var redirRef = new Array()
+
+ addRedir = function(match, to){
+ 	redirRef.push( new Array(match, to) )
+ }
+
+ checkForRedir = function(refer ){
+ 	if(refer.length < 6){return}
+ 	for(var i = 0; i < redirRef.length; ++i){
+ 		if( refer.indexOf(redirRef[i][0]) != -1) {redirTo = redirRef[i][1]}
+ 	}
+ }
+
+// -------------------------------//--------------------------------
+// list of referer mathces and redirects  
+// -------------------------------//--------------------------------
+	addRedir( '//search.ucas.', '/home/studyatlincoln/undergraduatecourses/')
+	addRedir( '//awww03.lincoln.', '/home/studyatlincoln/undergraduatecourses/')
+
+	
+// -------------------------------//--------------------------------	
+	refer = '' + ''
+	checkForRedir (refer)
+	if(redirTo.length > 0){window.location.replace(redirTo)}
+//]]> 
+</script>
+
+<div style="display:none">Refering page 
+</div>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-2620145-11']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+</body>
+
+</html>

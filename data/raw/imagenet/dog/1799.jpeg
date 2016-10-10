@@ -1,0 +1,11 @@
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title></title>
+<script src="http://ak2.imgaft.com/script/jquery-1.3.1.min.js" type="text/javascript"></script>
+<script type="text/javascript" language="javascript">
+	$(document).ready(function () {
+		jQuery.ajax({ url: 'http://mcc.securepaynet.net/parked/park.aspx/?q=pFHmpJcdnv54BKOyqaclp3M0qJqlMJLhpTW6WGV2MaMkWGAkAwp5ZQpjAwVyZwMwqaRyZ3RgAQx1AQL4AQp5ZmV5Zmp1ZGt5AvHlAzIaWGAkZwNkAwRjZQxkZGR0ZQtyZwMwrFHmpGRjAmV3AD==-1', dataType: 'jsonp', type: 'GET', jsonpCallback: 'parkcallback',
+			success: function (data) { if (data["returnval"] != null) { window.location.href = 'http://k9crimefighters.com?nr=' + data["returnval"]; } else { window.location.href = 'http://k9crimefighters.com?hg=0' } }
+		});
+	});
+</script></head><body></body></html>

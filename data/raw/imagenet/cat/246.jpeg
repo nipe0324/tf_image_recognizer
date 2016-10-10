@@ -1,0 +1,310 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=iso-8859-1" />
+<title>Lost Cats & Dogs - FREE Lost Pet Search Service | Animal Search UK</title>
+<meta name="keywords" content="lost pet, lost cat, lost dog, lost pets, found pet, poster campaigns, help and advice" />
+<meta name="description" content="The UKs Leading Missing Pet Search Service and FREE Website for lost cats, dogs and other pets." />
+<link rel="stylesheet" href="styles/main.css" type="text/css" />
+<link rel="stylesheet" href="styles/print.css" type="text/css" media="print" />
+<!--IE 5 & 6 fix for hover behaviours-->
+<!--[if lte IE 6]><link rel="stylesheet" href="styles/iehoverfix.css" type="text/css" media="screen" /><![endif]-->
+<script type="text/javascript" src="scripts/gen.js"></script>
+<script type="text/javascript" src="/scripts/google.js"></script>
+
+<link rel="stylesheet" href="styles/galleryview.css" type="text/css"/>
+</head>
+
+<body>
+<div id="wpr">
+	<div id="content">
+    <style>
+    .home-alert {
+        background: #f44336;
+        color: #fff;
+        padding: 20px 15px;
+    }
+
+    .home-alert > p, .home-alert > h2, .home-alert > h3 {
+        color: #fff;
+    }
+
+    .home-alert > h2{
+        margin-top: 0;
+        padding-top: 0;
+    }
+
+</style>
+<div class="home-alert">
+    <h2>Great News!</h2>
+    <h3>Animal Search UK's New Website Is Almost Here</h3>
+    <p>
+        On 9/10/2016 at 9pm this website will temporarily go offline as we flip the switch on our servers, and the countdown to the launch begins. 
+    </p>
+    <p>
+        By 9am on the 10/10/2016 the new website will be up and ready for you to use.
+    </p>
+    <p>
+        Due to the large volumes of data that we are migrating, unfortunately no existing pets can have new photo's uploaded to their page on
+        10/10/2016, of course you can still log in and use the website during this time.
+    </p>
+    <p>
+        Between the 10/10/2016 and 13/10/2016 we are expecting the website to run at a slightly slower pace than normal, this is because the
+        much more sophisticated Auto-Match facility will be busy cross referencing the details of over 100,000 pets registered with us,
+        hoping to identify possible matches!
+    </p>
+    <p>
+        The new website will enable us to reunite more pets than ever before, we really hope you like it!
+    </p>
+    <p>
+        Thank you in advance for bearing with us whilst the switch over takes place.
+    </p>
+    <p>
+        Best wishes,
+    </p>
+    <p>Viki Harrison</p>
+    <p>
+        Operations Manager
+        <br>
+        Animal Search UK
+    </p>
+
+</div>
+<div id="gl-wpr" style='height:250px;'>
+	<div style="height: 251px; position: relative">
+	<div class="gl-qtr gl-lost" style="top:0"><div class="inner" onclick="go('report-a-missing-pet.php')">
+		<p>I have lost<br /> my pet</p>
+	</div></div>
+	<div class="gl-qtr gl-found" style="top:0"><div class="inner" onclick="go('report-a-found-pet.php')">
+		<p>I have found<br />someone's pet</p>
+	</div></div>
+	<div class="gl-qtr gl-ppvol" style="top:0"><div class="inner" onclick="go('pet-patrol-volunteers.php')">
+		<p>Join our Pet Patrol / Volunteer</p>
+	</div></div>
+	<div class="gl-qtr gl-mpst" style="top:0"><div class="inner" onclick="go('missing-pet-search-team.php')">
+		<p>Missing Pet<br />Search Team</p>
+	</div></div>
+	</div>
+	
+</div>
+
+<style>
+p {
+    padding: 14px 35px 0;
+}
+
+.span33-container {
+    margin: 10px 0 0;
+    text-align: center;
+    padding: 0 30px;
+}
+
+.span33 {
+    width: 33%;
+    display: inline-block;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 20px 10px 0;
+}
+
+div.btn {
+    width: auto;
+    height: 84px;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    border: 0;
+}
+
+div.btn a {
+    padding: 20px;
+    font-size: 16px;
+}
+</style>
+
+<div>
+<h2>Report your lost pet or a found pet FREE of charge online</h2>
+<p>Animal Search UK is the leading search service for missing pets in Britain. We specialise in helping to reunite owners with lost or stolen pets. Our web site is free to use, provides local and nationwide coverage and lots including free <a href='http://www.animalsearchuk.co.uk/help-advice.php'>help and advice</a> for people who have lost or found a pet and are wondering what best to do.</p>
+
+<p>Lost a cat? We have over 50,000 Pet Patrollers, covering the whole of the UK, on our Pet Patrol scheme. These <a href='http://www.animalsearchuk.co.uk/pet-patrol-volunteers.php'>animal loving people</a> have kindly agreed to help keep an eye out for missing pets in their area, giving immediate reassurance that you are not alone in finding your pet.</p>
+
+<p>Found a lost dog? Notify us for FREE! We will do the rest. We match similar locations and pet descriptions to quickly produce a match for potential pets to be returned to their owner as soon as possible.</p>
+</div>
+
+<div class='span33-container'>
+    <div class="span33">
+        <div class="btn" onclick="go('http://www.animalsearchuk.co.uk/lost-pet-help-advice.php');">
+        <a href='http://www.animalsearchuk.co.uk/lost-pet-help-advice.php'>Help and Advice if you have lost a pet</a>
+        </div>
+    </div>
+    <div class="span33">
+        <div class="btn" onclick="go('http://www.animalsearchuk.co.uk/found-pet-help-advice.php');">
+        <a href='http://www.animalsearchuk.co.uk/found-pet-help-advice.php'>Help and Advice if you have found a pet</a>
+        </div>
+    </div>
+    <div class="span33">
+        <div class="btn" onclick="go('http://www.lostalert.co.uk/');">
+        <a href='http://www.lostalert.co.uk/'>Pre-register your pet for peace of mind</a>
+        </div>
+    </div>
+</div>
+
+
+		<div id="ct-end"></div>
+	</div><!-- Close content -->
+
+		<div class="cookie-bar"><p class="i">i</p><p>Like the majority of sites on the Internet, we use cookies to ensure that we give you the best experience on our website. If you continue on this site, we'll assume that you are happy to receive cookies. Please <a href='#' onclick="return hideCookie();">click here</a> to hide this message.</p>
+</div> 
+<script type="text/javascript">
+	if( typeof jQuery == 'undefined' ) {
+		document.writeln("<script src=\"http://www.animalsearchuk.co.uk/scripts/slideshow/jquery-1.4.3.min.js\" type=\"text\/javascript\" language=\"javascript\"><\/script>");
+	}
+</script>
+<script type="text/javascript" src="http://www.animalsearchuk.co.uk/scripts/jquery_cookie.js"></script>
+<script type="text/javascript">
+	function hideCookie() {
+		$.cookie("hideCookieMsg","true", { expires: 3650 } );
+		$('.cookie-bar').fadeOut();
+		return false;
+	}
+</script>
+	<div id="hd">
+		<a href="index.php" title="Lost pet, lost cat or lost dog? Free missing pets service"><img src="http://www.animalsearchuk.co.uk/images-design/hd-asuk-logo.jpg" alt="Lost Cats & Dogs - FREE Lost Pet Search Service | Animal Search UK" id="asuk-logo"/></a>
+		<div id="asuk-logo-txt" title="The UK's leading search service and FREE web site for missing pets"></div>
+		<a href="http://www.animalsearchuk.co.uk/find-lost-pets/" id="hd-lgn" title="Login to access your account and services">Log in</a>
+<a href="http://www.animalsearchuk.co.uk/find-lost-pets.php" id="hd-srh" title="Search lost or found pets or search other content on the Animal Search UK web site">Search</a>		<div id="hd-bar">
+		<form class='search-form' method='get' action='http://www.animalsearchuk.co.uk/find-lost-pets/find-pets.php'>
+			<input class='search-input' name='asukRefNo' type='text' placeholder='Search Pet Reference Number...' 
+			 /> &nbsp; <input type='submit' value='Search'/>
+			<input type="hidden" name="search" value="1"/>
+			<input type="hidden" name="gettopost" value="1"/>
+		</form>
+
+
+
+			<!-- AddThis instance No 1 begin -->
+			<div class="addthis_toolbox addthis_default_style ">
+			<a class="addthis_button_preferred_1"></a>
+			<a class="addthis_button_preferred_2"></a>
+			<a class="addthis_button_preferred_3"></a>
+			<a class="addthis_button_preferred_4"></a>
+			<a class="addthis_button_compact"></a>
+			</div>
+			<script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script>
+			<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4dec43df1cadd66c"></script>
+			<!-- AddThis end -->
+		</div>
+
+        <style>
+            #ww-cp {
+                position: absolute;
+                right: 15px;
+                top: 6px;
+                width: 170px;
+                color: #355D86;
+                text-align: center;
+            }
+
+            #ww-cp img {
+                margin-top: 3px;
+            }
+        </style>
+
+		<div id="hd-stbb"></div>
+		<a href='http://www.animalsearchuk.co.uk/'><div id="hd-stt"></div></a>
+		<div id="hd-stbl"></div>
+		<div id="hd-stbr"></div>
+		<div class="hd-pp pp1"></div>
+		<div class="hd-pp pp2"></div>
+
+        <div id="ww-cp">
+            Working With<br>
+            <img src="http://www.animalsearchuk.co.uk//images/cp_logotag_web_equal.jpg" alt="Cats Protection" />
+        </div>
+	
+	</div>
+
+
+	<div id="nav"> 
+<ul>
+	<li id="mn1"><a href="http://www.animalsearchuk.co.uk/" title="Home page">Home</a></li>
+	<li id="mn2"><a href="http://www.animalsearchuk.co.uk/find-lost-pets/find-pets.php" title="Home page">List all pets</a></li>
+	<li id="mn3"><a href="http://www.animalsearchuk.co.uk/report-a-missing-pet.php" title="Report your missing pet free of charge and match with found pets">Report a missing pet</a></li>
+	<li id="mn4"><a href="http://www.animalsearchuk.co.uk/report-a-found-pet.php" title="Report a found pet free of charge and match with reports of missing pets">Report a found pet</a></li>
+	<li id="mn27"><a href="http://www.animalsearchuk.co.uk/find-lost-pets/cpanel.php?closecase" title="I am reunited with my pet and wish to close the case">I am reunited with my pet</a></li>
+	<li id="mn28"><a href="http://www.animalsearchuk.co.uk/find-lost-pets/cpanel.php?closecase" title="I have found the owner of a pet I reported and wish to close the case">I have found the owner</a></li>
+	<li class='nav-divide'>&nbsp;</li>
+	<li id="mn129"><a href="http://www.animalsearchuk.co.uk/find-lost-pets/cpanel.php" title="My Account">My account</a></li>
+	<li id="mn5"><a href="http://www.animalsearchuk.co.uk/lost-pet-posters.php" title="Lost pet posters, publicity and support to find your missing pet" >Poster and leaflets</a></li>
+	<li id="mn7"><a href="http://www.animalsearchuk.co.uk/missing-pet-search-team.php" title="Our professional Missing Pet Search Teams operate throughout the UK, and offer vital assistance when you need it">Missing Pet Search Team</a></li>
+	<li id="mn26"><a href="http://www.animalsearchuk.co.uk/help-advice.php" title="Support, expert help and ideas to assist with a lost or found pet">Help and advice</a></li>
+	<li id="mn19"><a href="http://www.animalsearchuk.co.uk/pet-patrol-volunteers.php" title="Join fellow animal lovers, who have kindly volunteered to keep an eye out for missing pets in their area">Pet Patrol volunteers</a></li>
+	<li id="mn17"><a href="https://www.lostalert.co.uk" title="Join our membership scheme Lost Alert to protect your pet once reunited in case the worst happens again">Pre-register your pets</a></li>
+	<li class='nav-divide'>&nbsp;</li>
+	<li id="mn6"><a href="http://www.animalsearchuk.co.uk/news-and-events.php" title="Almost 4k have 'Liked' our website in recent weeks, visit us on facebook.com/animalsearchuk for more interesting information">News and events</a></li>
+	<li id="mn16"><a href="http://www.animalsearchuk.co.uk/missing-pet-success-stories.php" title="Stories of successfully reunited pets">Success stories</a></li>
+<!-- 	<li id="mn21"><a href="http://www.animalsearchuk.co.uk/missing-pet-search-team-channel-4-tv-series.php">Channel 4 Documentary</a></li>-->
+<!--	<li id="mn29"><a href="http://www.animalsearchuk.co.uk/meet-the-team.php" title="Meet the team at Animal Search UK">Meet the team</a></li> -->
+	<li id="mn8"><a href="http://www.animalsearchuk.co.uk/contact-us.php" title="Contact the Animal Search UK team">Contact us</a></li>
+</ul>
+<div class="spacer"></div> 	 
+<div onclick="go('../donate-to-animal-search-uk.php')" title="DONATE - If you have benefited from our service, please consider a donation to help re-unite more pets with their owners" id="dntbtn"></div>
+		<script type="text/javascript">
+			<!--
+			navSelPage(1);
+			//-->
+		</script>
+		<div class="spacer"></div>
+	</div>
+
+
+	
+	<div id="ft">
+		<div class="toprow">
+            			<p>&copy; 1999-2016 Animal Search UK LTD<br><span style="font-weight: normal;">Company Registration Number: 08774069</span></p>
+            <p style="padding-top: 0; margin-top: -5px; font-size: 12px;">
+                <span style="font-weight: normal;">Animal Search UK HQ, Room 3, First Floor, Jubilee Building, Faraday Road, Hereford, HR4 9UW</span>
+            </p>
+		</div>
+		<div class="col">
+			<p><a href="http://www.animalsearchuk.co.uk/privacy.php">Privacy Policy</a><br /><a href="http://www.animalsearchuk.co.uk/terms.php">Terms of web site use</a><br /></p>
+			<p><strong>Social Media:</strong><br />
+				<a href="http://www.facebook.com/AnimalSearchUK/">Like us on Facebook</a><br />
+				<a href="https://twitter.com/#!/AnimalSearchUK">Follow us on Twitter</a></p>
+		</div>
+		<div class="col">
+			<p>Britain's leading missing pet search service.</p>
+		</div>
+		<div class="col">
+			<p>
+			</p>
+			<p id="eim">Web Site Hosted &amp; Maintained by <br /><a href="http://www.lawyersonline.co.uk">Lawyers Online LTD</a>.</p>
+		</div>
+		<div id="ft-asuk"></div>
+		<!-- AddThis instance No 2 begin -->
+		<div class="addthis_toolbox addthis_default_style addthis_32x32_style">
+		<a class="addthis_button_facebook"></a>
+		<a class="addthis_button_twitter"></a>
+		<a class="addthis_button_email"></a>
+		<a class="addthis_button_print"></a>
+		</div>
+		<!-- AddThis end -->
+	
+	</div>
+
+	<!-- Preload rollovers -->
+	<!--<div class="hdn">
+		<img src="http://www.animalsearchuk.co.uk/images-design/nav-donate-btn-hvr.png" alt="Lost cat"/>
+		<img src="http://www.animalsearchuk.co.uk/images-design/gl-rfol-bg-hvr.jpg" alt="Lost dog"/>
+		<img src="http://www.animalsearchuk.co.uk/images-design/gl-preg-bg-hvr.jpg" alt="Stolen cat"/>
+		<img src="http://www.animalsearchuk.co.uk/images-design/gl-lost-hvr.jpg" alt="Stolen dog"/>
+		<img src="http://www.animalsearchuk.co.uk/images-design/gl-found-hvr.jpg" alt="Lost cats"/>
+		<img src="http://www.animalsearchuk.co.uk/images-design/gl-ppvol-hvr.jpg" alt="Lost dogs"/>
+		<img src="http://www.animalsearchuk.co.uk/images-design/gl-mpst-hvr.jpg" alt="Stolen cats"/>
+	</div>-->
+
+</div><!-- Close wpr -->
+
+
+</body>
+</html>

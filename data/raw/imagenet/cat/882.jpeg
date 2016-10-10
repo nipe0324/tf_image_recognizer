@@ -1,0 +1,404 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"> 
+
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="author" content="Ben Beilharz" />
+<meta name="description" content="Hippocampus Extensions exists to promote evangelical Christian writing and through it to provoke Christian thought and action. And it's cool." />
+   
+<link rel='stylesheet' type='text/css' media='all' href="/styles/hippo2005" />
+<style type='text/css' media='screen' href="/styles/hippo2005"></style>
+<style type='text/css' media='print' href="/styles/print"></style>
+
+<title>Hippocampus Extensions</title>
+
+</head>
+
+<body id="frontpage">
+
+<div id="container">
+
+<div id="banner">
+
+<p id="allnew">All New!</p>
+<h1><a href="http://hippocampusextensions.com/" accesskey="1">Hippocampus<br />Extensions</a></h1>
+
+<p id="tagline">Now with half the calories!</p> 
+
+<p id="maincontentlink"><a href="#maincontent">Skip to main content</a></p>
+
+</div>
+
+<div id="sidebar-a">
+
+<div id="ourblogs">
+<h3><a href="/karen/">/karen/</a> latest</h3>
+<ul>
+
+<li><a href="http://hippocampusextensions.com/karen/ready_steady_slow_cook/">Ready, steady, slow cook!</a></li>
+
+<li><a href="http://hippocampusextensions.com/karen/rules_for_the_day_of_rest/">Rules for the Day of Rest</a></li>
+
+<li><a href="http://hippocampusextensions.com/karen/one_to_two/">One to two</a></li>
+
+<li><a href="http://hippocampusextensions.com/karen/countercultural_housing/">Countercultural housing</a></li>
+
+<li><a href="http://hippocampusextensions.com/karen/back_to_blog/">Back to blog</a></li>
+
+</ul>
+
+
+<h3>More on campus</h3>
+<ul>
+
+<li><a href="http://hippocampusextensions.com/article/learning_to_hate/">Learning to Hate</a></li>
+
+<li><a href="http://hippocampusextensions.com/article/stop_laughing_im_dying/">&#8220;Stop Laughing I&#8217;m Dying&#8221;</a></li>
+
+<li><a href="http://hippocampusextensions.com/article/nailing_mr_nice_guy_douglas_adams_on_jesus/">Nailing Mr. Nice Guy: Douglas Adams on Jesus</a></li>
+
+<li><a href="http://hippocampusextensions.com/article/writing_day_2/">Writing Day #2</a></li>
+
+<li><a href="http://hippocampusextensions.com/article/yakkedy_yak_talking_right_back/">Yakkedy Yak, Talking Right Back</a></li>
+
+<li><a href="http://hippocampusextensions.com/article/suicide_the_unforgivable_sin/">Suicide: The Unforgivable Sin?</a></li>
+
+<li><a href="http://hippocampusextensions.com/article/writing_evangelism/">Writing Evangelism</a></li>
+
+<li><a href="http://hippocampusextensions.com/article/lord_am_i_simon/">Lord, am I Simon?</a></li>
+
+<li><a href="http://hippocampusextensions.com/article/no_bible_no_breakfast/">No Bible, No Breakfast?</a></li>
+
+<li><a href="http://hippocampusextensions.com/article/notes_on_the_new_creation/">Notes on the New Creation</a></li>
+
+</ul>
+
+<h2>On Campus</h2>
+<ul id="campuslinks">
+<li><a href="/about/">About</a></li>
+<li><a href="http://benbeilharz.com">Ben</a></li>
+<li><a href="/karen/">Karen</a></li>
+<li><a href="/archives/">Archives</a></li>
+<li><a href="/issues/">Issues</a></li>
+<li><a href="/mcheyneplan/">M'Cheyne Bible Reading Plan</a></li>
+<li><a href="/writing/">Writing Groups</a></li>
+</ul>
+
+<div id="searchbox">
+<h3>Search</h3>
+
+<form method="post" action="http://hippocampusextensions.com/"  >
+<div class='hiddenFields'>
+<input type="hidden" name="ACT" value="19" />
+<input type="hidden" name="XID" value="5e870ba7b0e9cde10a592beb817dea63423315ec" />
+<input type="hidden" name="RP" value="{path=" />
+<input type="hidden" name="NRP" value="" />
+<input type="hidden" name="RES" value="" />
+<input type="hidden" name="status" value="" />
+<input type="hidden" name="weblog" value="karen|current|hippo|issues" />
+<input type="hidden" name="search_in" value="everywhere" />
+<input type="hidden" name="where" value="any" />
+<input type="hidden" name="site_id" value="1" />
+</div>
+
+
+<p><input type="text" name="keywords" id="keywords" value="" size="18" maxlength="100" /> <input type="submit" value="search" class="submit" /></p>
+</form>
+
+</div>
+
+<!--<div id="mailinglist">
+<h3>Mailing List</h3>
+<p>Join the mailing list to receive H/E news and updates.</p>
+<form action="/mailinglist/index.php" method="post" id="mailform">
+<fieldset>
+<input type="text" name="myname" value="name" onfocus="if(this.value=='name')this.value='';" onblur="if(this.value=='')this.value='name';" size="14" />
+<input type="text" name="myemail" value="email address" onfocus="if(this.value=='email address')this.value='';" onblur="if(this.value=='')this.value='email address';" size="14" />
+<input type="submit" name="form_submitted" value="Subscribe" />
+</fieldset>
+</form>
+</div>-->
+
+</div>
+
+</div>
+
+<div id="sidebar-b">
+
+<!--<div id="notices">
+<h3>Notices</h3>
+
+</div>
+<br />
+
+<h3>Syndication</h3>
+<p id="synd"><a href="/syndication/index.xml">RSS</a> | <a href="/syndication/atom.xml">Atom</a></p>
+
+<br />-->
+
+<div id="recent_comments">
+<h3>Recent Comments</h3>
+
+
+<p><strong>Mike Cuthbert</strong> said in <a href="http://hippocampusextensions.com/article/nailing_mr_nice_guy_douglas_adams_on_jesus/#14907">Nailing Mr. Nice Guy: Douglas Adams on Jesus</a>: <p>I first read Hitchhikers’ many years and thought it was very funny (sarcasm is my favourite sense of humour as I actually get it). Realising its fatalistic view of the world came a bit later. While it may be silly to intensely study Hitchhikers’ for grand truths (or the lack of same), books can often tell you a lot about their author.</p>
+
+<p>Some fascinating &#8216;further reading&#8217; is &#8220;The Salmon of Doubt&#8221; released in 2002, after Adams&#8217; death. The book is a miscellaneous collection of his writings and speeches, including articles such as:<br />
+- Interview with American Athiests<br />
+- Is there an Artificial God?</p>
+
+<p>The god that Douglas didn’t believe in is the god who is used by people to explain the unexplainable. What is the meaning of Life, the Universe and Everything?<br />
+&#8220;Religion&#8221; is a process where you do silly things for inexplicable reasons (such as the Jatravartid who lived in fear of The Coming of the Great White Handkerchief)</p>
+
+<p>All this is great and plausible, except that you have to deal with the person of Jesus. Far easier to assume that he was killed for telling people to be nice to each other, than to acknowledge his call for repentance, his provision of salvation through his own death, and his rising from the dead, pointing to the future Coming of the Lamb who was slain.
+</p></p>
+
+<p><strong>Matt</strong> said in <a href="http://hippocampusextensions.com/article/learning_to_hate/#14910">Learning to Hate</a>: <p>hey joanna, i was thinking about the process of sin; temptation, capitulation, sin and often justification. I was thinking about the times I flippantly pray for forgiveness and go on sinning, rather than pray for a way out of the temptation, to truly &#8216;hate&#8217; it, especially in regards to lust and anger.
+</p></p>
+
+<p><strong>Joanna</strong> said in <a href="http://hippocampusextensions.com/article/stop_laughing_im_dying/#14908">&#8220;Stop Laughing I'm Dying&#8221;</a>: <p>Another very interesting article Matt. </p>
+
+<p>Do you reckon Black Books is just appropriating Ecclesiastes?</p>
+
+<p>A meaningless life of vanity and alcohol? </p>
+
+<p>I love watching it too&#8230; I wonder if there&#8217;s something wrong with us? We Christians who are supposed to be filled with joy and peace by the Holy Spirit and yet devour shows like Black Books with an almost hysterical excitement&#8230; do we not fear God &#8216;enough&#8217;?
+</p></p>
+
+<p><strong>Joanna</strong> said in <a href="http://hippocampusextensions.com/article/learning_to_hate/#14909">Learning to Hate</a>: <p>As much as it is a cliche to say it, this is a very thought-provoking article Matt. </p>
+
+<p>I would love to understand better what you mean when you say &#8220;asking forgiveness of God, even when I&#8217;m in the middle of sinning&#8230;&#8221;</p>
+
+<p>Nice storytelling too <img src="http://www.hippocampusextensions.com/images/smileys/grin.gif" width="19" height="19" alt="grin" style="border:0;" />
+</p></p>
+
+<p><strong>Karl</strong> said in <a href="http://hippocampusextensions.com/article/notes_on_the_new_creation/#14873">Notes on the New Creation</a>: <p>Thankyou for drawing attention to this bible passage. You point out that John&#8217;s vision of the new kingdom is of a new earth - rather than &#8216;heaven&#8217;.&nbsp; I think it will help the church greatly to conceive of the new kingdom as a new earth. It&#8217;s how the New Testament portrays it. See also 2 Peter 3.</p>
+
+<p>Our complacency in refering to the new kingdom as &#8216;heaven&#8217; is an obstacle to evangelism. In fact using God&#8217;s imagery could actually help with evangelism.</p>
+
+<p>EXAMPLE 1: If JWs are right when they refer to a &#8216;new earth&#8217;, then they will find it hard to believe we are right about Jesus if we keep insisting we are &#8216;going to heaven&#8217;.</p>
+
+<p>EXAMPLE 2: Hollywood loves a heaven of harps and clouds. If we pointed out that the bible speaks of a new kingdom on earth, some people might begin to realise how little they know about the bible - and perhaps decide to read it.</p>
+
+<p>Thankfully, it is God&#8217;s gift of faith which brings people into the kingdom - despite our errors.
+</p></p>
+
+<p><strong>Joanna</strong> said in <a href="http://hippocampusextensions.com/article/nailing_mr_nice_guy_douglas_adams_on_jesus/#14906">Nailing Mr. Nice Guy: Douglas Adams on Jesus</a>: <p>Hi Drew, </p>
+
+<p>thanks for your comment. </p>
+
+<p>I do realise that Adams&#8217; statement was a &#8216;lighthearted&#8217; sort of &#8216;joke&#8217;. </p>
+
+<p>The reason I was inspired to write the article is that I know of many people for whom that is actually their whole perspective on Jesus. That He was a nice guy who just said we should be nice to each other. <br />
+So I thought I&#8217;d draw attention to the faults in that perspective by using Adams as a spring board. </p>
+
+<p>And yes, in fact the entire aim of my article is to get up people&#8217;s noses by presenting them with a more complete picture of Jesus and His mission. </p>
+
+<p>I appreciate that this doesn&#8217;t work for everyone, obviously there is the possibility of causing offence, however I hope I wasn&#8217;t triumphalist. </p>
+
+<p>thanks for your feedback though, there are certainly many ways the same object can be achieved.
+</p></p>
+
+<p><strong>Drew Dunstall</strong> said in <a href="http://hippocampusextensions.com/article/nailing_mr_nice_guy_douglas_adams_on_jesus/#14905">Nailing Mr. Nice Guy: Douglas Adams on Jesus</a>: <p>Nice artical Jo, and nice exploration on the reaction of the Jews to Jesus.</p>
+
+<p>Hate to disagree with you though, but I thought I&#8217;d add my own two cents.</p>
+
+<p>Douglas Adams wasn&#8217;t trying to make a serious statement about Jesus, of course it&#8217;s a mockery - the whole series is, as the comment above noted - an attack on &#8216;meaning&#8217; in the universe.&nbsp; Meaning, and God, are constant jokes - I mean, 42, Arthur Dent, and &#8216;Sorry for the inconvenience&#8217;?&nbsp; The one liner about Jesus is an attempt to reduce a person who is difficult to joke about (the Pythons found it hard) to a laugh.</p>
+
+<p>The tendancy we have to label other people&#8217;s takes on Jesus as misunderstood (which, of course they often are), can simply come across as a touch triumphant and self vindicating - &#8216;see we&#8217;re right and he/she/they/it are wrong!&#8217;.&nbsp; An oppositional review has a tendancy to simply get up people&#8217;s noses, instead of getting them to listen to your point.<br />
+&nbsp; </p>
+
+<p>My apologies if this comes across as unkind - I hope it hasn&#8217;t got up your nose too much.
+</p></p>
+
+<p><strong>Dan</strong> said in <a href="http://hippocampusextensions.com/article/nailing_mr_nice_guy_douglas_adams_on_jesus/#14904">Nailing Mr. Nice Guy: Douglas Adams on Jesus</a>: <p>Wonderful thoughts!&nbsp; I wrote on my own, but was sure to give you credit! <img src="http://www.hippocampusextensions.com/images/smileys/smile.gif" width="19" height="19" alt="smile" style="border:0;" /></p>
+
+<p><a href="http://tdaxp.blogspirit.com/archive/2005/07/10/caiaphas-and-diocletian-did-know-better.html">http://tdaxp.blogspirit.com/archive/2005/07/10/caiaphas-and-diocletian-did-know-better.html</a>
+</p></p>
+
+<p><strong>Walter</strong> said in <a href="http://hippocampusextensions.com/article/nailing_mr_nice_guy_douglas_adams_on_jesus/#14903">Nailing Mr. Nice Guy: Douglas Adams on Jesus</a>: <p>Perspicacious&#8230;secret Joanna code for acutely perceptive or observant&#8230; oh what a limited vocabulary I would have without the weird and wacky words of Joanna Hayes&#8230;
+</p></p>
+
+<p><strong>Steph Vaughan</strong> said in <a href="http://hippocampusextensions.com/article/nailing_mr_nice_guy_douglas_adams_on_jesus/#14902">Nailing Mr. Nice Guy: Douglas Adams on Jesus</a>: <p>I think Joanna is very perspicacious. [Look it up&#8230;]
+</p></p>
+
+
+</div>
+
+</div>
+
+<div id="content">
+
+<a name="maincontent"></a>
+
+<h2>The Latest</h2>
+
+
+
+<div class="entrybody">
+
+<h3><a href="http://hippocampusextensions.com/article/issue_09_now_online/">Issue 09 now online!</a></h3>
+
+<p align="center"><a href="/issues/09/"><img src="/images/issues/09/issue09-ad.jpg" width="291" height="388" alt="Click to enter" style="border: 1px solid #050527;" /></a></p>
+
+<div class="entrydetails">
+Karen Beilharz // Wednesday, 01 Feb 2006 // Filed in <a href="http://hippocampusextensions.com/site/archives/category/notices/">Notices</a>
+</div>
+
+</div>
+	
+
+
+<div class="entrybody">
+
+<h3><a href="http://hippocampusextensions.com/article/learning_to_hate/">Learning to Hate</a></h3>
+
+<blockquote>
+<p>Love must be sincere. Hate what is evil; cling to what is good. Be devoted to one another in brotherly love. Honour one another above yourselves.</p>
+<p>(Romans 12:9-10, <a href="http://www.biblegateway.com/passage/?search=Romans%2012:9-10;&version=31;">NIV</a>)</p>
+
+</blockquote>
+
+<p>We are blessed in Australia with some fantastic beaches. When I was growing up, we lived near the coast and a large part of my life was spent at the beach. I remember one day, after we'd been swimming for a while, my brother and I decided to climb one of the cliffs dividing the sand dunes at the back of the beach.</p>
+
+<p>We'd been climbing for a while, clambering up the side, and had reached the edge of the cliff. We were fairly high up and the view was fantastic, as was the adrenaline rush of being so close to the edge. As we turned to go, we realised we were in a pretty dangerous position. In order to get to the very edge of the cliff, we had climbed down a little onto a small flat section and this meant we had to climb back upwards before we could get off the cliff.</p>
+
+<p>The surface we had to climb had been affected by the salt and was so brittle, it came away in our hands. The wind had smoothed the rock and there were no bushes or hand-holds we could use. Feeling myself slipping, I called out to my brother for help but he too was barely holding on and could only turn around, his face pressed against the cliff surface while he clung on for dear life, to give me possible instructions on how to pick my way up the cliff.</p>
+
+<p>An older couple walking on the sand down below saw us and asked if we needed help. For some reason, we told them we were fine and continued to inch ourselves upwards. I remember my brother holding onto the cliff and extending his hand out while I hooked two fingers into his and moved up beside him. What seemed like hours passed before we made it to a more secure patch of cliff and climbed out, making the trek back down to the beach. </p>
+
+<p>In a similar way, Romans 12:9 says we are to &#8220;cling&#8221; to &#8220;what is good&#8221;. But it also says we are to hate&#8212;&#8220;hate what is evil&#8221;. This is a simple and clear command and yet one that is quite difficult. Too often we are confused about what it is to &#8220;hate&#8221; and, instead, I find myself focusing on other parts of the Christian life, such as love, encouragement and worship. It's more confusing because the idea of &#8220;evil&#8221; is not popular to our modern ears and the preaching and rhetoric around the term, &#8220;tolerance,&#8221; comes at the expense of a discussion on &#8220;hate&#8221;.</p>
+
+<p>I think the emotion of &#8220;hate&#8221; is most often related to movements such as the Klu Klux Klan and the rise of the Nazi Regime. Yet to hate is the appropriate response to actions of, say, child molesters&#8212;to anything that is evil, including sin. Learning to hate comes through experience. It may seem strange, training the mind towards such a goal, yet, being caught in sin, and giving into temptation and evil, must give rise to this sort of training.</p>
+
+<p>Sin, such as lust and anger, has patterns. In our minds and in our hearts, we play with sin&#8212;we mess around with it, we enjoy it and sometimes we love it. This is wrong; we are called to hate it. If we know God, who is perfect and holy and asks us to be too&#8212;if we trust in Jesus, who is our sinless saviour&#8212;then we must heed the call to &#8220;love&#8221;, the call to &#8220;cling&#8221; and the call to &#8220;hate&#8221;.</p>
+
+<p>Knowing this will help us not to fall into unhelpful ways of thinking and behaving, for example,</p>
+
+<ul>
+<li>thinking that the sin and evil I experience are too big and it's too hard for me to fight;</li>
+
+<li>thinking that the freedom I have through forgiveness in Christ means that, when it comes to sin, I don't have to think or do anything about it;</li>
+
+<li>thinking, &#8220;I know God will forgive me, so I'll do it and then ask for forgiveness afterwards&#8221;;</li>
+
+<li>asking forgiveness of God, even when I'm in the middle of sinning;</li>
+
+<li>thinking, &#8220;Hate is such a negative emotion I'd rather not have anything to do with it&#8221;;</li>   
+
+<li>thinking, &#8220;Sin and temptation are such personal things, I'd rather not know or be involved in any one else's struggles&#8221;.</li>
+</ul>
+
+<p>Returning to my opening story, I'd like to make a couple of points. Firstly, find that which is good&#8212;Jesus, God's word, his people&#8212;and cling to them.</p>
+
+<p>Secondly, find a brother or sister&#8212;a helping hand close by who can help pull you up to safety&#8212;to stronger ground&#8212;even if it's only with two fingers.</p>
+
+<p>Thirdly, ask for, or accept, help when it is offered. Be aware; don't miss the way out that is given to you (<a href="http://www.gnpcb.org/esv/search/?q=1+Cor+10%3A13">1 Cor 10:13</a>).</p>
+
+<p>Fourthly, don't hold onto this world; it is crumbling and fading away.</p>
+
+<p>Remember,</p>
+
+<blockquote>
+<p>Love must be sincere. Hate what is evil; cling to what is good. Be devoted to one another in brotherly love. Honour one another above yourselves.</p>
+</blockquote>
+
+<div class="entrydetails">
+Matt Davies // Friday, 20 Jan 2006 // Filed in <a href="http://hippocampusextensions.com/site/archives/category/bible_commentary/">Bible Commentary</a>
+</div>
+
+</div>
+	
+
+
+<div class="entrybody">
+
+<h3><a href="http://hippocampusextensions.com/article/stop_laughing_im_dying/">&#8220;Stop Laughing I&#8217;m Dying&#8221;</a></h3>
+
+<p>I love to laugh. I love to see others laughing. The people I’m closest to are the ones that make me laugh. I have a respect for those who can make me laugh. The storytellers&#8212;those who see the world through the eyes of the absurd, the whimsical and their own twisted prism of understanding&#8212;are often some of the smartest people I know.</p>
+
+<p>My favourite TV shows at the moment are the British comedy series <a href="http://www.channel4.com/entertainment/tv/microsites/B/blackbooks/"><cite>Black Books</cite></a>, <a href="http://www.bbc.co.uk/comedy/theoffice/"><cite>The Office</cite></a> and <a href="http://www.fox.com/arresteddev/"><cite>Arrested Development</cite></a> from the US. I find myself saying, &#8220;I love these shows. I love the characters,&#8221; by which I mean I love the way they make me feel&#8212;make me think&#8212;make me laugh.</p>
+
+<p>I've been lending the DVDs to my Christian friends, telling them that they need to experience what I have (though they should be careful with some of the sexual references, swear words, and the glorification of drunkeness and immorality). My evanglestic zeal is acceptable I think. To share laughter and joy is a way of easing pain. Providing an escape is a noble purpose in this world with all its hurt and brokeness.</p>
+
+<p>But I have recently been struck by something I read in Ecclesiastes:</p>
+
+<blockquote>
+<p>It is better to go to the house of mourning </p>
+<p>&nbsp;&nbsp;than to go to the house of feasting,</p>
+<p>for this is the end of all mankind,</p>
+<p>&nbsp;&nbsp;and the living will lay it to heart.</p>
+<p>Sorrow is better than laughter,</p>
+<p>&nbsp;&nbsp;for by sadness of face the heart is made glad.</p>
+<p>(Ecclesiastes 7:2-3)</p>
+</blockquote>
+
+<p>The idea that &#8220;sorrow is better than laughter&#8221; really grinds against me and what I believe. Because this is one line from a book of the Old Testament, I'm hoping to ignore it. Ecclesiates says some strange things, anyway.</p>
+
+<p>I remember one day I was struggling with my faith. I looked around, unhappy with the world as I saw it and with who I had become. I was searching for meaning and I was desperate for hope, and I prayed to the Lord and opened up to the middle of the Bible to Ecclesiastes 1:2 for some reassurance from his word. It said:</p>
+
+<blockquote>
+<p>Vanity of vanities, says the Preacher,</p>
+<p>&nbsp;&nbsp;vanity of vanities! All is vanity.</p>
+</blockquote>
+
+<p>&#8220;Man,&#8221; I thought, &#8220;that's rough!&#8221; But I had to admit that God has a sense of humour; reading that made me laugh and then I began to feel better. I started to think seriously about how to read the Bible and I sat down and read the rest of the book of Ecclesiastes.</p>
+
+<p>In the first few chapters the Teacher seeks and searches out wisdom. Finding it meaningless, he turns his mind to pleasure, making the statement that &#8220;[Laughter] is mad&#8221; (2:2). He then turns his journey to foolishness,</p>
+
+<blockquote>
+<p>I searched with my heart how to cheer my body with wine&#8212;my heart still guiding me with wisdom&#8212;and how to lay hold on folly, till I might see what was good for the children of man to do under heaven during the few days of their life.</p>
+
+<p>(Ecclesiastes 2:3)</p>
+</blockquote>
+
+<p>These odd-sounding statements express for me clearly a certain time in my life. During my early 20s, I had seen the world as absurd and his the creatures on this planet as the same. I had sought to investigate what was worthwhile by drinking heaps, and enjoying laughter and foolish behaviour. And at Uni there were plenty of people willing to do likewise.</p>
+
+<p>I realised, though, that the true absurdity is attempting to live without God&#8212;even denying his existence. I needed to see the world as owned by a Creator God.  While the world is fallen, broken and perishing, it contains a hope that is held out by a loving God&#8212;a redemption offered freely to us through His Son Jesus. The work of God is a powerful, beautiful statement. My reaction, therefore, should be to fear God (5:7). In fact, if we want to understand the world, we need look no farther than the conclusion of Ecclesiastes: &#8220;Fear God and keep his commandments, for this is the whole duty of man.&#8221; (12:13).</p>
+
+<p>I think we humans are entertaining ourselves to death. We're laughing&#8212;seeking pleasure&#8212;chasing after shallow lifestyles of fun and whimsy. But while fun and laughter are gifts to be enjoyed in this world, we need to understand that we will all die and be called to account for our lives. God asks for our lives so that we will seek Him and know Him. We are to give him the whole of our lives for the whole of our whole lives.</p>
+
+<p>Spending time with my friends laughing is wonderful, but we need to spend time together crying also&#8212;thinking on death and focusing on God. At the moment I'm spending time thinking of a funny way to end this article and I’ve got a good joke&#8212;a joke that made me laugh ... laugh so hard I cried.</p>
+
+<div class="entrydetails">
+Matt Davies // Saturday, 14 Jan 2006 // Filed in <a href="http://hippocampusextensions.com/site/archives/category/christian_life/">Christian Life</a>
+</div>
+
+</div>
+	
+
+
+
+<div id="more">
+</div>
+
+</div>
+
+<div id="footer">
+<ul id="footerlinks">
+<li><a href="/">Home</a></li>
+<li><a href="/about/">About</a></li>
+<li><a href="/archives/">Archives</a></li>
+<li><a href="/writing/">Writing</a></li>
+</ul><br />
+<p>All content &copy; 2000&#8211;2016 <a href="http://benbeilharz.com">Ben</a> and <a href="/karen/">Karen</a> Beilharz, and the respective authors.</p> 
+<p>Powered by <a href="http://expressionengine.com/">Expression Engine</a></p>
+</div>
+
+</div>
+
+<!--Include before end of body tag-->
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3851441-1");
+pageTracker._trackPageview();
+</script>
+
+</body>
+
+</html>

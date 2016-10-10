@@ -1,0 +1,495 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN"
+   "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en"><!-- InstanceBegin template="/Templates/main2c_250.dwt.aspx" codeOutsideHTMLIsLocked="false" -->
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<!-- InstanceBeginEditable name="doctitle" -->
+	<title>Page Not Found</title>
+	<!-- InstanceEndEditable -->
+<meta name="description" content="Welcome to the St. Johns County, Florida web site.  A directory of information for residents and visitors to St. Johns County and surrounding areas." />
+<meta name="keywords" content="St. Johns County, St. Augustine, St. Augustine Beach, Bakersville, Crescent Beach, Elkton, Hastings, Julington Creek, North Beach, Orangedale, Ponte Vedra, Ponte Vedra Beach, Riverdale, Sampson, Switzerland, Vilano Beach, St. Johns County, bcc, board of county commissioners, clerk of courts, commissioners, county commissioners, county, departments, elected officials, government, judge, property appraiser, services, sheriff, visitors, supervisior of elections, tax collector" />
+<meta name="author" content="">
+  <link rel="stylesheet" href="/stylesheets/screen.css" type="text/css" media="screen" charset="utf-8">
+  <link rel="stylesheet" href="/stylesheets/typography.css" type="text/css" media="screen" charset="utf-8">
+  <link rel="stylesheet" href="/stylesheets/print.css" type="text/css" media="print" charset="utf-8">
+  <link rel="stylesheet" href="/stylesheets/tabpanel.css" type="text/css" media="screen" charset="utf-8">
+  <link rel="stylesheet" type="text/css" href="/stylesheets/twocol250sb.css" media="screen"/>
+   <!--[if lt IE 8]><link rel="stylesheet" href="/stylesheets/twocol250sb_IE.css" type="text/css" media="screen" charset="utf-8"><![endif]-->
+<!--[if lte IE 6]><link rel="stylesheet" href="/stylesheets/lib/ie.css" type="text/css" media="screen" charset="utf-8"><![endif]-->
+  <link href="/stylesheets/menu.css" rel="stylesheet" type="text/css" />  
+  <!--[if lt IE 8]><link rel="stylesheet" href="/stylesheets/menuIE.css" type="text/css" media="screen" charset="utf-8"><![endif]-->
+    <!-- InstanceBeginEditable name="head" -->
+	<script language="javascript" src="/highlight/highlight.js"></script>
+	<link href="/highlight/sample.css" rel="stylesheet" type="text/css" /><!-- InstanceEndEditable -->
+</head>
+<body>
+<div id="outerwrapper">
+	<div id="topbar">&nbsp;</div>
+    <div id="header">
+      <a href="/index.aspx"><img src="/images/sjc_seal2.jpg" alt="County Seal Click to return to the home page" width="60" height="100" class="logo"/></a>
+      <h1> St. Johns County Government </h1>
+  <h2>Elected Officials, Divisions, Departments, &amp; Information &nbsp;|&nbsp; P: (904) 209-0655&nbsp; |&nbsp; TF: 1-877-475-2468&nbsp; |&nbsp; E: <a href="mailto:info@sjcfl.us" class="emaillink">info@sjcfl.us</a></h2>
+<!-- skip nav link -->
+<a href="#skipnav" id="main" class="skip">Skip Navigation</a> 
+     <div id="topnav">
+    <ul class="mainMenu cssonly" id="menu2" name="menu2">
+  <li><a href="/county/menulists/Departments.aspx">Departments</a>
+<ul class="subnav dept">
+					<li class="colwidth">
+                    <a href="/Commissioners/index.aspx">Board of County Commissioners</a>
+                    <a href="/Administration/index.aspx">Office of the Administrator</a> 
+                    <a href="/AnimalControl/index.aspx">Animal Control & Pet Center</a>
+                    <a href="/BuildingServices/index.aspx">Building Services</a>
+                    <a href="/CodeEnforcement/index.aspx">Code Enforcement</a>
+					<a href="/EconomicDevelopment/index.aspx">Economic Development</a>
+                    <a href="/EmergencyManagement/index.aspx">Emergency Management</a>
+                    <a href="/Engineering/index.aspx">Engineering</a>
+                    <a href="/Environmental/index.aspx">Environmental</a>
+                    <a href="/FireRescue/index.aspx">Fire Rescue</a>
+                    <a href="/GIS/index.aspx">Geographic Information Systems</a></li>
+<li class="colwidth"><a href="/GTV/index.aspx">Government TV</a>
+                    <a href="/GrowthManagement/index.aspx">Growth Management</a>
+                    <a href="/HHS/index.aspx">Health & Human Services</a>
+                    <a href="/Housing/index.aspx">Housing & Community Services</a>
+                    <a href="/LandManagement/index.aspx">Land Management Systems</a>
+                    <a href="/LongRangePlanning/index.aspx">Long Range Planning</a>
+                    <a href="/MarineRescue/index.aspx">Marine Rescue</a>
+                    <a href="/OMB/index.aspx">Office of Management & Budget</a>
+                    <a href="/Operations/index.aspx">Operations</a>
+                    <a href="/Recreation/index.aspx">Parks & Recreation</a>
+                    <a href="/Personnel/index.aspx">Personnel Services</a></li> 
+<li class="colwidth last">
+                    <a href="/PublicAffairs/index.aspx">Public Affairs</a>
+                    <a href="/PublicWorks/index.aspx">Public Works</a>
+                    <a href="/Purchasing/index.aspx">Purchasing</a>
+                    <a href="/RoadandBridge/index.aspx">Road & Bridge</a>
+                    <a href="/SocialServices/index.aspx">Social Services</a>
+                    <a href="/SolidWaste/index.aspx">Solid Waste Management</a>
+					<a href="/Survey/index.aspx">Survey & Mapping</a>
+                    <a href="/Transportation/index.aspx">Transportation</a>
+                    <a href="/Utilities/index.aspx">Utility Department</a>
+                    <a href="/VeteransServices/index.aspx">Veterans' Services</a>
+                    <a href="/county/menulists/departments.aspx">FULL LIST</a></li>
+	</ul>
+  		</li>            
+<li><a href="/county/menulists/services.aspx">Services</a>
+<ul class="subnav serv">
+					<li class="colwidth">
+                    <a href="/FireRescue/AEDregistry.aspx">AED Registration</a>
+                    <a href="/ExtensionServices/index.aspx">Agricultural Center</a>
+					<a href="/BuildingServices/Inspections.aspx">Building Inspections</a>
+                    <a href="/BuildingServices/PermitStatus.aspx">Building Permit Status</a>
+                    <a href="http://webapp.sjcfl.us/Applications/WATSWebX/Clrsht/SearchClrsht.aspx" target="_blank">Clearance Review Status</a>
+                    <a href="/CodeEnforcement/index.aspx">Code Enforcement</a>
+                    <a href="/ContractorLicensing/index.aspx">Contractor License</a>
+                    <a href="http://sjcfl.enrollware.com/" target="_blank">CPR Training</a>
+                    <a href="/EconomicDevelopment/index.aspx">Economic Development</a>
+                    <a href="/Engineering/ProjectViewer.aspx">Engineering Project Viewer</a>
+                    <a href="/SolidWaste/ResidentialGarbage.aspx">Garbage Collection</a>
+                    </li>
+<li class="colwidth">
+                    <a href="/HHS/index.aspx">Health & Human Services</a>
+                    <a href="/GIS/iMap.aspx">iMap</a>
+                   	<a href="http://www.sjcpls.org/" target="_blank">Library, Public</a>
+                    <a href="/GIS/MapMart.aspx">Map Mart</a>
+                    <a href="/county/CitizenMediation.aspx">Mediation Services</a>
+                    <a href="/RoadandBridge/mowing.aspx">Mowing Services</a>
+                    <a href="/NBR/index.aspx">Neighborhood Bill of Rights</a>
+                    <a href="http://doris.clk.co.st-johns.fl.us/LandmarkWebSJC " target="_blank">Official Records Search</a>
+                    <a href="http://www.sjcpa.us/Disclaimer%20GIS%20Search.html" target="_blank">Parcel Locator</a>
+                    <a href="/BuildingServices/PermitStatus.aspx">Permit Status</a>
+                    <a href="/AnimalControl/PetCenter.aspx">Pet Center</a>
+                    </li>
+<li class="colwidth last">  
+					<a href="/Cards/index.aspx">Prescription Cards</a>
+                    <a href="/CodeEnforcement/PRIDE.aspx">P.R.I.D.E.</a>
+                    <a href="/OpenGovernment/index.aspx">Public Records Requests</a>
+                    <a href="/Recreation/index.aspx">Recreation Programs</a>
+                    <a href="/SolidWaste/Recycle.aspx">Recycling</a>
+                    <a href="/SBDC/index.aspx">Small Business Center</a>
+                    <a href="http://stjohnstaxcollector.governmax.com/collectmax/collect30.asp?sid=9FE4715E11394A719C18AF09C3380A9E" target="_blank">Taxes - Search & Pay</a>
+                    <a href="/VeteransServices/index.aspx">Veteran's Services</a>
+                    <a href="/Utilities/index.aspx">Utilities / Bill Pay</a>
+                    <a href="/county/menulists/services.aspx">FULL LIST</a></li>
+    </ul>
+		</li>
+<li><a href="/county/menulists/info.aspx">Information</a>
+<ul class="subnav info">
+<li class="colwidth">
+					<a href="/county/AgendasMinutes.aspx">Agendas & Minutes</a>
+                    <a href="/Beaches/index.aspx">Beaches</a>
+                    <a href="/Boards/index.aspx">Boards & Committees</a>
+                    <a href="/Recreation/BoatRamp.aspx">Boat Ramps</a>
+                    <a href="/Calendars+/utility.aspx">Boil Water Notices</a>  
+                    <a href="/OMB/index.aspx">Budget & Financials</a>
+                    <!--a href="/county/CommunityResourceDirectory/index.aspx">Community Resource Directory</a-->
+                    <a href="/LongRangePlanning/2025GOP.aspx">Comprehensive Plan</a>
+                    <a href="/EconomicDevelopment/index.aspx">Economic Development</a>
+                    <a href="/Engineering/media/ProjectUpdateList.pdf" target="_blank">Engineering Project List</a>
+                    <a href="/media/FeeSchedule.pdf" target="_blank">Fees</a>
+                    <a href="/FirePrevention/index.aspx">Fire Prevention</a></li>
+                    
+<li class="colwidth">
+                    <a href="/FloodFacts/index.aspx">Flood Facts</a>
+                    <a href="/FIP/FosterParent.aspx">Foster Parenting</a> 
+                    <a href="/SolidWaste/index.aspx">Garbage / Recycling</a>
+                    <a href="/Transparency/">Government Transparency</a>
+                    <a href="/GTV/index.aspx">GTV - Watch Online</a>
+                    <a href="/HCP/index.aspx">Habitat Conservation Plan</a>
+					<a href="/county/holidays.aspx">Holidays</a>
+                    <a href="/Personnel/Jobs.aspx">Job Openings</a>
+                    <a href="/LongRangePlanning/LandDevelopment.aspx">Land Development Regulations</a>
+                    <!--a href="/media/LegislativeActionPlan.pdf" target="_blank">Legislative Action Plan</a-->
+                    <a href="/GIS/MapMart.aspx">Maps</a>
+                    <a href="/MeetingPhotos/index.aspx">Meeting Photos</a>
+<li class="colwidth last">
+                    <a href="/county/MosquitoControl.aspx">Mosquito Control</a>
+                    <a href="/NBR/index.aspx">Neighborhood Bill of Rights</a>
+                    <a href="/Operations/media/PendingApplications.pdf" target="_blank">Pending Applications Report</a>
+                    <a href="/Operations/planningandzoning.aspx">Planning &amp; Zoning</a>
+                    <a href="/PublicAffairs/index.aspx">Press Releases</a>
+                    <a href="/OpenGovernment/index.aspx">Public Records Requests</a>
+                    <a href="/county/CommunityInformation.aspx">Resident Info</a>
+                    <a href="/Recreation/tides.aspx">Tides</a>
+                    <a href="/Traffic/index.aspx">Traffic & Travel</a>
+                    <a href="/Transportation/TransPlanning.aspx">Transportation / Concurrency</a>
+                    <a href="/county/menulists/info.aspx">FULL LIST</a></li>
+   	</ul>
+		</li>
+<li><a href="/county/menulists/calendar.aspx">Calendars</a>
+<ul class="subnav cal">
+                	<li class="colwidth">
+                    <a href="/Calendars+/index.aspx">SJC Master Calendar</a>
+                    <a href="/Calendars+/BCC.aspx">Board of County Commissioners</a>
+                    <a href="/Calendars+/events.aspx">Events</a>
+                    <!--<a href="/Calendars+/gtv.aspx">Government TV</a>-->
+                    <a href="/Calendars+/gm.aspx">Growth Management</a>
+                    <a href="/Calendars+/HHS.aspx">Health & Human Services</a>
+                    <a href="/Calendars+/NBR.aspx">Neighborhood Bill of Rights</a>
+                    <a href="/Calendars+/TDC.aspx">Tourist Development Council</a>
+                    <a href="/Calendars+/utility.aspx">Utility Boil Water Notices</a>
+                    </li>
+<li class="colwidth last"> 
+ 
+                    <a href="/Calendars+/Recreation.aspx">Recreation Master Calendar</a>
+                    <a href="/Calendars+/Recreation_AG.aspx">Alpine Groves</a>
+                    <a href="/Calendars+/Recreation_FG.aspx">Fairgrounds</a>
+                    <a href="/Calendars+/Recreation_Nocatee.aspx">Nocatee</a>
+                    <a href="/Calendars+/Recreation_TroutC.aspx">Trout Creek</a>
+                    <a href="/county/menulists/calendar.aspx">FULL LIST</a></li>
+    </ul>
+         </li>
+<li><a href="/county/menulists/government.aspx">Government</a>
+<ul class="subnav gov">
+                <li class="colwidth"> 
+                    <a href="/Commissioners/index.aspx">County Commissioners</a>
+                    <a href="http://www.sjccoc.us/" target="_blank">Clerk of Court</a>
+                    <a href="/county/judicial.aspx">Judicial Services</a>
+                    <a href="http://www.sjcpa.us/" target="_blank">Property Appraiser</a>
+                    <a href="http://www.sjso.org/" target="_blank">Sheriff's Office</a>
+                    <a href="http://votesjc.com/" target="_blank">Supervisor of Elections</a>
+                    <a href="http://www.sjctax.us/" target="_blank">Tax Collector</a>
+                    .................................
+                    <a href="http://www.stjohns.k12.fl.us/" target="_blank">School District</a>
+                    <a href="http://floridaswater.com/" target="_blank">St. Johns River Water Mgt</a>
+                    <a href="/county/MosquitoControl.aspx">Mosquito Control</a></li>
+<li class="colwidth last">
+ 					<a href="http://www.hastings-fl.com/" target="_blank">Hastings, Town of</a>
+                    <a href="http://www.pvmsd.org/" target="_blank">Ponte Vedra Municipal Service</a>
+                    <a href="http://www.staugustinegovernment.com/" target="_blank">St. Augustine (City of)</a>
+                    <a href="http://www.staugustinegovernment.com/your_government/admin-police-dept.cfm" target="_blank">St. Augustine Police</a>
+                    <a href="http://www.staugbch.com/" target="_blank">St. Augustine Beach</a>
+                    <a href="http://www.staugbch.com/departments/police/pd.htm" target="_blank">St. Augustine Beach Police</a>
+                    <a href="http://www.myflorida.com/" target="_blank">MyFlorida.com</a>
+                    <a href="http://myfwc.com/" target="_blank">FL Fish &amp; Wildlife Commission</a>
+                    <a href="http://www.flhsmv.gov/" target="_blank">Dept of Motor Vehicles</a>
+                    <a href="/county/menulists/government.aspx">FULL LIST</a></li>    
+	</ul>
+		</li>            
+<li><a href="/county/menulists/links.aspx">Links</a>
+  <ul class="subnav links">
+					<li class="colwidth">
+                    <a href="http://www.staugamphitheatre.com/" target="_blank">Amphitheatre</a>
+                    <a href="http://www.coasjc.com/" target="_blank">Council on Aging</a>
+                    <a href="http://www.stjohnsculture.com/" target="_blank">Cultural Council</a>
+                    <a href="http://www.usa.gov/" target="_blank">FirstGov.com</a>
+                    <a href="http://www.floridavets.org/" target="_blank">FL Veteran's Affairs</a>
+                    <a href="http://www.stjohnschd.org/" target="_blank">Health Department</a>       
+                    <a href="http://www.MedEx.sjcfl.us" target="_blank">Medical Examiner</a>
+                    <a href="http://www.myflorida.com/" target="_blank">MyFlorida.com</a>
+                    <a href="http://www.pontevedraca.org/" target="_blank">Ponte Vedra Community Assoc.</a>
+                    <a href="http://www.pvconcerthall.com/" target="_blank">Ponte Vedra Concert Hall</a>
+                    <a href="http://www.pvmsd.org/" target="_blank">Ponte Vedra Municipal Service</a>
+                    </li>
+      <li class="colwidth last"> 
+      				<a href="http://www.stjohns.k12.fl.us/" target="_blank">SJC School District</a>             
+                    <a href="http://www.ci.st-augustine.fl.us/" target="_blank"> St. Augustine</a>
+                    <a href="http://www.staugbch.com/" target="_blank">St. Augustine Beach</a>
+                    <a href="http://www.staugustinegovernment.com/your_government/admin-police-dept.cfm" target="_blank">St. Augustine Police</a>
+                    <a href="http://www.staugbch.com/departments/police/pd.htm" target="_blank">St. Augustine Beach Police</a>
+                    <a href="http://www.sjgc.com/" target="_blank">St. Johns Golf Club</a>
+                    <a href="http://floridaswater.com/" target="_blank">St. Johns River Water Mgt</a>
+                    <a href="http://www.sunshinebus.net/schedule.html" target="_blank">Sunshine Bus Schedule</a>
+                    <a href="http://www.floridashistoriccoast.com/" target="_blank">Visit Florida's Historic Coast</a>
+                    <a href="/county/menulists/links.aspx">FULL LIST</a></li>
+    </ul>
+  </li>
+<li><a href="/county/menulists/contact.aspx">Contact</a>
+<ul class="subnav contact">
+					<li class="colwidth">
+                    <a href="/Commissioners/Contact.aspx">Board of County Commissioners</a>
+                    <a href="/county/BoCCcontacts.aspx?type=phone&sort=name">Employee Phone Numbers</a>
+                    <a href="/county/BoCCcontacts.aspx?type=email&sort=name">Employee Email</a>
+                    <a href="/county/BoCCcontacts.aspx?type=phone&sort=dept">Phone Numbers by Department</a>
+                    <a href="/media/CountyPhoneNumberBrochure.pdf" target="_blank">Department / Service Contact</a>
+                    <a href="/connect/index.aspx">Connect with SJC</a>
+                    <a href="/CodeEnforcement/PRIDE.aspx">PRIDE</a>
+                    </li>
+                    <li class="colwidth last">
+                    <a href="http://www.sjccoc.us/contact/" target="_blank">Clerk of Courts</a>
+                    <a href="/county/judicial.aspx">Judicial Services</a>
+                    <a href="http://www.sjcpa.us/" target="_blank">Property Appraiser</a>
+                    <a href="http://www.sjso.org/" target="_blank">Sheriff's Office</a>
+                    <a href="http://votesjc.com/" target="_blank">Supervisor of Elections</a>
+                    <a href="http://www.sjctax.us/" target="_blank">Tax Collector</a>
+                    <a href="/county/menulists/Contact.aspx">FULL LIST</a></li>
+    </ul>
+         </li>
+  <li class="subnav last"><a href="/index.aspx">Home</a>  </li>
+	  </ul>
+
+<div id="GlobalNavSearch"><style>
+#searchform {
+position:absolute;
+margin-left:10px;
+height:75px!important;
+z-index:1000;
+
+}
+#Submit1 {
+	background: url(/images/search.jpg) no-repeat right;
+	margin-left:5px;
+	width:28px;
+	height: 25px;
+	border: none;
+	font-size:1px;
+	color:#859CA3;
+}
+</style>
+<form id="searchform" action="/search/searchtest.aspx" method="get">
+    <label for="q" style="display:none">Search</label> 
+    <!--<input name="q" value='Search' type="text" size="27" onFocus="this.value='';"/>-->
+    <input name="q" id="q" type="text" size="27"/>
+    <input name="Search" type="submit" id="Submit1" value="Search" />
+</form>
+
+<!--form action="http://www.sjctax.us/Search2.aspx" id="cse-search-box">
+  <div>
+    <input type="hidden" name="cx" value="016105937592561285889:mqgsl3ud8bc" />
+    <input type="hidden" name="cof" value="FORID:9" />
+    <input type="hidden" name="ie" value="UTF-8" />
+
+    <input type="text" name="q" size="28" />
+    
+    <input type="submit" name="sa" value="       " height="25px"class="SearchButton"/>
+  </div>
+</form>
+
+<script type="text/javascript" src="http://www.google.com/jsapi"></script>
+<script type="text/javascript">google.load("elements", "1", {packages: "transliteration"});</script>
+<script type="text/javascript" src="http://www.google.com/coop/cse/t13n?form=cse-search-box&t13n_langs=en"></script>
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&lang=en"></script>
+		  </form--> 
+
+<!--div id="cse" class="globalnavsearch" style="width:250px;">Loading</div>
+<script src="http://www.google.com/jsapi" type="text/javascript"></script>
+<script type="text/javascript"> 
+  google.load('search', '1', {language : 'en'});
+  google.setOnLoadCallback(function() {
+    var customSearchControl = new google.search.CustomSearchControl('016105937592561285889:mqgsl3ud8bc');
+    customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+    customSearchControl.draw('cse');
+  }, true);
+</script>
+<link rel="stylesheet" href="http://wwwnew.sjcfl.us.com/stylesheets/screen.css" type="text/css" /-->
+</div>
+  </div>
+ </div>
+  <div id="contentwrapper">
+  <div id="maincol575">
+    <div id="maincontent">
+<!-- skip nav anchor -->
+<a name="skipnav" id="skipnav"></a>    
+  <!-- InstanceBeginEditable name="content" -->
+<h1>Page Moved</h1>
+<p class="redbold">The
+  page you are trying to reach no longer exists or has been moved. </p>
+<p><em>We
+  apologize for any inconvenience this may have caused you.</em></p>
+<p>Listed below are
+  links to some of our most popular pages, if your page is not among
+  them, please check the Drop down menus above, the full list pages for <a href="../county/menulists/Departments.aspx">Departments</a>, <a href="../county/menulists/services.aspx">Services</a>, <a href="../county/menulists/info.aspx">Information</a>, <a href="../county/menulists/calendar.aspx">Calendars</a>, <a href="../county/menulists/government.aspx">Government</a>, <a href="../county/menulists/contact.aspx">Contact </a>or <a href="../county/menulists/links.aspx">Related Links</a> or visit the
+  <a href="../SiteIndex.aspx">Site Index</a> page. You
+  can also <a href="mailto:webmast@sjcfl.us">email us</a> about
+  this problem so that we can either correct it or help you find the information
+  you seek. </p>
+<blockquote>
+  <p class="bluebold">Top SJC Links:</p>
+  <ul>
+    <li><a href="../Commissioners/index.aspx">Board of County Commissioners</a></li>
+    <li><a href="../GrowthManagement/index.aspx">Growth Management</a></li>
+    <li>      <a href="http://doris.clk.co.st-johns.fl.us/oncoreweb/Search.aspx" target="_blank">Official
+        Records Search</a></li>
+    <li><a href="../Recreation/index.aspx">Parks &amp; Recreation</a></li>
+    <li><a href="../AnimalControl/PetCenter.aspx">Animal Control Pet Center</a></li>
+    <li><a href="../SolidWaste/index.aspx">Solid Waste Management Garbage Collection &amp; Recycling Info</a></li>
+    <li>      <a href="../GIS/IMap.aspx" >iMap</a></li>
+    <li>      <a href="http://www.sjcpa.us/" target="_blank">Parcel Locater </a> (Property Appraiser)</li>
+    <li>      <a href="../BuildingServices/PermitStatus.aspx">Building
+        Permits </a></li>
+    <li>      <a href="../Personnel/index.aspx">Employment</a></li>
+    <li>      <a href="../county/AgendasMinutes.aspx">Agendas &amp; Minutes</a></li>
+  </ul>
+  <p><strong>If you need assistance finding something, please <a href="mailto:webmast@sjcfl.us">email us</a> so that we can assist.</strong></p>
+</blockquote>
+<p>&nbsp;</p>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-7541158-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!-- InstanceEndEditable -->    </div>
+    <!-- InstanceBeginEditable name="footer" -->
+      <div id="footer">
+   <div class="left">
+      <h3>Website:</h3>
+      <ul>
+        <li><a href="/index.aspx">Home</a></li>
+        <li><a href="/SiteIndex.aspx">Site Index</a></li>
+        <li><a href="/county/SiteTools/index.aspx">Site Tools / Help</a></li>
+        <li><a href="/county/SiteTools/TextSize.aspx">Adjusting Text Size</a></li>
+        <li><a href="mailto:webmast@sjcfl.us">Contact the Web Team</a></li>
+        <li><a href="/county/SiteTools/privacy.aspx">Privacy Policy</a></li>
+        <li><a href="/county/SiteTools/disclaimer.aspx">Disclaimer</a></li>
+     </ul>
+  </div>
+   <div class="centered">
+      <h3>Elected Officers:</h3>
+      <ul>
+        <li><a href="/Commissioners/index.aspx">Commissioners</a></li>
+        <li><a href="http://www.sjccoc.us/" target="_blank">Clerk of Court</a></li>
+        <li><a href="/county/judicial.aspx">Judicial Services</a></li>
+        <li><a href="http://www.sjcpa.us/" target="_blank">Property Appraiser</a></li>
+        <li><a href="http://www.sjso.org/" target="_blank">Sheriff's Office</a></li>
+        <li><a href="http://votesjc.com/" target="_blank">Supervisor of Elections</a></li>
+        <li><a href="http://www.sjctax.us/" target="_blank">Tax Collector</a></li>
+     </ul>
+   </div>
+   <div class="right">
+      <h3>Affiliate Sites:</h3>
+      <ul>
+        <li><a href="http://www.staugamphitheatre.com/" target="_blank">Amphitheatre</a></li>
+        <li><a href="http://www.pvconcerthall.com/" target="_blank">Ponte Vedra Concert Hall</a></li>
+        <li><a href="http://www.sjcemergencymanagement.org/" target="_blank">Emergency Management</a></li>
+        <li><a href="http://www.sjcpls.org/" target="_blank">Public Libraries</a></li>
+        <li><a href="http://www.sjgc.com/" target="_blank">Golf Course</a></li>
+        <li><a href="http://www.floridashistoriccoast.com/" target="_blank">Florida's Historic Coast</a></li>
+        <li><a href="http://www.historiccoastculture.com">Historic Coast Culture</a></li>
+     </ul>
+  </div>
+   <div id="footerlast">
+        <p class="center"><strong>LOCAL: (904) 209-0655&nbsp;&nbsp; |&nbsp;&nbsp; TOLL FREE: 1-877-4SJCGOV (1-877-475-2468)</strong><br>
+        General Information: <a href="mailto:info@sjcfl.us">info@sjcfl.us</a><strong>&nbsp;&nbsp; </strong>|<strong>&nbsp;&nbsp; </strong>Website &amp; Technical: <a href="mailto:webmast@sjcfl.us">webmast@sjcfl.us</a></p>
+        <p align="center"  style="padding-top:10px"><a href="http://ec.sjcfl.us/home"><strong>SJC Employee Connection</strong></a></p>
+    
+     <p class="legal">Under Florida law, email addresses are public records.<br>
+     If you do not want your email address released in response to a public records request, <bR>
+     do not send electronic mail to this entity. Instead, contact this office by phone or in writing.</p>
+   
+  </div>
+</div>
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+    <!-- InstanceEndEditable -->
+  </div>
+  <!--end mainwide wrapper-->
+<!-- start sb container --> 
+<div id="sidebarwide" class="modwrapper"><!-- InstanceBeginEditable name="sidebar" -->
+<div id="nav" class="sbbox">
+<table>
+	<tr>
+	  <td><h1>Offices &amp; Departments</h1></td>
+        </tr>
+        <tr>
+          <td valign="top"><ul>
+            <li><a href="/county/menulists/Departments.aspx">County Departments</a></li>
+            <li><a href="/Commissioners/index.aspx">Board of County Commissioners</a></li>
+            <li><a href="http://www.sjccoc.us/" target="_blank">Clerk of Court</a></li>
+            <li><a href="/county/judicial.aspx">Judicial Services</a></li>
+            <li><a href="http://www.sjcpa.us" target="_blank">Property Appraiser</a></li>
+            <li><a href="http://www.sjso.org/" target="_blank">Sheriff's Office</a></li>
+            <li><a href="http://votesjc.com/" target="_blank">Supervisor of Elections</a></li>
+            <li><a href="http://www.sjctax.us/" target="_blank" class="anoborder">Tax Collector</a></li>
+          </ul><script language="javascript">setPage()</script></td>
+        </tr>
+</table>
+</div>
+<div class="sbbox">
+<div class="picbox">
+<table cellpadding="0" cellspacing="8">
+
+        <tr>
+          <td><h5>Florida&#8217;s Historic Coast</h5></td>
+        </tr>
+        <tr>
+      <td width="350"><div align="center">
+      <a id="Admin"><img src="/images/SBPICS/SBPic(15).jpg" alt="Images of St. Johns County" border="0" /></a>
+		  </div></td></tr>
+</table>
+</div>
+</div>
+
+
+<!-- InstanceEndEditable --></div>
+<!-- end sidebar -->
+</div>
+</div>
+</body>
+<!-- drop down menu script -->  
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+  <script type="text/javascript" src="/jquery/jquery.hoverIntent.minified.js"></script>
+ <script type="text/javascript">
+      $(document).ready(function () {
+
+          function megaHoverOver() {
+              $(this).find("ul").stop().fadeTo('fast', 1).show();
+          }
+
+          function megaHoverOut() {
+              $(this).find("ul").stop().fadeTo('fast', 0, function () {
+                  $(this).hide();
+              });
+          }
+
+          var config = {
+              sensitivity: 1, // number = sensitivity threshold (must be 1 or higher)
+              interval: 100, // number = milliseconds for onMouseOver polling interval
+              over: megaHoverOver, // function = onMouseOver callback (REQUIRED)
+              timeout: 100, // number = milliseconds delay before onMouseOut
+              out: megaHoverOut // function = onMouseOut callback (REQUIRED)
+          };
+
+    //      $("ul").css({ 'opacity': '0' });
+          $("#topnav li").hoverIntent(config);
+
+
+
+      });
+ 
+</script>
+<!-- InstanceEnd --></html>

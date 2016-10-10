@@ -1,0 +1,283 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/highway-patrol.dwt.aspx" codeOutsideHTMLIsLocked="false" -->
+<head>
+ 
+ 
+<link href="../../stylesheets/user.css" rel="stylesheet" type="text/css" media="screen"/>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-45912935-1', 'sd.gov');
+  ga('send', 'pageview');
+
+</script>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+
+<link href="/stylesheets/screen.css" rel="stylesheet" type="text/css" media="screen"/>
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="/stylesheets/ie6.css" />
+<![endif]--> 
+
+<link rel="shortcut icon" href="/images/favicon.ico"type="image/x-icon"/>  
+<link rel="icon" href="/images/favicon.ico"type="image/x-icon"/>   
+    
+<title>South Dakota Department of Public Safety: Enforcement: Highway Patrol</title>
+<meta name="keywords" content=""/>
+<meta name="description" content=""/>
+<meta name="robots" content="index, follow" />
+<meta name="revisit-after" content="30 days" />
+
+
+<style type="text/css">
+<!--
+.style1 {font-size: 16px}
+.style5 {font-size: 15px; color: #993300; }
+.style6 {font-size: 13px}
+.style7 {
+  color: #990033;
+  font-style: italic;
+}
+.style10 {font-size: 13px; color: #000000; }
+.style16 {color: #990000}
+.style21 {
+  color: #990000;
+  font-size: 48px;
+  font-weight: bold;
+}
+.style22 {
+  color: #990033;
+  font-size: 37px;
+}
+-->
+</style>
+</head>
+<body><div id="main">
+<div class="page">
+<div class="header whitebackground">
+			<div class="logo"><a href="/default.aspx" class="searchlink" title="South Dakota Department of Public Safety" onMouseOver="window.status='South Dakota Department of Public Safety';return true;" onMouseOut="window.status='';return true;"><img src="/images/lg_SDDPS.gif" width="405" height="60" alt="South Dakota Department of Public Safety"></a></div>
+			<div class="search">
+				
+                <script>
+  (function() {
+    var cx = '012382400048732927914:1mvju9-nezq';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+
+<div class= "gcse-searchbox"><gcse:searchbox-only></gcse:searchbox-only></div>
+
+			</div>
+			<div class="mainnavigation">
+				<img src="/images/gr_Swirl.jpg" width="225" height="85" style="float: left">
+				<div class="buttons">
+					<div class="button bold"><a href="/" class="mainnavigation" title="Department of Public Safety Home Page" onMouseOver="window.status='Department of Public Safety Home Page';return true;" onMouseOut="window.status='';return true;" style="padding: 0px 43px 2px 34px">DPS Home</a></div>
+					<div class="button bold"><a href="/about.aspx" class="mainnavigation" title="About the Department of Public Safety" onMouseOver="window.status='About the Department of Public Safety';return true;" onMouseOut="window.status='';return true;" style="padding: 0px 45px 2px 28px; text-align: center">About DPS</a></div>
+					<div class="button bold"><a href="/contact.aspx" class="mainnavigation" title="Contact the Department of Public Safety" onMouseOver="window.status='Contact the Department of Public Safety';return true;" onMouseOut="window.status='';return true;" style="margin-left: 1px; padding: 0px 37px 2px 16px; text-align: center">Contact DPS</a></div>
+					<div class="button bold"><a href="http://sd.gov/" target="_blank" class="mainnavigation" title="State of South Dakota Home Page" onMouseOver="window.status='State of South Dakota Home Page';return true;" onMouseOut="window.status='';return true;" style="padding: 0px 25px 2px 32px; text-align: center">SD Home</a></div>
+				</div>
+				<img src="/images/gr_RightTopCorner.gif" width="23" height="85" style="float: left">
+			</div>
+		</div>
+		<div class="content whitebackground">
+			<div class="left">
+								<div class="sidebarheader leftheader blue"><span class="largecapital">A</span>gencies</div>
+				<div class="subnavigation">
+					<div class="subnavsection">
+					
+							<a href="/administration.aspx" class="bluelink blue bold" title="Administration" onMouseOver="window.status='Admninistration';return true;" onMouseOut="window.status='';return true;">Administration</a>
+						
+					</div>
+					<div class="subnavbutton">	
+					</div>
+					<div class="subnavbutton">
+						
+							<a href="/enforcement/accident_records/" class="bluelink blue bold" title="Accident Records" onMouseOver="window.status='Accident Records';return true;" onMouseOut="window.status='';return true;">Accident Records</a>
+							
+					</div>
+					<div class="subnavbutton">
+						
+							<a href="/enforcement/highway_safety/" class="bluelink blue bold" title="Highway Safety" onMouseOver="window.status='Highway Safety';return true;" onMouseOut="window.status='';return true;">Highway Safety</a>
+							
+					</div>
+					<div class="subnavbutton">
+						
+							<a href="/homeland_security/" class="bluelink blue bold" title="Homeland Security" onMouseOver="window.status='Homeland Security';return true;" onMouseOut="window.status='';return true;">Homeland Security</a>
+								
+					</div>
+					<div class="subnavsection">					
+						
+							<a href="/licensing/" class="graylink gray bold" title="Licensing" onMouseOver="window.status='Licensing';return true;" onMouseOut="window.status='';return true;">Licensing</a>
+						
+					</div>
+					<div class="subnavbutton">
+						
+							<a href="/licensing/driver_licensing/" class="graylink gray bold" title="Driver Licensing" onMouseOver="window.status='Driver Licensing';return true;" onMouseOut="window.status='';return true;">Driver Licensing</a>
+						
+					</div>
+					<div class="subnavbutton">
+						
+							<a href="/licensing/state_inspection/" class="graylink gray bold" title="State Inspection" onMouseOver="window.status='State Inspection';return true;" onMouseOut="window.status='';return true;">State Inspection</a>
+						
+					</div>
+					<div class="subnavbutton">
+						
+							<a href="/licensing/weights_and_measures/" class="graylink gray bold" title="Weights & Measures" onMouseOver="window.status='Weights & Measures';return true;" onMouseOut="window.status='';return true;">Weights & Measures</a>
+						
+					</div>
+					<div class="subnavsection">
+						
+							<a href="/enforcement/" class="redlink red bold" title="Enforcement" onMouseOver="window.status='Enforcement';return true;" onMouseOut="window.status='';return true;">Enforcement</a>
+							
+					</div>
+					<div class="subnavbutton">
+						
+							<span class="gray bold redleftborder">Highway Patrol</span>
+						
+					</div>
+					<div class="subnavbutton">
+						
+							<a href="/enforcement/state_radio_dispatch/" class="redlink red bold" title="State Radio Dispatch" onMouseOver="window.status='State Radio Dispatch';return true;" onMouseOut="window.status='';return true;">State Radio Dispatch</a>
+						
+					</div>
+					<div class="subnavsection">
+						
+							<a href="/emergency_services/" class="bluelink blue bold" title="Emergency Services" onMouseOver="window.status='Emergency Services';return true;" onMouseOut="window.status='';return true;">Emergency Services</a>
+						
+					</div>
+					<div class="subnavbutton">
+						
+							<a href="/emergency_services/emergency_management/" class="bluelink gray bold" title="Emergency Management" onMouseOver="window.status='Emergency Management';return true;" onMouseOut="window.status='';return true;">Emergency Management</a>
+						
+					</div>
+					<div class="subnavbutton">
+						
+							<a href="/emergency_services/state_fire_marshal/" class="bluelink gray bold" title="State Fire Marshal" onMouseOver="window.status='State Fire Marshal';return true;" onMouseOut="window.status='';return true;">State Fire Marshal</a>
+						
+					</div>
+					<div class="subnavsection">
+						
+							<a href="/sd_911/" class="redlink red bold" title="State 911 Coordination" onMouseOver="window.status='State 9-1-1 Coordination';return true;" onMouseOut="window.status='';return true;">State 911 Coordination</a>
+						
+					</div>
+				</div>
+                
+			</div>
+            
+            
+            <div class="middle">
+			  <div><!-- InstanceBeginEditable name="photo" -->
+		      <h4 align="center" style="margin-top: 0; margin-bottom: 0">
+		        <iframe width="465" height="321" src="//www.youtube.com/embed/XJrdAkeVEHU" frameborder="0" allowfullscreen></iframe>
+		      </h4>
+			  <!-- InstanceEndEditable --></div>
+			  <div class="copy gray">
+				<p class="enforcementpageheader" style="margin-bottom: 0">
+				<!-- InstanceBeginEditable name="Headline" --><span class="style7"><img src="images/HPlogo.png" alt="SDHP Graphic" width="400" height="56" /></span><!-- InstanceEndEditable --></p>
+				<p style="margin-top: 0; margin-bottom: 0;">&nbsp;</p>
+				<!-- InstanceBeginEditable name="content" -->
+		<p align="left" class="enforcementpageheader" style="margin-top: 0; margin-bottom: 0;"><span class="style1"><span class="style5"><span class="style16"><strong>Message from Colonel Craig Price</strong></span></span></span></p>
+		<p align="left" class="enforcementpageheader" style="margin-top: 0;"><span class="style1"><span class="style5"><span class="style16">Superintendent of the SD Highway Patrol</span></span></span></p>
+		<p class="style6" style="margin-bottom: 0;"><span class="style10" style="margin-top: 0; margin-bottom: 0;"><img src="images/SDHPColonelCraigPrice.jpg" width="107" height="108" hspace="8" align="left" /></span></p>
+        <p style="margin-top:0;">Thank you for visiting the South Dakota Highway Patrol website. This site provides information about the services performed by  the South Dakota Highway Patrol. You can find a plethora of information about what we do each day to serve South Dakota&rsquo;s citizens and our visitors.</p>
+        <p>I am pleased to announce the South Dakota Highway Patrol&rsquo;s social media pages have been a resounding success. We have received overwhelming positive responses from our citizens. The sites have been used to announce everything from accident reports to safety reminders. The sites also allow South Dakota citizens to receive accurate and up-to-date information about ongoing events in our state. The sites have helped us continue to achieve our number one priority of keeping citizens safe.</p>
+        <p>We are about to begin  our 4th Annual Youth Trooper Academy.&nbsp; This exciting program provides junior and senior high school students with a one-week demonstration of what it takes to be a South Dakota Highway Patrol Trooper.&nbsp; With the help of the American Legion, this program has continued to grow in number of applicants since its introduction in 2012.</p>
+        <p>The South Dakota Highway Patrol&rsquo;s goal is to continue to make South Dakota one of the greatest places in the world to live, work, visit, and raise a family. Your safety is our number one priority. The men and women of the South Dakota Highway Patrol work every day to maintain this priority. The South Dakota Highway Patrol also works with law enforcement agencies across the state to better serve you as a citizen or traveler in our great state.</p>
+        <p>I look forward to your comments and thank you for visiting the South Dakota Highway Patrol Website!</p>
+<p style="margin-bottom: 0;">&nbsp;</p>
+<p align="center" class="factbox" style="margin-top: 0;"><a href="http://www.facebook.com/SDHighwayPatrol"><img src="images/fbbutton.jpg" width="180" height="54" border="0" /></a><a href="https://twitter.com/#!/SDHighwayPatrol"><img src="images/tbutton.jpg" width="180" height="54" border="0" /></a></p>
+<p style="margin-bottom: 0;">&nbsp;</p>
+<p style="margin-top: 0;"><u>Social Media Links</u></p>
+        <p>&bull;	<a href="https://www.facebook.com/SDHighwayPatrol">https://www.facebook.com/SDHighwayPatrol</a> <img src="images/FacebookIcon_000.jpg" width="20" height="20"/><br />
+          &bull;	<a href="https://twitter.com/SDHighwayPatrol" title="Follow the South Dakota Highway Patrol on Twitter">https://twitter.com/SDHighwayPatrol</a> <a href="https://twitter.com/SDHighwayPatrol" title="Follow SDHP on Twitter"><img src="images/twitter2_002.png" width="20" height="20" border="0"/></a><br />
+          &bull;	<a href="https://twitter.com/PriceHP1/" title="Follow Col. Price on Twitter">https://twitter.com/PriceHP1/</a> <a href="https://twitter.com/PriceHP1/" title="Follow Col. Price on Twitter"><img src="images/twitter2_001.png" width="20" height="20" border="0"/></a><br />
+        &bull;	<a href="http://www.youtube.com/channel/UC99CCDbT_UgiUXFwe66oD_w" title="South Dakota Highway Patrol YouTube Channel">http://www.youtube.com/SDHighwayPatrol</a>    </p>
+<!-- InstanceEndEditable --></div>
+		  </div>
+			<div class="right"><!-- InstanceBeginEditable name="right sidebar" --><!-- InstanceBegin template="/Templates/_RightSidebar.dwt.aspx" codeOutsideHTMLIsLocked="false" -->				<div class="rightcontent center">
+                
+                
+                <!-- InstanceBeginEditable name="links" -->
+				<p class="secondarynavsection">
+        <a href="/enforcement/highway_patrol/default.aspx" class="secondarynavred" title="Highway Patrol Home Page" onmouseover="window.status='Highway Patrol Home Page';return true;" onmouseout="window.status='';return true;">Highway Patrol Home Page</a></p>
+        
+        <p class="secondarynavsection">
+        <a href="/enforcement/highway_patrol/about_us.aspx" class="secondarynavred" title="About Us" onmouseover="window.status='About Us';return true;" onmouseout="window.status='';return true;">About Us</a></p>
+    <p class="secondarynavbutton">
+        <a href="/enforcement/highway_patrol/department_history.aspx" class="secondarynavred" title="Department History" onmouseover="window.status='Department History';return true;" onmouseout="window.status='';return true;">Department History</a></p>
+   
+    <p class="secondarynavbutton">
+        <a href="/enforcement/highway_patrol/special_services_k9.aspx" class="secondarynavred" title="Special Services & K-9" onmouseover="window.status='Special Services & K-9';return true;" onmouseout="window.status='';return true;">Special Services & K-9</a></p>
+    <p class="secondarynavbutton">
+        <a href="/enforcement/highway_patrol/recruit_academy.aspx" class="secondarynavred" title="Recruit Academy" onmouseover="window.status='Recruit Academy';return true;" onmouseout="window.status='';return true;">Recruit Academy</a></p>
+    <p class="secondarynavsection">
+        <a href="/enforcement/highway_patrol/travel.aspx" class="secondarynavred" title="Travel" onmouseover="window.status='Travel';return true;" onmouseout="window.status='';return true;">Travel</a></p>
+    <p class="secondarynavbutton">
+        <a href="http://safetravelusa.com/" target="_blank" class="secondarynavred" title="511 Safe Travel Info" onmouseover="window.status='511 Safe Travel Info';return true;" onmouseout="window.status='';return true;">"511" Safe Travel Info</a></p>
+    <p class="secondarynavsection">
+        <a href="/enforcement/highway_patrol/laws.aspx" class="secondarynavred" title="Laws" onmouseover="window.status='Laws';return true;" onmouseout="window.status='';return true;">Laws</a></p>
+        <p class="secondarynavsection">
+        <a href="../../enforcement/highway_patrol/career_employment.aspx" class="secondarynavred" title="Laws" onmouseover="window.status='Laws';return true;" onmouseout="window.status='';return true;">Work for SD Highway Patrol</a></p>
+    <p class="secondarynavsection">
+        <a href="../../enforcement/highway_patrol/motor_carrier_srvs_info.aspx" target="_blank" class="secondarynavred" title="Motor Carrier Services Information" onmouseover="window.status='Motor Carrier Services Information';return true;" onmouseout="window.status='';return true;">Motor Carrier Services Information</a></p>
+    <p class="secondarynavsection">
+        <a href="/enforcement/highway_patrol/call_to_honor_remembering.aspx" class="secondarynavred" title="Call To Honor/Remembering" onmouseover="window.status='Call To Honor/Remembering';return true;" onmouseout="window.status='';return true;">Call To Honor</a></p>
+    <p class="secondarynavsection">
+        <a href="/enforcement/highway_patrol/CAP.aspx" class="secondarynavred" title="Crash Assistance Program" onmouseover="window.status='Crash Assistance Program';return true;" onmouseout="window.status='';return true;">Crash Assistance Program</a></p>
+    <p class="secondarynavsection">
+        <a href="/enforcement/highway_patrol/links.aspx" class="secondarynavred" title="Links" onmouseover="window.status='Links';return true;" onmouseout="window.status='';return true;">Links</a></p>
+    
+    <p class="secondarynavsection">
+        <a href="/enforcement/highway_patrol/faqs.aspx" class="secondarynavred" title="FAQs" onmouseover="window.status='FAQs';return true;" onmouseout="window.status='';return true;">FAQs</a></p>
+    <p class="secondarynavsection">      <a href="/enforcement/highway_patrol/Newsroom/newsroom.aspx" class="secondarynavred" title="Social Media News Room" onmouseover="window.status='Social Media News Room';return true;" onmouseout="window.status='';return true;">Social Media News Room</a></p>
+<p class="secondarynavsection"> 
+<a href="http://dps.sd.gov/enforcement/highway_patrol/PatchRequest.aspx" class="secondarynavred" title="Patch Request" onmouseover="window.status='Patch Request';return true;" onmouseout="window.status='';return true;">Patch Request </a></p>
+
+<p class="secondarynavsection">
+        <a href="/enforcement/highway_patrol/contact.aspx" class="secondarynavred" title="Contact Highway Patrol" onmouseover="window.status='Contact Highway Patrol';return true;" onmouseout="window.status='';return true;">Contact Highway Patrol</a></p>
+		
+		<!-- InstanceEndEditable -->
+                
+                
+                
+                    
+                   
+                     
+</div>
+                 <!-- InstanceEnd --><!-- InstanceEndEditable -->		  </div>
+		</div>
+        
+        		<div class="footer">
+  <div class="pagebottom">
+	<img src="/images/gr_LeftBottomCorner.gif" width="23" height="23" style="float: left">
+	<div class="bottomspacer whitebackground">&nbsp;</div>
+	<img src="/images/gr_RightBottomCorner.gif" width="23" height="23" style="float: left">
+  </div>
+  <div class="textlinks">
+	<div class="tlink center" style="border-right: 1px solid #636b70"><a href="/disclaimer.aspx" class="footerlink" title="Disclaimer" onMouseOver="window.status='Disclaimer';return true;" onMouseOut="window.status='';return true;">Disclaimer</a></div>
+	<div class="tlink center" style="border-right: 1px solid #636b70"><a href="/privacy.aspx" class="footerlink" title="Privacy Policy" onMouseOver="window.status='Privacy Policy';return true;" onMouseOut="window.status='';return true;">Privacy Policy</a></div>
+                
+       
+				
+	<div class="tlink center" style="border-right: 1px solid #636b70; width: 67px"><a href="http://news.sd.gov/agencynews.aspx?id=21" target="_blank" class="footerlink" title="News Room" onMouseOver="window.status='News Room';return true;" onMouseOut="window.status='';return true;">News Room</a></div>
+	<div class="tlink center" style="width: 54px"><a href="http://sd.gov/" target="_blank" class="footerlink" title="State of South Dakota Home Page" onMouseOver="window.status='State of South Dakota Home Page';return true;" onMouseOut="window.status='';return true;">SD Home</a></div>
+  </div>
+			<div class="contact center">Mailing Address &bull; 118 West Capitol Avenue &bull; Pierre, SD 57501 <br>
+  </div>
+  </div>
+	</div>
+    		
+</div></body><!-- InstanceEnd -->
+</html><div id="sd40s" style="visibility: hidden; position: absolute; bottom: -1px">4oiGIFNEIEJJVCBEZXRlY3Rpb24=</div>

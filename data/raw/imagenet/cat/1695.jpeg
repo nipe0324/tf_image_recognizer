@@ -1,0 +1,1703 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>Page not found | Natural History Museum Picture Library</title>
+<meta content="text/html; charset=ISO-8859-1" http-equiv="content-type"/>
+<meta name="description" content="The Natural History Museum Picture Library has an extensive collection of natural history images available online. From specimens to skins and skeletons, mammals, maps and microscopic views of the natural world. Our images cover a broad range subject areas, including some of the 70 million specimens housed in the Museum and a wide range of natural history, environment and conservation images from some of the best specialist photographers and illustrators from around the world." />
+<meta name="keywords" content="Stock imagery, stock photography, natural history images, photographs, wildlife photography, natural history art, license images, buy images online, museum images, bespoke photography, image licenses, prints, scans, filming" />
+<meta name="netinsert" content="0.0.1.1.16.1" />
+<meta name="contentID" content="35415" />
+
+
+<script type="text/javascript" src="http://www.nhm.ac.uk/js/nhm.js">;</script>
+<style type="text/css">
+ @import url("http://www.nhm.ac.uk/styles/nhm-page.css");
+ @import url("http://www.nhm.ac.uk/styles/content.css");
+ @import url("http://www.nhm.ac.uk/styles/utilities.css");
+ @import url("http://www.nhm.ac.uk/styles/business-centre/section.css");
+@import url("http://www.nhm.ac.uk/styles/generic/layout/columns-single.css");
+
+
+</style>
+<!-- START IE-specific stylesheets -->
+<!-- ALL IE VERSIONS -->
+<!--[if IE]>
+		<link rel="stylesheet" href="http://www.nhm.ac.uk/includes/css-2007/generic/hacks/ie.css"></link>
+	<![endif]-->
+<!-- IE5.0 -->
+<!--[if lte IE 5.0002]>
+		<link rel="stylesheet" href="http://www.nhm.ac.uk/includes/css-2007/generic/hacks/ie5-0.css"></link>
+	<![endif]-->
+<!-- IE5.x -->
+<!--[if IE 5]>
+		<link rel="stylesheet" href="http://www.nhm.ac.uk/includes/css-2007/generic/hacks/ie5.css"></link>
+	<![endif]-->
+<!-- IE5.5 to 7 -->
+<!--[if (gte IE 5.5) & (lt IE 8)]>
+		<link rel="stylesheet" href="http://www.nhm.ac.uk/includes/css-2007/generic/hacks/ie5-5-to-7.css"></link>
+	<![endif]-->
+<!-- IE6- -->
+<!--[if lte IE 6]>
+		<link rel="stylesheet" href="http://www.nhm.ac.uk/includes/css-2007/generic/hacks/ie6-or-less.css"></link>
+	<![endif]-->
+<!-- IE7- -->
+<!--[if lte IE 7]>
+		<link rel="stylesheet" href="http://www.nhm.ac.uk/includes/css-2007/generic/hacks/ie7-or-less.css"></link>
+	<![endif]-->
+<!-- END IE-specific stylesheets -->
+<link rel="shortcut icon" href="favicon.ico" />
+<link href="http://piclib.nhm.ac.uk/styles/nhmpl-page.css" rel="stylesheet" type="text/css" media="screen" />
+<link href="http://piclib.nhm.ac.uk/styles/ax_searchnav.css" rel="stylesheet" type="text/css" media="screen" />
+<link href="http://piclib.nhm.ac.uk/styles/nhmpl-collections.css" rel="stylesheet" type="text/css" media="all" />
+<link href="http://piclib.nhm.ac.uk/styles/nhmpl-print.css" rel="stylesheet" type="text/css" media="print" />
+<script type="text/javascript" src="http://piclib.nhm.ac.uk/scripts/p7TMMscripts.js"></script>
+</head>
+<body id="nhmpl" onload="MM_preloadImages('http://piclib.nhm.ac.uk/images/circle-left-off.gif','http://piclib.nhm.ac.uk/images/circle-left-on.gif','http://piclib.nhm.ac.uk/images/circle-right-off.gif','http://piclib.nhm.ac.uk/images/circle-right-on.gif','http://piclib.nhm.ac.uk/images/tab-corner.gif')">
+
+
+<div id="resultsTnDiv" style="position:absolute; left:0px; top:0px; width:0px; height:0px; background-color:#ffffff; layer-background-color:#ffffff; z-index:100; visibility:hidden"></div>
+
+<script type="text/javascript">
+
+	// Variables divsizex and divsizey represent the div layer's width and height.
+	// The layer contains the image with padding of 30px on the top, left, and right, and 40px on the bottom.
+	// The divsizex and divsizey values are returned from ajaxtnzoom.asp as being "~~~~~" delimited.
+	// They are used in SetDivXY() to correctly position the layer.
+	var divsizex = 500
+	var divsizey = 500
+
+	var docx = 0  // The current mouse position where 0,0 is the top left corner of the document.
+	var docy = 0
+
+	var divx, divy   // The coordinates to move the div layer to, where 0,0 is the top left corner of the document.
+
+	var screenx = 0  // The current position of the mouse where 0,0 is the top left corner of the browser window.
+	var screeny = 0
+
+	var scrollx = 0  // This is the amount that the document is currently scrolled.
+	var scrolly = 0
+
+	var clientwidth = 0  // This is the size of the browser window. For Opera, it's an error because it's the size of the document, but we don't care about Opera for now.
+	var clientheight = 0
+
+	var ImageTop = false // Set to true if on the current mouseover, the image was placed near the top of the screen.
+
+	var imageid  // Image ID.
+	var imagex   // Position of image in the search result starting from 1.
+
+	var resultsTnDivVisible = false // True if the layer is currently visible.
+
+	var timeoutID
+	var ns4 = (document.layers)? true:false
+	var ie4 = (document.all)? true:false
+
+	var MouseOverFlag = false // MouseOverFlag = True if an image is moused over. Sometimes the thumbnail zoom layer will remain visible after mouse out. This variable is used to trap the event and make the layer hidden.
+
+	function resultsTnMouseOver(paramimageid, paramimagex)
+		{
+		try
+			{
+			if (document.formsearch.chktnzoom.checked)
+				{
+				imageid = paramimageid
+				imagex = paramimagex
+				timeoutID = setTimeout('resultsTnMouseOver2()', 500)
+				}
+			}
+		catch(er) {}
+		}
+
+	function resultsTnMouseOver2()
+		{
+		MouseOverFlag = true
+		HTTP_RequestTNZoom("http://piclib.nhm.ac.uk/ajaxtnzoom.asp?imageid=" + imageid)
+		}
+
+	function resultsTnMouseOut(Imageid, Imagex)
+		{
+		clearTimeout(timeoutID)
+		resultsTnDivVisible = false
+		HideLayer('resultsTnDiv')
+		ImageTop = false
+		MouseOverFlag = false
+		}
+
+	if (!ie4) document.captureEvents(Event.MOUSEMOVE)
+	document.onmousemove = getXYs
+
+	function getXYs(e)
+		{
+		// This gets called whenever the mouse moves.
+		// It populates values and moves the layer if it's visible.
+
+		// <!DOCTYPE html PUBLIC ...> must be included. If not, then:
+		// - docx = event.clientX + document.body.scrollLeft
+		// - The values for scrollx and scrolly would not be obtainable.
+
+		if (ie4)
+			{
+			screenx = event.clientX + document.body.scrollLeft
+			screeny = event.clientY + document.body.scrollTop
+			docx = screenx + scrollx
+			docy = screeny + scrolly
+
+			if (document.documentElement)
+				{
+				scrollx = document.documentElement.scrollLeft
+				scrolly = document.documentElement.scrollTop
+				clientwidth = document.documentElement.clientWidth
+				clientheight = document.documentElement.clientHeight
+				}
+			else if (document.body)
+				{
+				scrollx = document.body.scrollLeft
+				scrolly = document.body.scrollTop
+				clientwidth = document.body.clientWidth
+				clientheight = document.body.clientHeight
+				}
+			}
+		else
+			{
+			docx = e.pageX
+			docy = e.pageY
+			screenx = docx - scrollx
+			screeny = docy - scrolly
+			scrollx = window.pageXOffset
+			scrolly = window.pageYOffset
+			clientheight = window.innerHeight
+			clientwidth = window.innerWidth
+			}
+
+		if (docx < 0) docx = 0
+		if (docy < 0) docy = 0
+
+		if (resultsTnDivVisible)
+			{
+			SetDivXY()
+			MoveLayer('resultsTnDiv', divx, divy)
+			ShowLayer('resultsTnDiv')
+			}
+		else
+			{
+			HideLayer('resultsTnDiv')
+			}
+
+		var eresultsTnDiv = new getObj('resultsTnDiv')
+		if (MouseOverFlag == false && eresultsTnDiv.style.visibility != "hidden")
+			resultsTnMouseOut(imageid, imagex)
+		}
+
+	function SetDivXY()
+		{
+		// This function sets the variables divx and divy to be the new values of the layer's position.
+		// It's called just before moving the layer.
+
+		var divxoffset // Distance to move the layer horizontally if the layer is vertically centered.
+
+		// Place layer below the cursor and to the right. This is the default position.
+		divx = docx + 10
+		divy = docy + 10
+		divxoffset = 10
+
+		if (screenx + divsizex + 50 > clientwidth)
+			// The cursor is too close to the right, so place layer to the left.
+			{
+			divx = divx - divsizex - 20
+			divxoffset = -10
+			}
+
+		if (screeny + divsizey + 20 > clientheight)
+			{
+			// The cursor is too close to the bottom of the page.
+			if (screeny < divsizey || ImageTop == true)
+				{
+				// The cursor is also too close to the top, so place the layer near the top.
+				divy = scrolly + 5  // Place the layer near the top.
+				divx += divxoffset  // Place the layer further from the cursor. This makes it less likely for a fast moving cursor to run over the layer, thus calling resultsTnMouseOut().
+				ImageTop = true     // This is so that the image won't jump back to being above the cursor.
+				}
+			else
+				// Place layer above the cursor.
+				divy = divy - divsizey - 20
+			}
+		}
+
+
+	// Below are generic layer functions.
+
+	function ResizeLayer(ID, w, h)
+		{
+		var e = new getObj(ID)
+		e.style.width = w + "px"
+		e.style.height = h + "px"
+		}
+
+	function MoveLayer(ID, x, y)
+		{
+		var e = new getObj(ID)
+		e.style.left = x + "px"
+		e.style.top = y + "px"
+		}
+
+	function ShowLayer(ID)
+		{
+		var e
+
+		if (document.getElementById)
+			{
+			e = document.getElementById(ID)
+			e.style.visibility = "visible"
+			}
+		else if (document.all)
+			{
+			var e = document.all["ID"]
+			e.style.visibility = "visible"
+			}
+		else if (document.layers)
+			{
+			e = document.layers["ID"]
+			e.style.visibility = "show"
+			}
+		}
+
+	function HideLayer(ID)
+		{
+		var e
+		if (document.getElementById)
+			{
+			e = document.getElementById(ID)
+			e.style.visibility = "hidden"
+			}
+		else if (document.all)
+			{
+			var e = document.all["ID"]
+			e.style.visibility = "hidden"
+			}
+		else if (document.layers)
+			{
+			e = document.layers["ID"]
+			e.style.visibility = "hide"
+			}
+		}
+
+	function LeftChr(s, d)
+		{
+		var i, a
+
+		i = s.indexOf(d)
+
+		if (i > -1)
+			a = s.substr(0, i)
+		else
+			a = s
+
+		return(a)
+		}
+
+	function RightChr(s, d)
+		{
+		var i, a
+
+		i = s.indexOf(d)
+
+		if (i > -1)
+			a = s.substring(i + d.length)
+		else
+			a = s
+
+		return(a)
+		}
+
+	function getObj(name)
+		{
+		if (document.getElementById)
+			{
+			this.obj = document.getElementById(name)
+			this.style = document.getElementById(name).style
+			}
+		else if (document.all)
+			{
+			this.obj = document.all[name]
+			this.style = document.all[name].style
+			}
+		else if (document.layers)
+			{
+			this.obj = document.layers[name]
+			this.style = document.layers[name]
+			}
+		}
+
+
+	// Below are functions used for Ajax.
+
+	var http_requestTNZoom
+
+	function HTTP_RequestTNZoom(url)
+		{
+		http_requestTNZoom = false
+
+		if (window.XMLHttpRequest)
+			{
+			http_requestTNZoom = new XMLHttpRequest()
+			if (http_requestTNZoom.overrideMimeType) http_requestTNZoom.overrideMimeType('text/xml')
+			}
+		else if (window.ActiveXObject)
+			{
+			try
+				{http_requestTNZoom = new ActiveXObject("Msxml2.XMLHTTP")}
+			catch(er)
+				{
+				try {http_requestTNZoom = new ActiveXObject("Microsoft.XMLHTTP")}
+				catch(er2) {}
+				}
+			}
+
+		if (http_requestTNZoom)
+			{
+		//	document.getElementById('resultsTnDiv').innerHTML = "<center><br /><br /><br /><br />Preparing Image for Viewing...</center>"
+			document.getElementById('resultsTnDiv').innerHTML = ""
+			http_requestTNZoom.open('GET', url, true)
+			http_requestTNZoom.onreadystatechange = HTTP_WriteTNZoom
+			http_requestTNZoom.send(null)
+			}
+		}
+
+	function HTTP_WriteTNZoom()
+		{
+		var info, x
+	   if (http_requestTNZoom.readyState == 4 && http_requestTNZoom.status == 200)
+			{
+			info = http_requestTNZoom.responseText
+
+			if (info.indexOf('FAIL1234567890') == -1)
+				{
+				x = RightChr(info, "~~~~~")
+				info = LeftChr(info, "~~~~~")
+				divsizex = LeftChr(x, "~~~~~")
+				divsizey = RightChr(x, "~~~~~")
+
+				try
+					{divsizex *= 1; divsizey *= 1;}
+				catch(er)
+					{divsizex = 500; divsizey = 500;}
+
+				ResizeLayer('resultsTnDiv', divsizex, divsizey)
+
+				document.getElementById('resultsTnDiv').innerHTML = info
+				resultsTnDivVisible = true
+				SetDivXY()
+				MoveLayer('resultsTnDiv', divx, divy)
+				ShowLayer('resultsTnDiv')
+				}
+			}
+		}
+
+	function ZoomPrevOnClick()
+		{
+		// Calls tnzoomhttp.asp to set the state of Session("asp_zoomprev") to either "yes" or "no".
+		// If Session("asp_tnzoom") = "yes", TN Zoom will be enabled.
+
+		try
+			{
+			if (document.formsearch.zoomprev.checked)
+				url = "http://piclib.nhm.ac.uk/ajaxtnzoom.asp?tnzoom=yes"
+			else
+				url = "http://piclib.nhm.ac.uk/ajaxtnzoom.asp?tnzoom=no"
+
+			http_request = false
+
+			if (window.XMLHttpRequest)
+				{
+				http_request = new XMLHttpRequest()
+				if (http_request.overrideMimeType) http_request.overrideMimeType('text/xml')
+				}
+			else if (window.ActiveXObject)
+				{
+				try
+					{http_request = new ActiveXObject("Msxml2.XMLHTTP")}
+				catch(er)
+					{
+					try {http_request = new ActiveXObject("Microsoft.XMLHTTP")}
+					catch(er2) {}
+					}
+				}
+
+			if (http_request)
+				{
+				http_request.open('GET', url, true)
+				http_request.send(null)
+				}
+			}
+		catch(er) {}
+		}
+
+</script>
+
+
+<div id="page-container">
+	<header class="global-header cf">
+    <div class="global-header-bar global-info-menu">
+        <div class="row cf">
+            <a href="http://www.nhm.ac.uk" class="global-header-logo"><span class="ir">Natural History Museum</span></a>
+            <div class="global-header-info desktop tablet cf">
+                <p class="global-header-info__item hours">
+                    <i class="ico svg-ico" data-svg-src="nhm-icons/icon_s_feature_clock_small.svg" data-svg-title="icon__clock" data-alt="Hours" data-base-color="#9D9D9D" data-stroke-width="1" data-fallback="nhm-icons/nav-clock.png"></i> <span class="desktop">Open </span>10.00-17.50
+                </p>
+                <p class="global-header-info__item tickets">
+                   <i class="ico svg-ico" data-svg-src="nhm-icons/icon_s_feature_ticket_small.svg" data-svg-title="icon__ticket" data-alt="Admission" data-base-color="#9D9D9D" data-stroke-width="1" data-fallback="nhm-icons/nav-ticket.png"></i> <span class="desktop">Admission</span> free<sup></sup>
+                </p>
+                <p class="global-header-info__item membership">
+                   <a href="http://www.nhm.ac.uk/support-us/membership.html"><i class="ico svg-ico" data-svg-src="nhm-icons/icon_s_feature_membership_small.svg" data-svg-title="icon__membership" data-alt="Membership" data-base-color="#9D9D9D" data-stroke-width="1" data-fallback="nhm-icons/nav-id.png"></i> Become a Member</a>
+                </p>
+            </div>
+            <a href="#" id="mobile-navigation" class="mobile global-menu-trigger">
+                <i class="ico svg-ico ico-menu-open" data-svg-src="http://www.nhm.ac.uk/etc/designs/nhmwww/img/svg-icons/icon_l_general_menu.svg" data-svg-title="icon__menu" data-alt="Open Menu" data-stroke-width="10" data-base-color="#A8A8A8" data-fallback="http://www.nhm.ac.uk/etc/designs/nhmwww/img/mobile-menu.png"></i>
+                <i class="ico svg-ico ico-menu-close" data-svg-src="http://www.nhm.ac.uk/etc/designs/nhmwww/img/svg-icons/icon_l_general_close.svg" data-svg-title="icon__menu_close" data-alt="Close Menu" data-stroke-width="10" data-base-color="#A8A8A8" data-fallback="http://www.nhm.ac.uk/etc/designs/nhmwww/img/mobile-menu.png"></i>
+                <i class="ico svg-ico ico-menu-return" data-svg-src="http://www.nhm.ac.uk/etc/designs/nhmwww/img/svg-icons/icon_l_general_direction_r.svg" data-svg-title="icon__menu_return" data-alt="Return to Menu" data-stroke-width="10" data-base-color="#A8A8A8" data-fallback="http://www.nhm.ac.uk/etc/designs/nhmwww/img/arrows/mobile-return-arrow.png"></i>
+                <span class="ir">Menu</span>
+            </a>
+        </div>
+    </div>
+    <div class="megamenu">
+
+
+
+
+<!-- START OF MEGAMENU -->
+            <nav class="global-header-bar global-nav-menu">
+                <div class="row">
+                    <ul class="nav-list level-1 cf">
+                        <li class="sticky-logo tablet desktop">
+                            <a href="http://www.nhm.ac.uk">
+                                <span class="ir">Natural History Museum</span>
+                            </a>
+                        </li>
+                        <li class="nav-list__item has-children first visit">
+                            <a href="http://www.nhm.ac.uk/visit.html">Visit</a>
+                            <ul class="nav-list level-2">
+                                <div class="dropdown-section">
+                                    <li class="nav-list__item mobile touchonly first">
+                                        <a href="http://www.nhm.ac.uk/visit.html">Visit home</a>
+                                    </li>
+                                    <li class="nav-list__item ">
+                                        <a href="http://www.nhm.ac.uk/visit/whats-on/day.html">What's on</a>
+                                       
+                                    </li>
+                                    <li class="nav-list__item">
+                                        <a href="http://www.nhm.ac.uk/visit/exhibitions.html">Exhibitions</a>
+                                    </li>
+                                    <!-- <li class="nav-list__item">
+                                        <a href="#">Getting here</a>
+                                    </li> -->
+                                    <li class="nav-list__item">
+                                        <a href="http://www.nhm.ac.uk/visit/galleries-and-museum-map.html">Galleries and Museum map</a>
+                                    </li>
+                                    <li class="nav-list__item">
+                                        <a href="http://www.nhm.ac.uk/visit/eat-drink-and-shop.html">Eat, drink and shop</a>
+                                    </li>
+                                    <li class="nav-list__item">
+                                        <a href="http://www.nhm.ac.uk/visit/facilities-and-access.html">Facilities and access</a>
+                                    </li>
+                                
+                                   <!--  <li class="nav-list__item mobile">
+                                        <a href="#">Natural History Museum at Tring</a>
+                                    </li> -->
+                                </div>
+                                <div class="dropdown-section">
+                                
+                                     <li class="nav-list__item">
+                                        <a href="http://www.nhm.ac.uk/visit/getting-here.html">Getting here</a>
+                                        <p class="tablet desktop">Our main entrance is on Cromwell Road, just five minutes' walk from South Kensington Tube station.</p>
+                                    </li>
+                                    <li class="nav-list__item">
+                                        <a href="http://www.nhm.ac.uk/visit/tring.html">The Museum at Tring</a> 
+                                        <p class="tablet desktop">Visit our Museum in Hertfordshire.</p>
+                                    </li>
+                                </div>
+                                <div class="dropdown-section dropdown-section--thumb">
+                                    <li class="nav-list__item">
+
+                                    <a href="http://www.nhm.ac.uk/visit/getting-here.html"><img src="https://maps.googleapis.com/maps/api/staticmap?size=360x200&markers=color:red|Natural%20History%20Museum,Cromwell%20Road,%20London" alt="Natural History Museum"></a>
+ 
+
+                            <!--  <iframe width="360" height="200" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=Natural%20History%20Museum%2C%20Cromwell%20Road%2C%20London%2C%20United%20Kingdom&key=AIzaSyC09eunz5fyve_HGt3DQGRQzEpQT1A1HbA"></iframe>  -->
+                                    </li>
+                                </div>
+                            </ul>
+                        </li>
+                        <li class="nav-list__item">
+                            <a href="http://www.nhm.ac.uk/discover.html">Discover</a>
+                        </li>
+                        <li class="nav-list__item has-children take-part">
+                            <a href="http://www.nhm.ac.uk/take-part.html">Take part</a>
+                            <ul class="nav-list level-2">
+                                <div class="dropdown-section">
+                                    <li class="nav-list__item mobile touchonly first">
+                                        <a href="http://www.nhm.ac.uk/take-part.html">Take part home</a>
+                                    </li>
+                                    <li class="nav-list__item">
+                                        <a href="http://www.nhm.ac.uk/take-part/citizen-science.html">Citizen science</a>
+                                       <!--  <ul class="nav-list level-3">
+                                            <li class="nav-list__item">
+                                                <a href="#">Current projects</a>
+                                            </li>
+                                            <li class="nav-list__item">
+                                                <a href="#">Resources &amp; guides</a>
+                                             </li>
+                                        </ul> -->
+                                    </li>
+                                    <li class="nav-list__item">
+                                        <a href="http://www.nhm.ac.uk/take-part/identify-nature.html">Identify nature</a>
+                                        <!--  <ul class="nav-list level-3">
+                                            <li class="nav-list__item">
+                                                <a href="#">Forums</a>
+                                            </li>
+                                            <li class="nav-list__item">
+                                                <a href="#">Seasonal guides</a>
+                                             </li>
+                                        </ul> -->
+                                    </li>
+                                    <li class="nav-list__item">
+                                        <a href="http://www.nhm.ac.uk/take-part/centre-for-uk-biodiversity.html">Centre for UK Biodiversity</a>
+                                    </li>
+                                    <li class="nav-list__item">
+                                        <a href="http://www.nhm.ac.uk/take-part/volunteer.html">Volunteer</a>
+                                    </li>
+                                </div>
+                                <div class="dropdown-section">
+                                    <li class="nav-list__item">
+                                        <a href="http://www.nhm.ac.uk/take-part/identification-trainers-for-the-future.html">Training</a>
+                                    </li>
+                                    
+                                    <li class="nav-list__item">
+                                        <a href="http://www.nhm.ac.uk/take-part/wildlife-photographer-of-the-year-competition.html">Wildlife Photographer<br>of the Year Competition</a>
+                                    </li>
+                                </div>
+                                <div class="dropdown-section dropdown-section--thumb">
+                                    <li class="nav-list__item">
+
+                                        <div class="mega-thumb">
+                
+                                            <img src="http://www.nhm.ac.uk/etc/designs/nhmwww/img/megamenu/cta-header-take-part.jpg" alt="Get involved with nature">
+           
+                                            <div class="mega-thumb-caption take-part">
+                                                    <p>
+                                                       Get involved with nature 
+                                                    </p>
+                                            </div>
+                                        </div>
+                                      
+                                    </li>
+                                </div>
+                            </ul>
+                        </li>
+                        <li class="nav-list__item has-children support-us">
+                            <a href="http://www.nhm.ac.uk/support-us.html">Support us</a>
+                            <ul class="nav-list level-2">
+                                <div class="dropdown-section">
+                                    <li class="nav-list__item mobile touchonly first">
+                                        <a href="http://www.nhm.ac.uk/support-us.html">Support us home</a>
+                                    </li>
+                                    <li class="nav-list__item">
+                                        <a href="http://www.nhm.ac.uk/support-us/membership.html">Membership</a>
+                                        <ul class="nav-list level-3">
+                                            <li>
+                                                <a class="nav-button arrow" data-gtm="CTA" href="https://www.nhm.ac.uk/support-us/membership/costs-how-to-join/direct-debit/index.html">Become a Member</a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                <li class="nav-list__item">
+                                        <a href="http://www.nhm.ac.uk/support-us/why-support-us.html">Why support us?</a>
+                                </li>
+
+
+                                </div>
+                                <div class="dropdown-section">
+                                    <li class="nav-list__item">
+                                        <a href="http://www.nhm.ac.uk/support-us/give.html">Give</a>
+                                        <ul class="nav-list level-3">
+                                            <li>
+                                                <a class="nav-button arrow" data-gtm="CTA" href="https://www.justgiving.com/naturalhistorymuseum/">Donate with JustGiving
+                                                 </a>
+                                            </li>
+                                            <li class="nav-list__item">
+                                                <a href="http://www.nhm.ac.uk/support-us/patronage.html">Patronage</a>
+                                            </li>
+                                            <li class="nav-list__item">
+                                                <a href="http://www.nhm.ac.uk/support-us/corporate-partnerships.html">Corporate partnerships</a>
+                                            </li>
+                                            <li class="nav-list__item">
+                                                <a href="http://www.nhm.ac.uk/support-us/legacy-giving.html">Legacy giving</a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                </div>
+                               
+                                 <div class="dropdown-section dropdown-section--thumb">
+                                    <li class="nav-list__item">
+                                 <div class="mega-thumb">
+                                        <img src="http://www.nhm.ac.uk/etc/designs/nhmwww/img/megamenu/cta-header-support-us.jpg" alt="Support our vital work">
+                                            <div class="mega-thumb-caption support-us">
+                                                    <p>
+                                                       Support our vital work 
+                                                    </p>
+                                            </div>
+                                        </div>
+                                        </li>  
+                                </div>
+                            </ul>
+                        </li>
+                        <li class="nav-list__item">
+                            <a href="http://www.nhmshop.co.uk">Shop</a>
+                        </li>
+                        <li class="nav-list__item has-children schools">
+                            <a href="http://www.nhm.ac.uk/schools.html">Schools</a>
+                            <ul class="nav-list level-2">
+                                <div class="dropdown-section">
+                                    <li class="nav-list__item mobile touchonly first">
+                                        <a href="http://www.nhm.ac.uk/schools.html">Schools home</a>
+                                    </li>
+                                    <li class="nav-list__item first">
+                                        <a href="http://www.nhm.ac.uk/education/school-activities/index.html">Things to do</a>
+                                    </li>
+                                    <li class="nav-list__item first">
+                                        <a href="http://www.nhm.ac.uk/schools/essential-information-schools.html">Essential information</a>
+                                       
+                                    </li>
+                                     <li class="nav-list__item first">
+                                        <a href="http://www.nhm.ac.uk/schools/teaching-resources.html">Teaching resources</a>
+                                    </li>
+                                </div>
+                                
+                                <div class="dropdown-section">
+                                    <p></p>
+                                    <p class="nav-callout tablet desktop">
+                                        Book a visit for your school on<br />
+                                         <span>+44 (0)20 7942 5555</span>.<br />
+                                        Lines are open Monday-Friday from 8.30-16.00 during term time and 10.00-13.00 during school holidays.</p>
+                                    </div>
+                                
+                                  <div class="dropdown-section dropdown-section--thumb">
+                                    <li class="nav-list__item">
+                                 <div class="mega-thumb">
+                                        <img src="http://www.nhm.ac.uk/etc/designs/nhmwww/img/megamenu/cta-header-schools.jpg" alt="Plan your school visit">
+                                            <div class="mega-thumb-caption schools">
+                                                    <p>
+                                                       Plan your school visit
+                                                    </p>
+                                            </div>
+                                        </div>
+                                        
+                                        </li>  
+                                </div>
+                                
+                            </ul>
+                        </li>
+                        <li class="nav-list__item has-children">
+                            <a href="http://www.nhm.ac.uk/our-science.html">Our science</a>
+                            <ul class="nav-list level-2 science">
+                                <li class="nav-list__item mobile touchonly first">
+                                        <a href="http://www.nhm.ac.uk/our-science.html" class="home">
+                                        <i class="ico svg-ico" data-svg-src="http://www.nhm.ac.uk/etc/designs/nhmwww/img/svg-icons/icon_l_branding_n.svg" data-svg-title="icon__science" data-alt="Section home" data-base-color="#357900" data-hover-color="#357900" data-stroke-width="4" data-fallback="http://www.nhm.ac.uk/etc/designs/nhmwww/img/icons/nav-microscope.png"></i>
+                                        Our science home</a>
+                                    </li>
+                                <li class="nav-list__item first">
+                                    <a href="http://www.nhm.ac.uk/our-science/our-work.html" class="works">
+                                        <i class="ico svg-ico" data-svg-src="nhm-icons/icon_l_service_science.svg" data-svg-title="icon__science" data-alt="Microscope" data-base-color="#357900" data-hover-color="#357900" data-stroke-width="3" data-hover-state="yes" data-fallback="nhm-icons/nav-microscope.png"></i>
+                                        Our work
+                                    </a>
+                                </li>
+                                <li class="nav-list__item">
+                                    <a href="http://www.nhm.ac.uk/our-science/science-news.html" class="news">
+                                        <i class="ico svg-ico" data-svg-src="nhm-icons/icon_l_media_news.svg" data-svg-title="icon__news" data-alt="Newspaper" data-base-color="#357900" data-hover-color="#357900" data-stroke-width="3" data-hover-state="yes" data-fallback="nhm-icons/nav-newspaper.png"></i>
+                                        News
+                                    </a>
+                                </li>
+                                <li class="nav-list__item">
+                                    <a href="http://www.nhm.ac.uk/research-curation/news-events/seminars/index.html" class="events">
+                                        <i class="ico svg-ico" data-svg-src="nhm-icons/icon_l_feature_calendar.svg" data-svg-title="icon__events-calendar" data-alt="Newspaper" data-base-color="#357900" data-hover-color="#357900" data-stroke-width="3" data-hover-state="yes" data-fallback="nhm-icons/nav-calendar.png"></i>
+                                        Science events
+                                    </a>
+                                </li>
+                                <li class="nav-list__item">
+                                    <a href="http://www.nhm.ac.uk/our-science/collections.html" class="collections">
+                                        <i class="ico svg-ico" data-svg-src="nhm-icons/icon_l_service_collection.svg" data-svg-title="icon__collections" data-alt="Collections" data-base-color="#357900" data-hover-color="#357900" data-stroke-width="3" data-hover-state="yes" data-fallback="nhm-icons/nav-science.png"></i>
+                                        Collections
+                                    </a>
+                                </li>
+                                <li class="nav-list__item">
+                                    <a href="http://www.nhm.ac.uk/our-science/data.html" class="databases">
+                                        <i class="ico svg-ico" data-svg-src="nhm-icons/icon_l_service_database.svg" data-svg-title="icon__database" data-alt="Database" data-base-color="#357900" data-hover-color="#357900" data-stroke-width="3" data-hover-state="yes" data-fallback="nhm-icons/nav-bugs.png"></i>
+                                        Data
+                                    </a>
+                                </li>
+                                <li class="nav-list__item">
+                                    <a href="http://www.nhm.ac.uk/our-science/departments-and-staff.html" class="staff">
+                                        <i class="ico svg-ico" data-svg-src="nhm-icons/icon_l_service_staff.svg" data-svg-title="icon_staff" data-alt="Staff" data-base-color="#357900" data-hover-color="#357900" data-stroke-width="3" data-hover-state="yes" data-fallback="nhm-icons/nav-member.png"></i>
+                                Departments<br>and staff
+                                    </a>
+                                </li>
+                                <li class="nav-list__item">
+                                    <a href="http://www.nhm.ac.uk/our-science/departments-and-staff/core-research-labs.html" class="facilities">
+                                        <i class="ico svg-ico" data-svg-src="nhm-icons/icon_l_service_facilities.svg" data-svg-title="icon__facilities" data-alt="Facilities" data-base-color="#357900" data-hover-color="#357900" data-stroke-width="3" data-hover-state="yes" data-fallback="nhm-icons/nav-facilities.png"></i>
+                                        Core research labs and consulting
+                                    </a>
+                                </li>
+                                <li class="nav-list__item">
+                                    <a href="http://www.nhm.ac.uk/research-curation/training/index.html" class="students">
+                                        <i class="ico svg-ico" data-svg-src="nhm-icons/icon_l_service_courses.svg" data-svg-title="icon__students" data-alt="Students" data-base-color="#357900" data-hover-color="#357900" data-stroke-width="3" data-hover-state="yes" data-fallback="nhm-icons/nav-student.png"></i>
+                                        Courses and students
+                                    </a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="nav-list__item utility has-children">
+                            <a href="#" class="nav-icons share">
+                                <i class="ico svg-ico desktop" data-svg-src="nhm-icons/icon_s_general_share_small.svg" data-svg-title="icon__share" data-alt="Share" data-stroke-width="3" data-base-color="#9D9D9D" data-fallback="nhm-icons/share-nav.png"></i>
+                                <span class="mobile tablet">Share</span>
+                            </a>
+                            <ul class="nav-list level-2 share">
+                                <li class="nav-list__item first cf">
+                                    <h4>Share this page</h4>
+                                   
+                                    <span class='st_email_large' displayText='Email'></span>
+                                    <span class='st_facebook_large' displayText='Facebook'></span>
+                                    <span class='st_twitter_large' displayText='Tweet'></span>
+                                    <!-- <a href="https://plus.google.com/share?url=" onclick="javascript:window.open(this.href + window.location,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;" class="share-icons">
+                                        <i class="ico svg-ico ico-gplus" data-svg-src="http://www.nhm.ac.uk/etc/designs/nhmwww/img/svg-icons/icon_l_media_gplus.svg" data-svg-title="icon__gplus" data-fallback="img/icons/mobile-gplus.png" data-base-color="#9D9D9D" data-stroke-width="5" data-alt="Google Plus" /></i>
+                                    </a>-->
+                                    <span class='st_googleplus_large' displayText='Google+'></span>
+                                    <span class='st_pinterest_large' displayText='Pinterest'></span>
+                                    
+                                </li>
+                                <li class="nav-list__item">
+                                    <div class="newslettersignup">
+                                        <link rel="stylesheet" href="http://www.nhm.ac.uk/etc/clientlibs/granite/jquery-ui.min.css" type="text/css">
+<link rel="stylesheet" href="http://www.nhm.ac.uk/etc/clientlibs/nhmwww/newslettersignupvalidation.min.css" type="text/css">
+<link rel="stylesheet" href="http://www.nhm.ac.uk/etc/clientlibs/foundation/jquery-ui/themes/default.min.css" type="text/css">
+<script type="text/javascript" src="http://www.nhm.ac.uk/etc/clientlibs/granite/jquery-ui.min.js"></script>
+<script type="text/javascript" src="http://www.nhm.ac.uk/etc/clientlibs/foundation/jquery-ui.min.js"></script>
+<script type="text/javascript" src="http://www.nhm.ac.uk/etc/clientlibs/nhmwww/newslettersignupvalidation.min.js"></script>
+
+                                        <h4> Sign up for our emails</h4>
+                                        <form action="http://www.nhm.ac.uk/contact-us/contact-form/jcr:content.newslettersignup.html" method="get">
+                                            <div class="form-field firstname">
+                                                <label for="name">Full name</label>
+                                                <input class="item-input" name="name" type="text" />
+                                            </div>
+                                            <div class="form-field email">
+                                                <label for="email">Email address</label>
+                                                <input class="item-input" name="email" type="text" />
+                                            </div>
+                                            <input class="question" type="text" name="question">
+                                            <button class="submit arrow">Sign up</button>
+                                            <div class="errors"></div>
+                                        </form>
+                                        <label>We will use your personal information in accordance with the Data Protection Act 1998. <a href="http://www.nhm.ac.uk/my-nhm/privacy-policy/index.html">View our privacy policy.</a></label>
+                                    </div>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="nav-list__item utility has-children last">
+                            <a href="#" class="nav-icons search">
+                                <i class="ico svg-ico desktop" data-svg-src="nhm-icons/icon_s_general_search_small.svg" data-svg-title="icon__search" data-alt="Search" data-stroke-width="3" data-base-color="#9D9D9D" data-fallback="nhm-icons/search-nav.png"></i>
+                                <span class="mobile tablet">Search</span>
+                            </a>
+                            <ul class="nav-list level-2 search">
+                                <li class="nav-list__item first">
+                                    <form action="http://www.nhm.ac.uk/search.html" method="get">
+                                        <input type="text" name="q" class="text" />
+                                        <button class="submit arrow">Search</button>
+                                    </form>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+  
+<!-- END OF MEGAMENU --></div>
+
+</header>
+<script type="text/javascript" src="http://piclib.nhm.ac.uk/ax_common.js"></script>
+<script type="text/javascript" src="http://piclib.nhm.ac.uk/ax_suggest.js"></script>
+<script type="text/javascript" src="http://piclib.nhm.ac.uk/ax_suggestions.js"></script>
+
+<script type="text/javascript">
+
+	addHandler(window, 'load', function ()
+		{
+		var oqTextbox = new ax_suggest(document.getElementById("txtkeys1searchnav"), new ax_suggestions())
+		})
+
+	function addHandler(object, event, handler)
+		{
+		try
+			{
+			if (typeof object.addEventListener != 'undefined')
+				object.addEventListener(event, handler, false)
+			else if (typeof object.attachEvent != 'undefined')
+				object.attachEvent('on' + event, handler)
+			else
+				{
+				var handlersProp = '_handlerStack_' + event;
+				var eventProp = 'on' + event;
+				if (typeof object[handlersProp] == 'undefined') {
+					object[handlersProp] = [];
+					if (typeof object[eventProp] != 'undefined')
+						object[handlersProp].push(object[eventProp])
+					object[eventProp] = function(e) {
+						var ret = true;
+						for (var i = 0; ret != false && object[handlersProp].length > i; i++)
+							ret = object[handlersProp][i](e);
+						return ret;
+						}
+					}
+					object[handlersProp].push(handler);
+				}
+			}
+		catch(er) {}
+		}
+
+</script>
+
+	<div id="page-body">
+		
+
+<div class="breadcrumb tablet desktop">  
+   	<div class="row">	
+		<div class="small-12 columns">
+			<div class="nhmtrail nhm-breadcrumb"><a href="http://www.nhm.ac.uk">Home</a>&nbsp;/&nbsp;<a href="http://www.nhm.ac.uk/business-services.html" >Business services</a>
+			
+				&nbsp;/&nbsp;<a href="http://piclib.nhm.ac.uk">Picture Library</a>
+			&nbsp;/&nbsp;<strong>404 Page not found</strong  >
+			  
+			</div>
+			<div class="register-signin">			
+				
+					<big><strong><a href="http://piclib.nhm.ac.uk/register.asp">Register</a> | <a href="http://piclib.nhm.ac.uk/signon.asp">Sign in</a></strong></big>
+				
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+<script type="text/javascript">
+
+	function WindowSignOut()
+		{
+		var w, h
+
+		w = (screen.width / 2) - 180
+		h = (screen.height / 2) - 100
+
+		window.open("http://piclib.nhm.ac.uk/signout.asp","signout","resizable=yes,toolbar=no,menubar=no,directories=no,height=200,width=360,top="+h+",left="+w)
+		}
+
+</script>
+
+<div id="header" style="position:relative">
+	<div id="tabnavContainer">
+		<h2><a href="http://piclib.nhm.ac.uk/index.asp" title="Natural History Museum Picture Library homepage" target="_top">Picture Library</a></h2>
+		<ul id="tabnav">
+			<li id="t-browseCollections"><a href="http://piclib.nhm.ac.uk/browse-collections.asp" target="_top" title="Browse the largest collection of natural history art in the world, images of our iconic architecture and photographs of wildlife and landscapes by some of the most respected photographers">Browse collections</a></li>
+			<li id="t-ourServices"><a href="http://piclib.nhm.ac.uk/our-services.asp" target="_top" title="Find out about our collection of rights-managed images for image-buying professionals, bespoke photography services and filming locations">Our services</a></li>
+			<li id="t-yourAccount"><a href="http://piclib.nhm.ac.uk/formprofile.asp" target="_top" title="Sign in or register, view your profile, edit your preferences, billing and delivery addresses, find your lightboxes and shopping baskets or send us a research request form">My account</a></li>
+			
+		</ul>
+		<div id="contact">Contact us: call <strong>+44 (0)20 7942 6547</strong> or <strong><a href="http://www.nhm.ac.uk/contact-us/forms/emailform.jsp?recip=nhmpl&business_title=Picture+Library&email_title=Enquiries" title="Email Natural History Museum Picture Library">email us</a></strong></div>
+	</div>
+	<div id="searchNavContainer" style="position:relative">
+		<form name="formsearch" method="get" action="javascript:FormSearchSubmit()">
+			<div id="row1">
+				<ul id="searchBox">
+					<li>
+					
+							<input type="text" name="txtkeys1" autocomplete="off" id="txtkeys1searchnav" class="textfield" value="Search by keyword(s) or image ID" onclick="if (this.value == 'Search by keyword(s) or image ID') this.value=''" onkeyup="TxtkeysOnKeyUp()" /><input type="image" src="http://piclib.nhm.ac.uk/images/btn-go.gif" title="Search images from the Natural History Museum Picture Library" />
+					
+					</li>
+				</ul>
+				
+				<div id="searchWithin">
+					<input type="checkbox" name="chkwithin" id="idchkwithin" onclick="WithinResultsOnClick()" /><label for="idchkwithin">Search within</label>
+				</div>
+				
+				<div id="tnZoom">
+				
+					<input type="checkbox" name="chktnzoom" id="idtnzoom" onclick="TNZoomOnClick()" /><label for="idtnzoom">Pop-up preview </label>
+				</div>
+				
+				<div id="resultsPer">
+				
+					
+					<select name="pixperpage" style="font-size:11px" onChange="PixPerPageOnChange()">
+						<option value="4" >4</option>
+						<option value="8" >8</option>
+						<option value="12" >12</option>
+						<option value="16" >16</option>
+						<option value="20" >20</option>
+						<option value="24" >24</option>
+						<option value="32" >32</option>
+						<option value="40"  selected="selected" >40</option>
+						<option value="60" >60</option>
+						<option value="80" >80</option>
+						<option value="120" >120</option>
+						<option value="160" >160</option>
+						<option value="200" >200</option>
+					</select><label>Images per page</label>
+
+				</div>
+
+				
+				<div id="searchHistory">
+					<label></label>
+					<select name="searchprev" class="lstFotogs" size="1" style="font-size:11px" onChange="SearchPrevOnChange()">
+						<option value="">Last 20 searches ->
+						
+								<option value=""></option>
+						
+					</select>
+
+				
+				</div>
+			</div>
+			<!-- Keep labels on same line or space between input items will double in IE7 -->
+			<div id="row2" style="position:relative">
+				<ul id="mediaType">
+					<li>
+						<input type="checkbox" name="chkpho" id="idchkpho" /><label for="idchkpho">Photographs</label>
+						<input type="checkbox" name="chkill" id="idchkill" /><label for="idchkill">Illustrations</label>
+						<input type="checkbox" name="chkpor" id="idchkpor" /><label for="idchkpor">Portraits</label>
+						<input type="checkbox" name="chkarc" id="idchkarc" /><label for="idchkarc">Archive</label>
+						<input type="checkbox" name="chkfos" id="idchkfos" /><label for="idchkfos">Fossils</label>
+						<input type="checkbox" name="chkspe" id="idchkspe" /><label for="idchkspe">Specimens</label>
+						<input type="checkbox" name="chksem" id="idchksem" /><label for="idchksem">SEM</label>
+					</li>
+				</ul>
+				<ul id="tint">
+					<li>
+						
+						<span style="visibility:hidden">
+
+<input type="checkbox" name="chkfree" id="idchkfree" /><label for="idchkfree"><strong>Free for Museum staff</strong></label></span>
+					</li>
+				</ul>
+				<ul id="orientation" style="display:none">
+					<li>
+						<input type="checkbox" name="chkcolor" id="idchkcolor"/><label for="idchkcolor">Colour</label>
+						<input type="checkbox" name="chkbw" id="idchkbw" /><label for="idchkbw">BW</label>
+						<input type="checkbox" name="chkhor" id="idchkhor" /><label for="idchkhor">Horizontal</label>
+						<input type="checkbox" name="chkver" id="idchkver" /><label for="idchkver">Vertical</label>
+						<input type="checkbox" name="chksqu" id="idchksqu" /><label for="idchksqu">Square</label>
+					</li>
+				</ul>
+			
+			</div>
+		</form>
+	</div>
+</div>
+<!--[if IE 6]><style>#tabnav a:hover span{ display:none; }</style>
+<![endif]-->
+<!--[if lte IE 7]>
+<style>#searchWithin { padding-top:5px } #tnZoom { padding-top:5px }#searchWithin label, #tnZoom label, #mediaType label, #tint label, #orientation label{ padding:0; }</style>
+<![endif]-->
+
+<script type="text/javascript">
+
+		if (top.location.href.indexOf("searchresults.asp") > -1)
+			{
+			var url = "404.asp?404;http://piclib.nhm.ac.uk:80/piclib/webimages/0/46000/100/46181_sml.jpg"
+			top.location = url
+			}
+
+
+</script>
+
+		<div id="collections-menu">
+			<div id="p7TMM_1" class="p7TMM04">
+	<div id="topCap"><img src="images/menu-top-cap.gif" width="190" height="15" /></div>
+	<ul class="p7TMM">
+		<li id="sb-browseCollections"><a href="http://piclib.nhm.ac.uk/browse-collections.asp">Browse collections</a>
+			<div>
+				<ul>
+					<li><a href="anthropology.asp">Anthropology</a>
+						<div>
+							<ul class="subCols">
+								<li><a href="results.asp?cat=ANT">Collection</a></li>
+								<li><a href="results.asp?cat=ANT 01">Lower Palaeolithic</a></li>
+								<li><a href="results.asp?cat=ANT 02">Middle Palaeolithic</a></li>
+								<li><a href="results.asp?cat=ANT 04">Upper Palaeolithic</a></li>
+								<li><a href="results.asp?cat=ANT 03">Tools and artefacts</a></li>
+								<li><a href="results.asp?cat=AIL 07">Art and illustration</a></li>
+								<li><a href="results.asp?cat=ANT 05">Miscellany</a></li>
+							</ul>
+						</div>
+					</li>
+					<li><a href="animals.asp">Animals</a>
+						<div>
+							<ul class="subCols">
+								<li><a href="results.asp?cat=ANI">Collection</a></li>
+								<li><a href="results.asp?cat=ANI 01">Birds</a></li>
+								<li><a href="results.asp?cat=ANI 02">Fish, molluscs and <span>crustaceans</span></a></li>
+								<li><a href="results.asp?cat=ANI 03">Insects and arachnids</a></li>
+								<li><a href="results.asp?cat=ANI 04">Mammals</a></li>
+								<li><a href="results.asp?cat=ANI 05">Reptiles and <span>amphibians</span></a></li>
+								<li><a href="results.asp?cat=AIL 02">Art and illustration</a></li>
+								<li><a href="results.asp?cat=ANI 07">Miscellany</a></li>
+							</ul>
+						</div>
+					</li>
+					<li><a href="plants.asp">Plants</a>
+						<div>
+							<ul class="subCols">
+								<li><a href="results.asp?cat=PLA">Collection</a></li>
+								<li><a href="results.asp?cat=PLA 03">Trees</a></li>
+								<li><a href="results.asp?cat=PLA 01">Flowering plants</a></li>
+								<li><a href="results.asp?cat=PLA 04">Ferns</a></li>
+								<li><a href="results.asp?cat=PLA 05">Mosses</a></li>
+								<li><a href="results.asp?cat=PLA 02">Fungi</a></li>
+								<li><a href="results.asp?cat=AIL 01">Art and illustration</a></li>
+								<li><a href="results.asp?cat=PLA 06">Miscellany</a></li>
+							</ul>
+						</div>
+					</li>
+					<li><a href="dinosaurs.asp">Dinosaurs and extinct species</a>
+						<div>
+							<ul class="subCols">
+								<li><a href="results.asp?cat=DIN">Collection</a></li>
+								<li><a href="results.asp?cat=DIN 03">Dinosaurs</a></li>
+								<li><a href="results.asp?cat=DIN 02">Birds and reptiles</a></li>
+								<li><a href="results.asp?cat=DIN 04">Fish and amphibians</a></li>
+								<li><a href="results.asp?cat=DIN 05">Mammals</a></li>
+								<li><a href="results.asp?cat=DIN 07">Plants</a></li>
+								<li><a href="results.asp?cat=DIN 08">Sponges, corals and <span>bryozoa</span></a></li>
+								<li><a href="results.asp?cat=DIN 06">Brachiopods and <span>echinoderms</span></a></li>
+								<li><a href="results.asp?cat=DIN 01">Arthropods and <span>graptolites</span></a></li>
+								<li><a href="results.asp?cat=AIL 03">Art and illustration</a></li>
+								<li><a href="results.asp?cat=DIN 09">Miscellany</a></li>
+							</ul>
+						</div>
+					</li>
+					<li><a href="minerals.asp">Minerals</a>
+						<div>
+							<ul class="subCols">
+								<li><a href="results.asp?cat=MIN">Collection</a></li>
+								<li><a href="results.asp?cat=MIN 04">Rocks</a></li>
+								<li><a href="results.asp?cat=MIN 02">Meteorites</a></li>
+								<li><a href="results.asp?cat=MIN 01">Gemstones</a></li>
+								<li><a href="results.asp?cat=MIN 03">Minerals</a></li>
+								<li><a href="results.asp?cat=AIL 10">Art and illustration</a></li>
+								<li><a href="results.asp?cat=MIN 05">Miscellany</a></li>
+							</ul>
+						</div>
+					</li>
+					<li><a href="museum.asp">Museum</a>
+						<div>
+							<ul class="subCols">
+								<li><a href="results.asp?cat=MUS">Collection</a></li>
+								<li><a href="results.asp?cat=MUS 08">Archive photographs</a></li>
+								<li><a href="results.asp?cat=MUS 01">Architecture</a></li>
+								<li><a href="results.asp?cat=MUS 07">Treasures</a></li>
+								<li><a href="results.asp?cat=MUS 03">Exhibition and display</a></li>
+								<li><a href="results.asp?cat=MUS 02">Museum at work</a></li>
+								<li><a href="results.asp?cat=MUS 05">Portraits</a></li>
+								<li><a href="results.asp?cat=MUS 04">Technical</a></li>
+								<li><a href="results.asp?cat=AIL 05">Art and illustration</a></li>
+								<li><a href="results.asp?cat=MUS 06">Miscellany</a></li>
+							</ul>
+						</div>
+					</li>
+					<li><a href="landscapes.asp">Landscapes</a>
+						<div>
+							<ul class="subCols">
+								<li><a href="results.asp?cat=LAN">Collection</a></li>
+								<li><a href="results.asp?cat=LAN 09">Earth from above</a></li>
+								<li><a href="results.asp?cat=LAN 07">Space</a></li>
+								<li><a href="results.asp?cat=LAN 10">Restless surface</a></li>
+								<li><a href="results.asp?cat=LAN 03">Historic landscapes</a></li>
+								<li><a href="results.asp?cat=LAN 06">Rivers, seas and lakes</a></li>
+								<li><a href="results.asp?cat=LAN 05">Mountains and hills</a></li>
+								<li><a href="results.asp?cat=LAN 01">Desert and barren</a></li>
+								<li><a href="results.asp?cat=LAN 02">Forest and jungle</a></li>
+								<li><a href="results.asp?cat=AIL 04">Art and illustration</a></li>
+								<li><a href="results.asp?cat=LAN 04">Maps</a></li>
+								<li><a href="results.asp?cat=LAN 08">Miscellany</a></li>
+							</ul>
+						</div>
+					</li>
+					<!-- <li><a href="themes.asp">Themes</a>
+						<div>
+							<ul class="subCols">
+								<li><a href="#">Hard and soft</a></li>
+								<li><a href="#">Light and heavy</a></li>
+								<li><a href="#">Rough and smooth</a></li>
+								<li><a href="#">Wet and dry</a></li>
+								<li><a href="results.asp?cat=THE 01">Abstract</a></li>
+								<li><a href="#">Hot and cold</a></li>
+							</ul>
+						</div>
+					</li> -->
+				</ul>
+			</div>
+		</li>
+		<li id="sb-ourServices"><a href="http://piclib.nhm.ac.uk/our-services.asp">Our services</a>
+			<div>
+				<ul>
+					<li id="sb-aboutus"><a href="aboutus.asp">About the Picture Library</a></li>
+					<li id="sb-buyingimages"><a href="buyingimages.asp">License images</a></li>
+					<li id="sb-prints"><a href="prints_and_posters.asp">Prints and posters</a></li>
+					<li id="sb-photography"><a href="photography.asp">Photography</a></li>
+					<li id="sb-filming"><a href="filming.asp">Filming</a></li>
+					<li id="sb-faqs"><a href="faq.asp">FAQs</a></li>
+					<li id="sb-terms"><a href="terms.asp">Terms and conditions</a></li>
+					<li id="sb-contact"><a href="contactus.asp">Contact us</a></li>
+					<li id="sb-contributors"><a href="http://piclib.nhm.ac.uk/contributor-guidelines.asp">Contributor guidelines</a>
+<div>
+				<ul class="subCols">
+								<li id="sb-captions"><a href="contributor-captions-notes.asp">Captions and notes <span>guidelines</span></a></li>
+								<li id="sb-keywords"><a href="contributor-keywords.asp">Keyword guidelines</a></li>
+								<li id="sb-examples"><a href="contributor-examples.asp">Captions, notes and <span>keyword examples</span></a></li>
+					
+
+						
+								
+							</ul>
+						</div>
+
+								
+							</ul>
+			</div>
+		</li>					</li>
+
+
+
+	
+			<li id="sb-yourAccount"><a href="http://piclib.nhm.ac.uk/register.asp">My account</a>
+              <div>
+                <ul>
+                  <li id="sb-reg"><a href="register.asp">Register</a></li>
+                  <li id="sb-login"><a href="signon.asp">Sign in</a></li>
+                  <li id="sb-request"><a href="formsearch.asp">Picture request</a></li>
+                </ul>
+              </div>
+			</li>
+	
+	</ul>
+	<!--[if lte IE 6]>
+	<style>.p7TMM04 .p7TMM, .p7TMM04 a, .p7TMM04 li {height:1%;}</style>
+	<![endif]-->
+	<!--[if IE 5]>
+	<style>.p7TMM04 a, .p7TMM04 a {overflow: visible !important;}</style>
+	<![endif]-->
+	<script type="text/javascript">
+		<!--
+		P7_TMMop('p7TMM_1',0,0,0,3,1,1,1,1,-1);
+		//-->
+	</script>
+	<div id="bottomCap"><img src="images/menu-bottom-cap.gif" width="190" height="16" /></div>
+</div>
+
+		</div>
+			<h1>Page not found</h1>
+		<div class="column" id="column-a">
+
+			  <div class="panel">
+				<div class="banner">
+					<div class="image">
+					<a title="Sensory and Motor Homonculus. Click for Picture Library search results and image details"href="http://piclib.nhm.ac.uk/searchresults.asp?search=1&screenwidth=1241&pixperpage=40&searchtxtkeys=Homunculus&lastsearchtxtkeys=&withinresults=&lstformats=&lstorients=All+Orientations&chkpho=&chkill=&chkpor=&chkarc=&chkfos=&chkspe=&chksem=&chkmodrel="><img border="0" src="http://piclib.nhm.ac.uk/images/404.jpg" alt="Sensory / Motor homunculus" width="490" height="250"></a>
+					<p><a title="Sensory and Motor Homonculus. Click for Picture Library search results and image details" href="http://piclib.nhm.ac.uk/results.asp?search=1&screenwidth=1241&pixperpage=40&searchtxtkeys=Homunculus&lastsearchtxtkeys=&withinresults=&lstformats=&lstorients=All+Orientations&chkpho=&chkill=&chkpor=&chkarc=&chkfos=&chkspe=&chksem=&chkmodrel="style="color:#ffffff;" ><Strong>Sensory and Motor Homonculus.</a></strong> Models showing what a man's body would look like if each part grew in proportion to the area of the cortex of the brain concerned with its movement and sensory perception.</p>
+					</div>
+				</div>
+				<div class="panel-intro" style="background-image: none;">
+					<h3>Page has been moved or deleted</h3>
+					<p>The page you are looking for has not been found and we apologise for any inconvenience this may have caused. This may be due to an outdated link to our old website or a deleted page. If you are looking for a specific image please try the search box above, entering <a title:"Natural History Museum Picture Library keyword and Image serach tips" href=http://piclib.nhm.ac.uk/searchtips.asp>keywords or the Image ID</a>.</p>
+
+				</div>
+				<div class="panel-content">
+					<div class="image right" style="width:160px">
+						<a href="http://piclib.nhm.ac.uk/browse-collections.asp"><img src="http://piclib.nhm.ac.uk/images/collections.jpg" alt="Browse our extensive collections" width="160" height="122"></a>
+					</div>
+					<a href="http://piclib.nhm.ac.uk/browse-collections.asp"><h4>Browse collections</h4></a>
+						<p>From animals and anthropology to landscapes and minerals, the Natural History Museum Picture Library has an extensive image collection to meet your needs. To help inspire your search we have created galleries of our most popular content.</p>
+						<a href="http://piclib.nhm.ac.uk/browse-collections.asp" class="point-right">Browse our collections</a>
+				</div>
+				<div class="panel-content">
+					<div class="image right" style="width:160px">
+						<a href="http://piclib.nhm.ac.uk/aboutus.asp"><img src="http://piclib.nhm.ac.uk/images/NHMPL.jpg" alt="Browse our extensive collections" width="160" height="122"></a>
+					</div>
+						<a href="http://piclib.nhm.ac.uk/aboutus.asp"><h4>Natural History Museum Picture Library</h4></a>
+						<p>The Natural History Museum Picture Library looks after many thousands of natural history images built around the Museum’s world class collections, iconic architecture and the pioneering research of our scientists. Find out about our image subject areas, our business, and our vision.</p>
+
+						<a href="http://piclib.nhm.ac.uk/aboutus.asp" class="point-right">More about our picture Library</a>
+				</div>
+				<div class="panel-content">
+
+					<div class="image right" style="width:160px">
+						<a href="http://piclib.nhm.ac.uk/faq.asp"><img src="http://piclib.nhm.ac.uk/images/contact_picture-library_natural-history-museum.jpg" alt="King penguin (Aptenodytes patagonicus), Saunders Island, Falkland Islands, U.K. Photograpphed by Ellen Goff." width="160" height="122"></a>
+					</div>
+
+						<a href="http://piclib.nhm.ac.uk/faq.asp"><h4>Frequently asked questions</h4></a>
+						<p>Problems? Not sure how to use the website? Our Frequently asked questions page provides helpful answers to common problems and tips on how to get the most from the website.</p>
+
+						<a href="http://piclib.nhm.ac.uk/faq.asp" class="point-right">Frequently asked questions</a>
+				</div>
+				<div class="panel-content">
+
+					<div class="image right" style="width:160px">
+						<a href="http://piclib.nhm.ac.uk/contactus.asp"><img src="http://piclib.nhm.ac.uk/images/contact.jpg" alt="Natural History Museum, London" width="160" height="122"></a>
+					</div>
+
+						<a href="http://piclib.nhm.ac.uk/contactus.asp"><h4>Contact us</h4></a>
+						<p>Get in touch with our friendly, dedicated team who will be happy to help advise you. You can speak to our staff for specific image research queries, information about our services and more.</p>
+						<a href="http://piclib.nhm.ac.uk/contactus.asp" class="point-right">Contact us</a>
+				</div><!--end panel content -->
+
+
+				<div class="panel-footer">&nbsp;</div>
+			</div><!-- end panel -->
+		</div> <!-- end column a -->
+
+		<div id="utilities">
+			<div id="contactInfo">
+			<p><strong>Picture Library</strong><br /> Natural History Museum <br /> Cromwell Road <br /> London <br /> SW7 5BD</p>
+<p>Tel: +44 (0)20 7942 6547<br /> <br /><a title="Email the Natural History Museum Picture Library" href="http://www.nhm.ac.uk/about-us/contact-enquiries/forms/emailform.jsp?recip=nhmpl&amp;business_title=Picture+Library&email_title=Enquiries"><strong>Email us</strong></a></p>
+			</div>
+
+			<div id="utility-share-this">
+				<h5>Share this</h5>
+				<div class="menu">
+					<ul>
+						<li><a onclick="urchinTracker('/outgoing/utilities/del.icio.us');" href="http://del.icio.us/post?url=http://piclib.nhm.ac.uk/index.asp" title="Share this on Delicious"><img width="16" height="16" alt="Share this on Delicious" src="http://www.nhm.ac.uk/includes/images/generic/social-networks/16px/delicious.jpg"/></a></li>
+						<li><a onclick="urchinTracker('/outgoing/utilities/digg.com');" href="http://digg.com/submit?url=http://piclib.nhm.ac.uk/index.asp" title="Share this on Digg" ><img width="16" height="16" alt="Share this on Digg" src="http://www.nhm.ac.uk/includes/images/generic/social-networks/16px/digg.gif"/></a></li>
+						<li><a onclick="urchinTracker('/outgoing/utilities/reddit.com');" href="http://reddit.com/submit?url=http://piclib.nhm.ac.uk/index.asp" title="Share this on reddit" ><img width="16" height="16" alt="Share this on reddit" src="http://www.nhm.ac.uk/includes/images/generic/social-networks/16px/reddit.gif"/></a></li>
+						<li><a onclick="urchinTracker('/outgoing/utilities/facebook.com');" href="http://www.facebook.com/sharer.php?u=http://piclib.nhm.ac.uk/index.asp" title="Share this on Facebook"><img width="16" height="16" alt="Share this on Facebook" src="http://www.nhm.ac.uk/includes/images/generic/social-networks/16px/facebook.gif"/></a></li>
+						<li class="last-item"><a onclick="urchinTracker('/outgoing/utilities/stumbleupon.com');" href="http://www.stumbleupon.com/submit?url=http://piclib.nhm.ac.uk/index.asp" title="Share this on StumbleUpon"><img width="16" height="16" alt="Share this on StumbleUpon" src="http://www.nhm.ac.uk/includes/images/generic/social-networks/16px/stumbleupon.gif"/></a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+
+<div class="footer newslettersignup">
+
+<link rel="stylesheet" href="http://www.nhm.ac.uk/etc/clientlibs/granite/jquery-ui.min.css" type="text/css">
+<link rel="stylesheet" href="http://www.nhm.ac.uk/etc/clientlibs/nhmwww/newslettersignupvalidation.min.css" type="text/css">
+<link rel="stylesheet" href="http://www.nhm.ac.uk/etc/clientlibs/foundation/jquery-ui/themes/default.min.css" type="text/css">
+<script type="text/javascript" src="http://www.nhm.ac.uk/etc/clientlibs/granite/jquery-ui.min.js"></script>
+<script type="text/javascript" src="http://www.nhm.ac.uk/etc/clientlibs/foundation/jquery-ui.min.js"></script>
+<script type="text/javascript" src="http://www.nhm.ac.uk/etc/clientlibs/nhmwww/newslettersignupvalidation.min.js"></script>
+
+<!-- START OF FOOTER -->
+<footer class="main-footer">
+		<div class="row cf">
+			<div class="columns large-9 medium-9 framed-wrapper">
+				<div class="framed">
+					<nav class="footer-nav columns large-9">
+						<ul class="cf">
+							<div class="columns large-6 medium-6 small-6">
+								<li><a href="http://www.nhm.ac.uk/about-us.html">About us</a></li>
+								<li><a href="http://www.nhm.ac.uk/about-us/news.html">News</a></li>
+								<li><a href="http://www.nhm.ac.uk/press-office.html">Press office</a></li>
+								<li><a href="http://www.nhm.ac.uk/business-services.html">Business services</a></li>
+								<li><a href="http://www.nhm.ac.uk/about-us/jobs-volunteering-internships/index.html">Careers</a></li>
+								<li><a href="http://www.nhm.ac.uk/about-us/governance.html">Governance</a></li>
+							</div>
+							<div class="columns large-6 medium-6 small-6">
+								<li><a href="http://www.nhm.ac.uk/my-nhm/privacy-policy/index.html">Privacy policy</a></li>
+								<li><a href="http://www.nhm.ac.uk/about-us/website-help/terms-of-use/index.html">Terms and conditions</a></li>
+								<li><a href="http://www.nhm.ac.uk/contact-us.html">Contact us</a></li>
+								<li>Follow us</li>
+									<ul class="small-block-grid-3 icon-list">
+										<li><a href="https://www.facebook.com/naturalhistorymuseum"><img src="http://www.nhm.ac.uk/etc/designs/nhmwww/img/icons/facebook.png" alt="Facebook"></a></li>
+										<li><a href="https://twitter.com/NHM_London"><img src="http://www.nhm.ac.uk/etc/designs/nhmwww/img/icons/twitter.png" alt="Twitter"></a></li>
+										<li><a href="https://www.youtube.com/user/naturalhistorymuseum"><img src="http://www.nhm.ac.uk/etc/designs/nhmwww/img/icons/youtube.png" alt="YouTube"></a></li>
+										<li><a href="https://instagram.com/natural_history_museum"><img src="http://www.nhm.ac.uk/etc/designs/nhmwww/img/icons/instagram.png" alt="Instagram"></a></li>
+										<li><a href="http://www.pinterest.com/nhmlondon"><img src="http://www.nhm.ac.uk/etc/designs/nhmwww/img/icons/pinterest.png" alt="Pinterest"/></a></li>
+										<li><a href="https://plus.google.com/+NaturalHistoryMuseumLondon/posts"><img src="http://www.nhm.ac.uk/etc/designs/nhmwww/img/icons/gplus.png" alt="GooglePlus"/></a></li>
+									</ul>
+								</li>
+							</div>
+						</ul>
+					</nav>
+
+					<div class="footer-utility columns large-3 newslettersignup">
+						<form action="http://www.nhm.ac.uk/contact-us/contact-form/jcr:content.newslettersignup.html" method="get">
+						  <fieldset>
+							<legend>Sign up for our emails</legend>
+								 <label class="item-label" for="name">Full name</label>
+								 <input class="item-input" name="name" type="text" />
+								 <label class="item-label" for="email">Email address</label>
+								 <input class="item-input" name="email" type="text" />
+								 <input type="submit" value="Sign up &gt;" />
+								 <input class="question" type="text" name="question">
+						   </fieldset>
+								<div class="errors"></div>
+								<div class="footer-nav">
+									<label>We will use your personal information in accordance with the Data Protection Act 1998. <a href="http://www.nhm.ac.uk/my-nhm/privacy-policy/index.html">View our privacy policy.</a></label>
+								</div>                             
+						</form>
+					</div>
+				</div>
+			</div>
+			<div class="footer-info columns large-3 medium-3" title="Natural History Museum">
+				<p>&copy; The Trustees of the Natural History Museum, London </p>
+			</div>
+		</div>
+</footer>
+
+
+<div id="feedback-bar" data-module="feedback-bar">
+
+	<div class="container">
+
+		<div class="row">
+			<div class="span11 small-11 columns">
+				<p class="mobile">Leave <a href="https://www.surveymonkey.com/r/nhm-site-redesign" target="_blank">feedback</a> about our new website. <a href="http://www.nhm.ac.uk/about-us/we-are-redeveloping-our-website.html" target="_blank">More information</a>.</p>
+				<p class="tablet desktop">You are viewing our new website - we would love to hear your <a href="https://www.surveymonkey.com/r/nhm-site-redesign" target="_blank">feedback</a>. Find out about our <a href="http://www.nhm.ac.uk/about-us/we-are-redeveloping-our-website.html" target="_blank">website redevelopment project</a>.</p>
+			</div>
+			 <div class="span1 small-1 columns">
+				<a class="feedback-close" title="Close feedback bar">
+						<i class="ico svg-ico" data-svg-src="nhm-icons/icon_l_general_close.svg" data-svg-title="icon__general_close" data-stroke-width="8" data-base-color="#EEEEEE"></i>
+					</a>              
+			</div>
+		</div>
+
+	</div>
+
+
+</div>
+
+</div><!-- END OF FOOTER -->
+
+
+</div>
+
+
+<form name="formsearchsubmit" method="get" class="forms" action="http://piclib.nhm.ac.uk/results.asp">
+	<input type="hidden" name="search" value="1" />
+	<input type="hidden" name="screenwidth" />
+	<input type="hidden" name="pixperpage" />
+	<input type="hidden" name="searchtxtkeys" />
+	<input type="hidden" name="lastsearchtxtkeys" value="" />
+	<input type="hidden" name="withinresults" />
+	<input type="hidden" name="lstformats" />
+	<input type="hidden" name="lstorients" />
+	<input type="hidden" name="chkpho" />
+	<input type="hidden" name="chkill" />
+	<input type="hidden" name="chkpor" />
+	<input type="hidden" name="chkarc" />
+	<input type="hidden" name="chkfos" />
+	<input type="hidden" name="chkspe" />
+	<input type="hidden" name="chksem" />
+	<input type="hidden" name="chkmodrel" />
+</form>
+
+<script type="text/javascript">
+
+	window.onunload = function(){} // This is needed for InitInputs() to work properly.
+
+	setTimeout("InitInputs()", 200)
+
+	function InitInputs()
+		{
+	document.formsearch.chkwithin.disabled = true
+document.formsearch.chkcolor.checked = true
+document.formsearch.chkbw.checked = true
+document.formsearch.chkhor.checked = true
+document.formsearch.chkver.checked = true
+document.formsearch.chksqu.checked = true
+document.formsearch.chkpho.checked = false
+document.formsearch.chkill.checked = false
+document.formsearch.chkpor.checked = false
+document.formsearch.chkarc.checked = false
+document.formsearch.chkfos.checked = false
+document.formsearch.chkspe.checked = false
+document.formsearch.chksem.checked = false
+document.formsearch.chkfree.checked = false
+document.formsearch.chktnzoom.checked = true;
+
+
+		// Hitting the browser back button may initialize these to the values from the previous page, so set then to null.
+		document.formsearchsubmit.searchtxtkeys.value = ""
+		document.formsearchsubmit.lstformats.value = ""
+		document.formsearchsubmit.lstorients.value = ""
+		document.formsearchsubmit.chkmodrel.value = ""
+
+	
+		}
+
+	function TxtkeysOnKeyUp()
+		{
+		try {if (keycode == 13) FormSearchSubmit()}
+		catch(er) {}
+		}
+
+	function FormSearchSubmit()
+		{
+		var i, v, ie
+
+		// Screen Width
+		ie = (document.all)? true:false
+		if (ie)
+			document.formsearchsubmit.screenwidth.value = document.body.offsetWidth
+		else
+			document.formsearchsubmit.screenwidth.value = window.innerWidth
+
+		// Results Per Page
+		i = document.formsearch.pixperpage.selectedIndex
+		v = document.formsearch.pixperpage.options[i].value
+		document.formsearchsubmit.pixperpage.value = v
+
+		// Keywords
+		if (!document.formsearchsubmit.searchtxtkeys.value)
+			{
+			v = document.formsearch.txtkeys1.value
+
+			if (v.toLowerCase() == "search by keyword(s) or image id") v = ""
+			v = Trim(v)
+			if (v) document.formsearchsubmit.searchtxtkeys.value = v
+
+			if (document.formsearch.chkwithin.checked)
+				document.formsearchsubmit.withinresults.value = "yes"
+			}
+
+		// Color, BW
+		if (!document.formsearchsubmit.lstformats.value)
+			{
+			if (!document.formsearch.chkcolor.checked && !document.formsearch.chkbw.checked)
+				document.formsearchsubmit.lstformats.value = ""
+			else if (document.formsearch.chkcolor.checked && !document.formsearch.chkbw.checked)
+				document.formsearchsubmit.lstformats.value = "0"
+			else if (!document.formsearch.chkcolor.checked && document.formsearch.chkbw.checked)
+				document.formsearchsubmit.lstformats.value = "1"
+			else if (document.formsearch.chkcolor.checked && document.formsearch.chkbw.checked)
+				document.formsearchsubmit.lstformats.value = ""
+			}
+
+		// Horizontal, Vertical, Square
+		if (!document.formsearchsubmit.lstorients.value)
+			{
+			v = ""
+			if (document.formsearch.chkhor.checked) v = "1"
+			if (document.formsearch.chkver.checked) v = v + "2"
+			if (document.formsearch.chksqu.checked) v = v + "3"
+			if (v && v != "123")
+				document.formsearchsubmit.lstorients.value = v
+			else
+				document.formsearchsubmit.lstorients.value = "All Orientations"
+			}
+
+		// Free for Museum staff
+		if (!document.formsearchsubmit.chkmodrel.value)
+			{
+			if (document.formsearch.chkfree.checked)
+				document.formsearchsubmit.chkmodrel.value = "TRUE"
+			}
+
+		// Photographs, Illustrations, Portraits, Archive, Fossils, Specimens, SEM
+		if (document.formsearch.chkpho.checked) document.formsearchsubmit.chkpho.value = "1"
+		if (document.formsearch.chkill.checked) document.formsearchsubmit.chkill.value = "1"
+		if (document.formsearch.chkpor.checked) document.formsearchsubmit.chkpor.value = "1"
+		if (document.formsearch.chkarc.checked) document.formsearchsubmit.chkarc.value = "1"
+		if (document.formsearch.chkfos.checked) document.formsearchsubmit.chkfos.value = "1"
+		if (document.formsearch.chkspe.checked) document.formsearchsubmit.chkspe.value = "1"
+		if (document.formsearch.chksem.checked) document.formsearchsubmit.chksem.value = "1"
+
+		// Submit Form
+		document.formsearchsubmit.submit()
+		}
+
+	function WithinResultsOnClick()
+		{
+		if (document.formsearch.chkwithin.checked)
+			{
+			if (document.formsearch.txtkeys1.value == "")
+				{
+				document.formsearch.txtkeys1.value = ""
+				document.formsearch.txtkeys1.focus()
+				}
+			}
+		else
+			{
+			document.formsearch.txtkeys1.value = ""
+			}
+		}
+
+	function TNZoomOnClick()
+		{
+		var url
+
+		if (document.formsearch.chktnzoom.checked)
+			url = "ajaxtnzoom.asp?tnzoom=yes"
+		else
+			url = "ajaxtnzoom.asp?tnzoom=no"
+
+		try {HTTP_RequestTNZoom(url)}
+		catch(er) {}
+		}
+
+	function PixPerPageOnChange()
+		{
+		var i, v, RequestW, RequestF
+
+		RequestW = ""
+		RequestF = ""
+
+		if (RequestW && RequestF)
+			{
+			i = document.formsearch.pixperpage.selectedIndex
+			v = document.formsearch.pixperpage.options[i].value
+			location = "http://piclib.nhm.ac.uk/results.asp?W=" + RequestW + "&F=" + RequestF + "&Step=1&pixperpage=" + v
+			}
+		}
+
+	function SearchPrevOnChange()
+		{
+		var i = document.formsearch.searchprev.selectedIndex
+		var txtkeys1 = document.formsearch.searchprev.options[i].value
+		document.formsearch.txtkeys1.value = txtkeys1
+		FormSearchSubmit()
+		}
+
+	function Trim(sString)
+		{
+		while (sString.substring(0, 1) == ' ')
+			sString = sString.substring(1, sString.length)
+
+		while (sString.substring(sString.length - 1, sString.length) == ' ')
+			sString = sString.substring(0, sString.length - 1)
+
+		return sString
+		}
+
+</script>
+
+
+
+<div id="greyinlinewindow" style="position:absolute; left:0px; top:0px; width:100%; background-color:#000000; z-index:100; display:none;"></div>
+
+<div id="emailinlinewindow" style="position:fixed; top:50px; left:0px; width:100%; height:100%; z-index:200; display:none">
+	<div align="center">
+		<div align="left" style="position:relative; margin-top:100px; width:300px; border-style:solid; border-color:#000077; border-width:2px; background-color:#ffffff; z-index:2">
+			<div style="position:relative; width:100%; height:23px; background-color:#000077">
+				<div style="float:left; font-size:16px; color:#ffffff; font-weight:bold; margin-left:2px">Email this page</div>
+				<div style="float:right; margin:0 0 0 0"><a href="javascript:CloseInlineWindow('emailinlinewindow')" onmouseover="document.images['divclosecopy'].src = 'images/divclose_on.gif'" onmouseout="document.images['divclosecopy'].src = 'images/divclose.gif'"><img src="images/divclose.gif" name="divclosecopy" width="21" height="21" alt="Close" title="Close" border="0" /></a></div>
+				<div style="clear:both"></div>
+			</div>
+			<div style="position:relative; width:auto; margin:8px 10px 10px 10px; font-size:12px;">
+				<form name="formemailthispage" method="get" style="border:0; padding:0" action="javascript:EmailThisPageSubmit()">
+					<table border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left"><strong>Email to:</strong></td>
+							<td align="left"><input type="text" name="email" style="width:200px" /></td>
+						</tr>
+						<tr>
+							<td align="left" valign="top">Message:</td>
+							<td align="left"><textarea name="message" rows="5" style="width:200px" onkeyup="EmailThisPageMessageOnKeyUp()"></textarea></td>
+						</tr>
+						<tr>
+							<td></td>
+							<td><input type="submit" name="submit" value="Send" style="cursor:pointer" /></td>
+						</tr>
+					</table>
+				</form>
+			</div>
+		</div>
+	</div>
+</div>
+<div style="clear:both"></div>
+
+<script type="text/javascript">
+
+	var http_requestInlineWindow
+	var InlineWindowAction	
+
+
+
+		function OpenInlineWindow(dialogwindow)
+			{
+			alert("You must be registered and signed in to email this page.")
+			}
+
+
+
+	function EmailThisPageMessageOnKeyUp()
+		{
+		s = document.formemailthispage.message.value
+
+		if (s.length > 1700)
+			document.formemailthispage.message.value = s.substring(0, 1800)
+		}
+
+	function EmailThisPageSubmit()
+		{
+		var email
+		email = Trim(document.formemailthispage.email.value)
+		message = Trim(document.formemailthispage.message.value)
+		
+		if (email)
+			{
+			InlineWindowAction = "emailthispage"	
+			url = "ajaxinlinewindow.asp?page=404.asp&emailthispage=" + escape(email) + "&message=" + escape(message)
+			HTTP_RequestInlineWindow(url)
+			}
+		else
+			{
+			alert("Please include the email address to send to.")
+			}
+		}
+	
+	function HTTP_RequestInlineWindow(url) 
+		{
+		http_requestInlineWindow = false
+
+		if (window.XMLHttpRequest) 
+			{
+			http_requestInlineWindow = new XMLHttpRequest()
+			if (http_requestInlineWindow.overrideMimeType) http_requestInlineWindow.overrideMimeType('text/xml')
+			} 
+		else if (window.ActiveXObject) 
+			{
+			try 
+				{http_requestInlineWindow = new ActiveXObject("Msxml2.XMLHTTP")} 
+			catch(er) 
+				{
+				try {http_requestInlineWindow = new ActiveXObject("Microsoft.XMLHTTP")} 
+				catch(er2) {}
+				}
+			}
+
+		if (http_requestInlineWindow)	
+			{
+			http_requestInlineWindow.open('GET', url, true)
+			http_requestInlineWindow.onreadystatechange = HTTP_WriteInlineWindow
+			http_requestInlineWindow.send(null)
+			}
+		}
+		
+	function HTTP_WriteInlineWindow()
+		{
+		var info
+		 
+		if (http_requestInlineWindow.readyState == 4 && http_requestInlineWindow.status == 200) 
+			{
+			info = http_requestInlineWindow.responseText
+			
+			if (InlineWindowAction == "emailthispage")
+				{
+				alert(info)
+				CloseInlineWindow('emailinlinewindow')
+				}
+			}
+		}
+		
+</script>
+
+
+</body>
+</html>

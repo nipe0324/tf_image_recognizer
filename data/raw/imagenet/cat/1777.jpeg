@@ -1,0 +1,329 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Institutional Animal Care and Use Committee Program | www.orcr.arizona.edu</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/orcr.arizona.edu/files/css/css_429426fb722a56b2e7fbe177b2b829c3.css" />
+<script type="text/javascript" src="/sites/orcr.arizona.edu/files/js/js_c614867e911cfca35c7b95466d8efcf2.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "nice_menus_options": { "delay": "800", "speed": "slow" } });
+//--><!]]>
+</script>
+<script type="text/javascript"></script>
+</head>
+
+<body class="not-front not-logged-in page-node node-type-page two-sidebars">
+
+
+<div id="wrapper">
+	<div id="headerwrapper">
+    	<div id="pagewrapper">
+        	<div id="header">
+            	<div id="ualogo"><a href="http://arizona.edu" target="_blank"><img src="/themes/ocrc/images/UALogo.png" width="163" height="147" alt="University of Arizona" /></a>
+                </div><!--end ualogo-->
+           	  	<div id="rightheaderwrapper">
+                	<div id="homenav">
+                    	                  </div><!--end homenav-->
+                    <div id="ocrclogo"><a href="/"><img src="/themes/ocrc/images/ocrcLogo.png" width="753" height="68" alt="OCRC" /></a>
+                    </div><!--end homenav-->
+                    <div id="search">
+                    	<div id="block-search-0" class="block block-search">
+
+  <div class="content">
+    <form action="/iacuc"  accept-charset="UTF-8" method="post" id="search-block-form">
+<div><div id="searchbanner">
+<input name="search_block_form" type="text" value="search" class="searchs" maxlength="200" onclick="this.value=''"/>
+<input type="image" border="0" name="searchButton" id="id_searchButton" src="/themes/ocrc/images/searchButton.png" width="51" height="21">
+<input type="hidden" name="form_build_id" id="form-hNBcJFK9p9RTyYlSCvrPxiFYTpNibcz55VXMTmlqrqo" value="form-hNBcJFK9p9RTyYlSCvrPxiFYTpNibcz55VXMTmlqrqo"  />
+<input type="hidden" name="form_id" id="edit-search-block-form" value="search_block_form"  />
+</div>
+</div></form>
+  </div>
+</div>
+                    </div><!--end homenav-->
+              	</div><!--end rightheaderwrapper-->
+            </div><!--end header-->
+            
+            <div id="navigation">
+				<div id="block-nice_menus-1" class="block block-nice_menus">
+
+  <div class="content">
+    <ul class="nice-menu nice-menu-down" id="nice-menu-1"><li class="menu-3223 menu-path-orcrarizonaedu-contact first  odd "><a href="http://orcr.arizona.edu/contact" title="">Contact Us</a></li>
+<li class="menu-1873 menu-path-node-2 even "><a href="/node/2" title="COI">Conflict of Interest</a></li>
+<li class="menu-367 menu-path-orcrarizonaedu-ec odd "><a href="http://orcr.arizona.edu/ec" title="EC">Export Controls</a></li>
+<li class="menu-368 menu-path-node-5 even "><a href="/hspp" title="HSPP">Human Subjects Protection Program </a></li>
+<li class="menu-369 menu-path-node-6 odd "><a href="/iacuc" title="IACUC">Institutional Animal Care and Use Committee</a></li>
+<li class="menu-370 menu-path-orcrarizonaedu-hipaa even "><a href="http://orcr.arizona.edu/hipaa" title="Health Insurance Portability and Accountability Act Privacy Office">HIPAA Privacy Office</a></li>
+<li class="menu-371 menu-path-node-153 odd "><a href="/node/153" title="ORCBS">Office of Radiation, Chemical and Bio. Safety </a></li>
+<li class="menu-472 menu-path-orcrarizonaedu-research-integrity-home even "><a href="http://orcr.arizona.edu/research-integrity/home" title="RIO">Research Integrity Office </a></li>
+<li class="menu-2751 menu-path-node-291 odd "><a href="/node/291" title="">Responsible Conduct of Research</a></li>
+<li class="menu-3719 menu-path-rgwarizonaedu- even  last "><a href="http://rgw.arizona.edu/" title="">Gateway to Research Services</a></li>
+</ul>
+  </div>
+</div>
+            </div><!--end navigation-->
+            
+            <div id="contentwrapper">
+        	        		<div id="leftcolumnwrapper">
+            		<div id="leftcolumn">
+                		<div id="block-nice_menus-6" class="block block-nice_menus">
+  <h2><span class="nice-menu-show-title">Institutional Animal Care and Use Committee</span></h2>
+
+  <div class="content">
+    <ul class="nice-menu nice-menu-right" id="nice-menu-6"><li class="menu-1118 menu-path-orcrarizonaedu-iacuc first  odd "><a href="http://orcr.arizona.edu/iacuc" title="Home">Home</a></li>
+<li class="menu-4283 menu-path-node-308 even "><a href="/IACUC/submit" title="">Submit an IACUC Protocol or Amendment</a></li>
+<li class="menu-3117 menu-path-orcrarizonaedu-iacuc-Personnel Amendments odd "><a href="http://orcr.arizona.edu/iacuc/Personnel Amendments" title="Protocol Amendments">Submit a Personnel Amendment</a></li>
+<li class="menu-3116 menu-path-orcrarizonaedu-iacuc-Request for Change SOPs even "><a href="http://orcr.arizona.edu/iacuc/Request for Change SOPs" title="">Submit a Request for Change</a></li>
+<li class="menu-2737 menu-path-node-170 odd "><a href="/iacuc/Policies%20and%20Procedures" title="">Policies, Procedures and Guidances</a></li>
+<li class="menu-2730 menu-path-node-173 even "><a href="/iacuc/resources" title="">Resources for Animal Users</a></li>
+<li class="menu-437 menu-path-node-56 odd "><a href="/iacuc/Review%20Process" title="Review Process">IACUC Review Process</a></li>
+<li class="menu-3115 menu-path-orcrarizonaedu-iacuc-labinspect even "><a href="http://orcr.arizona.edu/iacuc/labinspect" title="">Laboratory Inspections</a></li>
+<li class="menu-3240 menu-path-node-282 odd "><a href="/iacuc/MOUs" title="MOUs with External IACUCs">MOUs with External IACUCs</a></li>
+<li class="menu-3113 menu-path-node-268 even "><a href="/iacuc/animalhazards" title="">Animal Hazards Program</a></li>
+<li class="menu-3109 menu-path-node-260 odd "><a href="/iacuc/animalwelfare" title="">Animal Welfare Concerns</a></li>
+<li class="menu-3219 menu-path-front even  last "><a href="/" title="">Return to ORCR Home</a></li>
+</ul>
+  </div>
+</div>
+                	</div><!--end leftcolumn-->
+            	</div><!--end leftwrapper-->
+                        <div id="rightwrapper">
+            	            	<div id="bodycontent">
+                	<div id="bodycolumn">
+                    	<h1>Institutional Animal Care and Use Committee Program</h1>						                		                		                		  												<div id="node-256" class="node clear-block">
+
+
+
+  <div class="meta">
+  
+    </div>
+
+  <div class="content">
+    <div style="text-align: center;"><span style="font-size: 20px;"><strong><span style="font-size:14px;"><span style="background-color:#00ff00;">IMPORTANT:</span></span></strong></span></div>
+<div style="text-align: center;"><span style="font-size: 20px;"><strong><span style="font-size:14px;"><span style="background-color:#00ff00;">The eSirius manual is on the UAC website, which is password protected. Click on the link below and access the file with your UA NetID by clicking on Staff Login at the bottom of the page.</span></span></strong></span></div>
+<div style="text-align: center;"><a href="https://uac.arizona.edu/requirements-and-guidelines"><span style="font-size: 20px;"><strong>PI manual for eSirius 3G is on the UAC site</strong></span></a></div>
+<div style="text-align: center;">&nbsp;</div>
+<div style="text-align: center;"><a href="http://orcr.arizona.edu/iacuc/eSiriustrainingform" target="_blank"><span style="font-size: 20px;"><strong>Sign up for live eSirius 3G training</strong></span></a></div>
+<div class="description" style="text-align: center;">&nbsp;</div>
+<div class="description" style="text-align: center;"><img alt="Lab mouse" src="http://orcr.arizona.edu/sites/orcr.arizona.edu/files/IACUC mouse.jpg" style="width: 200px; height: 200px;" /></div>
+<div>&nbsp;</div>
+<div>The Institutional Animal Care and Use Committee (IACUC) Program oversees the University&rsquo;s animal care and use program ensuring the appropriate care, use and humane treatment of animals used for research, testing and teaching. The IACUC is responsible for reviewing and approving requests to use live vertebrate animals, and ensuring compliance with all applicable regulations. The IACUC performs inspections of all areas where animals are housed and used, and oversees training and educational programs. The IACUC serves as a resource to investigators research staff, students and administrators, providing guidance in planning and conducting all animal activities with the highest scientific, humane, and ethical principles.</div>
+<div>&nbsp;</div>
+<div style="text-align: center;"><span style="font-size: 20px;"><strong><a href="http://orcr.arizona.edu/iacuc/adverseevent">Report adverse or unanticipated events affecting animals</a></strong></span></div>
+<div>&nbsp;</div>
+<div style="text-align: center;">&nbsp;</div>
+<div style="text-align: center;">
+	<hr /><strong>Disclaimer</strong></div>
+<div style="text-align: center;"><span style="font-size: 10px;">The information contained in this site is intended as a reference for University of Arizona personnel. Drug information and dosages are derived from a variety of sources and do not guarantee safety or efficacy. Information obtained through this site should not be relied upon as professional veterinary advice. Any medications administered or procedures performed on animals should only be performed by or under supervision of a qualified, licensed veterinarian. The University disclaims any and all warranties or representations. Use of this information in any method, mode, or manner is solely at the user&rsquo;s risk, and the University assumes no liability for such use.</span></div>
+<div>&nbsp;</div>
+  </div>
+
+  </div>                		                    </div><!--end bodycolumn-->
+                </div><!--end bodycontent-->
+                                	<div id="rightcolumnwrapper">
+                		<div id="rightcolumn">
+                			<div id="block-block-35" class="block block-block">
+
+  <div class="content">
+    <div style="text-align: center">
+	<table align="center" border="0" cellpadding="1" cellspacing="1" style="width: 170px">
+		<tbody>
+			<tr>
+				<td style="background-color: maroon"><span style="font-size: 16px"><strong><font color="#ffffff">Contact the<br />
+					IACUC Office&nbsp;</font></strong></span></td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<div style="text-align: center">&nbsp;</div>
+<div style="text-align: center"><strong><span style="font-size: 12px"><a href="mailto:orcr-iacuc@email.arizona.edu">orcr-iacuc@email.arizona.edu</a></span></strong></div>
+<div style="text-align: center"><span style="font-size: 12px">&nbsp;</span></div>
+<div style="text-align: center"><span style="font-size: 12px"><strong><span style="color: #800000">626-5304</span></strong></span><br />
+	<span style="font-size: 10px">Protocol amendments</span></div>
+<div style="text-align: center"><span style="font-size: 10px">Memoranda of understanding</span></div>
+<div style="text-align: center">
+	<div style="text-align: center"><span style="font-size: 10px">Continuing reviews</span></div>
+	<div style="text-align: center"><span style="font-size: 10px">Expiring protocols</span></div>
+	<div style="text-align: center">
+		<div style="text-align: center"><span style="font-size: 10px">Semi-annual lab inspections</span></div>
+		<span style="font-size: 10px">Post-approval monitoring</span></div>
+</div>
+<div style="text-align: center"><span style="font-size: 10px">Welfare and non-compliance</span><br />
+	&nbsp;</div>
+<div style="text-align: center"><span style="font-size: 12px"><strong><span style="color: #800000">626-1247</span></strong><br />
+	<span style="font-size: 10px">New protocol submissions</span></span></div>
+<div style="text-align: center"><span style="font-size: 10px">eSirius</span></div>
+<div style="text-align: center"><span style="font-size: 10px">Issues with web forms</span><br />
+	<br />
+	<div style="text-align: center"><span style="font-size: 12px"><strong><span style="color: #800000">626-9071</span></strong></span></div>
+	<div style="text-align: center"><span style="font-size: 12px"><span style="font-size: 10px"><span style="font-size: 10px"><font size="1">Personnel Amendments</font></span></span></span><br />
+		<div style="text-align: center"><span style="font-size: 10px"><font size="1">CITI training</font></span></div>
+	</div>
+</div>
+<div style="text-align: center">
+	<hr /></div>
+<script type="text/javascript">
+/************************************************************************************************************
+Show hide content with slide effect
+Copyright (C) August 2010  DTHMLGoodies.com, Alf Magne Kalleland
+
+This library is free software; you can redistribute it and/or
+modify it under the terms of the GNU Lesser General Public
+License as published by the Free Software Foundation; either
+version 2.1 of the License, or (at your option) any later version.
+
+This library is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+Lesser General Public License for more details.
+
+You should have received a copy of the GNU Lesser General Public
+License along with this library; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+
+Dhtmlgoodies.com., hereby disclaims all copyright interest in this script
+written by Alf Magne Kalleland.
+
+Alf Magne Kalleland, 2010
+Owner of DHTMLgoodies.com
+
+************************************************************************************************************/
+
+var dhtmlgoodies_slideSpeed = 10;  // Higher value = faster
+var dhtmlgoodies_timer = 10;  // Lower value = faster
+
+var objectIdToSlideDown = false;
+var dhtmlgoodies_activeId = false;
+var dhtmlgoodies_slideInProgress = false;
+var dhtmlgoodies_slideInProgress = false;
+var dhtmlgoodies_expandMultiple = false; // true if you want to be able to have multiple items expanded at the same time.
+
+function showHideContent(e,inputId)
+{
+  if(dhtmlgoodies_slideInProgress)return;
+  dhtmlgoodies_slideInProgress = true;
+  if(!inputId)inputId = this.id;
+  inputId = inputId + '';
+  var numericId = inputId.replace(/[^0-9]/g,'');
+  var answerDiv = document.getElementById('dhtmlgoodies_a' + numericId);
+
+  objectIdToSlideDown = false;
+
+  if(!answerDiv.style.display || answerDiv.style.display=='none'){
+    if(dhtmlgoodies_activeId &&  dhtmlgoodies_activeId!=numericId && !dhtmlgoodies_expandMultiple){
+      objectIdToSlideDown = numericId;
+      slideContent(dhtmlgoodies_activeId,(dhtmlgoodies_slideSpeed*-1));
+    }else{
+
+      answerDiv.style.display='block';
+      answerDiv.style.visibility = 'visible';
+
+      slideContent(numericId,dhtmlgoodies_slideSpeed);
+    }
+  }else{
+    slideContent(numericId,(dhtmlgoodies_slideSpeed*-1));
+    dhtmlgoodies_activeId = false;
+  }
+}
+
+function slideContent(inputId,direction)
+{
+
+  var obj =document.getElementById('dhtmlgoodies_a' + inputId);
+  var contentObj = document.getElementById('dhtmlgoodies_ac' + inputId);
+  height = obj.clientHeight;
+  if(height==0)height = obj.offsetHeight;
+  height = height + direction;
+  rerunFunction = true;
+  if(height>contentObj.offsetHeight){
+    height = contentObj.offsetHeight;
+    rerunFunction = false;
+  }
+  if(height<=1){
+    height = 1;
+    rerunFunction = false;
+  }
+
+  obj.style.height = height + 'px';
+  var topPos = height - contentObj.offsetHeight;
+  if(topPos>0)topPos=0;
+  contentObj.style.top = topPos + 'px';
+  if(rerunFunction){
+    setTimeout('slideContent(' + inputId + ',' + direction + ')',dhtmlgoodies_timer);
+  }else{
+    if(height<=1){
+      obj.style.display='none';
+      if(objectIdToSlideDown && objectIdToSlideDown!=inputId){
+        document.getElementById('dhtmlgoodies_a' + objectIdToSlideDown).style.display='block';
+        document.getElementById('dhtmlgoodies_a' + objectIdToSlideDown).style.visibility='visible';
+        slideContent(objectIdToSlideDown,dhtmlgoodies_slideSpeed);
+      }else{
+        dhtmlgoodies_slideInProgress = false;
+      }
+    }else{
+      dhtmlgoodies_activeId = inputId;
+      dhtmlgoodies_slideInProgress = false;
+    }
+  }
+}
+
+
+
+function initShowHideDivs()
+{
+  var divs = document.getElementsByTagName('DIV');
+  var divCounter = 1;
+  for(var no=0;no<divs.length;no++){
+    if(divs[no].className=='dhtmlgoodies_question'){
+      divs[no].onclick = showHideContent;
+      divs[no].id = 'dhtmlgoodies_q'+divCounter;
+      var answer = divs[no].nextSibling;
+      while(answer && answer.tagName!='DIV'){
+        answer = answer.nextSibling;
+      }
+      answer.id = 'dhtmlgoodies_a'+divCounter;
+      contentDiv = answer.getElementsByTagName('DIV')[0];
+      contentDiv.style.top = 0 - contentDiv.offsetHeight + 'px';
+      contentDiv.className='dhtmlgoodies_answer_content';
+      contentDiv.id = 'dhtmlgoodies_ac' + divCounter;
+      answer.style.display='none';
+      answer.style.height='1px';
+      divCounter++;
+    }
+  }
+}
+window.onload = initShowHideDivs;
+</script>  </div>
+</div>
+<div id="block-block-54" class="block block-block">
+
+  <div class="content">
+    <div><span style="font-size:12px;"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong></span></div>
+<div><span style="font-size:12px;"><strong>&nbsp;&nbsp;&nbsp;&nbsp; <span style="font-family:arial,helvetica,sans-serif;">Report Misconduct</span></strong></span><br />
+	<a href="http://president.arizona.edu/memos_letters/reporting-illegal-or-unethical-conduct-university-arizona" target="_blank"><img alt="Ethics Hotline" src="http://images.cooltext.com/2933708.png" style="width: 165px; height: 41px;" /></a></div>
+  </div>
+</div>
+                		</div><!--end rightcolumn-->
+                	</div><!--end rightcolumnwrapper-->
+            	            	<br class="clearfloat" />
+            </div><!--end rightwrapper-->
+        	<br class="clearfloat" />
+			</div><!--endcontentwrapper-->
+		</div><!--end pagewrapper-->
+	</div><!--end headerwrapper-->
+</div><!--end wrapper-->
+
+<div id="footerwrapper">
+	    <p>Office of the Senior Vice President for Research<br>
+All contents copyright © 2014 Arizona Board of Regents. All rights reserved. <br>
+The University of Arizona is an EEO/AA - M/W/D/V Employer.<br>
+<a href="/cas">Login</a></p>
+    </div><!--end footerwrapper-->
+
+
+<script type="text/javascript" src="/sites/orcr.arizona.edu/files/js/js_dcfa134a3e8eae208892c23558239267.js"></script>
+</body>
+</html>

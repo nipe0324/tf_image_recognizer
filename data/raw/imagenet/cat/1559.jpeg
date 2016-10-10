@@ -1,0 +1,454 @@
+<!DOCTYPE html>
+<html lang="en-ca"><!-- InstanceBegin template="/Templates/main_landing_page.dwt.php" codeOutsideHTMLIsLocked="false" -->
+    <head> 
+        <!-- InstanceParam name="Page-Section-Intro-Condition" type="boolean" value="true" -->
+
+        
+        <!-- InstanceBeginEditable name="Title-Tag" -->
+        <title>404: Page Not Found | Halifax.ca</title>
+        <!-- InstanceEndEditable -->
+
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<meta name="author" content="Halifax Regional Municipality (HRM)">
+
+<!--
+<meta property="og:title" content="Official Website of Halifax's Municipal Government">
+<meta property="og:description" content="Halifax is a place that offers a balanced lifestyle – friendliness, natural beauty and a small-town feel with the amenities, culture and opportunities of a modern urban centre.">
+-->
+<meta property="og:image" content="https://www.halifax.ca/_assets/images/brand-element.gif">
+<!--
+<meta property="og:url" content="http://www.halifax.ca"/>
+<meta property="og:site_name" content="Halifax.ca"/>
+-->
+        
+        <!-- InstanceBeginEditable name="Meta-Tags" -->
+        <meta name="keywords" content="">
+        <meta name="description" content="">
+        <!-- InstanceEndEditable -->
+        
+        <link rel="shortcut icon" href="https://www.halifax.ca/_assets/images/favicon.png">
+<link rel="stylesheet" href="https://www.halifax.ca/_assets/styles/custom.css">
+<script src="https://www.halifax.ca/_assets/scripts/hfx-scripts-head.js"></script>
+<script src="https://www.halifax.ca/_assets/scripts/jquery.datetimepicker.js"></script>
+
+<!--[if lt IE 9]>
+<script src="https://www.halifax.ca/_assets/scripts/html5shiv.js"></script>
+
+<![endif]-->        
+        <!-- InstanceBeginEditable name="HTML-Head" -->
+		<style>
+			.hfx_section_intro {
+				border-bottom:0;
+				margin-bottom:0;	
+				padding:50px 0 15px;
+			}
+		</style>
+		<!-- InstanceEndEditable -->
+
+    </head>
+
+    <body>
+        
+        
+<!-- Screen Readers Only -->
+<a name="hfx_top" id="hfx_top"></a>
+<a href="#hfx_page" accesskey="0" class="sr-only">Skip to content.</a>
+<a href="/accessibility/" accesskey="1" class="sr-only">Accessibility info.</a>
+
+
+<!-- Main Navigation -->
+<div class="navbar navbar-fixed-top">
+	<div id="tourism_bar" style="display:none;">
+    <div class="row">
+        <div class="col-sm-12">
+            <div class="alert alert-info alert-dismissible" role="alert" style="margin-bottom: 0; border-radius:0; border:0">
+                  <button type="button" class="close" data-dismiss="alert" aria-label="Close" onclick="alert_close()"><span aria-hidden="true">&times;</span></button>
+                  <ul class="tourism_messages">
+                      <li class="tourism_message_0" style="text-align:center; line-height:1em; list-style-type: none;"><a href="http://www.halifax.ca/site/exit.php?url=http://www.destinationhalifax.com/">Visiting Halifax? Find events, attractions, travel packages, and more at Destination Halifax</a></li>
+                  </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+
+	var expires_in_days = 120;	
+	var number_of_messages = 1;
+	var time_inteval = 5000;
+	
+	// on document ready
+	$(document).ready(function() {
+	
+		// if the tourism bar cookie isn't set
+		if (!checkCookie("tourism_bar")) 
+		{
+			var tourism_bar_height = $('#tourism_bar').innerHeight();
+
+			// calculate true tourism bar height (jquery seems to add too much padding)
+			tourism_bar_height = tourism_bar_height - parseInt($('#tourism_bar .alert').css('padding-top')) + 70;
+			
+			// increase top padding on main page content
+			$('#hfx_page').css('padding-top',tourism_bar_height);
+
+			// show the tourism bar
+			$('#tourism_bar').show();
+			// Set a counter
+			// var counter = 0;
+			// if (number_of_messages > 1) 
+			// {
+			// 	// create a time interval 
+			// 	var timer = setInterval(function(){
+			// 		// fade the current message out.
+			// 		$('.tourism_message_'+counter).fadeOut('400', function(){
+			// 			// When the toggle is complete
+			// 			// increase the counter by one
+			// 			counter++;
+			// 			// if the counter has passed the number of messages there are to loop though reset the counter.
+			// 			if (counter == number_of_messages) {counter = 0;}
+			// 			// toggle the next message via counter to the left.
+			// 			$('.tourism_message_'+counter).fadeIn('400');
+			// 		});
+			// 	}, time_inteval);
+			// }
+		}
+
+	});
+	
+	function alert_close()
+	{
+		setCookie('tourism_bar', 'true', expires_in_days);
+		$('#hfx_page').css({"padding-top":"70px"});
+	}
+	
+	function setCookie(cname, cvalue, exdays) 
+	{
+		var d = new Date();
+		d.setTime(d.getTime() + (exdays*24*60*60*1000));
+		var expires = "expires="+d.toUTCString();
+		document.cookie = cname + "=" + cvalue + "; " + expires +"; path=/; domain=halifax.ca";
+	}
+	
+	function checkCookie(cname) 
+	{
+		var user = getCookie(cname);
+		if (user == "true") return true;
+		else 				return false;
+	}
+	
+	function getCookie(cname) 
+	{
+		var name = cname + "=";
+		var ca = document.cookie.split(';');
+	
+		for(var i = 0; i < ca.length; i++) 
+		{
+			var c = ca[i];
+			while (c.charAt(0)==' ') c = c.substring(1);
+			if (c.indexOf(name) == 0) return c.substring(name.length, c.length);
+		}
+		return "";
+	}
+
+</script>    <div class="container">
+        <div class="navbar-header">
+            <a type="button" class="btn navbar-toggle" style="padding-left:2px;" data-toggle="collapse" data-target=".navbar-collapse">Menu <i class="fa fa-bars" style=""></i></a>
+            <a href="#top" class="btn navbar-toggle" style="padding-left:2px;" title="Back to Top">Top <i class="fa fa-arrow-up"></i></a> 
+            <div id="notifications_mobile"></div>
+            <a class="navbar-brand" href="http://www.halifax.ca/home/" title="Halifax.ca homepage"><img src="https://www.halifax.ca/_assets/images/logo.gif" alt="Halifax"></a>
+        </div>
+        <div class="navbar-collapse collapse">
+            <ul id="hfx_navbar" class="nav navbar-nav navbar-right">
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Residents</a>
+                    <ul class="dropdown-menu">
+  <li><a href="http://www.halifax.ca/residents/">Visit the Residents Page</a></li>
+  <li class="divider hidden-xs"></li>
+  <li class="dropdown-header hidden-xs" role="presentation">or jump straight to...</li>
+  <li><a href="http://www.halifax.ca/metrotransit/schedules/index.php">Halifax Transit Schedules</a></li>
+  <li><a href="https://apps.halifax.ca/icethickness">Ice Thickness</a></li>
+  <li><a href="http://www.halifax.ca/skatehrm/">Emera Oval</a></li>
+  <li><a href="http://www.halifax.ca/employment/index.php">Employment</a></li>
+  <li><a href="http://www.halifax.ca/recycle/index.php">Garbage | Recycling</a></li>
+  <li><a href="http://apps.halifax.ca/news">Police Reports</a></li>
+  <li><a href="http://www.halifax.ca/rec/">Recreation Programs</a></li>
+  <li><a href="http://www.halifax.ca/events/index.php">Events</a></li>
+  <li><a href="http://www.halifax.ca/311/">311</a></li>
+  <li><a href="http://www.halifax.ca/Licensing/index.php">Licensing</a></li>
+  <li><a href="http://www.halifax.ca/hrwc/index.php">Halifax Water</a></li>
+  <li><a href="http://www.halifax.ca/taxes/index.php">Taxes</a></li>
+  <li><a href="http://www.halifax.ca/building-renovating/">Building &amp; Renovating</a></li>
+  <li><a href="http://www.halifax.ca/newcomers/index.php">Newcomers Guide</a></li>
+  <li><a href="/youth/">Youth</a></li>
+</ul>
+                </li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Business</a>
+                    <ul class="dropdown-menu">
+  <li><a href="http://www.halifax.ca/business/">Visit the Business Page</a></li>
+  <li class="divider hidden-xs"></li>
+  <li class="dropdown-header hidden-xs" role="presentation">or jump straight to...</li>
+  <li><a href="http://www.halifax.ca/site/exit.php?url=http://www.greaterhalifax.com/en/home/default.aspx" target="_blank">Why Halifax?</a></li>
+  <li><a href="http://www.halifax.ca/EconomicStrategy/index.php">Economic Strategy</a></li>
+  <li><a href="http://www.halifax.ca/regionalplanning/index.php">Regional Planning</a></li>
+  <li><a href="http://www.halifax.ca/planning-development/index.php">Planning &amp; Development</a></li>
+  <li><a href="http://www.halifax.ca/procurement/index.php">Tenders </a></li>
+  <li><a href="http://www.halifax.ca/recycle/ici.php">Garbage &amp; Recycling</a></li>
+  <li><a href="http://www.halifax.ca/Licensing/index.php">Licensing</a></li>
+  <li><a href="http://www.halifax.ca/BizPal/index.php">BizPal</a></li>
+  <li><a href="http://www.halifax.ca/business_parks/index.php">Business Parks</a></li>
+  <li><a href="http://www.halifax.ca/business/business-organizations/index.php">Business Organizations</a></li>
+  <li><a href="http://www.halifax.ca/taxes/index.php">Tax Information</a></li>
+  <li><a href="http://www.halifax.ca/Culture/Film/index.php">Filming in Halifax</a></li>
+</ul>
+                </li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Government</a>
+                    <ul class="dropdown-menu">
+  <li><a href="http://www.halifax.ca/government/">Visit the Government Page</a></li>
+  <li class="divider hidden-xs"></li>
+  <li class="dropdown-header hidden-xs" role="presentation">or jump straight to...</li>
+  <li><a href="http://www.halifax.ca/council/index.php">Regional Council</a></li>
+  <li><a href="http://www.halifax.ca/council/agendasc/cagenda.php">Agendas &amp; Reports</a><a href="http://www.halifax.ca/archives/index.php"></a></li>
+  <li><a href="http://www.halifax.ca/councillors/">Who's my Councillor?</a></li>
+  <li><a href="http://www.halifax.ca/mayor/">Mayor's Office</a></li>
+  <li><a href="http://www.halifax.ca/archives/index.php">Municipal Archives</a></li>
+  <li><a href="http://www.halifax.ca/planning-development/index.php">Planning &amp; Development</a></li>
+  <li><a href="http://www.halifax.ca/municipalclerk/districtboundaries.php">District Boundaries</a></li>
+  <li><a href="http://www.halifax.ca/legislation/index.php">Legislation/ By-Laws</a> </li>
+  <li><a href="http://www.halifax.ca/newcomers/ImmigrationActionPlan.php">Immigration Action Plan</a></li>
+  <li><a href="http://www.halifax.ca/employment/index.php">Employment</a></li>
+  <li><a href="http://www.halifax.ca/AccessPrivacy/index.php">Access &amp; Privacy</a></li>
+  <li><a href="http://www.halifax.ca/auditorgeneral/index.php">Auditor General</a></li>
+</ul>                </li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">eServices</a>
+                    <ul class="dropdown-menu">
+  <li><a href="http://www.halifax.ca/eservices/">Visit the eServices Page</a></li>
+  <li class="divider hidden-xs"></li>
+  <li class="dropdown-header hidden-xs" role="presentation">or jump straight to...</li>
+  <li><a href="https://apps.halifax.ca/311">311 Online</a></li>
+  <li><a href="https://votersearch.halifax.ca/hrm/wheretovote.html">Where do I Vote?</a></li>
+  <li><a href="https://votersearch.halifax.ca/hrm/wheretovote.html">District Lookup</a></li>  
+<!--  <li><a href="https://apps.halifax.ca/districtlookup">Councillor Lookup</a></li> -->
+  <li><a href="http://www.halifax.ca/police/PublicSafety/HRMCrimeMapping.php">Crime Mapping</a></li>
+  <li><a href="https://www.halifax.ca/giss/?output=xml_no_dtd&site=NSMUN_HRM&client=NSMUN_HRM&proxystylesheet=NSMUN_HRM&q=Explore+HRM">ExploreHRM</a></li>
+  <li><a href="https://apps.halifax.ca/fieldconditions/">Field Conditions</a></li>
+  <li><a href="https://apps.halifax.ca/icethickness">Ice Thickness</a></li>
+  <li><a href="https://www.halifax.ca/forms/index.php">Online Web Forms</a></li>
+  <li><a href="http://www.halifax.ca/opendata/index.php">Open Data</a></li>
+  <li><a href="http://www.halifax.ca/site/exit.php?url=https://secure.ecommerce.aliant.net/HRMFinesPaymentWeb/index.jsp">Pay Parking Tickets</a></li>
+  <li><a href="http://www.halifax.ca/Police/OnlineCrimeReporting/OnlineCrimeReporting.php">Police Incident Reporting</a></li>
+  <li><a href="https://eservices2.halifax.ca/RecConnect/Start/Start.asp">RecConnect</a></li>
+  <li><a href="http://www.halifax.ca/snow/StreetPriorityFinder.php">Snow Priority Finder</a></li>  
+  <li><a href="https://apps.halifax.ca/streetdirectory">Street Maintenance Directory</a></li>
+  <li><a href="http://halifax.ca/taxes/payment-options/onlinepayments.php">Tax Bill Payments</a></li>
+</ul>
+                </li>
+                <li>
+                	<form name="hfx_search_form" class="navbar-form navbar-input-group" role="search" action="http://novascotia.ca/search/gsa2.asp" method="get">
+                        <input type="hidden" name="output" id="output" value="xml_no_dtd">
+                        <input type="hidden" name="site" id="site" value="NSMUN_HRM">
+                        <input type="hidden" name="client" id="client" value="NSMUN_HRM">
+                        <input type="hidden" name="proxystylesheet" id="proxystylesheet" value="NSMUN_HRM">
+                        <div class="form-group"><input type="search" class="form-control search_field" placeholder="Search" name="q" id="search-term" value="" list="" required></div>
+                        <button class="btn btn-default btn-search" type="submit" title="Search"><i class="fa fa-search"></i></button>
+                    </form>
+                </li>
+            </ul>
+        </div><!--/.navbar-collapse -->
+    </div><!--/Container -->
+</div><!--/Main Navigation -->
+
+        <div id="hfx_page">
+
+            <!-- alerts -->
+<!--
+<div class="notification notification_alert" style="background:#C00;">
+	<div class="container">
+		<span class="badge" style="background:white; color:#c00; vertical-align:top; padding:2px 7px; border-radius:5px;">Alert</span> 
+		<a href="#">Test</a>
+	</div>
+</div>
+--><div id="hfx_banner"></div>
+            <div id="hfx_content_area" class="container">
+
+                
+                <!-- Intro Area -->
+                <div class="row hfx_section_intro">
+                    <div class="col-sm-12">
+                        <h1><!-- InstanceBeginEditable name="Section-Title" --><!-- InstanceEndEditable --></h1>
+                        <!-- InstanceBeginEditable name="Section-Description" -->
+                        <div style="text-align:center">
+                            <h1>404 Page Not Found.</h1>
+                            <h2>The page you are looking for has moved or no longer exists</h2>
+                            <br>
+                            <p>Use the main navigation, search, or the links in the footer to find what you're looking for.</p>
+                            <p>Help us improve your Halifax.ca experience. If the page that sent you here was on Halifax.ca, return to that page and use the feedback button in the bottom right-hand corner or the page to report the broken link.</p>
+                        </div>
+                        <!-- InstanceEndEditable -->
+                    </div>
+                </div>
+                
+
+                <!-- Content Area -->
+                <div class="row hfx_teaser_column">
+
+                    <!-- InstanceBeginRepeat name="Teaser-Blocks" --><!-- InstanceEndRepeat -->
+
+                </div><!--/row-->
+            </div><!--/container -->
+        </div><!--/page -->
+        <div id="hfx_promo_area">
+    <div class="container" style="padding:30px 0 25px;">
+        <div id="hfx_promos" class="owl-carousel" style="margin:0 auto;">
+
+        </div>
+    </div>
+</div>
+<footer class="hfx_footer">
+    <div class="container hfx_footer_links">
+        <div class="row">
+            <div class="col-xs-6 col-sm-3 col-md-2">
+                <p class="hfx_footer_heading"><a href="http://www.halifax.ca/residents/">Residents</a></p>
+<ul class="list-unstyled">
+    <li><a href="http://www.halifax.ca/legislation/index.php">By-laws</a></li>
+  <li><a href="http://www.halifax.ca/building-renovating/">Building &amp; Renovating</a></li>
+  <li><a href="http://www.halifax.ca/events">Civic Events</a></li>
+  <li><a href="http://www.halifax.ca/community">Community Resources</a></li>
+  <li><a href="http://www.halifax.ca/construction-projects">Construction Projects</a></li>
+  <li><a href="http://www.halifax.ca/culture/">Culture &amp; Heritage</a></li>
+  <li><a href="http://www.halifax.ca/energy-environment/index.php">Energy &amp; Environment </a></li>
+  <li><a href="http://www.halifax.ca/fire">Fire &amp; Emergency</a></li>
+  <li><a href="http://www.halifax.ca/recycle">Garbage &amp; Recycling</a></li>
+  <li><a href="http://www.halifax.ca/getting-around">Getting Around </a></li>
+  <li><a href="http://www.halifax.ca/hrwc">Halifax Water</a></li>
+  <li><a href="http://www.halifax.ca/police">Police</a></li>
+  <li><a href="http://www.halifax.ca/rec">Recreation</a></li>
+  <li><a href="http://www.halifax.ca/streets-sidewalks">Streets, Sidewalks &amp; Parking</a></li>
+  <li><a href="http://www.halifax.ca/taxes">Taxes</a><br>
+  <li><a href="http://www.halifax.ca/snow/">Winter Operations</a></li>
+  </li>
+</ul>
+            </div>
+            <div class="col-xs-6 col-sm-3 col-md-2">
+                <p class="hfx_footer_heading"><a href="http://www.halifax.ca/business/">Business</a></p>
+<ul class="list-unstyled">
+  <li><a href="http://www.halifax.ca/building-renovating/">Building &amp; Construction Permits</a></li>
+  <li><a href="http://www.halifax.ca/business_parks/index.php">Business &amp; Industrial Parks</a></li>
+  <li><a href="http://www.halifax.ca/business/business-organizations/index.php">Business Organizations</a></li>
+  <li><a href="http://www.halifax.ca/BizPal/index.php">Business Permits &amp; Licensing</a></li>
+  <li><a href="http://www.halifax.ca/taxes/taxbill/CommercialRates.php">Commercial Tax Rates</a></li>
+  <li><a href="http://www.halifax.ca/planning-development/">Planning &amp; Development</a></li>
+  <li><a href="http://www.halifax.ca/property/index.php">Properties for Sale</a></li>
+  <li><a href="http://www.halifax.ca/procurement/index.php">Tenders</a><br>
+  </li>
+</ul>
+            </div>
+            <div class="col-xs-6 col-sm-3 col-md-2">
+                <p class="hfx_footer_heading"><a href="http://www.halifax.ca/government/">Government</a></p>
+<ul class="list-unstyled">
+    <li><a href="http://www.halifax.ca/AccessPrivacy/index.php">Access &amp; Privacy</a></li>
+    <li><a href="http://www.halifax.ca/auditorgeneral">Auditor General</a></li>
+    <li><a href="http://www.halifax.ca/councillors/">Councillors</a></li>
+    <li><a href="http://www.halifax.ca/employment">Employment</a></li>
+    <li><a href="http://www.halifax.ca/legislation/index.php">Legislation</a></li>
+    <li><a href="http://www.halifax.ca/mediaroom/">Media Room</a></li>
+    <li><a href="http://www.halifax.ca/municipalclerk/index.php">Municipal Clerk</a></li>
+    <li><a href="http://www.halifax.ca/legalservices">Municipal Prosecutor</a></li>
+    <li><a href="http://www.halifax.ca/mayor/">Office of the Mayor</a></li>
+    <li><a href="http://www.halifax.ca/council">Regional Council</a><br>
+  </li>
+</ul>
+            </div>
+            <div class="col-xs-6 col-sm-3 col-md-2">
+                <p class="hfx_footer_heading"><a href="http://www.halifax.ca/eservices/">311 | eServices</a></p>
+<h4><a href="http://www.halifax.ca/get-involved/"><strong>Get Involved!</strong></a></h4>
+<ul>
+  <li><a href="http://www.halifax.ca/calendar/index.php">Calendar</a></li>
+  <li><a href="http://www.halifax.ca/site/exit.php?url=http://shapeyourcityhalifax.ca/">Engagement Hub</a></li>
+  <li><a href="http://www.halifax.ca/SocialMedia/index.php">Social Media </a></li>
+  <li><a href="http://www.halifax.ca/surveys/">Surveys</a></li>
+</ul>
+<h4><strong>Visiting Halifax?</strong></h4>
+<ul>
+  <li><a href="http://www.halifax.ca/events/index.php">Civic Events</a></li>
+  <li><a href="http://www.halifax.ca/site/exit.php?url=http://www.destinationhalifax.com/">Destination Halifax</a></li>
+  <li><a href="http://www.halifax.ca/site/exit.php?url=http://www.novascotia.com/">Nova Scotia Tourism</a>
+    <br>
+  </li>
+</ul>
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-4">
+                <div class="hfx_twitter_feed">
+                    <p class="twitter_footer_heading"><i class="fa fa-twitter fa-lg"></i> <a href="http://www.halifax.ca/site/exit.php?url=https://twitter.com/hfxgov" target="_blank">Follow Us on Twitter</a></p>
+                    <a class="twitter-timeline" data-dnt="true" data-chrome="noheader" href="https://twitter.com/hfxgov" data-widget-id="302125471326412800" width="100%">Tweets by @hfxgov</a>
+                    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+                </div>
+            </div>            
+        </div>
+    </div>
+
+    <div class="hfx_copyright">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                	<ul>
+                    	<li><a href="http://www.halifax.ca/accessibility/">Accessibility</a></li>
+                        <li><a href="http://www.halifax.ca/terms/privacy.php">Privacy</a></li>
+                        <li><a href="http://www.halifax.ca/terms/standards.php">Web Standards</a></li>
+                        <li><a href="http://www.halifax.ca/terms/disclaimer.php">Disclaimer</a></li>
+                        <li><a href="http://www.halifax.ca/mediaroom">Media Room</a></li>
+                        <li><a href="http://www.halifax.ca/311">Contact Us</a></li>
+                    </ul>
+                    <p>&copy; 2016 Halifax Regional Municipality. Content last modified <span title="Thursday, October 8, 2015 at 1:09pm.">October 8, 2015.</span></p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Sticky Footer Buttons -->
+    <div id="sticky_footer">
+        <a href="#hfx_top" id="back_to_top" class="hidden-xs" title="Back to Top" accesskey="t">Top</a> 
+        <a href="https://www.addthis.com/bookmark.php" class="addthis_button_more hidden-xs" title="Share this page"><span>Share</span></a>
+    </div>
+
+</footer>
+
+
+<!-- notification_modal -->
+<div class="modal fade" id="notification_modal" tabindex="-1" role="dialog" aria-labelledby="notification_modal_label" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+            </div>
+            <div class="modal-body">
+            	<div class="notification_listings"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- alert_modal -->
+<div class="modal fade" id="alert_modal" tabindex="-1" role="dialog" aria-labelledby="alert_modal_label" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                <h4 class="modal-title" id="alert_modal_label"></h4>
+            </div>
+            <div class="modal-body">
+            	<div id="alert_modal_content"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<script src="https://www.halifax.ca/_assets/scripts/hfx-scripts-body.js"></script>
+<!--<script src="https://www.halifax.ca/_assets/scripts/search.js"></script>-->
+<script src="https://s7.addthis.com/js/250/addthis_widget.js"></script>
+    </body>
+<!-- InstanceEnd --></html>

@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]>
+<html class="ie ie6" lang="en">
+<![endif]-->
+<!--[if IE 7 ]>
+<html class="ie ie7" lang="en">
+<![endif]-->
+<!--[if IE 8 ]>
+<html class="ie ie8" lang="en">
+<![endif]-->
+<!--[if (gte IE 9)|!(IE)]> ><! <![endif]-->
+<html lang='en'>
+<!-- <![endif] -->
+<head>
+<meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"0e15e1d33c","applicationID":"13728991","transactionName":"cFhfF0JdX1xQQ00BDVJZXwZcQRxEWlUDGxY=","queueTime":0,"applicationTime":13,"agent":""}</script>
+<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(u(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(2),u=t(3),c=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],p="api-",l=p+"ixn-";a(s,function(t,e){f[e]=o(p+e,!0,"api")}),f.addPageAction=o(p+"addPageAction",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){d[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],2:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],3:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?u(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var s=f[m[n]];return s&&s.push([w,n,r,i]),i}function p(t,e){g[t]=l(t).concat(e)}function l(t){return g[t]||[]}function d(t){return s[t]=s[t]||o(n)}function v(t,e){c(t,function(t,n){e=e||"feature",m[n]=e,e in f||(f[e]=[])})}var g={},m={},w={on:p,emit:n,get:d,listeners:l,context:e,buffer:v};return w}function i(){return new r}var a="nr@context",u=t("gos"),c=t(2),f={},s={},p=e.exports=o();p.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!h++){var t=y.info=NREUM.info,e=s.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(m,function(e,n){t[e]||(t[e]=n)});var n="https"===g.split(":")[0]||t.sslForHttp;y.proto=n?"https://":"http://",u("mark",["onload",a()],null,"api");var r=s.createElement("script");r.src=y.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===s.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=t("handle"),c=t(2),f=window,s=f.document,p="addEventListener",l="attachEvent",d=f.XMLHttpRequest,v=d&&d.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:d,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(1);var g=""+location,m={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-974.min.js"},w=d&&v&&v[p]&&!/CriOS/.test(navigator.userAgent),y=e.exports={offset:a(),origin:g,features:{},xhrWrappable:w};s[p]?(s[p]("DOMContentLoaded",i,!1),f[p]("load",r,!1)):(s[l]("onreadystatechange",o),f[l]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
+<meta content='Wallpaper, Screensaver, high resolution photographs, HD, slideshows, maps, free software for desktop, mobile, android, OIs' name='keywords'>
+<meta content="Today's Free Photo for Windows, Mac, Android, iPhone, and iPad." name='description'>
+<meta content='Webshots' name='author'>
+<meta content='width=device-width, initial-scale=1, maximum-scale=1' name='viewport'>
+<meta content='Notre Dame Cathedral Along the Seine, Paris, France' property='og:title'>
+<meta content='http://www.webshots.com/photos/architecture/notre-dame-cathedral-along-the-seine--paris--france' property='og:url'>
+<meta content='http://d188578y7fxb.cloudfront.net/617886e7aa6a4fe2d7e78670eefac4b0525d7685dc1ef1999ddfc9af092ef40e/1024x768.jpg' property='og:image'>
+<meta content='photo' name='twitter:card'>
+<meta content='@webshots' name='twitter:site'>
+<meta content='Notre Dame Cathedral Along the Seine, Paris, France' name='twitter:title'>
+<meta content='http://d188578y7fxb.cloudfront.net/617886e7aa6a4fe2d7e78670eefac4b0525d7685dc1ef1999ddfc9af092ef40e/1024x768.jpg' name='twitter:image'>
+<meta content='640' name='twitter:image:width'>
+<meta content='360' name='twitter:image:height'>
+<title>Webshots - Notre Dame Cathedral Along the Seine, Paris, France</title>
+<meta content='' name='description'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<link href='http://fonts.googleapis.com/css?family=Roboto:300,400' rel='stylesheet' type='text/css'>
+<link href='/zchannels/css/normalize.css' rel='stylesheet'>
+<link href='/zchannels/css/channels-bootstrap.css' rel='stylesheet'>
+<link href='/zchannels/app.css' rel='stylesheet'>
+<link href='/zchannels/css/main.css' rel='stylesheet'>
+<link href='/zchannels/css/photos.css' rel='stylesheet'>
+<script src="/assets-pipe/shared-pipeline-5a79a88b92007ed7eaefaa0e75de8bef.js"></script>
+</head>
+<body>
+<nav class='navbar navbar-default navbar-fixed-top' id='channels-navbar'>
+<div class='container'>
+<div class='navbar-header'>
+<a class='navbar-brand' href='/'></a>
+</div>
+</div>
+</nav>
+<div class='container'>
+<script async='' src='//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'></script>
+<!-- webshots.responsive -->
+<ins class='adsbygoogle' data-ad-client='ca-pub-7895663061972984' data-ad-format='auto' data-ad-slot='5026594555' style='display:block'></ins>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<div class='row row-centered'>
+<div class='col-md-8 col-centered'>
+<div class='item'>
+<div class='content'>
+<div class='row'>
+<div class='photos-title'>Notre Dame Cathedral Along the Seine, Paris, France</div>
+</div>
+<img class='img-responsive img-centered' src='http://d188578y7fxb.cloudfront.net/617886e7aa6a4fe2d7e78670eefac4b0525d7685dc1ef1999ddfc9af092ef40e/1024x768.jpg'>
+<div class='row'>
+<div class='col-md-8'>
+<div class='latest'>
+<a href='/latest'>Want to see the latest photos?</a>
+</div>
+</div>
+<div class='col-md-4 share-container'>
+<div class='addthis_toolbox addthis_default_style addthis_32x32_style' data-addthis-toolbox='' data-title='Notre Dame Cathedral Along the Seine, Paris, France' data-url='http://d188578y7fxb.cloudfront.net/617886e7aa6a4fe2d7e78670eefac4b0525d7685dc1ef1999ddfc9af092ef40e/1024x768.jpg'>
+<a class='addthis_button_email pull-right'>
+<img border='0' height='25' src='http://webshots.com/zchannels/img/ic_web_email.png' width='25'>
+</a>
+<a class='addthis_button_google_plusone_share pull-right'>
+<img border='0' height='25' src='http://webshots.com/zchannels/img/ic_web_google_plus.png' width='25'>
+</a>
+<a class='addthis_button_tumblr pull-right'>
+<img border='0' height='25' src='http://webshots.com/zchannels/img/ic_web_tumblr.png' width='25'>
+</a>
+<a class='addthis_button_pinterest_share pull-right'>
+<img border='0' height='25' src='http://webshots.com/zchannels/img/ic_web_pinterest.png' width='25'>
+</a>
+<a class='addthis_button_twitter pull-right'>
+<img border='0' height='25' src='http://webshots.com/zchannels/img/ic_web_twitter.png' width='25'>
+</a>
+<a class='addthis_button_facebook pull-right'>
+<img border='0' height='25' src='http://webshots.com/zchannels/img/ic_web_facebook.png' width='25'>
+</a>
+</div>
+</div>
+<div class='col-md-8'>
+<p class='photos-subtitle'>For a whole week of photos, get our FREE email:</p>
+<input id='email' placeholder='Email' type='email'>
+<div class='btn' id='email-button' type='submit'>Sign Up</div>
+</div>
+<div class='col-md-8'>
+<p class='photos-minortitle hidden' id='confirmation'>Thanks! Please go to your email and click the confirmation link.</p>
+</div>
+</div>
+<div class='row'>
+<div class='photos-footer-links-spacer'></div>
+<div class='photos-footer-links'>
+<a href='/'>© 2015 Webshots</a>
+<a href='/desktop'>Desktop</a>
+<a href='/mobile'>Mobile</a>
+<a href='/about'>About</a>
+<a href='/terms'>Terms</a>
+<a href='/privacy'>Privacy</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script src='//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-52334e3c5e7579e0' type='text/javascript'></script>
+<script>
+  window.openphoto = true
+  window.open_ios = "openphoto:://photo?path=architecture/notre-dame-cathedral-along-the-seine--paris--france";
+</script>
+</body>
+</html>
+

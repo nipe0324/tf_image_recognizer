@@ -1,0 +1,3816 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="_ctl0_Head1"><title>
+	88DB服務網 - 香港分類 - 助你刊登網上廣告, 市場推廣, 搵Freelance
+</title><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="X-UA-Compatible" content="IE=5; IE=8; IE=9"><meta http-equiv="Content-Language" content="zh-hk" /><base id="_ctl0_metaBase" href="https://88db.com.hk/hk/Views/base.htm"></base><meta id="_ctl0_metaKeywords" name="keywords" content="88DB服務網, 88DB, 88DB.com, 分類廣告, Classified Ad, Classified Ads, post classified, Freelance, Freelancer, part time, parttime, freelance job, 市場推廣, 刊登網上廣告, Hong Kong Classified Ads, 網上推廣, Hong Kong, 香港"><meta id="_ctl0_metaDescription" name="description" content="88DB.com 香港 是一個為不同人士而設的分類廣告網站。不論是有意創業的人士、中小企或做freelance也可在此作網上推廣，及可於討論區與其他會員交流及分享知識。"><link rel="stylesheet" type="text/css" href="https://cdn.88db.com.hk/hk/included/master.css?v=161003a1"/>
+<link rel="stylesheet" type="text/css" href="https://cdn.88db.com.hk/hk/included/master_newui2015.css?v=161003a1"/>
+<link rel="stylesheet" type="text/css" href="https://cdn.88db.com.hk/hk/included/master_zh-hk.css?v=161003a1"/>
+<link rel="stylesheet" type="text/css" href="https://cdn.88db.com.hk/hk/included/jquery.ui.all-min.css?v=161003a1"/>
+<link rel="stylesheet" type="text/css" href="https://cdn.88db.com.hk/hk/included/header.css?v=161003a1"/>
+<link rel="stylesheet" type="text/css" href="https://cdn.88db.com.hk/hk/included/font-awesome/css/font-awesome.css?v=161003a1"/>
+<!--88tag used-->
+    <!--for page included -->
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=10.0, minimum-scale=1.0, user-scalable=0"></head>
+<body class="nui-pagebody">
+       <script type="text/javascript">var currentRegionName='hk';var Lang='zh-hk';var IsLogin=false;var currChannelid='';var currSubcatid='';var defaultLanguage='';var LangFormat='zh';var headerData = {       siteDomain: '88db.com.hk',       pageId: 'frontpage'   };</script><script type="text/javascript" src="https://88db.com.hk/hk/handler/globalwordings.ashx?v=161003a1&lang=zh-hk"></script><script type="text/javascript" src="https://cdn.88db.com.hk/hk/js-min/common.js?v=161003a1"></script>
+<script type="text/javascript" src="https://88db.com.hk/hk/js/btalk.client/bTalk-client.js?v=161003a1"></script>
+    
+
+     <script type="text/javascript">
+
+    </script>
+    <script type="text/javascript">        
+        var fzcp = false;
+        var fxcp = false;
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('require', 'displayfeatures');
+
+        if (fxcp || $.cookie("fxcp88") == "1"){
+            $.cookie("fxcp88", "1", { path: "/", expires: 99999 });
+            ga('create', 'UA-47070752-1', 'auto', { 'userId': '7G4UAJn4FcYsue5POV' });
+        }else if (fzcp || $.cookie("com88") == "1") {
+            $.cookie("com88", "1", { path: "/", expires: 99999 });
+            ga('create', 'UA-47070752-1', 'auto', { 'userId': 'nb8XRwh5W' });
+        } 
+        else {
+            ga('create', 'UA-47070752-1', 'auto');
+        }
+        ga('send', 'pageview');
+</script>
+
+    <form name="aspnetForm" method="post" action="/hk/Views/frontpage.aspx?lang=" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTMxNjc3NTM3NWRkh5uW8zc0pWrN7axHaxDYi2IH3IQ=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CDC908DD" />
+        
+
+        <!-- nui-navbar-->
+        <div class="nui-navbar sm-hide" id="nui-navbar-top"> 
+           <div class="nui-featurebar"><ul class="nui-featurepages"><li><a href="/hk/Views/submitPost_detail.aspx?mode=&posttypeID=1&categoryId=1338" name="UIID:hdr:免費刊登租盤" class="subCat " target="_blank"><span style="color:#FFEC49"><i class="fa fa-star"></i>免費刊登租盤</span></a></li><li><a href="/hk/Views/submitPost_detail.aspx?mode=&posttypeID=1&categoryId=1339" name="UIID:hdr:售盤" class="subCat " target="_blank"><span style="color:#FFEC49">售盤</span></a></li><li isnew="1"><a href="/app" class="subCat "  name="UIID:hdr:&nbsp;流動應用程式"><i class="fa fa-mobile"></i>&nbsp;流動應用程式</a></li><li><a href="/Property/" name="UIID:hdr:物業地產" class="subCat " >物業地產</a></li><li><a href="/Pet/" name="UIID:hdr:寵物" class="subCat " >寵物</a></li><li><a href="http://88db.com.hk/Landing/Wedding/" name="UIID:hdr:結婚" class="subCat " >結婚</a></li><li><a href="http://88db.com.hk/Landing/Lesson-Instruction/" name="UIID:hdr:進修" class="subCat " >進修</a></li><li><a href="http://88db.com.hk/Landing/Business/" name="UIID:hdr:商業" class="subCat " >商業</a></li><li><a href="http://88db.com.hk/Landing/Beauty/" name="UIID:hdr:美容" class="subCat " >美容</a></li><li><a href="http://88db.com.hk/Landing/Household/" name="UIID:hdr:家居" class="subCat " >家居</a></li><li><a href="http://88db.com.hk/Landing/Music/" name="UIID:hdr:音樂" class="subCat " >音樂</a></li><li><a href="http://88db.com.hk/Landing/Service-Recruitment/" name="UIID:hdr:服務業招聘" class="subCat " >服務業招聘</a></li><li><a href="http://88db.com.hk/Landing/Leisure-Dating/" name="UIID:hdr:消閒及交友" class="subCat " >消閒及交友</a></li></ul></div>
+           <div class="nui-funcbar"> 
+            <div class="nui-funcbar-group-left"> 
+             <div class="navitem sm-show"> 
+              <a href="javascript:;" class="btnShownavside"><i class="fa fa-bars"></i></a> 
+             </div> 
+             <div class="navitem sm-show"> 
+              <a href="/" name="UIID:Header_Logo"><img src="../images/nui_88DB_logo.png" class="nui-sm-88dblogo" /> </a>
+             </div> 
+             <div class="navitem"> 
+              <div class="nui-main-searchbar"> 
+               <input type="text" class="nui-main-searchbar-input" placeholder="你想搜尋什麼服務?" value="" /> 
+               <a class="nui-btn btn-search-submit" name="UIID:Header_Desktop_KeywordSearch" data-link="#location.href#" ><i class="fa fa-search"></i></a> 
+              </div> 
+             </div> 
+             <div class="navitem sm-hide"> 
+              <a class="nui-browse-button btnShownavside" href="javascript:;" name="UIID:Header_ViewLeftChannelNav" data-link="#location.href#">瀏覽分類 <i class="fa fa-angle-down"></i></a> 
+             </div> 
+            </div> 
+            <div class="nui-funcbar-group-right sm-hide member-account-bar"> 
+             <div class="navitem"> 
+              <a class="nui-btn nui-btn-postad"  name="UIID:Hdr_PostAd_Btn" data-link="#location.href#" href="javascript:DB88.Dialog.Login({callBack:function(){location.href='/hk/Services/Post_Ad.page?lang=zh-hk'}});"> 
+               	<i class="fa fa-edit"></i>&nbsp;刊登廣告
+              </a> 
+             </div> 
+             <span class="changeLangContainer"></span>
+            </div> 
+           </div> 
+           <a href="/" name="UIID:Header_Logo"><img src="../images/nui_88DB_logo.png" class="nui-88dblogo" /> </a>
+          </div>
+        <!-- /nui-navbar-->
+
+	<!-- nui-navbar-mobile-->
+        <div class="m-nui-navbar sm-show" id="nui-navbar-top-mobile"> 
+           <div class="m-nui-funcbar"> 
+           
+              <div class="m-nui-funcbar-group-left">
+              <a href="javascript:;" class="btnShownavside mui-btn-shownavside"><i class="fa fa-bars"></i><div class="nui-badge nui-badge-profilepic" style="display:none;">0</div></a> 
+           
+                <a href="/" name="UIID:Header_Logo">
+              <img src="../images/nui_88DB_logo.png" class="m-nui-sm-88dblogo" /> </a>
+              </div>
+              <div class="m-nui-funcbar-group-right">
+              <div class="m-nui-main-searchbar"> 
+               <input type="text" class="m-nui-main-searchbar-input" placeholder="你想搜尋什麼服務?" value="" /> 
+               <a class="nui-btn btn-search-submit" name="UIID:Header_Mobile_KeywordSearch" data-link="#location.href#"><i class="fa fa-search"></i></a> 
+              </div> 
+	      </div>
+            </div>           
+        
+          </div>
+        <!-- /nui-navbar-mobile -->
+        <!-- Start Alexa Certify Javascript -->
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"3wsZn1QolK106C", domain:"88db.com.hk",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=3wsZn1QolK106C" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->  
+
+<script type='text/javascript'>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  (function() {
+    var gads = document.createElement('script');
+    gads.async = true;
+    gads.type = 'text/javascript';
+    var useSSL = 'https:' == document.location.protocol;
+    gads.src = (useSSL ? 'https:' : 'http:') +
+      '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script>
+<script type='text/javascript'>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/122155746/ROS-Hero', [960, 120], 'div-gpt-ad-1429605159563-0').addService(googletag.pubads());
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+<style>
+.hero_banner_autohide{ position:relative; height:auto }
+#hero_banner_timer{ cursor:pointer; position: absolute; top:0px;right:0px; height:18px; font-size: 11px; line-height:18px; padding:0px 8px; background:#000; opacity:0.5; color:#fffc00; border-radius:5px }
+</style>
+<!-- /122155746/ROS-Hero -->
+<div id='div-gpt-ad-1429605159563-0' style='height:120px; width:960px; margin:20px auto;' class="hero_banner_autohide">
+<script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1429605159563-0'); });</script>
+<div id="hero_banner_timer"><div onclick="$('.hero_banner_autohide').hide()">Hide in <span id="hero_banner_timer_text">20</span>s</div></div>
+</div>
+<script>
+$(document).ready(function(){
+ 	$('.hero_banner_autohide').delay(20000).fadeOut(1500); 
+
+	var hero_banner_timer = function() { 
+		var sec = parseInt($('#hero_banner_timer_text').html())-1; 
+		if (sec>1) { $('#hero_banner_timer_text').html(sec) }; 
+		setTimeout(hero_banner_timer,1000);	
+	}
+
+	setTimeout(hero_banner_timer,1000);
+
+});
+
+</script>
+
+
+
+        <div id="nui-hero-header"></div>
+     
+        
+        <!-- nui-hotkeywordsbar -->        
+        <div class="nui-hotkeywordsbar"> </div>         
+        <!-- /nui-hotkeywordsbar -->        
+ 
+        
+    
+        <!-- nui-mainbody -->
+  
+        <div class="nui-mainbody">
+            <div id="nui-contentbody" class="nui-contentbody">              
+                    
+    <div class="mainBody">
+        <script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "WebSite",
+  "url": "https://88db.com.hk/",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://88db.com.hk/q-{search_term_string}/",
+    "query-input": "required name=search_term_string"
+  }
+} 
+</script>
+
+  <link href="/hk/html/css/index.css?v=2122" type="text/css" rel="stylesheet">
+  <link href="/hk/html/css/frontpage/patch.css?v=422" type="text/css" rel="stylesheet">
+  <script type="text/javascript" src="/hk/html/js/jquery.sudoSlider.js"></script>
+  <script type="text/javascript" >
+    var effect = 'slide';
+	var sliders = [];
+	var a = 'a';
+</script>
+
+<div class="mainBody">
+    <!--div class="banner_970">
+		<a href="javascript:void(0);">
+			<img src="/hk/html/images/970x90_banner.gif" />
+		</a>
+	</div-->	
+	<div id="index_lMenu">
+		<!-- left menu -->
+		<div class="rel cateLink">
+
+			
+	<div class="lMenu_layer" style="display:none">
+		<div class="lMenu_list" channelid="1027">
+					<a href="https://88db.com.hk/Landing/Pet/"><h1>寵物</h1></a>
+					<ul>	  
+					
+						<li>
+						
+							<a href="https://88db.com.hk/Pet/Buy-Sell/1/" title="寵物轉讓" categoryid="1997">寵物轉讓</a>
+						
+							<a href="https://88db.com.hk/Pet/Training/1/" title="寵物訓練" categoryid="1314">寵物訓練</a>
+						
+							<a href="https://88db.com.hk/Pet/Pet-Beauty/1/" title="寵物美容" categoryid="1312">寵物美容</a>
+						
+							<a href="https://88db.com.hk/Pet/Hospice/1/" title="寵物善終" categoryid="1886">寵物善終</a>
+						
+							<a href="https://88db.com.hk/Pet/Pet-Care/1/" title="寵物護理" categoryid="2004">寵物護理</a>
+						
+							<a href="https://88db.com.hk/Pet/Veterinary/1/" title="獸醫" categoryid="1315">獸醫</a>
+						
+							<a href="https://88db.com.hk/Pet/Pet-Shop/1/" title="寵物店" categoryid="2001">寵物店</a>
+						
+						</li>
+					
+						<li>
+						
+							<a href="https://88db.com.hk/Pet/Adoption/1/" title="寵物領養" categoryid="1308">寵物領養</a>
+						
+							<a href="https://88db.com.hk/Pet/Pet-Food-Accessories/1/" title="寵物食品及用品" categoryid="1872">寵物食品及用品</a>
+						
+							<a href="https://88db.com.hk/Pet/Breeding/1/" title="寵物配種" categoryid="1309">寵物配種</a>
+						
+							<a href="https://88db.com.hk/Pet/Lost-My-Pet/1/" title="遺失寵物" categoryid="2006">遺失寵物</a>
+						
+							<a href="https://88db.com.hk/Pet/Club-Association/1/" title="會社、組織及團體" categoryid="1453">會社、組織及團體</a>
+						
+							<a href="https://88db.com.hk/Pet/Special-Offer/1/" title="寵物優惠" categoryid="1841">寵物優惠</a>
+						
+							<a href="https://88db.com.hk/Pet/Event-Activity/1/" title="節目及活動" categoryid="1311">節目及活動</a>
+						
+						</li>
+					
+						<li>
+						
+							<a href="https://88db.com.hk/Pet/Pet-Hotel/1/" title="寵物託管" categoryid="1310">寵物託管</a>
+						
+							<a href="https://88db.com.hk/Pet/Aquarium-Reptile/1/" title="水族及爬蟲" categoryid="1027010">水族及爬蟲</a>
+						
+							<a href="https://88db.com.hk/Pet/Pet-Playground-Restaurant/1/" title="寵物樂園及餐廳" categoryid="1027020">寵物樂園及餐廳</a>
+						
+							<a href="https://88db.com.hk/Pet/Pet-Insurance/1/" title="寵物保險" categoryid="1027030">寵物保險</a>
+						
+							<a href="https://88db.com.hk/Pet/Pet-Photography/1/" title="寵物攝影" categoryid="2005">寵物攝影</a>
+						
+							<a href="https://88db.com.hk/Pet/Recruitment/1/" title="業內招聘" categoryid="1027040">業內招聘</a>
+						
+						</li>
+					
+						<div class="clearboth"></div>
+					</ul>
+</div>    
+        
+        <div class="clearboth"></div>
+    </div>
+    <a href="https://88db.com.hk/Landing/Pet/" class="icon_pet">
+寵物
+<span></span>
+<ul>
+<li>&nbsp;
+</li>
+</ul>
+<div class="clearboth">
+		</div>
+    </a>
+				         
+	
+
+</div>
+<div class="rel cateLink">
+
+	<div class="lMenu_layer col2" style="display:none">
+		<div class="lMenu_list" channelid="1030">
+			
+					<a href="https://88db.com.hk/Landing/Property/"><h1>物業地產</h1></a>
+					<ul>
+					
+						<li>
+						
+							<a href="https://88db.com.hk/Property/%E7%A7%9F%E5%B1%8B/1/" title="住宅出租" categoryid="1338">住宅出租</a>
+						
+							<a href="https://88db.com.hk/Property/Residential-for-Sale/1/" title="住宅買賣" categoryid="1339">住宅買賣</a>
+						
+							<a href="https://88db.com.hk/Property/Office-for-Lease/1/" title="辦公室出租" categoryid="1530020">辦公室出租</a>
+						
+							<a href="https://88db.com.hk/Property/Office-for-Sale/1/" title="辦公室買賣" categoryid="1530010">辦公室買賣</a>
+						
+							<a href="https://88db.com.hk/Property/Business-Centre/1/" title="商務中心" categoryid="1530040">商務中心</a>
+						
+							<a href="https://88db.com.hk/Property/Industrial-Commercial-Rental/1/" title="工商大廈出租" categoryid="1530120">工商大廈出租</a>
+						
+							<a href="https://88db.com.hk/Property/Industrial-Commercial-Sale/1/" title="工商大廈出售" categoryid="1530130">工商大廈出售</a>
+						
+						</li>
+					
+						<li>
+						
+							<a href="https://88db.com.hk/Property/Shop-Rental/1/" title="商舖租售" categoryid="1530050">商舖租售</a>
+						
+							<a href="https://88db.com.hk/Property/Parking-Slot/1/" title="車位" categoryid="1530070">車位</a>
+						
+							<a href="https://88db.com.hk/Property/Serviced-Apartment/1/" title="服務式住宅" categoryid="1530030">服務式住宅</a>
+						
+							<a href="https://88db.com.hk/Property/Agency/1/" title="地產代理公司" categoryid="1530">地產代理公司</a>
+						
+							<a href="https://88db.com.hk/Property/Club-Association/1/" title="會社、組織及團體" categoryid="1531">會社、組織及團體</a>
+						
+							<a href="https://88db.com.hk/Property/Event-Activity/1/" title="節目及活動" categoryid="1532">節目及活動</a>
+						
+							<a href="https://88db.com.hk/Property/Lesson-Instruction/1/" title="教學進修" categoryid="1533">教學進修</a>
+						
+						</li>
+					
+						<li>
+						
+							<a href="https://88db.com.hk/Property/Property-Management/1/" title="物業管理服務" categoryid="1337">物業管理服務</a>
+						
+							<a href="https://88db.com.hk/Property/Second-Mortgage-Service/1/" title="二手按揭公司" categoryid="1530060">二手按揭公司</a>
+						
+							<a href="https://88db.com.hk/Property/Solicitor/1/" title="律師" categoryid="1530080">律師</a>
+						
+							<a href="https://88db.com.hk/Property/Insurance-Service/1/" title="保險服務" categoryid="1530090">保險服務</a>
+						
+							<a href="https://88db.com.hk/Property/Recruitment/1/" title="業內招聘" categoryid="1530100">業內招聘</a>
+						
+							<a href="https://88db.com.hk/Property/Overseas-Realty/1/" title="海外房地產" categoryid="1530110">海外房地產</a>
+						
+						</li>
+					
+						<div class="clearboth"></div>
+					</ul>
+				         
+	</div>
+	    <div class="lMenu_list" channelid="1018">
+		
+				<a href="https://88db.com.hk/Landing/Household/"><h1>家居</h1></a>
+				<ul>
+				
+					<li>
+					
+						<a href="https://88db.com.hk/Household/Renovation/1/" title="室內設計及裝修" categoryid="1519">室內設計及裝修</a>
+					
+						<a href="https://88db.com.hk/Household/Plumbing-Electrical/1/" title="通渠及水電工程" categoryid="1208">通渠及水電工程</a>
+					
+						<a href="https://88db.com.hk/Household/Moving-Relocating/1/" title="搬運及迷你倉" categoryid="1211">搬運及迷你倉</a>
+					
+						<a href="https://88db.com.hk/Household/Locksmith/1/" title="開鎖" categoryid="1207">開鎖</a>
+					
+						<a href="https://88db.com.hk/Household/Cleaning-Pest-Control/1/" title="清潔及滅蟲" categoryid="1212">清潔及滅蟲</a>
+					
+						<a href="https://88db.com.hk/Household/Buy-Sell/1/" title="買賣交易" categoryid="1830">買賣交易</a>
+					
+						<a href="https://88db.com.hk/Household/Domestic-Help/1/" title="外傭及家務助理" categoryid="1203">外傭及家務助理</a>
+					
+					</li>
+				
+					<li>
+					
+						<a href="https://88db.com.hk/Household/Alluminum-Glasses-Stainess-Steel/1/" title="鋁質、玻璃及不銹鋼" categoryid="1018010">鋁質、玻璃及不銹鋼</a>
+					
+						<a href="https://88db.com.hk/Household/Cloth-Curtain/1/" title="布藝及窗簾" categoryid="1018020">布藝及窗簾</a>
+					
+						<a href="https://88db.com.hk/Household/Flooring/1/" title="地板工程" categoryid="1018030">地板工程</a>
+					
+						<a href="https://88db.com.hk/Household/Kitchen-Cabinetry/1/" title="廚櫃" categoryid="1018040">廚櫃</a>
+					
+						<a href="https://88db.com.hk/Household/Appliance-Repair/1/" title="傢俬電器維修" categoryid="1018050">傢俬電器維修</a>
+					
+						<a href="https://88db.com.hk/Household/Smart-Home/1/" title="智能家居" categoryid="1018060">智能家居</a>
+					
+						<a href="https://88db.com.hk/Household/Home-Insurance/1/" title="家居保險" categoryid="1520">家居保險</a>
+					
+					</li>
+				
+					<li>
+					
+						<a href="https://88db.com.hk/Household/Special-Offer/1/" title="家居優惠" categoryid="1831">家居優惠</a>
+					
+						<a href="https://88db.com.hk/Household/Security/1/" title="保安防盜" categoryid="1210">保安防盜</a>
+					
+						<a href="https://88db.com.hk/Household/Gardening/1/" title="園藝" categoryid="1518">園藝</a>
+					
+						<a href="https://88db.com.hk/Household/Driver/1/" title="司機及租車" categoryid="1204">司機及租車</a>
+					
+						<a href="https://88db.com.hk/Household/Laundry/1/" title="洗衣" categoryid="1206">洗衣</a>
+					
+						<a href="https://88db.com.hk/Household/Fire-Equipment/1/" title="消防" categoryid="1850">消防</a>
+					
+						<a href="https://88db.com.hk/Household/Recruitment/1/" title="業內招聘" categoryid="1018070">業內招聘</a>
+					
+					</li>
+				
+					<div class="clearboth"></div>
+				</ul>
+			         
+
+</div>
+		<div class="clearboth">
+		</div>
+	</div>
+	<a href="javascript:void(0);" class="icon_building">
+		置業安居
+		<span>
+		</span>
+	</a>
+	<ul>
+		<li>
+
+    <a href="https://88db.com.hk/Landing/Property/">
+物業地產
+<span></span>
+    </a>
+
+			
+		</li>
+		<li>
+
+    <a href="https://88db.com.hk/Landing/Household/">
+家居
+<span></span>
+    </a>
+
+			
+		</li>
+		<div class="clearboth">
+		</div>
+	</ul>
+</div>
+<div class="rel cateLink">
+
+	<div class="lMenu_layer col1" style="top: -1px;">
+		<div class="lMenu_list" channelid="">
+			
+					<a href="http://solomall.88db.com.hk" target="_blank"><h1>SOLO MALL</h1></a>
+					<ul>
+					
+						<li>						
+							<a href="http://solomall.88db.com.hk/listing.php?d=etn" target="_blank" title="銅鑼灣 Eton SOLO" categoryid="0" class="featuredIcon">銅鑼灣 Eton SOLO</a>						
+							<a href="http://solomall.88db.com.hk/listing.php?d=rdo" target="_blank" title="銅鑼灣 Radio City SOLO (CWB)" categoryid="0" class="featuredIcon">銅鑼灣 Radio City SOLO (CWB)</a>
+							<a href="http://solomall.88db.com.hk/listing.php?d=tst" target="_blank" title="尖沙咀 TST SOLO" categoryid="0" class="featuredIcon">尖沙咀 TST SOLO</a>
+							<a href="http://solomall.88db.com.hk/listing.php?d=np" target="_blank" title="北角 North Point SOLO" categoryid="0" class="featuredIcon">北角 North Point SOLO</a>
+							<a href="http://solomall.88db.com.hk/listing.php?d=wtn" target="_blank" title="西環 Western SOLO" categoryid="0" class="featuredIcon">西環 Western SOLO</a>
+							<a href="http://solomall.88db.com.hk/listing.php?d=wch" target="_blank" title="香港仔 Yan's SOLO" categoryid="0" class="featuredIcon">香港仔 Yan's SOLO</a>
+						
+						</li>		
+
+						<li>						
+							<a href="http://solomall.88db.com.hk/rent.php" target="_blank" title="租務資料" categoryid="0" class="">租務資料</a>						
+							<a href="http://solomall.88db.com.hk/news.php" target="_blank" title="最新消息及優惠" categoryid="0" class="">最新消息及優惠</a>	
+							<a href="http://solomall.88db.com.hk/mall.php" target="_blank" title="商場特點 VIDEO" categoryid="0" class="">商場特點 VIDEO</a>	
+							
+						</li>						
+					
+					
+						<div class="clearboth"></div>
+					</ul>
+				         
+	</div>
+	    <!--div class="lMenu_list" channelid="">
+		
+				<a href="http://beta.88db.com.hk/Landing/Household/"><h1>SOLO 商戶</h1></a>
+				<ul>
+				
+						<li>
+								<a href="listing.php?c=1">美容</a>
+                                    <a href="listing.php?c=2">商業</a>
+                                    <a href="listing.php?c=3">嬰幼/兒童</a>
+                                    <a href="listing.php?c=4">家居服務/用品</a>
+                                    <a href="listing.php?c=5">健康醫療</a>
+                                    <a href="listing.php?c=6">娛樂消閒</a>
+                                    <a href="listing.php?c=7">潮流服飾</a>
+                                    <a href="listing.php?c=8">運程占卜</a>
+						</li>
+						<li>
+                                    <a href="listing.php?c=9">音樂樂器</a>
+                                    <a href="listing.php?c=10">美食</a>
+                                    <a href="listing.php?c=11">模型/珍藏品</a>
+                                    <a href="listing.php?c=12">教育/興趣班</a>
+                                    <a href="listing.php?c=13">結婚</a>
+                                    <a href="listing.php?c=14">攝影</a>
+                                    <a href="listing.php?c=15">竉物</a>
+                                    <a href="listing.php?c=16">美甲</a>
+						</li>
+						<li>
+                                    <a href="listing.php?c=17">型像設計</a>
+                                    <a href="listing.php?c=18">兒童用品</a>
+                                    <a href="listing.php?c=19">珠寶首飾</a>
+                                    <a href="listing.php?c=20">工程</a>
+                                    <a href="listing.php?c=21">設計/印刷</a>
+                                    <a href="listing.php?c=22">百貨精品</a>
+							</li>
+				
+					<div class="clearboth"></div>
+				</ul>
+			         
+
+		</div-->
+
+		<div class="clearboth">
+		</div>
+	</div>
+	<a href="javascript:void(0);" style="background: url(/hk/html/images/icon_mall.png) no-repeat 0 3px;">
+	MALL!地道
+		<span>
+		</span>
+	</a>
+	<ul>
+		<li>
+
+    <a href="http://solomall.88db.com.hk" target="_blank">
+SOLO
+<span></span>
+    </a>			
+		</li>
+
+		<div class="clearboth">
+		</div>
+	</ul>
+</div>
+<div class="rel cateLink">
+<div class="lMenu_layer col2" style="display:none">
+		<div class="lMenu_list" channelid="1021">
+			
+					<a href="https://88db.com.hk/Landing/Lesson-Instruction/"><h1>教學進修</h1></a>
+					<ul>
+					
+						<li>
+						
+							<a href="https://88db.com.hk/Lesson-Instruction/Music-piano/1/" title="音樂課程 - 學琴" categoryid="1250">音樂課程 - 學琴</a>
+						
+							<a href="https://88db.com.hk/Lesson-Instruction/Guitar-Lesson/1/" title="音樂課程 - 結他" categoryid="1021030">音樂課程 - 結他</a>
+						
+							<a href="https://88db.com.hk/Lesson-Instruction/Drum-Percussion-Lesson/1/" title="音樂課程 - 鼓及敲擊樂" categoryid="1021040">音樂課程 - 鼓及敲擊樂</a>
+						
+							<a href="https://88db.com.hk/Lesson-Instruction/Music-orchestral/1/" title="音樂課程 - 管弦樂" categoryid="1021010">音樂課程 - 管弦樂</a>
+						
+							<a href="https://88db.com.hk/Lesson-Instruction/Music-sing-drama/1/" title="音樂課程 - 聲樂" categoryid="1021020">音樂課程 - 聲樂</a>
+						
+							<a href="https://88db.com.hk/Lesson-Instruction/Music-othercourse/1/" title="其他音樂課程" categoryid="1021070">其他音樂課程</a>
+						
+							<a href="https://88db.com.hk/Lesson-Instruction/Language/1/" title="語言課程" categoryid="1247">語言課程</a>
+						
+						</li>
+					
+						<li>
+						
+							<a href="https://88db.com.hk/Lesson-Instruction/Tutor/1/" title="補習" categoryid="1234">補習</a>
+						
+							<a href="https://88db.com.hk/Lesson-Instruction/Dance/1/" title="舞蹈" categoryid="1242">舞蹈</a>
+						
+							<a href="https://88db.com.hk/Lesson-Instruction/Children/1/" title="兒童興趣班" categoryid="1240">兒童興趣班</a>
+						
+							<a href="https://88db.com.hk/Lesson-Instruction/Art-Craft/1/" title="消閒興趣 -  繪圖及工藝" categoryid="1236">消閒興趣 -  繪圖及工藝</a>
+						
+							<a href="https://88db.com.hk/Lesson-Instruction/Cooking/1/" title="消閒興趣 - 烹飪及飲食" categoryid="1245">消閒興趣 - 烹飪及飲食</a>
+						
+							<a href="https://88db.com.hk/Lesson-Instruction/Fung-Shui-Divine/1/" title="風水相學及占卜" categoryid="2115">風水相學及占卜</a>
+						
+							<a href="https://88db.com.hk/Lesson-Instruction/Flower/1/" title="消閒興趣 - 花藝及盆栽" categoryid="2083">消閒興趣 - 花藝及盆栽</a>
+						
+						</li>
+					
+						<li>
+						
+							<a href="https://88db.com.hk/Lesson-Instruction/Photo-Video/1/" title="消閒興趣 - 攝影及後期製作" categoryid="1253">消閒興趣 - 攝影及後期製作</a>
+						
+							<a href="https://88db.com.hk/Lesson-Instruction/Leisure-Other-courses/1/" title="消閒興趣 - 其他課程" categoryid="2114">消閒興趣 - 其他課程</a>
+						
+							<a href="https://88db.com.hk/Lesson-Instruction/Baby-Maternity/1/" title="幼兒教育" categoryid="2082">幼兒教育</a>
+						
+							<a href="https://88db.com.hk/Lesson-Instruction/Beauty/1/" title="美容化妝" categoryid="1237">美容化妝</a>
+						
+							<a href="https://88db.com.hk/Lesson-Instruction/Business-Course/1/" title="商業課程" categoryid="2113">商業課程</a>
+						
+							<a href="https://88db.com.hk/Lesson-Instruction/Classroom-rental/1/" title="課室出租" categoryid="1021080">課室出租</a>
+						
+							<a href="https://88db.com.hk/Lesson-Instruction/Further-Education/1/" title="海外升學" categoryid="1881">海外升學</a>
+						
+						</li>
+					
+						<li>
+						
+							<a href="https://88db.com.hk/Lesson-Instruction/Sports-Fitness/1/" title="運動及健身" categoryid="1255">運動及健身</a>
+						
+							<a href="https://88db.com.hk/Lesson-Instruction/Driving/1/" title="駕駛" categoryid="1239">駕駛</a>
+						
+							<a href="https://88db.com.hk/Lesson-Instruction/Senior-Classes/1/" title="長者學習班" categoryid="2110">長者學習班</a>
+						
+							<a href="https://88db.com.hk/Lesson-Instruction/Health-medical/1/" title="健康及醫療課程" categoryid="1246">健康及醫療課程</a>
+						
+							<a href="https://88db.com.hk/Lesson-Instruction/Teaching-Overseas/1/" title="遙距教學" categoryid="2111">遙距教學</a>
+						
+							<a href="https://88db.com.hk/Lesson-Instruction/Continuing-Education-Fund/1/" title="持續進修基金" categoryid="2200">持續進修基金</a>
+						
+							<a href="https://88db.com.hk/Lesson-Instruction/Club-Association/1/" title="會社、組織及團體" categoryid="1448">會社、組織及團體</a>
+						
+						</li>
+					
+						<li>
+						
+							<a href="https://88db.com.hk/Lesson-Instruction/Recruitment/1/" title="業內招聘" categoryid="1021090">業內招聘</a>
+						
+						</li>
+					
+						<div class="clearboth"></div>
+					</ul>
+				         
+	</div>
+	    <div class="lMenu_list" channelid="1024">
+		
+				<a href="https://88db.com.hk/Landing/Music/"><h1>音樂</h1></a>
+				<ul>
+				
+					<li>
+					
+						<a href="https://88db.com.hk/Music/Lesson-Instruction/1/" title="教學進修" categoryid="1281">教學進修</a>
+					
+						<a href="https://88db.com.hk/Music/Guitar-Lesson/1/" title="音樂課程 - 結他" categoryid="1024010">音樂課程 - 結他</a>
+					
+						<a href="https://88db.com.hk/Music/Drum-Percussion-Lesson/1/" title="音樂課程 - 鼓及敲擊" categoryid="1024020">音樂課程 - 鼓及敲擊</a>
+					
+						<a href="https://88db.com.hk/Music/Buy-Sell/1/" title="買賣交易" categoryid="1836">買賣交易</a>
+					
+						<a href="https://88db.com.hk/Music/DJ-VJ-Karaoke/1/" title="DJ、VJ 及卡拉OK" categoryid="1278">DJ、VJ 及卡拉OK</a>
+					
+						<a href="https://88db.com.hk/Music/Band-Artist-Musician/1/" title="樂隊、藝人及樂師" categoryid="1276">樂隊、藝人及樂師</a>
+					
+						<a href="https://88db.com.hk/Music/Repair-Maintenance-Rental/1/" title="維修及出租" categoryid="1284">維修及出租</a>
+					
+					</li>
+				
+					<li>
+					
+						<a href="https://88db.com.hk/Music/Music-Production/1/" title="音樂製作" categoryid="1282">音樂製作</a>
+					
+						<a href="https://88db.com.hk/Music/Club-Association/1/" title="會社、組織及團體" categoryid="1450">會社、組織及團體</a>
+					
+						<a href="https://88db.com.hk/Music/Studio/1/" title="錄音室" categoryid="1286">錄音室</a>
+					
+						<a href="https://88db.com.hk/Music/Event-Activity/1/" title="節目及活動" categoryid="1279">節目及活動</a>
+					
+						<a href="https://88db.com.hk/Music/Special-Offer/1/" title="音樂優惠" categoryid="1837">音樂優惠</a>
+					
+						<a href="https://88db.com.hk/Music/Sound-Engineering/1/" title="音響工程" categoryid="1285">音響工程</a>
+					
+						<a href="https://88db.com.hk/Music/Composing-Songwriting/1/" title="作曲及填詞" categoryid="1277">作曲及填詞</a>
+					
+					</li>
+				
+					<li>
+					
+						<a href="https://88db.com.hk/Music/Music-Publishing/1/" title="音樂出版及發行" categoryid="1283">音樂出版及發行</a>
+					
+					</li>
+				
+					<div class="clearboth"></div>
+				</ul>
+			         
+</div>
+		<div class="clearboth">
+		</div>
+	</div>
+	<a href="javascript:void(0);" class="icon_kids">
+		教育與音樂
+		<span>
+		</span>
+	</a>
+	<ul>
+		<li>
+			
+    <a href="https://88db.com.hk/Landing/Lesson-Instruction/">
+教學進修
+<span></span>
+    </a>
+
+		</li>
+		<li>
+			
+    <a href="https://88db.com.hk/Landing/Music/">
+音樂
+<span></span>
+    </a>
+
+		</li>
+		
+		<div class="clearboth">
+		</div>
+	</ul>
+</div>
+<div class="rel cateLink">
+<div class="lMenu_layer col2" style="display:none">
+<div class="lMenu_list" channelid="1015">
+		
+				<a href="https://88db.com.hk/Landing/Buy-Sell/"><h1>買賣及批發</h1></a>
+				<ul>
+				
+					<li>
+					
+						<a href="https://88db.com.hk/Buy-Sell/Clothing-Accessories-Women/1/" title="時裝配飾- 女士服飾" categoryid="1461">時裝配飾- 女士服飾</a>
+					
+						<a href="https://88db.com.hk/Buy-Sell/Clothing-Accessories-Men/1/" title="時裝配飾- 男士服飾" categoryid="1015020">時裝配飾- 男士服飾</a>
+					
+						<a href="https://88db.com.hk/Buy-Sell/Clothing-Accessories-Children/1/" title="時裝配飾- 兒童服飾" categoryid="1015030">時裝配飾- 兒童服飾</a>
+					
+						<a href="https://88db.com.hk/Buy-Sell/Clothing-Accessories-Sports/1/" title="時裝配飾- 運動服飾" categoryid="1015040">時裝配飾- 運動服飾</a>
+					
+						<a href="https://88db.com.hk/Buy-Sell/Clothing-Accessories-Bags-Wallets/1/" title="時裝配飾- 手袋及銀包" categoryid="1015050">時裝配飾- 手袋及銀包</a>
+					
+						<a href="https://88db.com.hk/Buy-Sell/Clothing-Accessories-Shoes-Accessories/1/" title="時裝配飾- 鞋、飾品及配件" categoryid="1015060">時裝配飾- 鞋、飾品及配件</a>
+					
+						<a href="https://88db.com.hk/Buy-Sell/Watch-Jewelry/1/" title="鐘錶及珠寶首飾" categoryid="1465">鐘錶及珠寶首飾</a>
+					
+					</li>
+				
+					<li>
+					
+						<a href="https://88db.com.hk/Buy-Sell/Household-Furniture/1/" title="家居- 傢俬" categoryid="1821">家居- 傢俬</a>
+					
+						<a href="https://88db.com.hk/Buy-Sell/Household-Household-Products/1/" title="家居- 家庭用品" categoryid="1015070">家居- 家庭用品</a>
+					
+						<a href="https://88db.com.hk/Buy-Sell/Household-Electrical-Appliance/1/" title="家居- 家庭電器" categoryid="1015080">家居- 家庭電器</a>
+					
+						<a href="https://88db.com.hk/Buy-Sell/Household-Kitchenware/1/" title="家居- 廚房用品" categoryid="1015090">家居- 廚房用品</a>
+					
+						<a href="https://88db.com.hk/Buy-Sell/Household-Bathroom-Products/1/" title="家居- 浴室用品" categoryid="1015110">家居- 浴室用品</a>
+					
+						<a href="https://88db.com.hk/Buy-Sell/Household-Bedding/1/" title="家居- 寢室用品" categoryid="1015120">家居- 寢室用品</a>
+					
+						<a href="https://88db.com.hk/Buy-Sell/Photo-AV-Equipment/1/" title="攝影及影音器材" categoryid="2060">攝影及影音器材</a>
+					
+					</li>
+				
+					<li>
+					
+						<a href="https://88db.com.hk/Buy-Sell/Baby-Maternity-Maternity-Clothing/1/" title="孕婦及嬰兒- 孕婦服飾" categoryid="2055">孕婦及嬰兒- 孕婦服飾</a>
+					
+						<a href="https://88db.com.hk/Buy-Sell/Baby-Maternity-Baby-Clothing/1/" title="孕婦及嬰兒- 嬰兒服飾" categoryid="1015130">孕婦及嬰兒- 嬰兒服飾</a>
+					
+						<a href="https://88db.com.hk/Buy-Sell/Baby-Maternity-Baby-Products/1/" title="孕婦及嬰兒- 嬰兒用品" categoryid="1015140">孕婦及嬰兒- 嬰兒用品</a>
+					
+						<a href="https://88db.com.hk/Buy-Sell/Baby-Maternity-Books-Games/1/" title="孕婦及嬰兒- 書籍及遊戲" categoryid="1015150">孕婦及嬰兒- 書籍及遊戲</a>
+					
+						<a href="https://88db.com.hk/Buy-Sell/Car/1/" title="汽車" categoryid="1479">汽車</a>
+					
+						<a href="https://88db.com.hk/Buy-Sell/Bike/1/" title="電單車" categoryid="1015160">電單車</a>
+					
+						<a href="https://88db.com.hk/Buy-Sell/Pet/1/" title="寵物" categoryid="1992">寵物</a>
+					
+					</li>
+				
+					<li>
+					
+						<a href="https://88db.com.hk/Buy-Sell/Pets-Food-Accessories/1/" title="寵物- 食品及用品" categoryid="1015170">寵物- 食品及用品</a>
+					
+						<a href="https://88db.com.hk/Buy-Sell/Pets-Aquarium/1/" title="寵物- 水族" categoryid="1015780">寵物- 水族</a>
+					
+						<a href="https://88db.com.hk/Buy-Sell/Computer-Internet-Appliance/1/" title="電腦及網絡設備" categoryid="1818">電腦及網絡設備</a>
+					
+						<a href="https://88db.com.hk/Buy-Sell/Electronics/1/" title="電子產品" categoryid="1998">電子產品</a>
+					
+						<a href="https://88db.com.hk/Buy-Sell/Beauty/1/" title="美容" categoryid="1816">美容</a>
+					
+						<a href="https://88db.com.hk/Buy-Sell/Food-Beverage-Food-Wholesale-Retail/1/" title="飲食- 食品批發及零售" categoryid="1820">飲食- 食品批發及零售</a>
+					
+						<a href="https://88db.com.hk/Buy-Sell/Food-Beverage-Beverage-Wholesale-Retail/1/" title="飲食- 餐飲批發及零售" categoryid="1015190">飲食- 餐飲批發及零售</a>
+					
+					</li>
+				
+					<li>
+					
+						<a href="https://88db.com.hk/Buy-Sell/Food-Beverage-Products/1/" title="飲食- 飲食用品" categoryid="1015210">飲食- 飲食用品</a>
+					
+						<a href="https://88db.com.hk/Buy-Sell/Toys-Models/1/" title="玩具及模型" categoryid="1999">玩具及模型</a>
+					
+						<a href="https://88db.com.hk/Buy-Sell/Music-Instruments-Others/1/" title="樂器及其他" categoryid="1469">樂器及其他</a>
+					
+						<a href="https://88db.com.hk/Buy-Sell/Wedding-Products/1/" title="婚禮用品" categoryid="1994">婚禮用品</a>
+					
+						<a href="https://88db.com.hk/Buy-Sell/Sport-Fitness-Sport-Product-Equipment/1/" title="運動及健身- 運動用品及器材" categoryid="1993">運動及健身- 運動用品及器材</a>
+					
+						<a href="https://88db.com.hk/Buy-Sell/Sport-Fitness-Fitness-Product-Equipment/1/" title="運動及健身- 健身用品及器材" categoryid="1015220">運動及健身- 健身用品及器材</a>
+					
+						<a href="https://88db.com.hk/Buy-Sell/Health-Medical-Products/1/" title="健康及醫療用品" categoryid="1463">健康及醫療用品</a>
+					
+					</li>
+				
+					<li>
+					
+						<a href="https://88db.com.hk/Buy-Sell/Antique-Collectible/1/" title="古董及收藏品" categoryid="1462">古董及收藏品</a>
+					
+						<a href="https://88db.com.hk/Buy-Sell/Book-Compact-Disc/1/" title="書籍及光碟" categoryid="1990">書籍及光碟</a>
+					
+						<a href="https://88db.com.hk/Buy-Sell/Flower-Plant/1/" title="花及盆栽" categoryid="2081">花及盆栽</a>
+					
+						<a href="https://88db.com.hk/Buy-Sell/Stationery-Gifts/1/" title="文儀及精品-文具及精品" categoryid="1992020">文儀及精品-文具及精品</a>
+					
+						<a href="https://88db.com.hk/Buy-Sell/Stationery-Gifts-Office-Equipment/1/" title="文儀及精品- 辦公室器材" categoryid="1015230">文儀及精品- 辦公室器材</a>
+					
+						<a href="https://88db.com.hk/Buy-Sell/Stationery-Gifts-Advertising-Corp-Premium/1/" title="文儀及精品- 廣告及公司禮品" categoryid="1015240">文儀及精品- 廣告及公司禮品</a>
+					
+						<a href="https://88db.com.hk/Buy-Sell/Stationery-Gifts-Party-Festive-Products/1/" title="文儀及精品- 派對及節慶用品" categoryid="1015250">文儀及精品- 派對及節慶用品</a>
+					
+					</li>
+				
+					<li>
+					
+						<a href="https://88db.com.hk/Buy-Sell/Sexual-Wellness/1/" title="成人用品" categoryid="1015260">成人用品</a>
+					
+					</li>
+				
+					<div class="clearboth"></div>
+				</ul>
+			         
+</div>  
+		<div class="lMenu_list" channelid="1004">
+			
+					<a href="https://88db.com.hk/Landing/Business/"><h1>商業</h1></a>
+					<ul>
+					
+						<li>
+						
+							<a href="https://88db.com.hk/Business/Business-for-Sale/1/" title="生意頂讓" categoryid="1004050">生意頂讓</a>
+						
+							<a href="https://88db.com.hk/Business/Accounting-Tax/1/" title="會計及稅務" categoryid="1067">會計及稅務</a>
+						
+							<a href="https://88db.com.hk/Business/Building-Construction/1/" title="建築及建造" categoryid="1003">建築及建造</a>
+						
+							<a href="https://88db.com.hk/Business/Logistics-Storage/1/" title="物流及倉儲" categoryid="1076">物流及倉儲</a>
+						
+							<a href="https://88db.com.hk/Business/Courier-Service/1/" title="速遞" categoryid="1004010">速遞</a>
+						
+							<a href="https://88db.com.hk/Business/Environmental-Engineering-Recycling/1/" title="環保設備及回收" categoryid="2053">環保設備及回收</a>
+						
+							<a href="https://88db.com.hk/Business/Business-Start-Up-Aliance/1/" title="創業加盟" categoryid="1501">創業加盟</a>
+						
+						</li>
+					
+						<li>
+						
+							<a href="https://88db.com.hk/Business/Marketing-Communications/1/" title="市場策劃" categoryid="1077">市場策劃</a>
+						
+							<a href="https://88db.com.hk/Business/Printing-Publishing/1/" title="印刷" categoryid="1078">印刷</a>
+						
+							<a href="https://88db.com.hk/Business/Stationery-Gifts/1/" title="文儀及精品" categoryid="1857">文儀及精品</a>
+						
+							<a href="https://88db.com.hk/Business/Office-Furniture-Fittings/1/" title="辦公室傢俬及設備" categoryid="1004020">辦公室傢俬及設備</a>
+						
+							<a href="https://88db.com.hk/Business/Exhibition-Event-Management/1/" title="展覽會及活動策劃" categoryid="1503">展覽會及活動策劃</a>
+						
+							<a href="https://88db.com.hk/Business/Special-Offer/1/" title="商業優惠" categoryid="1803">商業優惠</a>
+						
+							<a href="https://88db.com.hk/Business/Copywriting-Translation/1/" title="撰稿及翻譯" categoryid="1326">撰稿及翻譯</a>
+						
+						</li>
+					
+						<li>
+						
+							<a href="https://88db.com.hk/Business/Legal/1/" title="法律事務" categoryid="1074">法律事務</a>
+						
+							<a href="https://88db.com.hk/Business/Consulting/1/" title="顧問" categoryid="1069">顧問</a>
+						
+							<a href="https://88db.com.hk/Business/Lesson-Instruction/1/" title="教學進修" categoryid="1504">教學進修</a>
+						
+							<a href="https://88db.com.hk/Business/Raw-Materials-and-Products/1/" title="原料及製品" categoryid="1858">原料及製品</a>
+						
+							<a href="https://88db.com.hk/Business/Cleaning-Pest-Control/1/" title="清潔及滅蟲" categoryid="1068">清潔及滅蟲</a>
+						
+							<a href="https://88db.com.hk/Business/Investment-Immigration-working-visa/1/" title="投資移民及簽證" categoryid="1072">投資移民及簽證</a>
+						
+							<a href="https://88db.com.hk/Business/Loan/1/" title="貸款" categoryid="1075">貸款</a>
+						
+						</li>
+					
+						<li>
+						
+							<a href="https://88db.com.hk/Business/Finance-Investment/1/" title="金融投資及保險" categoryid="1071">金融投資及保險</a>
+						
+							<a href="https://88db.com.hk/Business/Fire-Equipment/1/" title="消防" categoryid="1856">消防</a>
+						
+							<a href="https://88db.com.hk/Business/Private-Investigator/1/" title="私家偵探" categoryid="1080">私家偵探</a>
+						
+							<a href="https://88db.com.hk/Business/Security-Services/1/" title="保安服務" categoryid="2054">保安服務</a>
+						
+							<a href="https://88db.com.hk/Business/Event-Activity/1/" title="節目及活動" categoryid="1070">節目及活動</a>
+						
+							<a href="https://88db.com.hk/Business/Club-Association/1/" title="會社、組織及團體" categoryid="1401">會社、組織及團體</a>
+						
+							<a href="https://88db.com.hk/Business/Recruitment/1/" title="業內招聘" categoryid="1001030">業內招聘</a>
+						
+						</li>
+					
+						<li>
+						
+							<a href="https://88db.com.hk/Business/3D-Print/1/" title="3D立體打印" categoryid="1004030">3D立體打印</a>
+						
+						</li>
+					
+						<div class="clearboth"></div>
+					</ul>
+				         
+	</div>
+      	    <div class="lMenu_list" channelid="1009">
+		
+				<a href="https://88db.com.hk/Landing/Mobile-Computer-Internet/"><h1>手機電腦互聯網</h1></a>
+				<ul>
+				
+					<li>
+					
+						<a href="https://88db.com.hk/Mobile-Computer-Internet/Computer-Storage/1/" title="電腦及儲存設備" categoryid="1108">電腦及儲存設備</a>
+					
+						<a href="https://88db.com.hk/Mobile-Computer-Internet/Mobile-Repair/1/" title="手機維修" categoryid="1009010">手機維修</a>
+					
+						<a href="https://88db.com.hk/Mobile-Computer-Internet/Printer-Repair-Maintenance/1/" title="打印機維修管理" categoryid="1009020">打印機維修管理</a>
+					
+						<a href="https://88db.com.hk/Mobile-Computer-Internet/Data-Recovery/1/" title="數據修復" categoryid="1009030">數據修復</a>
+					
+						<a href="https://88db.com.hk/Mobile-Computer-Internet/Mobile-App-Development/1/" title="手機程式開發" categoryid="1009040">手機程式開發</a>
+					
+						<a href="https://88db.com.hk/Mobile-Computer-Internet/Web-Design/1/" title="網頁設計" categoryid="1109">網頁設計</a>
+					
+						<a href="https://88db.com.hk/Mobile-Computer-Internet/Programming/1/" title="程式編寫" categoryid="1107">程式編寫</a>
+					
+					</li>
+				
+					<li>
+					
+						<a href="https://88db.com.hk/Mobile-Computer-Internet/Buy-Sell/1/" title="買賣交易" categoryid="1808">買賣交易</a>
+					
+						<a href="https://88db.com.hk/Mobile-Computer-Internet/Network/1/" title="網絡" categoryid="1106">網絡</a>
+					
+						<a href="https://88db.com.hk/Mobile-Computer-Internet/Cloud-And-Domain-Management/1/" title="域名及雲端管理" categoryid="1110">域名及雲端管理</a>
+					
+						<a href="https://88db.com.hk/Mobile-Computer-Internet/Special-Offer/1/" title="電腦及互聯網優惠" categoryid="1809">電腦及互聯網優惠</a>
+					
+						<a href="https://88db.com.hk/Mobile-Computer-Internet/Lesson-Instruction/1/" title="教學進修" categoryid="1105">教學進修</a>
+					
+						<a href="https://88db.com.hk/Mobile-Computer-Internet/Game/1/" title="遊戲" categoryid="1512">遊戲</a>
+					
+						<a href="https://88db.com.hk/Mobile-Computer-Internet/Club-Association/1/" title="會社、組織及團體" categoryid="1405">會社、組織及團體</a>
+					
+					</li>
+				
+					<li>
+					
+						<a href="https://88db.com.hk/Mobile-Computer-Internet/Event-Activity/1/" title="節目及活動" categoryid="1104">節目及活動</a>
+					
+					</li>
+				
+					<div class="clearboth"></div>
+				</ul>
+			         
+</div>  
+
+		<div class="clearboth">
+		</div>
+	</div>
+	<a href="javascript:void(0);" class="icon_business">
+		營商與科技
+		<span>
+		</span>
+	</a>
+	<ul>
+			<li>
+			
+    <a href="https://88db.com.hk/Landing/Buy-Sell/">
+買賣及批發
+<span></span>
+    </a>
+
+		</li>
+		<li>
+			
+    <a href="https://88db.com.hk/Landing/Business/">
+商業
+<span></span>
+    </a>
+
+		</li>
+		<li>
+			
+    <a href="https://88db.com.hk/Landing/Mobile-Computer-Internet/">
+電腦互聯網
+<span></span>
+    </a>
+
+		</li>		
+		<div class="clearboth">
+		</div>
+	</ul>
+</div>
+<div class="rel cateLink">
+<div class="lMenu_layer col2" style="display:none">
+		<div class="lMenu_list" channelid="1002">
+			
+					<a href="https://88db.com.hk/Landing/Beauty/"><h1>美容</h1></a>
+					<ul>
+					
+						<li>
+						
+							<a href="https://88db.com.hk/Beauty/Facial-Skin-Treatment/1/" title="面部及皮膚護理" categoryid="1047">面部及皮膚護理</a>
+						
+							<a href="https://88db.com.hk/Beauty/Manicure-Pedicure/1/" title="美甲" categoryid="1053">美甲</a>
+						
+							<a href="https://88db.com.hk/Beauty/Eye-Treatment/1/" title="眼部護理" categoryid="1870">眼部護理</a>
+						
+							<a href="https://88db.com.hk/Beauty/Makeup/1/" title="化妝" categoryid="1052">化妝</a>
+						
+							<a href="https://88db.com.hk/Beauty/Special-Offer/1/" title="美容優惠" categoryid="1801">美容優惠</a>
+						
+							<a href="https://88db.com.hk/Beauty/Image-Consulting/1/" title="形象顧問" categoryid="1050">形象顧問</a>
+						
+							<a href="https://88db.com.hk/Beauty/Lesson-Instruction/1/" title="教學進修" categoryid="1051">教學進修</a>
+						
+						</li>
+					
+						<li>
+						
+							<a href="https://88db.com.hk/Beauty/Hair-Styling-Treatment/1/" title="髮型設計及護髮" categoryid="1048">髮型設計及護髮</a>
+						
+							<a href="https://88db.com.hk/Beauty/Slimming/1/" title="纖體修身" categoryid="1054">纖體修身</a>
+						
+							<a href="https://88db.com.hk/Beauty/Buy-Sell/1/" title="零售及批發" categoryid="1800">零售及批發</a>
+						
+							<a href="https://88db.com.hk/Beauty/Beauty-for-Men/1/" title="男士美容" categoryid="1043">男士美容</a>
+						
+							<a href="https://88db.com.hk/Beauty/Tattoo-Body-Piercing/1/" title="紋身及穿環" categoryid="1056">紋身及穿環</a>
+						
+							<a href="https://88db.com.hk/Beauty/Hair-Removal/1/" title="脫毛" categoryid="1889">脫毛</a>
+						
+							<a href="https://88db.com.hk/Beauty/Medical-Beauty/1/" title="醫學美容" categoryid="1891">醫學美容</a>
+						
+						</li>
+					
+						<li>
+						
+							<a href="https://88db.com.hk/Beauty/Cosmetic-Surgery/1/" title="整容" categoryid="1045">整容</a>
+						
+							<a href="https://88db.com.hk/Beauty/Event-Activity/1/" title="節目及活動" categoryid="1046">節目及活動</a>
+						
+							<a href="https://88db.com.hk/Beauty/Tanning/1/" title="太陽燈" categoryid="1500">太陽燈</a>
+						
+							<a href="https://88db.com.hk/Beauty/Club-Association/1/" title="會社、組織及團體" categoryid="1399">會社、組織及團體</a>
+						
+							<a href="https://88db.com.hk/Beauty/Recruitment/1/" title="業內招聘" categoryid="1002010">業內招聘</a>
+						
+						</li>
+					
+						<div class="clearboth"></div>
+					</ul>
+				         
+	</div>
+	    <div class="lMenu_list" channelid="1033">
+		
+				<a href="https://88db.com.hk/Landing/Wedding/"><h1>結婚</h1></a>
+				<ul>
+				
+					<li>
+					
+						<a href="https://88db.com.hk/Wedding/Beauty-Hairstyles/1/" title="化妝及髮型" categoryid="1359">化妝及髮型</a>
+					
+						<a href="https://88db.com.hk/Wedding/Photo-Video/1/" title="攝影及錄影" categoryid="1360">攝影及錄影</a>
+					
+						<a href="https://88db.com.hk/Wedding/Transportation/1/" title="花車" categoryid="1362">花車</a>
+					
+						<a href="https://88db.com.hk/Wedding/Wedding-Gown-Suit-Evening-Dress/1/" title="婚紗禮服" categoryid="1542">婚紗禮服</a>
+					
+						<a href="https://88db.com.hk/Wedding/Planning/1/" title="婚禮統籌" categoryid="1361">婚禮統籌</a>
+					
+						<a href="https://88db.com.hk/Wedding/Wedding-ring-jewelry/1/" title="婚戒鑽飾" categoryid="1540">婚戒鑽飾</a>
+					
+						<a href="https://88db.com.hk/Wedding/Flowers-Decorations/1/" title="佈置及花飾" categoryid="2068">佈置及花飾</a>
+					
+					</li>
+				
+					<li>
+					
+						<a href="https://88db.com.hk/Wedding/Wedding-invitations/1/" title="婚宴請柬" categoryid="1358">婚宴請柬</a>
+					
+						<a href="https://88db.com.hk/Wedding/Gifts-Wine/1/" title="禮品及洋酒" categoryid="1541">禮品及洋酒</a>
+					
+						<a href="https://88db.com.hk/Wedding/Civil-Celebrant/1/" title="證婚" categoryid="1539">證婚</a>
+					
+						<a href="https://88db.com.hk/Wedding/Wedding-Orchestras/1/" title="婚禮演奏" categoryid="1033010">婚禮演奏</a>
+					
+						<a href="https://88db.com.hk/Wedding/Wedding-banquet/1/" title="婚宴酒席" categoryid="1363">婚宴酒席</a>
+					
+						<a href="https://88db.com.hk/Wedding/Special-Offer/1/" title="結婚優惠" categoryid="1878">結婚優惠</a>
+					
+						<a href="https://88db.com.hk/Wedding/Buy-Sell/1/" title="買賣交易" categoryid="1995">買賣交易</a>
+					
+					</li>
+				
+					<li>
+					
+						<a href="https://88db.com.hk/Wedding/Overseas-Wedding/1/" title="海外婚禮" categoryid="1033020">海外婚禮</a>
+					
+						<a href="https://88db.com.hk/Wedding/Honeymoon/1/" title="蜜月旅遊" categoryid="1538">蜜月旅遊</a>
+					
+						<a href="https://88db.com.hk/Wedding/Wedding-Exhibition/1/" title="婚慶展覽" categoryid="1355">婚慶展覽</a>
+					
+					</li>
+				
+					<div class="clearboth"></div>
+				</ul>
+			         
+</div>
+        <div class="lMenu_list" channelid="2069">
+			
+					<a href="https://88db.com.hk/Landing/Baby-Maternity/"><h1>親子</h1></a>
+					<ul>
+					
+						<li>
+						
+							<a href="https://88db.com.hk/Baby-Maternity/Event-Activity/1/" title="節目及活動" categoryid="2078">節目及活動</a>
+						
+							<a href="https://88db.com.hk/Baby-Maternity/Children-Interest-Class-Language-Academic/1/" title="兒童興趣班 - 語言學術" categoryid="2074">兒童興趣班 - 語言學術</a>
+						
+							<a href="https://88db.com.hk/Baby-Maternity/Children-Interest-Class-Arts/1/" title="兒童興趣班 - 藝術" categoryid="2069090">兒童興趣班 - 藝術</a>
+						
+							<a href="https://88db.com.hk/Baby-Maternity/Children-Interest-Class-Sports/1/" title="兒童興趣班 - 運動" categoryid="2069110">兒童興趣班 - 運動</a>
+						
+							<a href="https://88db.com.hk/Baby-Maternity/Children-Photography/1/" title="親子攝影" categoryid="2075">親子攝影</a>
+						
+							<a href="https://88db.com.hk/Baby-Maternity/Tutor/1/" title="補習" categoryid="2069060">補習</a>
+						
+							<a href="https://88db.com.hk/Baby-Maternity/Childcare-Baby-sitting/1/" title="保母湊BB" categoryid="2071">保母湊BB</a>
+						
+						</li>
+					
+						<li>
+						
+							<a href="https://88db.com.hk/Baby-Maternity/Nursery-School/1/" title="托兒所" categoryid="2069010">托兒所</a>
+						
+							<a href="https://88db.com.hk/Baby-Maternity/Buy-Sell/1/" title="孕婦及嬰兒用品" categoryid="2072">孕婦及嬰兒用品</a>
+						
+							<a href="https://88db.com.hk/Baby-Maternity/Fortune-Telling-Naming/1/" title="擇日產子及命名" categoryid="2069040">擇日產子及命名</a>
+						
+							<a href="https://88db.com.hk/Baby-Maternity/Postnatal-Care/1/" title="陪月服務" categoryid="2070">陪月服務</a>
+						
+							<a href="https://88db.com.hk/Baby-Maternity/Education-Fund-Insurance/1/" title="教學基金及保險" categoryid="2069030">教學基金及保險</a>
+						
+							<a href="https://88db.com.hk/Baby-Maternity/Playgroup/1/" title="幼兒遊戲小组" categoryid="2073">幼兒遊戲小组</a>
+						
+							<a href="https://88db.com.hk/Baby-Maternity/Domestic-Helper-Agency/1/" title="僱傭中心" categoryid="2069080">僱傭中心</a>
+						
+						</li>
+					
+						<li>
+						
+							<a href="https://88db.com.hk/Baby-Maternity/Post-pregnancy-Slimming/1/" title="產後修身" categoryid="2069050">產後修身</a>
+						
+							<a href="https://88db.com.hk/Baby-Maternity/Overseas-Education/1/" title="海外升學" categoryid="2069070">海外升學</a>
+						
+							<a href="https://88db.com.hk/Baby-Maternity/Maternity-Course/1/" title="孕婦學習班" categoryid="2077">孕婦學習班</a>
+						
+							<a href="https://88db.com.hk/Baby-Maternity/School/1/" title="學校" categoryid="2069020">學校</a>
+						
+							<a href="https://88db.com.hk/Baby-Maternity/Health-Medical/1/" title="健康及醫療" categoryid="2080">健康及醫療</a>
+						
+							<a href="https://88db.com.hk/Baby-Maternity/Paediatrics/1/" title="兒科醫生" categoryid="2069120">兒科醫生</a>
+						
+						</li>
+					
+						<div class="clearboth"></div>
+					</ul>
+				         
+	</div>
+		<div class="clearboth">
+		</div>
+	</div>
+	<a href="javascript:void(0);" class="icon_beautiful_life">
+		美滿人生
+		<span>
+		</span>
+	</a>
+	<ul>
+		<li>
+			
+    <a href="https://88db.com.hk/Landing/Beauty/">
+美容
+<span></span>
+    </a>
+
+		</li>
+		<li>
+			
+    <a href="https://88db.com.hk/Landing/Wedding/">
+結婚
+<span></span>
+    </a>
+
+		</li>
+        <li>
+			
+    <a href="https://88db.com.hk/Landing/Baby-Maternity/">
+親子
+<span></span>
+    </a>
+
+		</li>
+		<div class="clearboth">
+		</div>
+	</ul>
+</div>
+<div class="rel cateLink">
+<div class="lMenu_layer col2" style="display:none">
+		<div class="lMenu_list" channelid="1028">
+			
+					<a href="https://88db.com.hk/Landing/Photo-AV/"><h1>攝影及影音</h1></a>
+					<ul>
+					
+						<li>
+						
+							<a href="https://88db.com.hk/Photo-AV/Photo/1/" title="攝影" categoryid="1321">攝影</a>
+						
+							<a href="https://88db.com.hk/Photo-AV/TV-Film/1/" title="電視及電影" categoryid="1268">電視及電影</a>
+						
+							<a href="https://88db.com.hk/Photo-AV/Model/1/" title="模特兒" categoryid="1313">模特兒</a>
+						
+							<a href="https://88db.com.hk/Photo-AV/Audio-Video/1/" title="影音" categoryid="1317">影音</a>
+						
+							<a href="https://88db.com.hk/Photo-AV/Second-hand-Equipment/1/" title="二手器材" categoryid="1324">二手器材</a>
+						
+							<a href="https://88db.com.hk/Photo-AV/Special-Offer/1/" title="攝影及影音優惠" categoryid="1842">攝影及影音優惠</a>
+						
+							<a href="https://88db.com.hk/Photo-AV/Event-Activity/1/" title="節目及活動" categoryid="1318">節目及活動</a>
+						
+						</li>
+					
+						<li>
+						
+							<a href="https://88db.com.hk/Photo-AV/Lesson-Instruction/1/" title="教學進修" categoryid="1319">教學進修</a>
+						
+							<a href="https://88db.com.hk/Photo-AV/Club-Association/1/" title="會社、組織及團體" categoryid="1454">會社、組織及團體</a>
+						
+						</li>
+					
+						<div class="clearboth"></div>
+					</ul>
+				         
+	</div>
+	    <div class="lMenu_list" channelid="1011">
+		
+				<a href="https://88db.com.hk/Landing/Design/"><h1>設計</h1></a>
+				<ul>
+				
+					<li>
+					
+						<a href="https://88db.com.hk/Design/Graphic-Design/1/" title="平面設計" categoryid="1120">平面設計</a>
+					
+						<a href="https://88db.com.hk/Design/Web-Design/1/" title="網頁設計" categoryid="1125">網頁設計</a>
+					
+						<a href="https://88db.com.hk/Design/Interior-Design/1/" title="室內設計" categoryid="1121">室內設計</a>
+					
+						<a href="https://88db.com.hk/Design/Product-Design/1/" title="產品設計" categoryid="1124">產品設計</a>
+					
+						<a href="https://88db.com.hk/Design/Fashion-Design/1/" title="時裝設計" categoryid="1119">時裝設計</a>
+					
+						<a href="https://88db.com.hk/Design/Jewelry-Design/1/" title="珠寶設計" categoryid="1122">珠寶設計</a>
+					
+						<a href="https://88db.com.hk/Design/Architecture/1/" title="建築" categoryid="1117">建築</a>
+					
+					</li>
+				
+					<li>
+					
+						<a href="https://88db.com.hk/Design/Animation/1/" title="電腦動畫" categoryid="1460">電腦動畫</a>
+					
+						<a href="https://88db.com.hk/Design/Special-Offer/1/" title="設計優惠" categoryid="1811">設計優惠</a>
+					
+						<a href="https://88db.com.hk/Design/Lesson-Instruction/1/" title="教學進修" categoryid="1123">教學進修</a>
+					
+						<a href="https://88db.com.hk/Design/Event-Activity/1/" title="節目及活動" categoryid="1118">節目及活動</a>
+					
+						<a href="https://88db.com.hk/Design/Club-Association/1/" title="會社、組織及團體" categoryid="1407">會社、組織及團體</a>
+					
+					</li>
+				
+					<div class="clearboth"></div>
+				</ul>
+			         
+</div>
+         <div class="lMenu_list" channelid="1025">
+		
+				<a href="https://88db.com.hk/Landing/Performing-Art/"><h1>表演藝術</h1></a>
+				<ul>
+				
+					<li>
+					
+						<a href="https://88db.com.hk/Performing-Art/Event-Activity/1/" title="節目及活動" categoryid="1291">節目及活動</a>
+					
+						<a href="https://88db.com.hk/Performing-Art/Magic/1/" title="魔術" categoryid="1293">魔術</a>
+					
+						<a href="https://88db.com.hk/Performing-Art/Clown-Juggler/1/" title="小丑及雜技" categoryid="1288">小丑及雜技</a>
+					
+						<a href="https://88db.com.hk/Performing-Art/Venue-Decoration-Rental/1/" title="場地佈置及出租" categoryid="1159">場地佈置及出租</a>
+					
+						<a href="https://88db.com.hk/Performing-Art/Event-Management/1/" title="活動管理" categoryid="1155">活動管理</a>
+					
+						<a href="https://88db.com.hk/Performing-Art/Dance/1/" title="舞蹈" categoryid="1289">舞蹈</a>
+					
+						<a href="https://88db.com.hk/Performing-Art/Contractor/1/" title="承包商" categoryid="1156">承包商</a>
+					
+					</li>
+				
+					<li>
+					
+						<a href="https://88db.com.hk/Performing-Art/Equipment-Rental/1/" title="設備出租" categoryid="1154">設備出租</a>
+					
+						<a href="https://88db.com.hk/Performing-Art/Theatre-Technical-Art/1/" title="舞台科藝" categoryid="1296">舞台科藝</a>
+					
+						<a href="https://88db.com.hk/Performing-Art/Club-Association/1/" title="會社、組織及團體" categoryid="1451">會社、組織及團體</a>
+					
+						<a href="https://88db.com.hk/Performing-Art/Buy-Sell/1/" title="買賣交易" categoryid="1527">買賣交易</a>
+					
+						<a href="https://88db.com.hk/Performing-Art/MC-Personnel/1/" title="司儀及其他人員" categoryid="1157">司儀及其他人員</a>
+					
+						<a href="https://88db.com.hk/Performing-Art/Special-Offer/1/" title="表演藝術優惠" categoryid="1838">表演藝術優惠</a>
+					
+					</li>
+				
+					<div class="clearboth"></div>
+				</ul>
+			         
+</div>
+		<div class="clearboth">
+		</div>
+	</div>
+	<a href="javascript:void(0);" class="icon_art">
+		創意藝術
+		<span>
+		</span>
+	</a>
+	<ul>
+		<li>
+			
+    <a href="https://88db.com.hk/Landing/Photo-AV/">
+攝影及影音
+<span></span>
+    </a>
+
+		</li>
+		<li>
+			
+    <a href="https://88db.com.hk/Landing/Design/">
+設計
+<span></span>
+    </a>
+
+		</li>
+        <li>
+			
+    <a href="https://88db.com.hk/Landing/Performing-Art/">
+表演藝術
+<span></span>
+    </a>
+
+		</li>
+		<div class="clearboth">
+		</div>
+	</ul>
+</div>
+<div class="rel cateLink">
+<div class="lMenu_layer" style="display:none">
+		<div class="lMenu_list" channelid="1060000">
+			
+					<a href="https://88db.com.hk/Landing/Service-Recruitment/"><h1>服務業招聘</h1></a>
+					<ul>
+					
+						<li>
+						
+							<a href="https://88db.com.hk/Service-Recruitment/The-Hong-Kong-Jockey-Club/1/" title="香港賽馬會職位" categoryid="1062100">香港賽馬會職位</a>
+						
+							<a href="https://88db.com.hk/Service-Recruitment/Pet/1/" title="寵物" categoryid="1060100">寵物</a>
+						
+							<a href="https://88db.com.hk/Service-Recruitment/Beauty-Slimming-and-Hair/1/" title="美容、纖體及美髮" categoryid="1060200">美容、纖體及美髮</a>
+						
+							<a href="https://88db.com.hk/Service-Recruitment/Renovation-Cleaning-and-Maintenance/1/" title="裝修、清潔及保養" categoryid="1060300">裝修、清潔及保養</a>
+						
+							<a href="https://88db.com.hk/Service-Recruitment/Real-estate/1/" title="房地產" categoryid="1060400">房地產</a>
+						
+							<a href="https://88db.com.hk/Service-Recruitment/Vehicle-Boat-Maintenace-and-Management/1/" title="車船維修及管理" categoryid="1060500">車船維修及管理</a>
+						
+							<a href="https://88db.com.hk/Service-Recruitment/Health-Care-and-Sports/1/" title="醫療護理及體育" categoryid="1060600">醫療護理及體育</a>
+						
+						</li>
+					
+						<li>
+						
+							<a href="https://88db.com.hk/Service-Recruitment/Tourism-and-Hotels/1/" title="旅遊及酒店" categoryid="1060700">旅遊及酒店</a>
+						
+							<a href="https://88db.com.hk/Service-Recruitment/Education/1/" title="教育" categoryid="1060800">教育</a>
+						
+							<a href="https://88db.com.hk/Service-Recruitment/Construction-and-Craftsmen/1/" title="建造及技工" categoryid="1060900">建造及技工</a>
+						
+							<a href="https://88db.com.hk/Service-Recruitment/Catering/1/" title="飲食" categoryid="1061000">飲食</a>
+						
+							<a href="https://88db.com.hk/Service-Recruitment/Entertainment-and-Arts/1/" title="影視娛樂及藝術" categoryid="1061100">影視娛樂及藝術</a>
+						
+							<a href="https://88db.com.hk/Service-Recruitment/Community-and-Charities/1/" title="社區及慈善服務" categoryid="1061200">社區及慈善服務</a>
+						
+							<a href="https://88db.com.hk/Service-Recruitment/Production-printing-and-packaging/1/" title="生產、印刷及包裝" categoryid="1061300">生產、印刷及包裝</a>
+						
+						</li>
+					
+						<li>
+						
+							<a href="https://88db.com.hk/Service-Recruitment/Sundry-duties/1/" title="雜務" categoryid="1061400">雜務</a>
+						
+							<a href="https://88db.com.hk/Service-Recruitment/Shop-Sales-and-Cashier/1/" title="店務及收銀" categoryid="1061500">店務及收銀</a>
+						
+							<a href="https://88db.com.hk/Service-Recruitment/Delivery-courier-transport-and-warehouse/1/" title="送貨、速遞、搬運及倉務" categoryid="1061600">送貨、速遞、搬運及倉務</a>
+						
+							<a href="https://88db.com.hk/Service-Recruitment/Security/1/" title="保安" categoryid="1061700">保安</a>
+						
+							<a href="https://88db.com.hk/Service-Recruitment/Receptionist/1/" title="接待" categoryid="1061800">接待</a>
+						
+							<a href="https://88db.com.hk/Service-Recruitment/Drivers/1/" title="司機" categoryid="1061900">司機</a>
+						
+							<a href="https://88db.com.hk/Service-Recruitment/Sales-and-Promotion/1/" title="銷售推廣" categoryid="1062000">銷售推廣</a>
+						
+						</li>
+					
+						<div class="clearboth"></div>
+					</ul>
+				         
+	</div>
+		<div class="clearboth">
+		</div>
+	</div>
+	<a href="javascript:void(0);" class="icon_job">
+		招聘
+		<span>
+		</span>
+	</a>
+	<ul>
+		<li>
+			
+    <a href="https://88db.com.hk/Landing/Service-Recruitment/">
+服務業招聘
+<span></span>
+    </a>
+
+		</li>		
+		<div class="clearboth">
+		</div>
+	</ul>
+</div>
+<div class="rel cateLink">
+<div class="lMenu_layer col2" style="display:none">
+		<div class="lMenu_list" channelid="1017">
+			
+					<a href="https://88db.com.hk/Landing/Health-Medical/"><h1>健康及醫療</h1></a>
+					<ul>
+					
+						<li>
+						
+							<a href="https://88db.com.hk/Health-Medical/Medical-Nursing/1/" title="醫療護理" categoryid="1855">醫療護理</a>
+						
+							<a href="https://88db.com.hk/Health-Medical/Doctor-s-List/1/" title="註冊西醫" categoryid="1017010">註冊西醫</a>
+						
+							<a href="https://88db.com.hk/Health-Medical/Dentist/1/" title="牙醫" categoryid="1017017">牙醫</a>
+						
+							<a href="https://88db.com.hk/Health-Medical/Spa-Massage-Centre/1/" title="按摩中心" categoryid="1195">按摩中心</a>
+						
+							<a href="https://88db.com.hk/Health-Medical/Colon-Hydrotherapy/1/" title="浣腸水療" categoryid="1189">浣腸水療</a>
+						
+							<a href="https://88db.com.hk/Health-Medical/Nutrition/1/" title="飲食營養" categoryid="1196">飲食營養</a>
+						
+							<a href="https://88db.com.hk/Health-Medical/Buy-Sell/1/" title="買賣交易" categoryid="1828">買賣交易</a>
+						
+						</li>
+					
+						<li>
+						
+							<a href="https://88db.com.hk/Health-Medical/Other-Therapies/1/" title="其他治療" categoryid="1184">其他治療</a>
+						
+							<a href="https://88db.com.hk/Health-Medical/Care/1/" title="私家看護" categoryid="1168">私家看護</a>
+						
+							<a href="https://88db.com.hk/Health-Medical/Chinese-Medical/1/" title="中醫" categoryid="1183">中醫</a>
+						
+							<a href="https://88db.com.hk/Health-Medical/Postnatal-Care/1/" title="陪月服務" categoryid="2079">陪月服務</a>
+						
+							<a href="https://88db.com.hk/Health-Medical/Rehabilitation/1/" title="康復" categoryid="1477">康復</a>
+						
+							<a href="https://88db.com.hk/Health-Medical/Lesson-Instruction/1/" title="教學進修" categoryid="1194">教學進修</a>
+						
+							<a href="https://88db.com.hk/Health-Medical/Aromatherapy/1/" title="香薰治療" categoryid="1185">香薰治療</a>
+						
+						</li>
+					
+						<li>
+						
+							<a href="https://88db.com.hk/Health-Medical/Special-Offer/1/" title="健康及醫療優惠" categoryid="1829">健康及醫療優惠</a>
+						
+							<a href="https://88db.com.hk/Health-Medical/Cosmetic-Surgery/1/" title="整容手術" categoryid="1190">整容手術</a>
+						
+							<a href="https://88db.com.hk/Health-Medical/Spa/1/" title="水療" categoryid="1055">水療</a>
+						
+							<a href="https://88db.com.hk/Health-Medical/Club-Association/1/" title="會社、組織及團體" categoryid="1414">會社、組織及團體</a>
+						
+							<a href="https://88db.com.hk/Health-Medical/Body-Check/1/" title="身體檢查" categoryid="1513">身體檢查</a>
+						
+							<a href="https://88db.com.hk/Health-Medical/Chiropractic/1/" title="脊椎按摩療法" categoryid="1188">脊椎按摩療法</a>
+						
+							<a href="https://88db.com.hk/Health-Medical/Medical-Insurance/1/" title="醫療保險" categoryid="1514">醫療保險</a>
+						
+						</li>
+					
+						<li>
+						
+							<a href="https://88db.com.hk/Health-Medical/Event-Activity/1/" title="節目及活動" categoryid="1192">節目及活動</a>
+						
+							<a href="https://88db.com.hk/Health-Medical/Recruitment/1/" title="業內招聘" categoryid="1017040">業內招聘</a>
+						
+						</li>
+					
+						<div class="clearboth"></div>
+					</ul>
+				         
+	</div>
+	    
+      	    <div class="lMenu_list" channelid="1031">
+		
+				<a href="https://88db.com.hk/Landing/Sport-Fitness/"><h1>運動及健身</h1></a>
+				<ul>
+				
+					<li>
+					
+						<a href="https://88db.com.hk/Sport-Fitness/Ball-Game/1/" title="球類運動" categoryid="1534">球類運動</a>
+					
+						<a href="https://88db.com.hk/Sport-Fitness/Lesson-Instruction/1/" title="教學進修" categoryid="1342">教學進修</a>
+					
+						<a href="https://88db.com.hk/Sport-Fitness/Martial-Art/1/" title="武術" categoryid="1292">武術</a>
+					
+						<a href="https://88db.com.hk/Sport-Fitness/Water-Sport/1/" title="水上運動" categoryid="1535">水上運動</a>
+					
+						<a href="https://88db.com.hk/Sport-Fitness/Buy-Sell/1/" title="買賣交易" categoryid="1996">買賣交易</a>
+					
+						<a href="https://88db.com.hk/Sport-Fitness/Gym/1/" title="健身" categoryid="1163">健身</a>
+					
+						<a href="https://88db.com.hk/Sport-Fitness/Club-Association/1/" title="會社、組織及團體" categoryid="1457">會社、組織及團體</a>
+					
+					</li>
+				
+					<li>
+					
+						<a href="https://88db.com.hk/Sport-Fitness/Yoga/1/" title="瑜伽" categoryid="1170">瑜伽</a>
+					
+						<a href="https://88db.com.hk/Sport-Fitness/Spa/1/" title="水療" categoryid="1169">水療</a>
+					
+						<a href="https://88db.com.hk/Sport-Fitness/Special-Offer/1/" title="運動及健身優惠" categoryid="1876">運動及健身優惠</a>
+					
+						<a href="https://88db.com.hk/Sport-Fitness/Event-Activity/1/" title="節目及活動" categoryid="1341">節目及活動</a>
+					
+						<a href="https://88db.com.hk/Sport-Fitness/Venue-Rental/1/" title="場地出租" categoryid="1345">場地出租</a>
+					
+						<a href="https://88db.com.hk/Sport-Fitness/Aerobic/1/" title="帶氧運動" categoryid="1161">帶氧運動</a>
+					
+						<a href="https://88db.com.hk/Sport-Fitness/Pilate-Gyrotonic/1/" title="普拉提及動作治療" categoryid="1167">普拉提及動作治療</a>
+					
+					</li>
+				
+					<li>
+					
+						<a href="https://88db.com.hk/Sport-Fitness/Referee/1/" title="球證及裁判" categoryid="1343">球證及裁判</a>
+					
+					</li>
+				
+					<div class="clearboth"></div>
+				</ul>
+			         
+</div>  
+      	 
+      	  
+		<div class="clearboth">
+		</div>
+	</div>
+	<a href="javascript:void(0);" class="icon_health">
+		健康有道
+		<span>
+		</span>
+	</a>
+	<ul>
+		<li>
+			
+    <a href="https://88db.com.hk/Landing/Health-Medical/">
+健康及醫療
+<span></span>
+    </a>
+
+		</li>
+		<li>
+			
+    <a href="https://88db.com.hk/Landing/Sport-Fitness/">
+運動及健身
+<span></span>
+    </a>
+
+		</li>
+		<div class="clearboth">
+		</div>
+	</ul>
+</div>
+<div class="rel cateLink">
+<div class="lMenu_layer" style="display:none">
+		<div class="lMenu_list" channelid="1006">
+			
+					<a href="https://88db.com.hk/Landing/Car-Bike/"><h1>汽車及電單車</h1></a>
+					<ul>
+					
+						<li>
+						
+							<a href="https://88db.com.hk/Car-Bike/Car-Rental/1/" title="租車" categoryid="1093">租車</a>
+						
+							<a href="https://88db.com.hk/Car-Bike/Goods-Vehicle-Taxi-Radio-Call/1/" title="電召的士及貨車" categoryid="1508">電召的士及貨車</a>
+						
+							<a href="https://88db.com.hk/Car-Bike/Buy-Sell/1/" title="易手車買賣" categoryid="1481">易手車買賣</a>
+						
+							<a href="https://88db.com.hk/Car-Bike/Parking-Slot/1/" title="車位" categoryid="2003">車位</a>
+						
+							<a href="https://88db.com.hk/Car-Bike/Learn-Driving/1/" title="學車" categoryid="1091">學車</a>
+						
+							<a href="https://88db.com.hk/Car-Bike/Glasses/1/" title="汽車玻璃" categoryid="1006020">汽車玻璃</a>
+						
+							<a href="https://88db.com.hk/Car-Bike/Audio/1/" title="汽車影音" categoryid="1006030">汽車影音</a>
+						
+						</li>
+					
+						<li>
+						
+							<a href="https://88db.com.hk/Car-Bike/Tires-Rims/1/" title="輪胎及軑鈴" categoryid="1006040">輪胎及軑鈴</a>
+						
+							<a href="https://88db.com.hk/Car-Bike/Vehicle-Security/1/" title="汽車防盜" categoryid="1006050">汽車防盜</a>
+						
+							<a href="https://88db.com.hk/Car-Bike/Car-Wash-Beauty/1/" title="美容及清潔" categoryid="1089">美容及清潔</a>
+						
+							<a href="https://88db.com.hk/Car-Bike/License-Plate/1/" title="車牌" categoryid="1006060">車牌</a>
+						
+							<a href="https://88db.com.hk/Car-Bike/Towing/1/" title="拖車" categoryid="1006070">拖車</a>
+						
+							<a href="https://88db.com.hk/Car-Bike/Bike-Repair-Maintenance/1/" title="電單車維修、保養及改裝" categoryid="1006080">電單車維修、保養及改裝</a>
+						
+							<a href="https://88db.com.hk/Car-Bike/Biker-Accessories/1/" title="騎士用品" categoryid="1006090">騎士用品</a>
+						
+						</li>
+					
+						<li>
+						
+							<a href="https://88db.com.hk/Car-Bike/Vehicle-Parts-Accessories/1/" title="汽車用品、零件及配件" categoryid="1871">汽車用品、零件及配件</a>
+						
+							<a href="https://88db.com.hk/Car-Bike/Car-Repair-Maintenance/1/" title="汽車維修、保養及改裝" categoryid="1094">汽車維修、保養及改裝</a>
+						
+							<a href="https://88db.com.hk/Car-Bike/Car-Scrapping/1/" title="劏車" categoryid="1006100">劏車</a>
+						
+							<a href="https://88db.com.hk/Car-Bike/Vehicle-Dealers-Garages/1/" title="車行及車房" categoryid="1006010">車行及車房</a>
+						
+							<a href="https://88db.com.hk/Car-Bike/Insurance/1/" title="車保及上會" categoryid="1507">車保及上會</a>
+						
+							<a href="https://88db.com.hk/Car-Bike/Special-Offer/1/" title="汽車及電單車優惠" categoryid="1805">汽車及電單車優惠</a>
+						
+							<a href="https://88db.com.hk/Car-Bike/Club-Association/1/" title="會社、組織及團體" categoryid="1403">會社、組織及團體</a>
+						
+						</li>
+					
+						<li>
+						
+							<a href="https://88db.com.hk/Car-Bike/Event-Activity/1/" title="節目及活動" categoryid="1090">節目及活動</a>
+						
+							<a href="https://88db.com.hk/Car-Bike/Recruitment/1/" title="業內招聘" categoryid="1006110">業內招聘</a>
+						
+						</li>
+					
+						<div class="clearboth"></div>
+					</ul>
+				         
+	</div>
+      	  
+		<div class="clearboth">
+		</div>
+	</div>
+	<a href="javascript:void(0);" class="icon_car">
+		汽車
+		<span>
+		</span>
+	</a>
+	<ul>
+		<li>
+			
+    <a href="https://88db.com.hk/Landing/Car-Bike/">
+汽車及電單車
+<span></span>
+    </a>
+
+		</li>
+		<div class="clearboth">
+		</div>
+	</ul>
+</div>
+<div class="rel cateLink">
+<div class="lMenu_layer" style="display:none">
+		<div class="lMenu_list" channelid="1070000">
+			
+					<a href="https://88db.com.hk/Landing/Emergency/"><h1>應急服務</h1></a>
+					<ul>
+					
+						<li>
+						
+							<a href="https://88db.com.hk/Emergency/Locksmith/1/" title="開鎖" categoryid="1070010">開鎖</a>
+						
+							<a href="https://88db.com.hk/Emergency/Plumbing-Electric-Maintenance/1/" title="通渠及水電工程" categoryid="1070020">通渠及水電工程</a>
+						
+							<a href="https://88db.com.hk/Emergency/Furniture-Electric-Appliance-Repair/1/" title="傢俬電器維修" categoryid="1070030">傢俬電器維修</a>
+						
+							<a href="https://88db.com.hk/Emergency/Call-Taxi-Service/1/" title="電召的士" categoryid="1070040">電召的士</a>
+						
+							<a href="https://88db.com.hk/Emergency/Call-Van-Service/1/" title="電召貨van" categoryid="1070050">電召貨van</a>
+						
+							<a href="https://88db.com.hk/Emergency/Auto-Towing/1/" title="拖車" categoryid="1070060">拖車</a>
+						
+							<a href="https://88db.com.hk/Emergency/Car-Repair/1/" title="汽車維修" categoryid="1070070">汽車維修</a>
+						
+						</li>
+					
+						<li>
+						
+							<a href="https://88db.com.hk/Emergency/Motorcycle-Repair/1/" title="電單車維修" categoryid="1070080">電單車維修</a>
+						
+							<a href="https://88db.com.hk/Emergency/Food-Delivery/1/" title="外賣速遞" categoryid="1070090">外賣速遞</a>
+						
+							<a href="https://88db.com.hk/Emergency/Computer-Maintenance/1/" title="電腦維修" categoryid="1070100">電腦維修</a>
+						
+							<a href="https://88db.com.hk/Emergency/Local-Courier/1/" title="本地速遞" categoryid="1070103">本地速遞</a>
+						
+							<a href="https://88db.com.hk/Emergency/Pet-s-Medical-Service/1/" title="寵物醫療" categoryid="1070110">寵物醫療</a>
+						
+							<a href="https://88db.com.hk/Emergency/Pet-s-Hospice/1/" title="寵物善終" categoryid="1070120">寵物善終</a>
+						
+							<a href="https://88db.com.hk/Emergency/Flower-Delivery-Service/1/" title="送花" categoryid="1070130">送花</a>
+						
+						</li>
+					
+						<li>
+						
+							<a href="https://88db.com.hk/Emergency/Loan/1/" title="貸款" categoryid="1070140">貸款</a>
+						
+							<a href="https://88db.com.hk/Emergency/24-hour-Locksmith/1/" title="24小時開鎖" categoryid="1070150">24小時開鎖</a>
+						
+							<a href="https://88db.com.hk/Emergency/24-hour-Plumbing-Electric-Maintenance/1/" title="24小時通渠及水電工程" categoryid="1070160">24小時通渠及水電工程</a>
+						
+							<a href="https://88db.com.hk/Emergency/24-hour-Auto-Towing/1/" title="24小時拖車" categoryid="1070170">24小時拖車</a>
+						
+							<a href="https://88db.com.hk/Emergency/24-hour-Call-Taxi-Service/1/" title="24小時電召的士" categoryid="1070180">24小時電召的士</a>
+						
+							<a href="https://88db.com.hk/Emergency/24-hour-Call-Van-Service/1/" title="24小時電召貨van" categoryid="1070190">24小時電召貨van</a>
+						
+							<a href="https://88db.com.hk/Emergency/24-hour-Pet-s-Medical-Service/1/" title="24小時寵物診所及醫院" categoryid="1070200">24小時寵物診所及醫院</a>
+						
+						</li>
+					
+						<div class="clearboth"></div>
+					</ul>
+				         
+	</div>
+	   
+      	 
+      	  
+		<div class="clearboth">
+		</div>
+	</div>
+	<a href="javascript:void(0);" class="icon_emergency">
+		緊急支援
+		<span>
+		</span>
+	</a>
+	<ul>
+		<li>
+			
+    <a href="https://88db.com.hk/Landing/Emergency/">
+應急服務
+<span></span>
+    </a>
+
+		</li>
+		<div class="clearboth">
+		</div>
+	</ul>
+</div>
+<div class="rel cateLink">
+<div class="lMenu_layer col2" style="display:none">
+		<div class="lMenu_list" channelid="1016">
+			
+					<a href="https://88db.com.hk/Landing/Food-Beverage/"><h1>飲食</h1></a>
+					<ul>
+					
+						<li>
+						
+							<a href="https://88db.com.hk/Food-Beverage/Food-Delivery/1/" title="外賣速遞" categoryid="1177">外賣速遞</a>
+						
+							<a href="https://88db.com.hk/Food-Beverage/Lesson-Instruction/1/" title="教學進修" categoryid="1178">教學進修</a>
+						
+							<a href="https://88db.com.hk/Food-Beverage/Buy-Sell/1/" title="買賣交易" categoryid="1826">買賣交易</a>
+						
+							<a href="https://88db.com.hk/Food-Beverage/Special-Offer/1/" title="飲食優惠" categoryid="1827">飲食優惠</a>
+						
+							<a href="https://88db.com.hk/Food-Beverage/Catering/1/" title="到會" categoryid="1175">到會</a>
+						
+							<a href="https://88db.com.hk/Food-Beverage/Event-Activity/1/" title="節目及活動" categoryid="1176">節目及活動</a>
+						
+							<a href="https://88db.com.hk/Food-Beverage/Buffet/1/" title="自助餐" categoryid="2092">自助餐</a>
+						
+						</li>
+					
+						<li>
+						
+							<a href="https://88db.com.hk/Food-Beverage/Hot-Pot/1/" title="火鍋" categoryid="2091">火鍋</a>
+						
+							<a href="https://88db.com.hk/Food-Beverage/Tea-Restaurant/1/" title="茶餐廳" categoryid="2103">茶餐廳</a>
+						
+							<a href="https://88db.com.hk/Food-Beverage/Noodle-Rice-Noodle/1/" title="粉麵/米線" categoryid="2102">粉麵/米線</a>
+						
+							<a href="https://88db.com.hk/Food-Beverage/Japanese-Restaurant/1/" title="日本菜" categoryid="2096">日本菜</a>
+						
+							<a href="https://88db.com.hk/Food-Beverage/Vietnam-Restaurant/1/" title="越南菜" categoryid="2097">越南菜</a>
+						
+							<a href="https://88db.com.hk/Food-Beverage/Thai-Restaurant/1/" title="泰國菜" categoryid="2098">泰國菜</a>
+						
+							<a href="https://88db.com.hk/Food-Beverage/Shang-Hai-Restaurant/1/" title="滬菜 (上海)" categoryid="2100">滬菜 (上海)</a>
+						
+						</li>
+					
+						<li>
+						
+							<a href="https://88db.com.hk/Food-Beverage/Western-Restaurant/1/" title="西餐" categoryid="2095">西餐</a>
+						
+							<a href="https://88db.com.hk/Food-Beverage/Bar/1/" title="酒吧" categoryid="2099">酒吧</a>
+						
+							<a href="https://88db.com.hk/Food-Beverage/Vegetarian-Restaurant/1/" title="素食" categoryid="2093">素食</a>
+						
+							<a href="https://88db.com.hk/Food-Beverage/Dessert/1/" title="甜品/糖水" categoryid="2094">甜品/糖水</a>
+						
+							<a href="https://88db.com.hk/Food-Beverage/Dim-Sum-Restaurant/1/" title="酒樓" categoryid="2101">酒樓</a>
+						
+							<a href="https://88db.com.hk/Food-Beverage/Other-Hong-Kong-Restaurants/1/" title="其他香港餐廳" categoryid="2104">其他香港餐廳</a>
+						
+							<a href="https://88db.com.hk/Food-Beverage/Macau-Restaurant/1/" title="澳門餐廳" categoryid="2090">澳門餐廳</a>
+						
+						</li>
+					
+						<li>
+						
+							<a href="https://88db.com.hk/Food-Beverage/Club-Association/1/" title="會社、組織及團體" categoryid="1413">會社、組織及團體</a>
+						
+							<a href="https://88db.com.hk/Food-Beverage/Recruitment/1/" title="業內招聘" categoryid="1016010">業內招聘</a>
+						
+						</li>
+					
+						<div class="clearboth"></div>
+					</ul>
+				         
+	</div>
+	   <div class="lMenu_list" channelid="1032">
+			
+					<a href="https://88db.com.hk/Landing/Travel/"><h1>旅遊</h1></a>
+					<ul>
+					
+						<li>
+						
+							<a href="https://88db.com.hk/Travel/working-holiday/1/" title="工作假期" categoryid="1032050">工作假期</a>
+						
+							<a href="https://88db.com.hk/Travel/Agencies/1/" title="旅行社" categoryid="1348">旅行社</a>
+						
+							<a href="https://88db.com.hk/Travel/Travel-Packages/1/" title="旅遊優惠" categoryid="1888">旅遊優惠</a>
+						
+							<a href="https://88db.com.hk/Travel/Ticketing/1/" title="機票及火車票" categoryid="1877">機票及火車票</a>
+						
+							<a href="https://88db.com.hk/Travel/Cruises/1/" title="郵輪假期" categoryid="1032010">郵輪假期</a>
+						
+							<a href="https://88db.com.hk/Travel/Local-Tour/1/" title="本地遊" categoryid="1032000">本地遊</a>
+						
+							<a href="https://88db.com.hk/Travel/Accomodation/1/" title="本地住宿" categoryid="1347">本地住宿</a>
+						
+						</li>
+					
+						<li>
+						
+							<a href="https://88db.com.hk/Travel/Clubs-Resorts/1/" title="遊樂會及渡假村" categoryid="1349">遊樂會及渡假村</a>
+						
+							<a href="https://88db.com.hk/Travel/Travel-Ourdoor-Products/1/" title="旅遊及戶外用品" categoryid="1032020">旅遊及戶外用品</a>
+						
+							<a href="https://88db.com.hk/Travel/Travel-Insurance/1/" title="旅遊保險" categoryid="1537">旅遊保險</a>
+						
+							<a href="https://88db.com.hk/Travel/Money-Exchange/1/" title="找換店" categoryid="1032030">找換店</a>
+						
+							<a href="https://88db.com.hk/Travel/Recruitment/1/" title="業內招聘" categoryid="1032040">業內招聘</a>
+						
+						</li>
+					
+						<div class="clearboth"></div>
+					</ul>
+				         
+	</div><div class="lMenu_list" channelid="1020">
+			
+					<a href="https://88db.com.hk/Landing/Leisure-Dating/"><h1>消閒及交友</h1></a>
+					<ul>
+					
+						<li>
+						
+							<a href="https://88db.com.hk/Leisure-Dating/Attraction/1/" title="好去處" categoryid="1521">好去處</a>
+						
+							<a href="https://88db.com.hk/Leisure-Dating/Yacht-Boat-Rental/1/" title="遊船河、租船" categoryid="1020020">遊船河、租船</a>
+						
+							<a href="https://88db.com.hk/Leisure-Dating/Organic-Farm/1/" title="有機農場" categoryid="1020010">有機農場</a>
+						
+							<a href="https://88db.com.hk/Leisure-Dating/Bars/1/" title="酒吧" categoryid="1020030">酒吧</a>
+						
+							<a href="https://88db.com.hk/Leisure-Dating/Karaoke/1/" title="卡啦OK" categoryid="1020040">卡啦OK</a>
+						
+							<a href="https://88db.com.hk/Leisure-Dating/Snooker-and-Pool/1/" title="桌球館" categoryid="1020050">桌球館</a>
+						
+							<a href="https://88db.com.hk/Leisure-Dating/Darts-Bar/1/" title="鏢吧" categoryid="1020060">鏢吧</a>
+						
+						</li>
+					
+						<li>
+						
+							<a href="https://88db.com.hk/Leisure-Dating/Internet-Cafes/1/" title="網吧" categoryid="1020070">網吧</a>
+						
+							<a href="https://88db.com.hk/Leisure-Dating/Lesson-Instruction/1/" title="興趣班" categoryid="1224">興趣班</a>
+						
+							<a href="https://88db.com.hk/Leisure-Dating/Toy-Model-Figure/1/" title="玩具、模型及首辦" categoryid="1225">玩具、模型及首辦</a>
+						
+							<a href="https://88db.com.hk/Leisure-Dating/Art-Craft/1/" title="藝術及手工藝" categoryid="1001">藝術及手工藝</a>
+						
+							<a href="https://88db.com.hk/Leisure-Dating/Buy-Sell/1/" title="買賣交易" categoryid="1832">買賣交易</a>
+						
+							<a href="https://88db.com.hk/Leisure-Dating/Parties-Events/1/" title="派對及活動" categoryid="1223">派對及活動</a>
+						
+							<a href="https://88db.com.hk/Leisure-Dating/Game/1/" title="遊戲" categoryid="1227">遊戲</a>
+						
+						</li>
+					
+						<li>
+						
+							<a href="https://88db.com.hk/Leisure-Dating/Special-Offer/1/" title="消閒優惠" categoryid="1833">消閒優惠</a>
+						
+							<a href="https://88db.com.hk/Leisure-Dating/Dating-and-Friendship/1/" title="交友尋緣" categoryid="1020080">交友尋緣</a>
+						
+							<a href="https://88db.com.hk/Leisure-Dating/Dating-Services/1/" title="約會服務" categoryid="1020090">約會服務</a>
+						
+						</li>
+					
+						<div class="clearboth"></div>
+					</ul>
+				         
+	</div>
+      	 
+      	  
+		<div class="clearboth">
+		</div>
+	</div>
+	<a href="javascript:void(0);" class="icon_others">
+		品味娛樂
+		<span>
+		</span>
+	</a>
+	<ul>
+		<li>
+			
+    <a href="https://88db.com.hk/Landing/Food-Beverage/">
+飲食
+<span></span>
+    </a>
+
+		</li>
+        <li>
+			
+    <a href="https://88db.com.hk/Landing/Travel/">
+旅遊
+<span></span>
+    </a>
+
+		</li>
+        <li>
+			
+    <a href="https://88db.com.hk/Landing/Leisure-Dating/">
+消閒及交友
+<span></span>
+    </a>
+
+		</li>
+       
+		<div class="clearboth">
+		</div>
+	</ul>
+</div>
+<div class="rel cateLink">
+<div class="lMenu_layer col2" style="display:none">
+		<div class="lMenu_list" channelid="2038">
+			
+					<a href="https://88db.com.hk/Landing/Flower-Hamper/"><h1>鮮花及禮籃</h1></a>
+					<ul>
+					
+						<li>
+						
+							<a href="https://88db.com.hk/Flower-Hamper/Flower-Shop/1/" title="花店" categoryid="2040">花店</a>
+						
+							<a href="https://88db.com.hk/Flower-Hamper/Wedding-Bouquet/1/" title="新娘花球" categoryid="2042">新娘花球</a>
+						
+							<a href="https://88db.com.hk/Flower-Hamper/Sympathy-Funeral/1/" title="帛事鮮花" categoryid="2044">帛事鮮花</a>
+						
+							<a href="https://88db.com.hk/Flower-Hamper/Slik-Flower/1/" title="絲花" categoryid="2038010">絲花</a>
+						
+							<a href="https://88db.com.hk/Flower-Hamper/Hamper-Gift-Basket/1/" title="果籃及禮物籃" categoryid="2039">果籃及禮物籃</a>
+						
+							<a href="https://88db.com.hk/Flower-Hamper/Gardening-Plant/1/" title="園藝及盆栽" categoryid="2043">園藝及盆栽</a>
+						
+							<a href="https://88db.com.hk/Flower-Hamper/Venue-Decoration/1/" title="場地佈置" categoryid="2041">場地佈置</a>
+						
+						</li>
+					
+						<li>
+						
+							<a href="https://88db.com.hk/Flower-Hamper/Special-Offer/1/" title="鮮花優惠" categoryid="2048">鮮花優惠</a>
+						
+							<a href="https://88db.com.hk/Flower-Hamper/Lesson-Instruction/1/" title="花藝課程" categoryid="2046">花藝課程</a>
+						
+						</li>
+					
+						<div class="clearboth"></div>
+					</ul>
+				         
+	</div><div class="lMenu_list"  channelid="2013">
+			
+					<a href="https://88db.com.hk/Landing/Special-Offer/"><h1>著數優惠</h1></a>
+					<ul>
+					
+						<li>
+						
+							<a href="https://88db.com.hk/Special-Offer/Beauty/1/" title="美容" categoryid="2014">美容</a>
+						
+							<a href="https://88db.com.hk/Special-Offer/Manicure-Pedicure/1/" title="美甲" categoryid="2013010">美甲</a>
+						
+							<a href="https://88db.com.hk/Special-Offer/Clothing-Accessories/1/" title="服裝配飾" categoryid="2013020">服裝配飾</a>
+						
+							<a href="https://88db.com.hk/Special-Offer/Wedding/1/" title="結婚" categoryid="2036">結婚</a>
+						
+							<a href="https://88db.com.hk/Special-Offer/Travel/1/" title="旅遊" categoryid="2035">旅遊</a>
+						
+							<a href="https://88db.com.hk/Special-Offer/Learning/1/" title="進修增值" categoryid="2027">進修增值</a>
+						
+							<a href="https://88db.com.hk/Special-Offer/Photo-AV/1/" title="攝影及影音" categoryid="2029">攝影及影音</a>
+						
+						</li>
+					
+						<li>
+						
+							<a href="https://88db.com.hk/Special-Offer/Pet/1/" title="寵物" categoryid="2032">寵物</a>
+						
+							<a href="https://88db.com.hk/Special-Offer/Car/1/" title="汽車" categoryid="2084">汽車</a>
+						
+							<a href="https://88db.com.hk/Special-Offer/Health-Medical/1/" title="健康及醫療" categoryid="2023">健康及醫療</a>
+						
+							<a href="https://88db.com.hk/Special-Offer/Others-Offer-Leisure/1/" title="綜合優惠 - 好去處" categoryid="2026">綜合優惠 - 好去處</a>
+						
+							<a href="https://88db.com.hk/Special-Offer/Others-Offer-Flower-Gift/1/" title="綜合優惠 - 花果禮品" categoryid="2057">綜合優惠 - 花果禮品</a>
+						
+							<a href="https://88db.com.hk/Special-Offer/Others-Offer-Food-Beverage/1/" title="綜合優惠 - 飲食" categoryid="2022">綜合優惠 - 飲食</a>
+						
+							<a href="https://88db.com.hk/Special-Offer/Others-Offer-Business/1/" title="綜合優惠 - 商業" categoryid="2015">綜合優惠 - 商業</a>
+						
+						</li>
+					
+						<li>
+						
+							<a href="https://88db.com.hk/Special-Offer/Others-Offer-Others/1/" title="綜合優惠 - 其他" categoryid="2013025">綜合優惠 - 其他</a>
+						
+							<a href="https://88db.com.hk/Special-Offer/Credit-Card/1/" title="信用卡" categoryid="2013030">信用卡</a>
+						
+						</li>
+					
+						<div class="clearboth"></div>
+					</ul>
+				         
+	</div>
+      	  
+		<div class="clearboth">
+		</div>
+	</div>
+	<a href="javascript:void(0);" class="icon_gift">
+		禮品折扣
+		<span>
+		</span>
+	</a>
+	<ul>
+		
+        <li>
+			
+    <a href="https://88db.com.hk/Landing/Flower-Hamper/">
+鮮花及禮籃
+<span></span>
+    </a>
+
+		</li>
+        <li>
+			
+    <a href="https://88db.com.hk/Landing/Special-Offer/">
+著數優惠
+<span></span>
+    </a>
+
+		</li>
+        
+		<div class="clearboth">
+		</div>
+	</ul>
+</div>
+<div class="rel cateLink">
+<div class="lMenu_layer col2" style="display:none">
+		<div class="lMenu_list" channelid="1007">
+			
+					<a href="https://88db.com.hk/Landing/Personal-Community/"><h1>個人及社區</h1></a>
+					<ul>
+					
+						<li>
+						
+							<a href="https://88db.com.hk/Personal-Community/Feng-Shui-Fortune-Telling/1/" title="風水占卜" categoryid="1301">風水占卜</a>
+						
+							<a href="https://88db.com.hk/Personal-Community/Funeral-Funeral-Service/1/" title="殯儀 - 殯儀服務" categoryid="1528">殯儀 - 殯儀服務</a>
+						
+							<a href="https://88db.com.hk/Personal-Community/Funeral-Funeral-Products/1/" title="殯儀 - 殯儀用品" categoryid="1007010">殯儀 - 殯儀用品</a>
+						
+							<a href="https://88db.com.hk/Personal-Community/Funeral-Flowers/1/" title="殯儀 - 花牌" categoryid="1007020">殯儀 - 花牌</a>
+						
+							<a href="https://88db.com.hk/Personal-Community/Funeral-Niches/1/" title="殯儀 - 骨灰位" categoryid="1007030">殯儀 - 骨灰位</a>
+						
+							<a href="https://88db.com.hk/Personal-Community/Funeral-Burial-Ground/1/" title="殯儀 - 福地" categoryid="1007040">殯儀 - 福地</a>
+						
+							<a href="https://88db.com.hk/Personal-Community/Flower-Delivery/1/" title="送花服務" categoryid="1478">送花服務</a>
+						
+						</li>
+					
+						<li>
+						
+							<a href="https://88db.com.hk/Personal-Community/Club-Association/1/" title="會社、組織及團體" categoryid="1404">會社、組織及團體</a>
+						
+							<a href="https://88db.com.hk/Personal-Community/Religion/1/" title="宗教" categoryid="1529">宗教</a>
+						
+							<a href="https://88db.com.hk/Personal-Community/Voluntary-Work/1/" title="義工" categoryid="1098">義工</a>
+						
+							<a href="https://88db.com.hk/Personal-Community/Announcement-Message/1/" title="通告及信息" categoryid="1470">通告及信息</a>
+						
+							<a href="https://88db.com.hk/Personal-Community/Counseling/1/" title="輔導" categoryid="1298">輔導</a>
+						
+							<a href="https://88db.com.hk/Personal-Community/Donation/1/" title="捐贈" categoryid="1096">捐贈</a>
+						
+							<a href="https://88db.com.hk/Personal-Community/Event-Activity/1/" title="節目及活動" categoryid="1097">節目及活動</a>
+						
+						</li>
+					
+						<li>
+						
+							<a href="https://88db.com.hk/Personal-Community/Lost-Found/1/" title="失物認領" categoryid="1101">失物認領</a>
+						
+							<a href="https://88db.com.hk/Personal-Community/Special-Offer/1/" title="個人及社區優惠" categoryid="1806">個人及社區優惠</a>
+						
+							<a href="https://88db.com.hk/Personal-Community/Recruitment/1/" title="業內招聘" categoryid="1007050">業內招聘</a>
+						
+						</li>
+					
+						<div class="clearboth"></div>
+					</ul>
+				         
+	</div><div class="lMenu_list" channelid="1080000">
+			
+					<a href="https://88db.com.hk/Landing/Elderly/"><h1>長者</h1></a>
+					<ul>
+					
+						<li>
+						
+							<a href="https://88db.com.hk/Elderly/Elderly-Home/1/" title="護理安老院" categoryid="1017030">護理安老院</a>
+						
+							<a href="https://88db.com.hk/Elderly/Senior-Care/1/" title="長者護理" categoryid="1017020">長者護理</a>
+						
+							<a href="https://88db.com.hk/Elderly/Health-Care/1/" title="保健養生" categoryid="1080010">保健養生</a>
+						
+							<a href="https://88db.com.hk/Elderly/Health-Check/1/" title="健康檢查" categoryid="1080020">健康檢查</a>
+						
+							<a href="https://88db.com.hk/Elderly/Medical-Equipment-Utilities/1/" title="醫療設備及用品" categoryid="1080030">醫療設備及用品</a>
+						
+							<a href="https://88db.com.hk/Elderly/Register-Nutritionist/1/" title="註冊營養師" categoryid="1080070">註冊營養師</a>
+						
+							<a href="https://88db.com.hk/Elderly/Gentle-Course/1/" title="靜態學習班" categoryid="1080080">靜態學習班</a>
+						
+						</li>
+					
+						<li>
+						
+							<a href="https://88db.com.hk/Elderly/Dynamic-Course/1/" title="動態學習班" categoryid="1080090">動態學習班</a>
+						
+							<a href="https://88db.com.hk/Elderly/Senior-Event-Activities/1/" title="文娛消閒活動" categoryid="1080100">文娛消閒活動</a>
+						
+							<a href="https://88db.com.hk/Elderly/Elderly-Centre/1/" title="老人中心" categoryid="1080110">老人中心</a>
+						
+							<a href="https://88db.com.hk/Elderly/Senior-Volunteer-Works/1/" title="義工活動" categoryid="1080120">義工活動</a>
+						
+							<a href="https://88db.com.hk/Elderly/Funeral/1/" title="善終服務" categoryid="1080130">善終服務</a>
+						
+							<a href="https://88db.com.hk/Elderly/Senior-Discounts/1/" title="長者優惠" categoryid="1080140">長者優惠</a>
+						
+						</li>
+					
+						<div class="clearboth"></div>
+					</ul>
+				         
+	</div>
+      	 
+      	  
+		<div class="clearboth">
+		</div>
+	</div>
+	<a href="javascript:void(0);" class="icon_others">
+		社區服務
+		<span>
+		</span>
+	</a>
+	<ul>
+		
+        <li>
+			
+    <a href="https://88db.com.hk/Landing/Personal-Community/">
+個人及社區
+<span></span>
+    </a>
+
+		</li><li>
+			
+    <a href="https://88db.com.hk/Landing/Elderly/">
+長者
+<span></span>
+    </a>
+
+		</li>
+		<div class="clearboth">
+		</div>
+	</ul>
+</div>
+
+
+<script type="text/javascript">
+  /********************* left menu script ********************************/
+  $('.cateLink').hover(function (event) {
+    var lMenu_layer = $(this).addClass('cateLinkOn').children('.lMenu_layer').show();
+    lMenu_layer.css('top', 0);
+    var headerHeight = Math.max($('#header').outerHeight(true), $('.header_c').outerHeight());
+    var windowHeight = $(window).height();
+    var maxHeight = windowHeight - headerHeight; //中间区域高度
+    var menuHeight = lMenu_layer.outerHeight(); //菜单高度
+    var menuInitTop = $(this).offset().top - $(document).scrollTop();    //初始top
+    var isOverflow = (menuHeight + menuInitTop - headerHeight) > maxHeight;
+    if(isOverflow){ //是否溢出
+      if(menuHeight <= maxHeight){ //中间区域是否够大
+        var offsetTop = menuInitTop + menuHeight - windowHeight;
+        lMenu_layer.css('top', -offsetTop);
+      }else{
+        //不够高，则设置top 最顶
+        lMenu_layer.css('top', -(menuInitTop - headerHeight));
+      }
+    }else{
+      lMenu_layer.css('top', -1);
+    }
+  }, function (event) {
+    $(this).removeClass('cateLinkOn').children('.lMenu_layer').hide();
+  });
+  /****************** end left menu script ********************************/
+var featureCatsString = '1027:1997,1314,1312,1308,1872,1309,1027040|1030:1338,1339,1530020,1530040,1530050,1530070,1530110|1018:1519,1208,1211,1207,1830|1002:1047,1053,1870,1800,1002010|1033:1359,1360,1362,1542|2069:2074,2069060,2073,2075|1028:1321,1268|1011:1120,1125,1121,1124,1119|1025:1291,1159|1021:1250,1247,1234,1242,1240,1021080,1239,1021090|1024:1281,1836,1278|1015:1461,1015030,1015050,1015060,1821,1015070,1992,1816,1820,1015190,1999,1469|1004:1067,1003,1076,1078,1857,1004020,1503,1075,1001030,1004050|1009:1108,1109,1107|1017:1855,1017010,1017017,1189|1031:1534,1292,1170|1006:1093,1508,1089,1481,2003|1016:1177,1826,1827|1032:1348,1888|1020:1521,1020020,1225,1223|2038:2040,2042|1007:1301,1528,1007030,1097|1080000:1080030';
+var featureGroups = featureCatsString.split('|');
+var featureCats = {};
+$.each(featureGroups , function(i, e){
+    var kv = e.split(':');
+    var channelName = kv[0];
+    var subCats = kv[1].split(',');
+    featureCats[channelName] = subCats;
+});
+
+$('.lMenu_list').each(function(){
+    var channelName = $(this).attr('channelid');
+    var catLink = $(this).find('ul li a');
+    var fCats = featureCats[channelName];
+    if(fCats){
+        catLink.each(function(){
+            var text = $(this).attr('categoryid');
+            if($.inArray(text, fCats) != -1){
+		$(this).addClass('featuredIcon');
+	    }
+        });
+    }
+});
+</script>
+        <!--a href="javascript:void(0);">
+	<img src="/hk/html/images/banner_220x105.png" />
+</a-->	
+    </div>
+<div class="left home_rCol">
+	<!-- top slider-->
+	<style>
+#photoFrameSlider ul li span{
+  background:url("/hk/html/images/loadingv3.gif") no-repeat scroll center center rgba(0, 0, 0, 0)
+}
+</style>
+<div class="home_slider">
+	<div class="photoFrameSliderDot sliderDot">
+		
+	</div>
+	<a href="javascript:void(0);" class="arr_left photoFrameSliderLink" data-target="prev" style="z-index:2">
+	</a>
+	<a href="javascript:void(0);" class="arr_right photoFrameSliderLink" data-target="next" style="z-index:2">
+	</a>
+	
+	<div id="photoFrameSlider">
+		<ul>    
+				<li><a href="https://88db.com.hk/Business/Business-Start-Up-Aliance/ad-5463278/" target="_blank" class="photoFrame">
+					<span>
+
+                            <img src="../images/play_button_small.png" class="playIcon">
+                        
+                        <b class="sliderLazyLoad"><!--<img  title="Senuvo美商新福量子频率共振能..." src="https://media2.88db.com.hk/DB88UploadFiles/2016/08/26/L-3ff1226b-c74d-40d7-86a4-8e9ced3c49ce.jpg" onerror="javascript:$(this).attr('src','/hk/images/img_noImg.jpg');"/>--></b>
+                    </span>
+				</a>
+<a href="https://88db.com.hk/Business/Business-Start-Up-Aliance/ad-5463278/" target="_blank" class="indexSliderControlCopy" style="display:none">             
+				<h3>Senuvo美商新福量子频率共振能...</h3>
+				<span class="txtWrap">Senuvo美商新福量子频率共振能量晶片全球招募合作团队</span>
+			</a>
+</li>			
+			    
+				<li><a href="https://88db.com.hk/Sport-Fitness/Ball-Game/ad-5436081/" target="_blank" class="photoFrame">
+					<span>
+
+                        <b class="sliderLazyLoad"><!--<img  title="荃灣區/葵青區/荔枝角 一對一..." src="https://media2.88db.com.hk/DB88UploadFiles/2016/03/24/L-bda60551-ce70-4133-bb13-d2aae15e56d9.jpeg" onerror="javascript:$(this).attr('src','/hk/images/img_noImg.jpg');"/>--></b>
+                    </span>
+				</a>
+<a href="https://88db.com.hk/Sport-Fitness/Ball-Game/ad-5436081/" target="_blank" class="indexSliderControlCopy" style="display:none">             
+				<h3>荃灣區/葵青區/荔枝角 一對一...</h3>
+				<span class="txtWrap">本人具有多年教授乒乓球之經驗，曾為香港青少年代表隊及甲組球員， 現為四間中、小學乒乓球校隊教練。提供一對一的指導，因才施教，因應學生學習的目標而制訂練習計劃。初級者則由訓練正確姿勢、多球及步法練習開始，逐步訓練成出色的乒乓球員。</span>
+			</a>
+</li>			
+			    
+				<li><a href="https://88db.com.hk/Pet/Buy-Sell/ad-623905/" target="_blank" class="photoFrame">
+					<span>
+
+                        <b class="sliderLazyLoad"><!--<img  title="合法狗場～玩具貴婦﹑約瑟﹑史..." src="https://media1.88db.com.hk/DB88UploadFiles/2016/09/04/L-8bcc5d92-6d2a-497a-a63a-45beb1f747b9.jpg" onerror="javascript:$(this).attr('src','/hk/images/img_noImg.jpg');"/>--></b>
+                    </span>
+				</a>
+<a href="https://88db.com.hk/Pet/Buy-Sell/ad-623905/" target="_blank" class="indexSliderControlCopy" style="display:none">             
+				<h3>合法狗場～玩具貴婦﹑約瑟﹑史...</h3>
+				<span class="txtWrap">寵物犬隻狗場已取香港政府合法狗場牌照及賣買牌照; 所有狗BB都包獸醫發出的針卡及晶片, 及杜蟲. 包30天健康保證</span>
+			</a>
+</li>			
+			    
+				<li><a href="https://88db.com.hk/Mobile-Computer-Internet/Buy-Sell/ad-2536565/" target="_blank" class="photoFrame">
+					<span>
+
+                        <b class="sliderLazyLoad"><!--<img  title="香港紅磡自設工場一站式激光鐳..." src="https://media1.88db.com.hk/DB88UploadFiles/2010/08/25/69F892B1-DF1B-4256-B472-8D04BEC9A40F.jpg" onerror="javascript:$(this).attr('src','/hk/images/img_noImg.jpg');"/>--></b>
+                    </span>
+				</a>
+<a href="https://88db.com.hk/Mobile-Computer-Internet/Buy-Sell/ad-2536565/" target="_blank" class="indexSliderControlCopy" style="display:none">             
+				<h3>香港紅磡自設工場一站式激光鐳...</h3>
+				<span class="txtWrap">  鐳射激光刻字刻圖服務 目前我們的鐳射激光雕刻機 可以刻(透明物和非透明物)(所有金屬和非金屬)可在任何產品上刻出你愛的字句，圖案，簽名印章，公司圖案等等，，，、、、如寶石 皮革 珍珠 紙張 陶瓷器産品 塑膠 木材 玉器 食品包裝 電子産品 布料産品 有幾玻璃 等等...... 歡迎來電諮詢 (免費代公司做圖案)  www.manfung-laser.com 以最便宜價錢，刻上獨一無二的物品．數</span>
+			</a>
+</li>			
+			    
+				<li><a href="https://88db.com.hk/Property/Office-for-Lease/ad-5462077/" target="_blank" class="photoFrame">
+					<span>
+
+                        <b class="sliderLazyLoad"><!--<img  title="觀塘租Office,牛頭角寫字樓大..." src="https://media1.88db.com.hk/DB88UploadFiles/2016/06/02/L-9b73640f-c1c4-428c-a140-1bda5dcde3f3.jpg" onerror="javascript:$(this).attr('src','/hk/images/img_noImg.jpg');"/>--></b>
+                    </span>
+				</a>
+<a href="https://88db.com.hk/Property/Office-for-Lease/ad-5462077/" target="_blank" class="indexSliderControlCopy" style="display:none">             
+				<h3>觀塘租Office,牛頭角寫字樓大...</h3>
+				<span class="txtWrap">【呎數由８０-３０００呎、價錢由＄１８００元起】　【可選擇直接業主免佣單位推介，最新最齊！！！】　　分租單位 / 獨立單位，窗 / 廁 / 高樓底 / 地磚 等等，　　【 何生 Nick ６３３２-２９３２】合各行各業，即租即用</span>
+			</a>
+</li>			
+			    
+				<li><a href="https://88db.com.hk/Property/Office-for-Lease/ad-5448794/" target="_blank" class="photoFrame">
+					<span>
+
+                        <b class="sliderLazyLoad"><!--<img  title="智財商務中心 ★ 辦公室月租只需..." src="https://media1.88db.com.hk/DB88UploadFiles/2015/07/10/L-dba84b36-f7a1-4ad4-8934-751c65a9d956.jpg" onerror="javascript:$(this).attr('src','/hk/images/img_noImg.jpg');"/>--></b>
+                    </span>
+				</a>
+<a href="https://88db.com.hk/Property/Office-for-Lease/ad-5448794/" target="_blank" class="indexSliderControlCopy" style="display:none">             
+				<h3>智財商務中心 ★ 辦公室月租只需...</h3>
+				<span class="txtWrap">適合租辦公室、時租會議室、租寫字樓、分租office、尖沙咀加連威老道，高層，實用 40 呎 - 130 呎，全新裝修, 假天花, 地毯, 辦公室傢俬，特大戶外露台, 貨物升降機, 24小時管理, 光纖/網絡設備, 其他</span>
+			</a>
+</li>			
+			    
+				<li><a href="https://88db.com.hk/Property/Office-for-Lease/ad-5432623/" target="_blank" class="photoFrame">
+					<span>
+
+                        <b class="sliderLazyLoad"><!--<img  title="出租小型OFFICE(月租$3000起..." src="https://media1.88db.com.hk/DB88UploadFiles/2015/01/05/L-fd339041-e88e-43a7-b9d6-1802201cd443.jpg" onerror="javascript:$(this).attr('src','/hk/images/img_noImg.jpg');"/>--></b>
+                    </span>
+				</a>
+<a href="https://88db.com.hk/Property/Office-for-Lease/ad-5432623/" target="_blank" class="indexSliderControlCopy" style="display:none">             
+				<h3>出租小型OFFICE(月租$3000起...</h3>
+				<span class="txtWrap">油塘商務中心 3分鐘步行直達 MTR 全新裝修獨立辦公室 全新裝修厠所 全包價 $3,000-up 如需更詳細資料 歡迎查詢 吳小姐5110 6342 3959 6001林生 3959 6088</span>
+			</a>
+</li>			
+			    
+				<li><a href="https://88db.com.hk/Property/Industrial-Commercial-Sale/ad-5487986/" target="_blank" class="photoFrame">
+					<span>
+
+                            <img src="../images/play_button_small.png" class="playIcon">
+                        
+                        <b class="sliderLazyLoad"><!--<img  title="全城熱賣 觀塘 de Soho 工作室..." src="https://media2.88db.com.hk/DB88UploadFiles/2016/10/01/L-37152550-db85-4d4f-b12e-76c7db189394.jpg" onerror="javascript:$(this).attr('src','/hk/images/img_noImg.jpg');"/>--></b>
+                    </span>
+				</a>
+<a href="https://88db.com.hk/Property/Industrial-Commercial-Sale/ad-5487986/" target="_blank" class="indexSliderControlCopy" style="display:none">             
+				<h3>全城熱賣 觀塘 de Soho 工作室...</h3>
+				<span class="txtWrap">全城熱賣 觀塘 de Soho 工作室 2016 最有價值細碼投資收租自用鄰近商舖廠廈OFFICE迷李倉項目 價錢由萬49起 ~~ 查詢請電61717035 James Siu</span>
+			</a>
+</li>			
+			    
+				<li><a href="https://88db.com.hk/Property/Shop-Rental/ad-5487852/" target="_blank" class="photoFrame">
+					<span>
+
+                            <img src="../images/play_button_small.png" class="playIcon">
+                        
+                        <b class="sliderLazyLoad"><!--<img  title="全城熱賣 觀塘 de Soho 工作室..." src="https://media2.88db.com.hk/DB88UploadFiles/2016/10/01/L-0d471bbb-2184-4cc8-9a9c-d6d87ab24158.jpg" onerror="javascript:$(this).attr('src','/hk/images/img_noImg.jpg');"/>--></b>
+                    </span>
+				</a>
+<a href="https://88db.com.hk/Property/Shop-Rental/ad-5487852/" target="_blank" class="indexSliderControlCopy" style="display:none">             
+				<h3>全城熱賣 觀塘 de Soho 工作室...</h3>
+				<span class="txtWrap">全城熱賣 觀塘 de Soho 工作室 2016 最有價值細碼投資收租自用鄰近商舖廠廈OFFICE迷李倉項目 價錢由萬49起 ~~ 查詢請電61717035 James Siu</span>
+			</a>
+</li>			
+			    
+				<li><a href="https://88db.com.hk/Property/Shop-Rental/ad-5432337/" target="_blank" class="photoFrame">
+					<span>
+
+                            <img src="../images/play_button_small.png" class="playIcon">
+                        
+                        <b class="sliderLazyLoad"><!--<img  title="旺角中心商場地下零售旺舖! 22..." src="https://media1.88db.com.hk/DB88UploadFiles/2016/05/12/L-e80c1562-b7c0-414a-9c2e-372d45cb3f15.jpg" onerror="javascript:$(this).attr('src','/hk/images/img_noImg.jpg');"/>--></b>
+                    </span>
+				</a>
+<a href="https://88db.com.hk/Property/Shop-Rental/ad-5432337/" target="_blank" class="indexSliderControlCopy" style="display:none">             
+				<h3>旺角中心商場地下零售旺舖! 22...</h3>
+				<span class="txtWrap">位於旺角黃金地段，旺角港鐵站B出口，人流絕對有保證，完善24小時保安管理，合各行業</span>
+			</a>
+</li>			
+			    
+				<li><a href="https://88db.com.hk/Property/Business-Centre/ad-5462252/" target="_blank" class="photoFrame">
+					<span>
+
+                        <b class="sliderLazyLoad"><!--<img  title="MAUI Business Centre- 銅..." src="https://media2.88db.com.hk/DB88UploadFiles/2015/12/16/L-b71cfc9c-c644-4028-aa0a-cf2df8bf9e68.jpg" onerror="javascript:$(this).attr('src','/hk/images/img_noImg.jpg');"/>--></b>
+                    </span>
+				</a>
+<a href="https://88db.com.hk/Property/Business-Centre/ad-5462252/" target="_blank" class="indexSliderControlCopy" style="display:none">             
+				<h3>MAUI Business Centre- 銅...</h3>
+				<span class="txtWrap">服務式辦公室包括: 專業前台、24小時進出、定期清潔、獨立電話、上網、郵件處理、一應俱全。**查詢：2910-7777 **mauihk.com** 限時優惠，如選用商業固網電話線+商務地址+秘書接聽服務只須$500起 (包括一條商業固網電話線及專業秘書接聽服務及一個註冊商務地址及郵件處理服務)。</span>
+			</a>
+</li>			
+			    
+				<li><a href="https://88db.com.hk/Pet/Buy-Sell/ad-2387824/" target="_blank" class="photoFrame">
+					<span>
+
+                        <b class="sliderLazyLoad"><!--<img  title="中英純貓樂園/中英異國貓店 C..." src="https://media2.88db.com.hk/DB88UploadFiles/2015/07/11/L-38fba649-5da1-4568-a09d-5cd9ebc4af9f.jpg" onerror="javascript:$(this).attr('src','/hk/images/img_noImg.jpg');"/>--></b>
+                    </span>
+				</a>
+<a href="https://88db.com.hk/Pet/Buy-Sell/ad-2387824/" target="_blank" class="indexSliderControlCopy" style="display:none">             
+				<h3>中英純貓樂園/中英異國貓店 C...</h3>
+				<span class="txtWrap">睇貓可親臨天后店或旺角店 預約電話:69098811 想知更多貓B生活花絮可查看Facebook:中英異國貓店</span>
+			</a>
+</li>			
+			    
+				<li><a href="https://88db.com.hk/Wedding/Transportation/ad-1400918/" target="_blank" class="photoFrame">
+					<span>
+
+                        <b class="sliderLazyLoad"><!--<img  title="萬豪花車婚禮服務 - 倫敦的士專..." src="https://media2.88db.com.hk/DB88UploadFiles/2013/11/01/53B63062-2761-46BA-B3B6-A2C280AFD113.jpg" onerror="javascript:$(this).attr('src','/hk/images/img_noImg.jpg');"/>--></b>
+                    </span>
+				</a>
+<a href="https://88db.com.hk/Wedding/Transportation/ad-1400918/" target="_blank" class="indexSliderControlCopy" style="display:none">             
+				<h3>萬豪花車婚禮服務 - 倫敦的士專...</h3>
+				<span class="txtWrap">萬豪服務公司，一間以心服務、信心保証的公司。我們直接擁有最多不同類別車輛糸列，專門提供影視拍攝、廣告製作、宣傳活動及花車服務。 花車 | 花車租賃 | 結婚花車</span>
+			</a>
+</li>			
+			    
+				<li><a href="https://88db.com.hk/Pet/Pet-Beauty/ad-5475307/" target="_blank" class="photoFrame">
+					<span>
+
+                            <img src="../images/play_button_small.png" class="playIcon">
+                        
+                        <b class="sliderLazyLoad"><!--<img  title="Love Dogdogdog上門寵物美容..." src="https://media1.88db.com.hk/DB88UploadFiles/2016/08/18/L-b90a844b-a37a-4549-ba5e-02d198767ebc.jpg" onerror="javascript:$(this).attr('src','/hk/images/img_noImg.jpg');"/>--></b>
+                    </span>
+				</a>
+<a href="https://88db.com.hk/Pet/Pet-Beauty/ad-5475307/" target="_blank" class="indexSliderControlCopy" style="display:none">             
+				<h3>Love Dogdogdog上門寵物美容...</h3>
+				<span class="txtWrap">Love Dogdogdog 上門寵物美容-讓狗狗可以在熟悉的環境、主人的陪伴下美容，不但令狗狗安心，亦令主人放心，更可省郤舟車勞頓的時間 ! 在家為狗狗美容，主人只需預備浴巾、沖涼液、垃圾膠袋即可。我們還有售寵物飾物及手工零食。　︳ 上門寵物美容　︳寵物美容　︳寵物用品　︳寵物剪毛　︳寵物沖涼　︳上門寵物沖涼　︳擠肛門腺　︳</span>
+			</a>
+</li>			
+			    
+				<li><a href="https://88db.com.hk/Beauty/Lesson-Instruction/ad-5366995/" target="_blank" class="photoFrame">
+					<span>
+
+                        <b class="sliderLazyLoad"><!--<img  title="日本植睫毛認定機構 (JECA..." src="https://media2.88db.com.hk/DB88UploadFiles/2015/03/25/L-f875cfdb-8780-473c-b125-8c5d20dd6338.jpg" onerror="javascript:$(this).attr('src','/hk/images/img_noImg.jpg');"/>--></b>
+                    </span>
+				</a>
+<a href="https://88db.com.hk/Beauty/Lesson-Instruction/ad-5366995/" target="_blank" class="indexSliderControlCopy" style="display:none">             
+				<h3>日本植睫毛認定機構 (JECA...</h3>
+				<span class="txtWrap">日本安全衛生技術證書(保證合格)課程，以日本植睫毛認定機構JECA指定之標準技術為教學基礎。星級美睫師證書(保證合格)課程，訓練你成為一位專業的美睫師。日本專業美睫師全科證書(保證合格)課程，教授專業美睫師之最全面的技術。除了星級美睫師課程內容外, 你的美睫技術將被提升, 能夠於60分鐘內嫁接100根仿睫毛。</span>
+			</a>
+</li>			
+			</ul>	
+</div>
+
+<span class="grayArr sliderControlArr"></span>
+<div class="index_sliderControl" id="indexControlSlider">
+<ul></ul>		
+</div><!-- end index_sliderControl -->
+<div class="clearboth"></div>
+	</div><!-- end home_slider -->
+<script type="text/javascript">
+	function sliderLazyload(container, pos, width, height, callback) {
+		var currentImgContainer = container.find('ul li').eq(pos - 1).find('.sliderLazyLoad');
+		currentImgContainer.each(function() {
+			var currentSlider = null;
+			var containerId = container.attr('id');
+			if (containerId == 'photoFrameSlider') {
+				currentSlider = window.photoFrameSlider;				
+			}
+
+			if( currentSlider != null ){
+				//保存 slider之前的auto 状态
+				currentSlider.data("befreAutoanimation", currentSlider.getValue('autoanimation'));
+				if(currentSlider.data("befreAutoanimation")){ //如果正在auto，则暂停
+					currentSlider.stopAuto();
+					//console.log(containerId + '.stopAuto();');
+				}
+			}
+
+			var lazyHtml = $(this).html();
+			var itemImg = lazyHtml.match(/<!--(.*)-->/)[1];
+			var img = $(itemImg);
+			if (width > 0) {
+				img.load(function() {
+					$(this).imgResizeV4({
+						width: width,
+						height: height,
+						setOnlyOneSide: true,
+						completed: function() {
+							callback.call(this, containerId);
+						}
+					});
+				});
+			}
+			$(this).replaceWith(img);
+		});
+	}
+	//slider 中的图片加载完成后触发
+	function onSliderImgLoaded(id) {
+		currentSlider = eval(id);
+		if(currentSlider.data("befreAutoanimation")){
+			currentSlider.startAuto();
+			//console.log(id + '.startAuto();');
+		}
+	}
+	//$(function () {
+	/************** 顶部slider ******************/
+	window.photoFrameSlider = $("#photoFrameSlider").sudoSlider({
+		effect: effect,
+		prevNext: false,
+		auto: true,
+		speed: 500,
+		animationZIndex: 2,
+		pause: 4500,
+		customLink: 'a.photoFrameSliderLink',
+		currentLinkCssName: 'on',
+		controlsFade: false,
+		stopAfterClickLink: false,
+		beforeAnimation: function(pos) {
+			sliderLazyload($('#photoFrameSlider'), pos, 480, 288,
+			function(id) {
+				onSliderImgLoaded.call(this, id);
+			});
+			var pageSize = 5;
+			var pageIndex = Math.ceil(pos / pageSize); //从1开始
+			var eachHeight = $('.index_sliderControl a').outerHeight(); //每个item高度
+			var startTop = 19; //箭头的初始高度   
+			indexControlSlider.goToSlide(pageIndex); //跳转到指定的li
+			var newPos = pos - (pageIndex - 1) * pageSize; //除去页数时候的位置
+			var curLi = $('#indexControlSlider ul li').eq(pageIndex - 1); //当前页Li
+			var currentTop = startTop + eachHeight * (newPos - 1);
+			$('.sliderControlArr').css("top", currentTop);
+			curLi.find('a').eq(newPos - 1).addClass('on').siblings().removeClass('on');
+		}
+	});
+	sliderLazyload($('#photoFrameSlider'), 1, 480, 288,
+	function(id) {
+		onSliderImgLoaded.call(this, id);
+	});
+	$('#photoFrameSlider ul li, .photoFrameSliderLink').hover(function() {
+		photoFrameSlider.stopAuto();
+	},
+	function() {
+		photoFrameSlider.startAuto();
+	});
+	sliders.push(photoFrameSlider);
+
+	/************** end 顶部slider ******************/
+	/************** 顶部 control slider ******************/
+	var indexSliderControlLi;
+	$(".indexSliderControlCopy").each(function(i) {
+		if (i % 5 == 0) {
+			indexSliderControlLi = $('<li>');
+			$("#indexControlSlider ul").append(indexSliderControlLi);
+		}
+		$(this).hover(function(event) {
+			photoFrameSlider.goToSlide(i + 1);
+			photoFrameSlider.stopAuto();
+		},
+		function() {
+			photoFrameSlider.startAuto();
+		});
+		indexSliderControlLi.append($(this).show());
+	});
+
+	window.indexControlSlider = $("#indexControlSlider").sudoSlider({
+		effect: 'stackDown',
+		prevNext: false,
+		auto: false,
+		animationZIndex: 2,
+		speed: 500,
+		autoWidth: false
+	});
+	//sliders.push(indexControlSlider);
+	/************** end 顶部 control slider ******************/
+
+	var bgColorClassNames = ['wedding', 'pet', 'lesson', 'housing', 'design'];
+
+	$('#indexControlSlider ul li a h3').each(function(i) {
+		$(this).addClass(bgColorClassNames[i % bgColorClassNames.length]);
+	});
+	$('#indexControlSlider ul li a:first').addClass('on');
+
+	//create dot
+	var dotTemplate = '<a href="javascript:void(0);" data-target="{index}" class="photoFrameSliderLink {on}">';
+	$.each($('#photoFrameSlider ul li'), function(i, d) {
+		$('.photoFrameSliderDot').append(dotTemplate.replace('{index}', i + 1).replace('{on}', (i == 0 ? 'on': '')));
+	});
+	$('.photoFrameSliderDot').append('<div class="clearboth"></div>');
+	//});
+
+</script>
+<!--index hot video-->
+	<style type="text/css">
+    .indexHotVideo .sliderDot {
+      position: absolute;
+      right: 0;
+      top: 6px;
+      z-index: 2;
+    }
+    #indexHotVideoSlider ul li img.playIcon {
+	    background-image: none;
+	    height: auto;
+	    left: 79px;
+	    position: absolute;
+	    top: 56px;
+	    width: 79px;
+	}
+    #indexHotVideoSlider ul {
+        list-style: outside none none;
+        margin: 0;
+        padding: 0;
+    }
+    .indexHotVideo h2 {
+      background: linear-gradient(to bottom, #ffffff 0%, #f8f8f8 100%) repeat scroll 0 0 rgba(0, 0, 0, 0);
+      border-left: 1px solid #f0f0f0;
+      border-right: 1px solid #f0f0f0;
+      border-top: 1px solid #f0f0f0;
+      color: #333333;
+      display: block;
+      font-size: 15px;
+      font-weight: bold;
+      padding: 8px 10px;
+      position: relative;
+    }
+    .indexHotVideo {
+	    position: relative;
+	    width: 750px;
+	}
+	.indexHotVideo .black70 {
+	    bottom: 0;
+	    color: #ffffff;
+	    font-size: 15px;
+	    left: 0;
+	    line-height: 1.3;
+	    max-height: 28px;
+	    padding: 7px 10px 15px;
+	    position: absolute;
+	    width: 223px;
+	}
+	.indexHotVideo .black70 .txtWrap {
+	    max-height: 40px;
+	    white-space: normal;
+	}
+	.indexHotVideo .home_featureAdImg {
+	    display: block;
+	}
+	.indexHotVideo .home_featureAdImg:hover .black70 {
+	    background: none repeat scroll 0 0 #fa6812;
+	}
+	.indexHotVideo .hotVideoPost {
+	    width: 243px;
+	    height: 203px;
+	    z-index: 0;
+	}
+</style>
+<!--index hot video-->
+<div class="indexHotVideo">
+	<div class="indexHotVideoDot sliderDot">
+	</div>
+	<h2>
+		88熱播<img src="../images/icon_tv.png" style="position:absolute;top:2px;left:62px">
+	</h2>
+	<div id="indexHotVideoSlider">
+		<ul><li>    
+					<div class="mT10 rel mR10 left hotVideoPost" style="overflow:hidden">
+					<a href="https://88db.com.hk/Photo-AV/Photo/ad-5480999/" target="_blank" title="婚紗, 結婚相, 婚紗攝影, 婚禮攝影攝錄 - Starry Production House 專業婚紗攝影公司 " class="home_featureAdImg">
+						
+                            <img src="../images/play_button_small.png" class="playIcon">
+                        
+							<span class="black70">
+								<span class="txtWrap">婚紗, 結婚相, 婚紗攝影, 婚禮攝影攝錄 - Starry Production House 專業婚紗攝影公司 </span>
+							</span>
+							<b class="sliderLazyLoad"><!--<img src="https://media1.88db.com.hk/DB88UploadFiles/2016/07/17/M-aeb1e8b8-fe8d-439b-bacc-c7dded539e77.jpg" title="婚紗, 結婚相, 婚紗攝影, 婚禮攝影攝錄 - Starry Production House 專業婚紗攝影公司 "  onerror="javascript:$(this).attr('src','/hk/images/img_noImg.jpg');"/>--></b>
+						</a>
+					</div>
+				    
+					<div class="mT10 rel mR10 left hotVideoPost" style="overflow:hidden">
+					<a href="https://88db.com.hk/Property/Office-for-Lease/ad-5485392/" target="_blank" title="佐敦 租桌 共用工作空間 serviced business " class="home_featureAdImg">
+						
+                            <img src="../images/play_button_small.png" class="playIcon">
+                        
+							<span class="black70">
+								<span class="txtWrap">佐敦 租桌 共用工作空間 serviced business </span>
+							</span>
+							<b class="sliderLazyLoad"><!--<img src="https://media1.88db.com.hk/DB88UploadFiles/2016/09/02/M-d967f7fe-8118-460d-972a-7a89fe6fac9a.jpeg" title="佐敦 租桌 共用工作空間 serviced business "  onerror="javascript:$(this).attr('src','/hk/images/img_noImg.jpg');"/>--></b>
+						</a>
+					</div>
+				    
+					<div class="mT10 rel mR10 left hotVideoPost" style="overflow:hidden">
+					<a href="https://88db.com.hk/Music/Lesson-Instruction/ad-5486739/" target="_blank" title="方潔老師 [現任在職香港管弦樂團小提琴樂師] 中國全國小提琴比賽獲奬者   受邀於日本太平洋音樂節、德國Schleswig-Holstein Music Festival音樂節 " class="home_featureAdImg">
+						
+                            <img src="../images/play_button_small.png" class="playIcon">
+                        
+							<span class="black70">
+								<span class="txtWrap">方潔老師 [現任在職香港管弦樂團小提琴樂師] 中國全國小提琴比賽獲奬者   受邀於日本太平洋音樂節、德國Schleswig-Holstein Music Festival音樂節 </span>
+							</span>
+							<b class="sliderLazyLoad"><!--<img src="https://media2.88db.com.hk/DB88UploadFiles/2012/02/26/2F34F8E5-635C-48C8-8BE6-8CFB00382BFB.jpg" title="方潔老師 [現任在職香港管弦樂團小提琴樂師] 中國全國小提琴比賽獲奬者   受邀於日本太平洋音樂節、德國Schleswig-Holstein Music Festival音樂節 "  onerror="javascript:$(this).attr('src','/hk/images/img_noImg.jpg');"/>--></b>
+						</a>
+					</div>
+				</li><li>    
+					<div class="mT10 rel mR10 left hotVideoPost" style="overflow:hidden">
+					<a href="https://88db.com.hk/Household/Smart-Home/ad-5480715/" target="_blank" title="Richford R2D-8810 韓國智能廁所板 " class="home_featureAdImg">
+						
+                            <img src="../images/play_button_small.png" class="playIcon">
+                        
+							<span class="black70">
+								<span class="txtWrap">Richford R2D-8810 韓國智能廁所板 </span>
+							</span>
+							<b class="sliderLazyLoad"><!--<img src="https://media1.88db.com.hk/DB88UploadFiles/2016/07/14/M-d5314cf0-43ef-4f72-bd7e-020d690ece21.jpg" title="Richford R2D-8810 韓國智能廁所板 "  onerror="javascript:$(this).attr('src','/hk/images/img_noImg.jpg');"/>--></b>
+						</a>
+					</div>
+				    
+					<div class="mT10 rel mR10 left hotVideoPost" style="overflow:hidden">
+					<a href="https://88db.com.hk/Baby-Maternity/Children-Interest-Class-Language-Academic/ad-5487719/" target="_blank" title="荃灣幼兒英語優質訓練--伊紗貝拉教育小天地! " class="home_featureAdImg">
+						
+                            <img src="../images/play_button_small.png" class="playIcon">
+                        
+							<span class="black70">
+								<span class="txtWrap">荃灣幼兒英語優質訓練--伊紗貝拉教育小天地! </span>
+							</span>
+							<b class="sliderLazyLoad"><!--<img src="https://media2.88db.com.hk/DB88UploadFiles/2016/09/29/M-1c23c32c-4253-4c68-9e13-d4ca9dfb05ce.jpg" title="荃灣幼兒英語優質訓練--伊紗貝拉教育小天地! "  onerror="javascript:$(this).attr('src','/hk/images/img_noImg.jpg');"/>--></b>
+						</a>
+					</div>
+				    
+					<div class="mT10 rel mR10 left hotVideoPost" style="overflow:hidden">
+					<a href="https://88db.com.hk/Property/%E7%A7%9F%E5%B1%8B/ad-5481299/" target="_blank" title="港島海景單房分租 " class="home_featureAdImg">
+						
+                            <img src="../images/play_button_small.png" class="playIcon">
+                        
+							<span class="black70">
+								<span class="txtWrap">港島海景單房分租 </span>
+							</span>
+							<b class="sliderLazyLoad"><!--<img src="https://media2.88db.com.hk/DB88UploadFiles/2016/07/20/M-2eabde3c-bcf0-4a7c-bf8a-fd08c6326c16.jpg" title="港島海景單房分租 "  onerror="javascript:$(this).attr('src','/hk/images/img_noImg.jpg');"/>--></b>
+						</a>
+					</div>
+				</li><li>    
+					<div class="mT10 rel mR10 left hotVideoPost" style="overflow:hidden">
+					<a href="https://88db.com.hk/Property/Shop-Rental/ad-5480613/" target="_blank" title="旺中飲食位再加推，旺角最旺地段!!! 機會黎喇!! " class="home_featureAdImg">
+						
+                            <img src="../images/play_button_small.png" class="playIcon">
+                        
+							<span class="black70">
+								<span class="txtWrap">旺中飲食位再加推，旺角最旺地段!!! 機會黎喇!! </span>
+							</span>
+							<b class="sliderLazyLoad"><!--<img src="https://media1.88db.com.hk/DB88UploadFiles/2016/08/26/M-723ee516-fb3a-444f-a7b0-b00bb0a4030e.jpg" title="旺中飲食位再加推，旺角最旺地段!!! 機會黎喇!! "  onerror="javascript:$(this).attr('src','/hk/images/img_noImg.jpg');"/>--></b>
+						</a>
+					</div>
+				    
+					<div class="mT10 rel mR10 left hotVideoPost" style="overflow:hidden">
+					<a href="https://88db.com.hk/Performing-Art/Magic/ad-5482267/" target="_blank" title="澳門魔術店 澳門魔術表演 MACAU MAGIC PARTY " class="home_featureAdImg">
+						
+                            <img src="../images/play_button_small.png" class="playIcon">
+                        
+							<span class="black70">
+								<span class="txtWrap">澳門魔術店 澳門魔術表演 MACAU MAGIC PARTY </span>
+							</span>
+							<b class="sliderLazyLoad"><!--<img src="https://media1.88db.com.hk/DB88UploadFiles/2016/07/30/M-b73fc195-4d72-4bc1-86e2-93ff28fe2f5a.jpg" title="澳門魔術店 澳門魔術表演 MACAU MAGIC PARTY "  onerror="javascript:$(this).attr('src','/hk/images/img_noImg.jpg');"/>--></b>
+						</a>
+					</div>
+				    
+					<div class="mT10 rel mR10 left hotVideoPost" style="overflow:hidden">
+					<a href="https://88db.com.hk/Mobile-Computer-Internet/Web-Design/ad-5483680/" target="_blank" title="AIM ( HONG KONG ) LIMITED - Facebook廣告 代客發佈或分享貼子 + 加強推廣帖子 " class="home_featureAdImg">
+						
+                            <img src="../images/play_button_small.png" class="playIcon">
+                        
+							<span class="black70">
+								<span class="txtWrap">AIM ( HONG KONG ) LIMITED - Facebook廣告 代客發佈或分享貼子 + 加強推廣帖子 </span>
+							</span>
+							<b class="sliderLazyLoad"><!--<img src="https://media2.88db.com.hk/DB88UploadFiles/2016/08/15/M-3ae7efa4-6647-41f4-8d01-70c38a5f8bd4.jpg" title="AIM ( HONG KONG ) LIMITED - Facebook廣告 代客發佈或分享貼子 + 加強推廣帖子 "  onerror="javascript:$(this).attr('src','/hk/images/img_noImg.jpg');"/>--></b>
+						</a>
+					</div>
+				</li></ul>
+	</div>
+</div>
+<script type="text/javascript">
+	/**************Index hot video******************/
+	window.indexHotVideoSlider = $("#indexHotVideoSlider").sudoSlider({
+		effect: 'slide',
+		//effect,
+		customLink: 'a.indexHotVideoSliderLink',
+		prevNext: false,
+		currentLinkCssName: 'on',
+		auto: true,
+		speed: 600,
+		pause: 9000,
+		animationZIndex: 2,
+		stopAfterClickLink: false,
+		beforeAnimation: function(pos) {
+			//$('#indexHotVideoSlider ul li img.playIcon').hide();
+			sliderLazyload($('#indexHotVideoSlider'), pos, 243, 203,
+			function() {});
+		},
+		afterAnimation: function(pos) {
+			//$('#indexHotVideoSlider ul li img.playIcon').show();
+		}
+	});
+	sliderLazyload($('#indexHotVideoSlider'), 1, 243, 203,
+	function() {});
+	$('#indexHotVideoSlider ul li').hover(function() {
+		indexHotVideoSlider.stoptAuto();
+	},
+	function() {
+		indexHotVideoSlider.startAuto();
+	});
+	sliders.push(indexHotVideoSlider);
+	/**************end 今期之最******************/
+
+	//create dot
+	var dotTemplate = '<a href="javascript:void(0);" data-target="{index}" class="indexHotVideoSliderLink {on}">';
+	$.each($('#indexHotVideoSlider ul li'),
+	function(i, d) {
+		$('.indexHotVideoDot').append(dotTemplate.replace('{index}', i + 1).replace('{on}', (i == 0 ? 'on': '')));
+	});
+	$('.indexHotVideoDot').append('<div class="clearboth"></div>');
+</script>
+<!--/index hot video-->
+    <div class="mT10 mL10">
+		<!--a href="javascript:void(0);">
+			<img src="/hk/html/images/banner_970x90.png" />
+		</a-->
+        <iframe src="" id="OpenX_middle" class="autoHeight" scrolling="no" frameborder="0" height="100" width="728" marginheight="0" marginwidth="0"></iframe>
+<script type="text/javascript">
+    var formUrl = document.getElementById("aspnetForm").action;
+    var queryStr = "";//formUrl.match(/\?(\S*)/i)[1].replace(new RegExp("&amp;", "gm"), "&");
+    document.getElementById("OpenX_middle").src = "/hk/html/zh-hk/templates/frontpage/banners/middlebanner.page?" + queryStr;
+</script>
+	</div>	
+	<div class="left featuredChannel">
+		<!--今期之最 -->
+		
+
+<div class="clearboth"></div>
+<div class="featuredChannelSliderDot sliderDot">	
+</div>
+<h2>
+	今期之最
+</h2>
+
+<div id="featuredChannelSlider" >
+	<ul><li>    
+			<div class="mT10 rel mR10 left" style="overflow:hidden">
+			<a href="https://88db.com.hk/Performing-Art/Venue-Decoration-Rental/ad-5439153/" target="_blank" title="全日租用只需 $1000 !! 時租 $150起 !! 24小時 尖沙咀場地出租 場地租用  場地租借 時租場地 課室租借 課室出租 課室租用 租場 適合任何講座，興趣班，工作坊，教學課程，會議培訓 " class="home_featureAdImg">
+
+					<span class="black70">
+						<span class="txtWrap">全日租用只需 $1000 !! 時租 $150起 !! 24小時 尖沙咀場地出租 場地租用  場地租借 時租場地 課室租借 課室出租 課室租用 租場 適合任何講座，興趣班，工作坊，教學課程，會議培訓 </span>
+					</span>
+					<b class="sliderLazyLoad"><!--<img src="https://media2.88db.com.hk/DB88UploadFiles/2015/09/08/M-feb62822-8f76-4b6e-9f58-3acc1d4b21f9.jpg" title="全日租用只需 $1000 !! 時租 $150起 !! 24小時 尖沙咀場地出租 場地租用  場地租借 時租場地 課室租借 課室出租 課室租用 租場 適合任何講座，興趣班，工作坊，教學課程，會議培訓 "  onerror="javascript:$(this).attr('src','/hk/images/img_noImg.jpg');"/>--></b>
+				</a>
+			</div>
+		
+			<div class="mT10 rel left" style="overflow:hidden">
+				<a href="https://88db.com.hk/Wedding/Beauty-Hairstyles/ad-5426302/" target="_blank" title="I's Make Up &amp; Nail ~ 新娘化妝．上門化妝服務 | Annual Dinner化妝| 姊妹化妝 | 宴會化妝 | 謝師宴化妝︱台式, 日系, 韓國風 化妝set頭 " class="home_featureAdImg">
+
+					<span class="black70">
+						<span class="txtWrap">I's Make Up &amp; Nail ~ 新娘化妝．上門化妝服務 | Annual Dinner化妝| 姊妹化妝 | 宴會化妝 | 謝師宴化妝︱台式, 日系, 韓國風 化妝set頭 </span>
+					</span>
+					<b class="sliderLazyLoad"><!--<img src="https://media2.88db.com.hk/DB88UploadFiles/2016/07/25/M-b08f11a6-f7e8-4609-93ca-82bf7d8f1400.jpg" title="I's Make Up &amp; Nail ~ 新娘化妝．上門化妝服務 | Annual Dinner化妝| 姊妹化妝 | 宴會化妝 | 謝師宴化妝︱台式, 日系, 韓國風 化妝set頭 " onerror="javascript:$(this).attr('src','/hk/images/img_noImg.jpg');"/>--></b>
+				</a>
+			</div>
+			<div class="clearboth"></div>
+		    
+			<div class="mT10 rel mR10 left" style="overflow:hidden">
+			<a href="https://88db.com.hk/Mobile-Computer-Internet/Computer-Storage/ad-218397/" target="_blank" title="專業電腦MAC維修 MAC回收 MAC機入水維修 Macbook維修 8年經驗 不收檢查費用 " class="home_featureAdImg">
+
+					<span class="black70">
+						<span class="txtWrap">專業電腦MAC維修 MAC回收 MAC機入水維修 Macbook維修 8年經驗 不收檢查費用 </span>
+					</span>
+					<b class="sliderLazyLoad"><!--<img src="https://media1.88db.com.hk/DB88UploadFiles/2016/05/04/M-f718273a-f445-4644-b158-c7dfe0006b1b.jpg" title="專業電腦MAC維修 MAC回收 MAC機入水維修 Macbook維修 8年經驗 不收檢查費用 "  onerror="javascript:$(this).attr('src','/hk/images/img_noImg.jpg');"/>--></b>
+				</a>
+			</div>
+		
+			<div class="mT10 rel left" style="overflow:hidden">
+				<a href="https://88db.com.hk/Household/Alluminum-Glasses-Stainess-Steel/ad-5445688/" target="_blank" title="益豐不銹鋼工程公司-承接各類訂造不銹鋼廚房炒爐，蒸爐，蒸櫃，矮湯爐，平頭爐，燒豬爐，燒鴨爐，工作枱櫃，暖湯池，商用雪櫃，組合式冷庫，隔油網式排氣罩，運水式排煙罩及個別尺寸訂造工程等，為各大小酒店餐廳客 " class="home_featureAdImg">
+
+					<span class="black70">
+						<span class="txtWrap">益豐不銹鋼工程公司-承接各類訂造不銹鋼廚房炒爐，蒸爐，蒸櫃，矮湯爐，平頭爐，燒豬爐，燒鴨爐，工作枱櫃，暖湯池，商用雪櫃，組合式冷庫，隔油網式排氣罩，運水式排煙罩及個別尺寸訂造工程等，為各大小酒店餐廳客 </span>
+					</span>
+					<b class="sliderLazyLoad"><!--<img src="https://media2.88db.com.hk/DB88UploadFiles/2015/11/02/M-8acc34f6-1dd2-4af0-b14a-8e66dacac2c2.jpg" title="益豐不銹鋼工程公司-承接各類訂造不銹鋼廚房炒爐，蒸爐，蒸櫃，矮湯爐，平頭爐，燒豬爐，燒鴨爐，工作枱櫃，暖湯池，商用雪櫃，組合式冷庫，隔油網式排氣罩，運水式排煙罩及個別尺寸訂造工程等，為各大小酒店餐廳客 " onerror="javascript:$(this).attr('src','/hk/images/img_noImg.jpg');"/>--></b>
+				</a>
+			</div>
+			<div class="clearboth"></div>
+		    
+			<div class="mT10 rel mR10 left" style="overflow:hidden">
+			<a href="https://88db.com.hk/Leisure-Dating/Yacht-Boat-Rental/ad-5471802/" target="_blank" title="超靚船位出租/出售 - Attractive Moorage for Rent / for Sale  " class="home_featureAdImg">
+
+					<span class="black70">
+						<span class="txtWrap">超靚船位出租/出售 - Attractive Moorage for Rent / for Sale  </span>
+					</span>
+					<b class="sliderLazyLoad"><!--<img src="https://media1.88db.com.hk/DB88UploadFiles/2016/04/12/M-271fb1f2-732f-4744-9da8-07c8fc21a254.jpg" title="超靚船位出租/出售 - Attractive Moorage for Rent / for Sale  "  onerror="javascript:$(this).attr('src','/hk/images/img_noImg.jpg');"/>--></b>
+				</a>
+			</div>
+		
+			<div class="mT10 rel left" style="overflow:hidden">
+				<a href="https://88db.com.hk/Property/Office-for-Lease/ad-5432623/" target="_blank" title="出租小型OFFICE(月租$3000起) MTR 3分鐘步行直達, 24小時出入,全新裝修租office首選 " class="home_featureAdImg">
+
+					<span class="black70">
+						<span class="txtWrap">出租小型OFFICE(月租$3000起) MTR 3分鐘步行直達, 24小時出入,全新裝修租office首選 </span>
+					</span>
+					<b class="sliderLazyLoad"><!--<img src="https://media1.88db.com.hk/DB88UploadFiles/2015/01/05/M-fd339041-e88e-43a7-b9d6-1802201cd443.jpg" title="出租小型OFFICE(月租$3000起) MTR 3分鐘步行直達, 24小時出入,全新裝修租office首選 " onerror="javascript:$(this).attr('src','/hk/images/img_noImg.jpg');"/>--></b>
+				</a>
+			</div>
+			<div class="clearboth"></div>
+		</li><li>    
+			<div class="mT10 rel mR10 left" style="overflow:hidden">
+			<a href="https://88db.com.hk/Pet/Buy-Sell/ad-623905/" target="_blank" title="合法狗場～玩具貴婦﹑約瑟﹑史納莎﹑哥基bb～ 所有出售之狗隻已由獸醫注射晶片及發出針卡，並包30天健康保證, 合法狗場 " class="home_featureAdImg">
+
+					<span class="black70">
+						<span class="txtWrap">合法狗場～玩具貴婦﹑約瑟﹑史納莎﹑哥基bb～ 所有出售之狗隻已由獸醫注射晶片及發出針卡，並包30天健康保證, 合法狗場 </span>
+					</span>
+					<b class="sliderLazyLoad"><!--<img src="https://media1.88db.com.hk/DB88UploadFiles/2016/09/04/M-8bcc5d92-6d2a-497a-a63a-45beb1f747b9.jpg" title="合法狗場～玩具貴婦﹑約瑟﹑史納莎﹑哥基bb～ 所有出售之狗隻已由獸醫注射晶片及發出針卡，並包30天健康保證, 合法狗場 "  onerror="javascript:$(this).attr('src','/hk/images/img_noImg.jpg');"/>--></b>
+				</a>
+			</div>
+		
+			<div class="mT10 rel left" style="overflow:hidden">
+				<a href="https://88db.com.hk/Leisure-Dating/Yacht-Boat-Rental/ad-5479831/" target="_blank" title="遊船P俱樂部 - 租遊艇​、遊船河 / 船P、漁排，水上活動包括: 快艇、香蕉船、(可散鐘)滑水(wakeboard)、夜釣墨魚、冷氣設備 。 " class="home_featureAdImg">
+
+					<span class="black70">
+						<span class="txtWrap">遊船P俱樂部 - 租遊艇​、遊船河 / 船P、漁排，水上活動包括: 快艇、香蕉船、(可散鐘)滑水(wakeboard)、夜釣墨魚、冷氣設備 。 </span>
+					</span>
+					<b class="sliderLazyLoad"><!--<img src="https://media1.88db.com.hk/DB88UploadFiles/2016/08/23/M-f670ea87-0fa1-48ad-9cf0-24851acda785.jpg" title="遊船P俱樂部 - 租遊艇​、遊船河 / 船P、漁排，水上活動包括: 快艇、香蕉船、(可散鐘)滑水(wakeboard)、夜釣墨魚、冷氣設備 。 " onerror="javascript:$(this).attr('src','/hk/images/img_noImg.jpg');"/>--></b>
+				</a>
+			</div>
+			<div class="clearboth"></div>
+		    
+			<div class="mT10 rel mR10 left" style="overflow:hidden">
+			<a href="https://88db.com.hk/Household/Renovation/ad-2084449/" target="_blank" title="匠心裝修工程公司- 提供家居裝修,廚櫃,寫字樓裝修服務，全港獨有網上監工，歡迎查詢    家居裝修 | 裝修 | 裝修工程 | 公司裝修 | 室內裝修 " class="home_featureAdImg">
+
+					<span class="black70">
+						<span class="txtWrap">匠心裝修工程公司- 提供家居裝修,廚櫃,寫字樓裝修服務，全港獨有網上監工，歡迎查詢    家居裝修 | 裝修 | 裝修工程 | 公司裝修 | 室內裝修 </span>
+					</span>
+					<b class="sliderLazyLoad"><!--<img src="https://media1.88db.com.hk/DB88UploadFiles/2015/03/24/M-49777d0c-a535-417b-9a66-d1dab4a9d807.jpg" title="匠心裝修工程公司- 提供家居裝修,廚櫃,寫字樓裝修服務，全港獨有網上監工，歡迎查詢    家居裝修 | 裝修 | 裝修工程 | 公司裝修 | 室內裝修 "  onerror="javascript:$(this).attr('src','/hk/images/img_noImg.jpg');"/>--></b>
+				</a>
+			</div>
+		
+			<div class="mT10 rel left" style="overflow:hidden">
+				<a href="https://88db.com.hk/Property/%E7%A7%9F%E5%B1%8B/ad-4936727/" target="_blank" title="John 屋網 大量租屋筍盤 靚裝 租盤附有單位相及Video  專營 [九龍區租樓]住宅出租 歡迎致電: 6929 8259 John Leung ( 阿軒 )  " class="home_featureAdImg">
+
+					<span class="black70">
+						<span class="txtWrap">John 屋網 大量租屋筍盤 靚裝 租盤附有單位相及Video  專營 [九龍區租樓]住宅出租 歡迎致電: 6929 8259 John Leung ( 阿軒 )  </span>
+					</span>
+					<b class="sliderLazyLoad"><!--<img src="https://media2.88db.com.hk/DB88UploadFiles/2013/03/15/DDBFD906-0A62-4FD9-BB62-D9FDB08B5A9E.jpg" title="John 屋網 大量租屋筍盤 靚裝 租盤附有單位相及Video  專營 [九龍區租樓]住宅出租 歡迎致電: 6929 8259 John Leung ( 阿軒 )  " onerror="javascript:$(this).attr('src','/hk/images/img_noImg.jpg');"/>--></b>
+				</a>
+			</div>
+			<div class="clearboth"></div>
+		    
+			<div class="mT10 rel mR10 left" style="overflow:hidden">
+			<a href="https://88db.com.hk/Pet/Buy-Sell/ad-5192558/" target="_blank" title="純種法國老虎狗★柴犬★迷你貴婦狗★長毛芝娃娃★迷你約瑟爹理★松鼠狗★鬆獅狗★比熊狗★魔天使  " class="home_featureAdImg">
+
+                            <img src="../images/play_button_small.png" class="playIcon">
+                        
+					<span class="black70">
+						<span class="txtWrap">純種法國老虎狗★柴犬★迷你貴婦狗★長毛芝娃娃★迷你約瑟爹理★松鼠狗★鬆獅狗★比熊狗★魔天使  </span>
+					</span>
+					<b class="sliderLazyLoad"><!--<img src="https://media1.88db.com.hk/DB88UploadFiles/2016/09/19/M-7fea2576-a856-4db9-beeb-d49a3398cfe5.jpg" title="純種法國老虎狗★柴犬★迷你貴婦狗★長毛芝娃娃★迷你約瑟爹理★松鼠狗★鬆獅狗★比熊狗★魔天使  "  onerror="javascript:$(this).attr('src','/hk/images/img_noImg.jpg');"/>--></b>
+				</a>
+			</div>
+		
+			<div class="mT10 rel left" style="overflow:hidden">
+				<a href="https://88db.com.hk/Lesson-Instruction/Music-piano/ad-5196004/" target="_blank" title="「正宗香港流行鋼琴音樂協會導師敎授-成人速成流行鋼琴」令您學會不用琴譜速成彈奏流行曲(內有本人香港大會堂示範片段參考) Tel / Whatapps: 6050 2701  " class="home_featureAdImg">
+
+                            <img src="../images/play_button_small.png" class="playIcon">
+                        
+					<span class="black70">
+						<span class="txtWrap">「正宗香港流行鋼琴音樂協會導師敎授-成人速成流行鋼琴」令您學會不用琴譜速成彈奏流行曲(內有本人香港大會堂示範片段參考) Tel / Whatapps: 6050 2701  </span>
+					</span>
+					<b class="sliderLazyLoad"><!--<img src="https://media2.88db.com.hk/DB88UploadFiles/2014/08/11/494AC89F-B0DF-4DAA-8699-6E1AD9DA5A18.jpg" title="「正宗香港流行鋼琴音樂協會導師敎授-成人速成流行鋼琴」令您學會不用琴譜速成彈奏流行曲(內有本人香港大會堂示範片段參考) Tel / Whatapps: 6050 2701  " onerror="javascript:$(this).attr('src','/hk/images/img_noImg.jpg');"/>--></b>
+				</a>
+			</div>
+			<div class="clearboth"></div>
+		</li><li>    
+			<div class="mT10 rel mR10 left" style="overflow:hidden">
+			<a href="https://88db.com.hk/Lesson-Instruction/Tutor/ad-148560/" target="_blank" title="進念教育 Epiconcepts - A Place You Can Trust!  師資優良，成績卓越，交通便利 (港鐵灣仔站 A4 出口)，一試便知! " class="home_featureAdImg">
+
+					<span class="black70">
+						<span class="txtWrap">進念教育 Epiconcepts - A Place You Can Trust!  師資優良，成績卓越，交通便利 (港鐵灣仔站 A4 出口)，一試便知! </span>
+					</span>
+					<b class="sliderLazyLoad"><!--<img src="https://media2.88db.com.hk/DB88UploadFiles/2016/02/17/M-9355ae1a-776f-4a0f-838d-81fe64471386.jpg" title="進念教育 Epiconcepts - A Place You Can Trust!  師資優良，成績卓越，交通便利 (港鐵灣仔站 A4 出口)，一試便知! "  onerror="javascript:$(this).attr('src','/hk/images/img_noImg.jpg');"/>--></b>
+				</a>
+			</div>
+		
+			<div class="mT10 rel left" style="overflow:hidden">
+				<a href="https://88db.com.hk/Property/Office-for-Lease/ad-5477806/" target="_blank" title="红磡及官塘區迷你辦公室．租寫字樓．租Studio工作室，全新裝修高雅實用，面積由 100 尺至 600 多尺可供貴客選擇。 " class="home_featureAdImg">
+
+					<span class="black70">
+						<span class="txtWrap">红磡及官塘區迷你辦公室．租寫字樓．租Studio工作室，全新裝修高雅實用，面積由 100 尺至 600 多尺可供貴客選擇。 </span>
+					</span>
+					<b class="sliderLazyLoad"><!--<img src="https://media1.88db.com.hk/DB88UploadFiles/2016/06/13/M-a2962373-4da7-4d48-9a39-7344e9921c95.jpg" title="红磡及官塘區迷你辦公室．租寫字樓．租Studio工作室，全新裝修高雅實用，面積由 100 尺至 600 多尺可供貴客選擇。 " onerror="javascript:$(this).attr('src','/hk/images/img_noImg.jpg');"/>--></b>
+				</a>
+			</div>
+			<div class="clearboth"></div>
+		    
+			<div class="mT10 rel mR10 left" style="overflow:hidden">
+			<a href="https://88db.com.hk/Leisure-Dating/Parties-Events/ad-5437369/" target="_blank" title="PARTY場地-PARTY PLACE: 包場party,聚會,私人派對,租場,workshop,工作坊,好去處,派對  #Party Place 觀塘1000呎獨立home feel party場 " class="home_featureAdImg">
+
+					<span class="black70">
+						<span class="txtWrap">PARTY場地-PARTY PLACE: 包場party,聚會,私人派對,租場,workshop,工作坊,好去處,派對  #Party Place 觀塘1000呎獨立home feel party場 </span>
+					</span>
+					<b class="sliderLazyLoad"><!--<img src="https://media2.88db.com.hk/DB88UploadFiles/2015/10/09/M-d59bd478-dac5-43f1-8d3d-38e1465ae416.jpg" title="PARTY場地-PARTY PLACE: 包場party,聚會,私人派對,租場,workshop,工作坊,好去處,派對  #Party Place 觀塘1000呎獨立home feel party場 "  onerror="javascript:$(this).attr('src','/hk/images/img_noImg.jpg');"/>--></b>
+				</a>
+			</div>
+		
+			<div class="mT10 rel left" style="overflow:hidden">
+				<a href="https://88db.com.hk/Buy-Sell/Clothing-Accessories-Women/ad-5423981/" target="_blank" title="收購成衣存貨 (不收購二手) - T:6215 1128 廖生 成衣.布匹.時裝.毛衫.童裝.大人帽.手袋.鞋.拉鍊.橡筋.線球.花邊.床上用品.廚房用品 " class="home_featureAdImg">
+
+					<span class="black70">
+						<span class="txtWrap">收購成衣存貨 (不收購二手) - T:6215 1128 廖生 成衣.布匹.時裝.毛衫.童裝.大人帽.手袋.鞋.拉鍊.橡筋.線球.花邊.床上用品.廚房用品 </span>
+					</span>
+					<b class="sliderLazyLoad"><!--<img src="https://media1.88db.com.hk/DB88UploadFiles/2016/01/30/M-696d5dc6-5205-4eff-8aaa-d089ebbe0ea3.jpg" title="收購成衣存貨 (不收購二手) - T:6215 1128 廖生 成衣.布匹.時裝.毛衫.童裝.大人帽.手袋.鞋.拉鍊.橡筋.線球.花邊.床上用品.廚房用品 " onerror="javascript:$(this).attr('src','/hk/images/img_noImg.jpg');"/>--></b>
+				</a>
+			</div>
+			<div class="clearboth"></div>
+		    
+			<div class="mT10 rel mR10 left" style="overflow:hidden">
+			<a href="https://88db.com.hk/Household/Renovation/ad-1770911/" target="_blank" title="【域天室內設計有限公司】 提供: 住宅裝修、商鋪裝修、辦公室裝修、寫字樓裝修、室內設計、並作出合理的價格為您。www.nattyhk.com  " class="home_featureAdImg">
+
+					<span class="black70">
+						<span class="txtWrap">【域天室內設計有限公司】 提供: 住宅裝修、商鋪裝修、辦公室裝修、寫字樓裝修、室內設計、並作出合理的價格為您。www.nattyhk.com  </span>
+					</span>
+					<b class="sliderLazyLoad"><!--<img src="https://media1.88db.com.hk/DB88UploadFiles/2014/11/17/M-f7ccb28d-8a6b-4056-b940-2d0b76341bbe.jpg" title="【域天室內設計有限公司】 提供: 住宅裝修、商鋪裝修、辦公室裝修、寫字樓裝修、室內設計、並作出合理的價格為您。www.nattyhk.com  "  onerror="javascript:$(this).attr('src','/hk/images/img_noImg.jpg');"/>--></b>
+				</a>
+			</div>
+		
+			<div class="mT10 rel left" style="overflow:hidden">
+				<a href="https://88db.com.hk/Mobile-Computer-Internet/Computer-Storage/ad-1045302/" target="_blank" title="提供家居及公司上門維修及升級電腦、組裝電腦、資料回復、租借手提電腦等等服務 " class="home_featureAdImg">
+
+					<span class="black70">
+						<span class="txtWrap">提供家居及公司上門維修及升級電腦、組裝電腦、資料回復、租借手提電腦等等服務 </span>
+					</span>
+					<b class="sliderLazyLoad"><!--<img src="https://media2.88db.com.hk/DB88UploadFiles/2014/04/30/64BEF04B-7630-49BA-8A8D-1C2E338C2DB5.jpg" title="提供家居及公司上門維修及升級電腦、組裝電腦、資料回復、租借手提電腦等等服務 " onerror="javascript:$(this).attr('src','/hk/images/img_noImg.jpg');"/>--></b>
+				</a>
+			</div>
+			<div class="clearboth"></div>
+		</li></ul>
+</div>
+<style>
+#featuredChannelSlider ul li div a{
+  background:url("//88db.com.hk/hk/html/images/loadingv3.gif") no-repeat scroll center center rgba(0, 0, 0, 0)
+}
+</style>
+<script type="text/javascript">
+    //$(function () {
+        /**************今期之最******************/
+
+            window.featuredChannelSlider = $("#featuredChannelSlider").sudoSlider({
+                effect: 'sliceUp',//effect,
+                customLink: 'a.featuredChannelSliderLink',
+                prevNext: false,
+                currentLinkCssName: 'on',
+                auto: true,
+                speed: 600,
+pause: 12000,
+animationZIndex:2,
+                stopAfterClickLink: false,
+beforeAnimation: function (pos) {
+		$('#featuredChannelSlider ul li img.playIcon').hide();
+                  sliderLazyload($('#featuredChannelSlider'), pos, 210,193, function(){});
+},
+afterAnimation: function(pos){
+		$('#featuredChannelSlider ul li img.playIcon').width(79).height('auto').show();
+}
+            });
+sliderLazyload($('#featuredChannelSlider'), 1, 210,193, function(){});
+            $('#featuredChannelSlider ul li').hover(function () {
+                featuredChannelSlider.stopAuto();
+            }, function () {
+                featuredChannelSlider.startAuto();
+            });
+	sliders.push(featuredChannelSlider);
+        /**************end 今期之最******************/
+
+        //create dot
+        var dotTemplate = '<a href="javascript:void(0);" data-target="{index}" class="featuredChannelSliderLink {on}">';
+        $.each($('#featuredChannelSlider ul li'), function (i, d) {
+            $('.featuredChannelSliderDot').append(dotTemplate.replace('{index}', i + 1).replace('{on}', (i==0?'on':'')));
+        });
+        $('.featuredChannelSliderDot').append('<div class="clearboth"></div>');
+    //});
+</script>
+<!--end featuredChannelSlider -->
+<div class="clearboth"></div>
+	</div>
+		<div class="w300 right mT15">
+            <script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+googletag.defineSlot('/122155746/FrontPage_RHS_300x250', [300, 250], 'div-gpt-ad-1404380515207-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
+</script>
+
+<!-- FrontPage_RHS_300x250 -->
+<div id='div-gpt-ad-1404380515207-0' style='width:300px; height:250px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1404380515207-0'); });
+</script>
+</div>	
+						
+			
+				<!--今期推介-->
+				<script type="text/javascript">
+document.write('<iframe width="300" height="377" frameborder="0" scrolling="no" src="/hk/html/zh-hk/templates/frontpage/MemberFavouriteAD_iframe.page?t='+((new Date()).getTime())+'" border="0"></iframe>');
+</script>
+
+			
+		</div>
+		<div class="clearboth">
+		</div>
+	</div>
+	<div class="clearboth">
+	</div>
+	<!-- bottom shop slider-->
+	<style>
+.shopWidget a.shopSlide h4 {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+</style>
+
+<div class="shopWidget left">
+	<h1>
+		<img src="/hk/html/images/index_logo_88shop.png" />
+	</h1>
+	<h3>
+		立即查詢 / 電話: (852) 3565-4938
+	</h3>
+	<a href="/shop" target="_blank" class="org_arr">
+	</a>
+	<div id="ShopSlider">
+		<ul><li>    
+			<a href="http://www.samleehk.com" target="_blank" class="shopSlide" title="Sam Lee 香港套房租屋網" style="height:190px;overflow:hidden;">
+					<h4>Sam Lee 香港套房租屋網</h4>					
+<b class="sliderLazyLoad"><!--<img src="https://shopimages.88db.com.hk/186eb4de9e90e90f31b6d26e803392fd.jpg?t=131171443570000000" title="Sam Lee 香港套房租屋網" width="157" onerror="javascript:$(this).attr('src','/hk/images/img_noImg.jpg');"/>--></b>
+				</a>
+			    
+			<a href="http://mingspiano.hk" target="_blank" class="shopSlide" title="速成流行鋼琴" style="height:190px;overflow:hidden;">
+					<h4>速成流行鋼琴</h4>					
+<b class="sliderLazyLoad"><!--<img src="https://shopimages.88db.com.hk/8a1f4293826387431337a3bc7c654602.jpg?t=131196296750000000" title="速成流行鋼琴" width="157" onerror="javascript:$(this).attr('src','/hk/images/img_noImg.jpg');"/>--></b>
+				</a>
+			    
+			<a href="http://shop.88db.com.hk/kenlam" target="_blank" class="shopSlide" title="林豐園狗場 (由林丰園經營)" style="height:190px;overflow:hidden;">
+					<h4>林豐園狗場 (由林丰園經營)</h4>					
+<b class="sliderLazyLoad"><!--<img src="https://shopimages.88db.com.hk/75237e83484b488042b7bc867d07ef94.jpg?t=130869071420000000" title="林豐園狗場 (由林丰園經營)" width="157" onerror="javascript:$(this).attr('src','/hk/images/img_noImg.jpg');"/>--></b>
+				</a>
+			    
+			<a href="http://shop.88db.com.hk/luckystorage" target="_blank" class="shopSlide" title="旺旺城辦公室  迷你倉" style="height:190px;overflow:hidden;">
+					<h4>旺旺城辦公室  迷你倉</h4>					
+<b class="sliderLazyLoad"><!--<img src="https://shopimages.88db.com.hk/528cdd3e1a7b11e1a4a0180373ef99e4.jpg?t=131177448770000000" title="旺旺城辦公室  迷你倉" width="157" onerror="javascript:$(this).attr('src','/hk/images/img_noImg.jpg');"/>--></b>
+				</a>
+			</li><li>    
+			<a href="http://www.partyhomehk.com" target="_blank" class="shopSlide" title="PARTY之家" style="height:190px;overflow:hidden;">
+					<h4>PARTY之家</h4>					
+<b class="sliderLazyLoad"><!--<img src="https://shopimages.88db.com.hk/a93f926460d5775207e463b2107bf64e.jpg?t=131171101960000000" title="PARTY之家" width="157" onerror="javascript:$(this).attr('src','/hk/images/img_noImg.jpg');"/>--></b>
+				</a>
+			    
+			<a href="http://www.empireauto.hk" target="_blank" class="shopSlide" title="安栢汽車服務有限公司 - Empire Auto Service Ltd." style="height:190px;overflow:hidden;">
+					<h4>安栢汽車服務有限公司 - Empire Auto Service Ltd.</h4>					
+<b class="sliderLazyLoad"><!--<img src="https://shopimages.88db.com.hk/b89dd247919f924214e7b3ba6dc888b1.jpg?t=131097255370000000" title="安栢汽車服務有限公司 - Empire Auto Service Ltd." width="157" onerror="javascript:$(this).attr('src','/hk/images/img_noImg.jpg');"/>--></b>
+				</a>
+			    
+			<a href="http://shop.88db.com.hk/RitaTam" target="_blank" class="shopSlide" title="Lucky One Yorkshire Terrier & Maitese" style="height:190px;overflow:hidden;">
+					<h4>Lucky One Yorkshire Terrier & Maitese</h4>					
+<b class="sliderLazyLoad"><!--<img src="https://shopimages.88db.com.hk/1d2f96a86ca46f4d150d5e54604056be.jpg?t=130909616330000000" title="Lucky One Yorkshire Terrier & Maitese" width="157" onerror="javascript:$(this).attr('src','/hk/images/img_noImg.jpg');"/>--></b>
+				</a>
+			    
+			<a href="http://shop.88db.com.hk/momode-family" target="_blank" class="shopSlide" title="毛Mode家族(Momode Family)" style="height:190px;overflow:hidden;">
+					<h4>毛Mode家族(Momode Family)</h4>					
+<b class="sliderLazyLoad"><!--<img src="https://shopimages.88db.com.hk/8543f1853a7c9e4280dd292979518a76.jpg?t=131177690090000000" title="毛Mode家族(Momode Family)" width="157" onerror="javascript:$(this).attr('src','/hk/images/img_noImg.jpg');"/>--></b>
+				</a>
+			</li><li>    
+			<a href="http://shop.88db.com.hk/imbeauty" target="_blank" class="shopSlide" title="摯美美容概念 ( Im Beauty Concept)" style="height:190px;overflow:hidden;">
+					<h4>摯美美容概念 ( Im Beauty Concept)</h4>					
+<b class="sliderLazyLoad"><!--<img src="https://shopimages.88db.com.hk/4d8a272928124b6c8bfb1f17e7b6b44b.jpg?t=131181942310000000" title="摯美美容概念 ( Im Beauty Concept)" width="157" onerror="javascript:$(this).attr('src','/hk/images/img_noImg.jpg');"/>--></b>
+				</a>
+			    
+			<a href="http://www.taiwaitopnail.com" target="_blank" class="shopSlide" title="Top Nail" style="height:190px;overflow:hidden;">
+					<h4>Top Nail</h4>					
+<b class="sliderLazyLoad"><!--<img src="https://shopimages.88db.com.hk/e2c69c25dd6b181a637a994fcba6dc58.jpg?t=131129308730000000" title="Top Nail" width="157" onerror="javascript:$(this).attr('src','/hk/images/img_noImg.jpg');"/>--></b>
+				</a>
+			    
+			<a href="http://shop.88db.com.hk/beautycat" target="_blank" class="shopSlide" title="英の團" style="height:190px;overflow:hidden;">
+					<h4>英の團</h4>					
+<b class="sliderLazyLoad"><!--<img src="https://shopimages.88db.com.hk/d9a53d34ec85f13ce1a338625b9e51a4.jpg?t=130972846950000000" title="英の團" width="157" onerror="javascript:$(this).attr('src','/hk/images/img_noImg.jpg');"/>--></b>
+				</a>
+			    
+			<a href="http://shop.88db.com.hk/1999" target="_blank" class="shopSlide" title="長長久久 1999 專業租花車公司（中港澳）提供結婚花車,商務接送,中港接送,租小巴等等服務" style="height:190px;overflow:hidden;">
+					<h4>長長久久 1999 專業租花車公司（中港澳）提供結婚花車,商務接送,中港接送,租小巴等等服務</h4>					
+<b class="sliderLazyLoad"><!--<img src="https://shopimages.88db.com.hk/c1396809d6ec6e45eba2e3e264aea3c8.jpg?t=131147296240000000" title="長長久久 1999 專業租花車公司（中港澳）提供結婚花車,商務接送,中港接送,租小巴等等服務" width="157" onerror="javascript:$(this).attr('src','/hk/images/img_noImg.jpg');"/>--></b>
+				</a>
+			</li><li>    
+			<a href="http://www.manwaimotorcycle.com" target="_blank" class="shopSlide" title="Man Wai Motorcycle Centre" style="height:190px;overflow:hidden;">
+					<h4>Man Wai Motorcycle Centre</h4>					
+<b class="sliderLazyLoad"><!--<img src="https://shopimages.88db.com.hk/d7482fb04c3614d1708b4c2b3e788011.jpg?t=131202211940000000" title="Man Wai Motorcycle Centre" width="157" onerror="javascript:$(this).attr('src','/hk/images/img_noImg.jpg');"/>--></b>
+				</a>
+			    
+			<a href="http://shop.88db.com.hk/me2wedding" target="_blank" class="shopSlide" title="Me 2 Wedding x Studio" style="height:190px;overflow:hidden;">
+					<h4>Me 2 Wedding x Studio</h4>					
+<b class="sliderLazyLoad"><!--<img src="https://shopimages.88db.com.hk/26836a027b9ceb9d7318f57672b82845.jpg?t=131110334530000000" title="Me 2 Wedding x Studio" width="157" onerror="javascript:$(this).attr('src','/hk/images/img_noImg.jpg');"/>--></b>
+				</a>
+			    
+			<a href="http://shop.88db.com.hk/karens-nail" target="_blank" class="shopSlide" title="Karen's Nail" style="height:190px;overflow:hidden;">
+					<h4>Karen's Nail</h4>					
+<b class="sliderLazyLoad"><!--<img src="https://shopimages.88db.com.hk/0e21838f350efba203aaf7eaac991176.jpg?t=130757541410000000" title="Karen's Nail" width="157" onerror="javascript:$(this).attr('src','/hk/images/img_noImg.jpg');"/>--></b>
+				</a>
+			    
+			<a href="http://shop.88db.com.hk/chihuahua" target="_blank" class="shopSlide" title="香港優秀芝娃娃繁殖家 - HQ TOP LINE Kennel" style="height:190px;overflow:hidden;">
+					<h4>香港優秀芝娃娃繁殖家 - HQ TOP LINE Kennel</h4>					
+<b class="sliderLazyLoad"><!--<img src="https://shopimages.88db.com.hk/0cb5f680aceef14fd3797e33cd21b9ef.jpg?t=130656669530000000" title="香港優秀芝娃娃繁殖家 - HQ TOP LINE Kennel" width="157" onerror="javascript:$(this).attr('src','/hk/images/img_noImg.jpg');"/>--></b>
+				</a>
+			</li></ul>
+</div>
+
+
+<a href="javascript:void(0);" class="shopWidgetArrL ShopSliderLink" data-target="prev">
+</a>
+<a href="javascript:void(0);" class="shopWidgetArrR ShopSliderLink" data-target="next">
+</a>
+<div class="clearboth">
+</div>
+</div>
+<style>
+#ShopSlider ul li a{
+  background:url("/hk/html/images/loadingv3.gif") no-repeat scroll center center rgba(0, 0, 0, 0)
+}
+</style>
+<script type="text/javascript">
+   // $(function () {
+        /************** 88shop slider ******************/
+        window.ShopSlider = $("#ShopSlider").sudoSlider({
+            effect: 'sliceRevealReverse',//effect,
+            prevNext: false,
+            auto: true,
+            speed: 500,
+animationZIndex:2,
+pause:4000,
+            customLink: 'a.ShopSliderLink',
+            controlsFade: false,
+            stopAfterClickLink: false,
+beforeAnimation: function (pos) {
+                  sliderLazyload($('#ShopSlider'), pos, 0, 0, function(){});
+}
+        });
+sliderLazyload($('#ShopSlider'), 1);
+        $('#ShopSlider ul li').hover(function () {
+            ShopSlider.stopAuto();
+        }, function () {
+            ShopSlider.startAuto();
+        });
+	sliders.push(ShopSlider);
+        /************** end 88shop slider ******************/
+   // });
+</script>
+    <div class="mT10 left mL20">
+		<!--img src="/hk/html/images/88db_facebook.png" /-->
+        <iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2F88db.com.hk&amp;width&amp;height=290&amp;colorscheme=light&amp;show_faces=true&amp;header=false&amp;stream=false&amp;show_border=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:290px;" allowTransparency="true"></iframe>
+	</div>	
+	
+	<div class="clearboth">
+	</div>
+</div>
+    </div>
+
+            </div>
+        </div>
+        <!-- /nui-mainbody -->
+        
+        <div class="nui-nav-side-cover"></div> 
+        <!-- nui-nav-side -->
+        <div class="nui-nav-side">         
+        <div class="nui-nav-side-head"> 
+        <div class="side-navitem"> 
+            <a href="/" name="UIID:Header_Logo"><img src="../images/nui_88DB_logo.png" class="nui-nav-side-88dblogo" /> </a>
+        </div> 
+        <div class="side-navitem"> 
+            <div class="nui-main-searchbar"> 
+            <input type="text" class="nui-main-searchbar-input" placeholder="你想搜尋什麼服務?" value=""/> 
+            <a class="nui-btn btn-search-submit" name="UIID:Header_LeftSide_KeywordSearch" data-link="#location.href#"><i class="fa fa-search"></i></a> 
+            </div> 
+        </div> 
+        <div class="side-navitem-out"> 
+            <a class="button-side-navitem-close" href="javascript:;" ><i class="fa fa-chevron-circle-left"></i></a> 
+        </div> 
+        <div style="clear:both"></div> 
+        </div> 
+        <div style="clear:both"></div>
+        <div class="nui-nav-side-profile">
+        </div>
+        <div class="nui-nav-side-menu"> 
+        <h1>瀏覽分類
+            <span class="changeLangContainer"></span>
+        </h1> 
+            <ul class="nui-nav-side-menu-channel"><li class="feature-channel "><div class="feature-channel-bg"><img src="https://cdn.88db.com.hk/hk/images/sidemenu/1027.jpg" /></div> <a class="nav-caption" href="https://88db.com.hk/Landing/Pet/" name="UIID:LeftNav_1027" data-channelid="1027">寵物<i style="font-size: 12px;display:none" class="fa fa-spinner fa-spin"></i></a></li><li class="feature-channel "><div class="feature-channel-bg"><img src="https://cdn.88db.com.hk/hk/images/sidemenu/1002.jpg" /></div> <a class="nav-caption" href="https://88db.com.hk/Landing/Beauty/" name="UIID:LeftNav_1002" data-channelid="1002">美容<i style="font-size: 12px;display:none" class="fa fa-spinner fa-spin"></i></a></li><li class="feature-channel "><div class="feature-channel-bg"><img src="https://cdn.88db.com.hk/hk/images/sidemenu/1021.jpg" /></div> <a class="nav-caption" href="https://88db.com.hk/Landing/Lesson-Instruction/" name="UIID:LeftNav_1021" data-channelid="1021">教學進修<i style="font-size: 12px;display:none" class="fa fa-spinner fa-spin"></i></a></li><li class="feature-channel "><div class="feature-channel-bg"><img src="https://cdn.88db.com.hk/hk/images/sidemenu/1033.jpg" /></div> <a class="nav-caption" href="https://88db.com.hk/Landing/Wedding/" name="UIID:LeftNav_1033" data-channelid="1033">結婚<i style="font-size: 12px;display:none" class="fa fa-spinner fa-spin"></i></a></li><li class="feature-channel "><div class="feature-channel-bg"><img src="https://cdn.88db.com.hk/hk/images/sidemenu/1030.jpg" /></div> <a class="nav-caption" href="https://88db.com.hk/Landing/Property/" name="UIID:LeftNav_1030" data-channelid="1030">物業地產<i style="font-size: 12px;display:none" class="fa fa-spinner fa-spin"></i></a></li><li class="feature-channel "><div class="feature-channel-bg"><img src="../images/sidemenu/mall.png" /></div> <a class="nav-caption" href="javascript:void(0);" name="UIID:LeftNav_9990010" data-channelid="9990010">Mall!地道<i style="font-size: 12px;display:none" class="fa fa-spinner fa-spin"></i></a></li><li class="feature-channel "><div class="feature-channel-bg"><img src="https://cdn.88db.com.hk/hk/images/sidemenu/1018.jpg" /></div> <a class="nav-caption" href="https://88db.com.hk/Landing/Household/" name="UIID:LeftNav_1018" data-channelid="1018">家居<i style="font-size: 12px;display:none" class="fa fa-spinner fa-spin"></i></a></li><li class="feature-channel "><div class="feature-channel-bg"><img src="https://cdn.88db.com.hk/hk/images/sidemenu/1004.jpg" /></div> <a class="nav-caption" href="https://88db.com.hk/Landing/Business/" name="UIID:LeftNav_1004" data-channelid="1004">商業<i style="font-size: 12px;display:none" class="fa fa-spinner fa-spin"></i></a></li><li class="feature-channel "><div class="feature-channel-bg"><img src="https://cdn.88db.com.hk/hk/images/sidemenu/1024.jpg" /></div> <a class="nav-caption" href="https://88db.com.hk/Landing/Music/" name="UIID:LeftNav_1024" data-channelid="1024">音樂<i style="font-size: 12px;display:none" class="fa fa-spinner fa-spin"></i></a></li><li class="feature-channel "><div class="feature-channel-bg"><img src="https://cdn.88db.com.hk/hk/images/sidemenu/1015.jpg" /></div> <a class="nav-caption" href="https://88db.com.hk/Landing/Buy-Sell/" name="UIID:LeftNav_1015" data-channelid="1015">買賣及批發<i style="font-size: 12px;display:none" class="fa fa-spinner fa-spin"></i></a></li><li class="feature-channel "><div class="feature-channel-bg"><img src="https://cdn.88db.com.hk/hk/images/sidemenu/2069.jpg" /></div> <a class="nav-caption" href="https://88db.com.hk/Landing/Baby-Maternity/" name="UIID:LeftNav_2069" data-channelid="2069">親子<i style="font-size: 12px;display:none" class="fa fa-spinner fa-spin"></i></a></li><li class="feature-channel "><div class="feature-channel-bg"><img src="https://cdn.88db.com.hk/hk/images/sidemenu/1006.jpg" /></div> <a class="nav-caption" href="https://88db.com.hk/Landing/Car-Bike/" name="UIID:LeftNav_1006" data-channelid="1006">汽車及電單車<i style="font-size: 12px;display:none" class="fa fa-spinner fa-spin"></i></a></li><li class="feature-channel "><div class="feature-channel-bg"><img src="https://cdn.88db.com.hk/hk/images/sidemenu/1011.jpg" /></div> <a class="nav-caption" href="https://88db.com.hk/Landing/Design/" name="UIID:LeftNav_1011" data-channelid="1011">設計<i style="font-size: 12px;display:none" class="fa fa-spinner fa-spin"></i></a></li><li class="feature-channel "><div class="feature-channel-bg"><img src="https://cdn.88db.com.hk/hk/images/sidemenu/1020.jpg" /></div> <a class="nav-caption" href="https://88db.com.hk/Landing/Leisure-Dating/" name="UIID:LeftNav_1020" data-channelid="1020">消閒及交友<i style="font-size: 12px;display:none" class="fa fa-spinner fa-spin"></i></a></li><li class="feature-channel "><div class="feature-channel-bg"><img src="https://cdn.88db.com.hk/hk/images/sidemenu/1060000.jpg" /></div> <a class="nav-caption" href="https://88db.com.hk/Landing/Service-Recruitment/" name="UIID:LeftNav_1060000" data-channelid="1060000">服務業招聘<i style="font-size: 12px;display:none" class="fa fa-spinner fa-spin"></i></a></li><li class="feature-channel "><div class="feature-channel-bg"><img src="https://cdn.88db.com.hk/hk/images/sidemenu/2038.jpg" /></div> <a class="nav-caption" href="https://88db.com.hk/Landing/Flower-Hamper/" name="UIID:LeftNav_2038" data-channelid="2038">鮮花及禮籃<i style="font-size: 12px;display:none" class="fa fa-spinner fa-spin"></i></a></li><li class="feature-channel "><div class="feature-channel-bg"><img src="https://cdn.88db.com.hk/hk/images/sidemenu/1017.jpg" /></div> <a class="nav-caption" href="https://88db.com.hk/Landing/Health-Medical/" name="UIID:LeftNav_1017" data-channelid="1017">健康及醫療<i style="font-size: 12px;display:none" class="fa fa-spinner fa-spin"></i></a></li><li class="feature-channel "><div class="feature-channel-bg"><img src="https://cdn.88db.com.hk/hk/images/sidemenu/1080000.jpg" /></div> <a class="nav-caption" href="https://88db.com.hk/Landing/Elderly/" name="UIID:LeftNav_1080000" data-channelid="1080000">長者<i style="font-size: 12px;display:none" class="fa fa-spinner fa-spin"></i></a></li><li class="feature-channel "><div class="feature-channel-bg"><img src="https://cdn.88db.com.hk/hk/images/sidemenu/1031.jpg" /></div> <a class="nav-caption" href="https://88db.com.hk/Landing/Sport-Fitness/" name="UIID:LeftNav_1031" data-channelid="1031">運動及健身<i style="font-size: 12px;display:none" class="fa fa-spinner fa-spin"></i></a></li><li class="feature-channel "><div class="feature-channel-bg"><img src="https://cdn.88db.com.hk/hk/images/sidemenu/1009.jpg" /></div> <a class="nav-caption" href="https://88db.com.hk/Landing/Mobile-Computer-Internet/" name="UIID:LeftNav_1009" data-channelid="1009">手機電腦互聯網<i style="font-size: 12px;display:none" class="fa fa-spinner fa-spin"></i></a></li><li class="feature-channel "><div class="feature-channel-bg"><img src="https://cdn.88db.com.hk/hk/images/sidemenu/1025.jpg" /></div> <a class="nav-caption" href="https://88db.com.hk/Landing/Performing-Art/" name="UIID:LeftNav_1025" data-channelid="1025">表演藝術<i style="font-size: 12px;display:none" class="fa fa-spinner fa-spin"></i></a></li><li class="feature-channel "><div class="feature-channel-bg"><img src="https://cdn.88db.com.hk/hk/images/sidemenu/1032.jpg" /></div> <a class="nav-caption" href="https://88db.com.hk/Landing/Travel/" name="UIID:LeftNav_1032" data-channelid="1032">旅遊<i style="font-size: 12px;display:none" class="fa fa-spinner fa-spin"></i></a></li><li class="feature-channel "><div class="feature-channel-bg"><img src="https://cdn.88db.com.hk/hk/images/sidemenu/1028.jpg" /></div> <a class="nav-caption" href="https://88db.com.hk/Landing/Photo-AV/" name="UIID:LeftNav_1028" data-channelid="1028">攝影及影音<i style="font-size: 12px;display:none" class="fa fa-spinner fa-spin"></i></a></li><li class="feature-channel "><div class="feature-channel-bg"><img src="https://cdn.88db.com.hk/hk/images/sidemenu/1016.jpg" /></div> <a class="nav-caption" href="https://88db.com.hk/Landing/Food-Beverage/" name="UIID:LeftNav_1016" data-channelid="1016">飲食<i style="font-size: 12px;display:none" class="fa fa-spinner fa-spin"></i></a></li><li class="feature-channel "><div class="feature-channel-bg"><img src="https://cdn.88db.com.hk/hk/images/sidemenu/1007.jpg" /></div> <a class="nav-caption" href="https://88db.com.hk/Landing/Personal-Community/" name="UIID:LeftNav_1007" data-channelid="1007">個人及社區<i style="font-size: 12px;display:none" class="fa fa-spinner fa-spin"></i></a></li><li class="feature-channel "><div class="feature-channel-bg"><img src="https://cdn.88db.com.hk/hk/images/sidemenu/2013.jpg" /></div> <a class="nav-caption" href="https://88db.com.hk/Landing/Special-Offer/" name="UIID:LeftNav_2013" data-channelid="2013">著數優惠<i style="font-size: 12px;display:none" class="fa fa-spinner fa-spin"></i></a></li><li class="feature-channel "><div class="feature-channel-bg"><img src="https://cdn.88db.com.hk/hk/images/sidemenu/1070000.jpg" /></div> <a class="nav-caption" href="https://88db.com.hk/Landing/Emergency/" name="UIID:LeftNav_1070000" data-channelid="1070000">應急服務<i style="font-size: 12px;display:none" class="fa fa-spinner fa-spin"></i></a></li><li class="feature-channel "><div class="feature-channel-bg"><img src="https://cdn.88db.com.hk/hk/images/sidemenu/1090000.jpg" /></div> <a class="nav-caption" href="https://88db.com.hk/Landing/Hi-Taiwan/" name="UIID:LeftNav_1090000" data-channelid="1090000">嗨Fun臺灣<i style="font-size: 12px;display:none" class="fa fa-spinner fa-spin"></i></a></li></ul><ul class="nui-nav-side-menu-category " data-categoryid=""><li><a class="nav-caption backToChannel fa fa-arrow-left fixed" href="javascript:void(0);">返回</a></li></ul>
+        <br /> 
+        <br />
+        <br />
+        <br />
+        <br /> 
+        </div> 
+        <div style="clear:both"></div>
+        </div>
+        <!-- /nui-nav-side-->
+        
+    <div id="footer">
+    
+        <div class="catDesc">
+            <a href="http://88db.com.hk/"><b>88DB.com香港</b></a>是一個亞洲最全面的<a href="http://88db.com.hk/"><b>服務分類網站</b></a>，有<a href="http://88db.com.hk/Landing/Pet/">寵物</a>、<a href="http://88db.com.hk/Landing/Wedding/">結婚</a>、<a href="http://88db.com.hk/Landing/Beauty/">美容</a>、<a href="http://88db.com.hk/Landing/Lesson-Instruction/">進修</a>、<a href="http://88db.com.hk/Landing/Design/">設計</a>、<a href="http://88db.com.hk/Landing/Household/">家居</a>、<a href="http://88db.com.hk/Landing/Property/">物業</a>、<a href="http://88db.com.hk/Landing/Business/">商業</a>、<a href="http://88db.com.hk/Landing/Music/">音樂</a> 、<a href="http://88db.com.hk/Landing/Baby-Maternity/">親子</a>、<a href="http://88db.com.hk/Landing/Car-Boat-Bike/">汽車</a>等多個分類，為<a href="http://88db.com.hk/q-%E5%89%B5%E6%A5%AD/1/search/">創業者</a>、<a href="http://88db.com.hk/q-%E4%B8%AD%E5%B0%8F%E4%BC%81/1/">中小企</a>或<a href="http://88db.com.hk/q-freelance/1/">freelancer</a>提供一站式的<a href="http://88db.com.hk/88Shop/">網上推廣平台</a>。用戶可瀏覽服務商的資訊，亦可於 <a href="http://88db.com.hk/Help/">互助Q&amp;A</a>與其他用戶交流及分享知識。<a href="http://88db.com.hk/hk/Services/Register.page">登記</a>成為<a href="http://88db.com.hk/hk/Services/Register.page">會員</a>，除可以<a href="http://88db.com.hk/">刊登免費分類廣告</a>外，更可專享源源不絕的優惠，包括<a href="http://88db.com.hk/Landing/88DBClub/">購物折扣</a>、<a href="http://88db.com.hk/Landing/88DBClub/">產品試用</a>、<a href="http://88db.com.hk/Landing/88DBClub/">曬相優惠</a>、及<a href="http://88db.com.hk/Landing/88DBClub/">電影贈劵</a>等。<br />
+        </div>
+        <!--link rel="stylesheet" href="/hk/html/zh-hk/css/thickbox_custom.css?v=161003a1" type="text/css" media="screen" /-->
+<!--input type="hidden" id="testing_value" name="testing_value" value="" /-->
+<!--script type="text/javascript" src="/hk/html/js/thickbox-compressed.js?v=161003a1"></script-->
+<link rel="stylesheet" href="/hk/html/zh-hk/master/footer-stat.css?v=161003a1e6" type="text/css" media="screen" />
+<script src="/hk/js/footer-stat.js?v=20160803"></script>
+<!--Footer Section -->
+				 <div class="catDesc" id="footer-stat">					
+					 <div style="width:100%;overflow: hidden;">
+					 
+						<div class="footer-stat-item-wrapper">	
+							<div class="footer-stat-img">
+								<img src="/hk/html/zh-hk/master/post.png" height="50px" /> 
+							</div>	
+							<div class="footer-stat-count" id="counter-ad"> -- </div><div class="footer-stat-word">則廣告</div>					
+						</div>
+						<div class="footer-stat-item-wrapper">	
+							<div class="footer-stat-img">
+								<img src="/hk/html/zh-hk/master/user.png"  height="50px" /> 
+							</div>	
+							<div class="footer-stat-count" id="counter-member"> -- </div><div class="footer-stat-word">會員</div>						
+						</div>
+						<div class="footer-stat-item-wrapper">	
+							<div class="footer-stat-img">
+								<img src="/hk/html/zh-hk/master/btalk_icon.png" height="50px" /> 
+							</div>	
+							<div class="footer-stat-count"  id="counter-btalk"> -- </div><div class="footer-stat-word">次查詢</div>						
+						</div>
+					</div>	
+					
+				</div>
+				<a name="footer-mobile-app"></a>
+				<div class="catDesc" id="footer-stat">		
+<div class="footer-item-title">流動應用程式 <a href="/app">更多...</a></div>				
+					 <div style="width:100%;overflow: hidden;">
+					 
+						<div class="footer-stat-item-wrapper">	
+							<div>
+								<div class="footer-stat-img">
+									<img src="/hk/html/zh-hk/master/app_my88DB.png" height="80px" /> 
+								</div>	
+								<div class="footer-stat-word">
+									<span class="footer-app-name">my88DB </span><br/>								
+									<a class="app-ver" href="https://play.google.com/store/apps/details?id=com.message.db88message" target="_blank"><i class="fa fa-android"></i></a>
+								</div>	
+							</div>	
+							<div class="footer-app-desc">
+								<ul>
+									<li>內置 btalk 即時訊息，與客戶保持緊密聯繫</li>
+									<li>重新刊登88DB上的廣告，保持優勢</li>
+								</ul>
+								<a href="/app">詳情</a>
+							</div>					
+							
+							
+						</div>
+						
+						<div class="footer-stat-item-wrapper">
+							<div>
+								<div class="footer-stat-img">
+									<img src="/hk/html/zh-hk/master/btalk_icon.png" height="80px" /> 
+								</div>	
+								<div class="footer-stat-word">
+									<span class="footer-app-name">btalk</span><br/>
+									<a class="app-ver"  title="coming soon" target="_blank" href="https://itunes.apple.com/hk/app/88db-btalk/id1116610663?mt=8"><i class="fa fa-apple"></i></a>
+								</div>	
+							</div>
+							<div class="footer-app-desc">
+								<ul>
+									<li>收發 btalk 即時訊息，與客戶保持緊密聯繫</li>									
+								</ul>
+								<a href="/app">詳情</a>
+							</div>
+						</div>
+						
+						<div class="footer-stat-item-wrapper">	
+							<div>
+								<div class="footer-stat-img">
+									<img src="/hk/html/zh-hk/master/prop_app_icon.png" height="80px" style="border-radius:15px;overflow:hidden" /> 
+								</div>	
+								<div class="footer-stat-word">
+									<span class="footer-app-name">工商廈舖</span><br/>
+									<a href="https://itunes.apple.com/hk/app/gong-shang-sha-pu/id1095993881?mt=8" class="app-ver" target="_blank"><i class="fa fa-apple"></i></a>						
+								</div>		
+							</div>
+							<div class="footer-app-desc">
+								<ul>
+									<li>搵寫字樓，工廈，旺舖，住宅車位的好幫手</li>									
+								</ul>
+								<a href="/app">詳情</a>
+							</div>
+						</div>
+						<div class="footer-stat-item-wrapper full">	
+							<div>
+								<div class="footer-stat-img">
+									<img src="/hk/html/zh-hk/master/imtesla.png" height="80px" /> 
+								</div>	
+								<div class="footer-stat-word">
+									<span class="footer-app-name">IM Tesla</span><br/>
+									<a href="https://itunes.apple.com/hk/app/imtesla/id1059323571?mt=8" class="app-ver" target="_blank"><i class="fa fa-apple"></i></a>
+									<a href="https://play.google.com/store/apps/details?id=db88.imteslaweb" class="app-ver" target="_blank"><i class="fa fa-android"></i></a>
+								</div>		
+							</div>
+							<div class="footer-app-desc">
+								<ul>
+									<li>為環保出力，電動車充電設施分享程式</li>									
+								</ul>
+								<a href="/app">詳情</a>
+							</div>
+						</div>
+						
+					</div>	
+					
+				</div>
+           <div class="about88">			
+        
+                <dl class="ftCat">
+                    <dt title="Category">分類</dt>
+                    <dd>
+                    	
+                        	<a name="UIID:Ftr_1027" style="width:auto;" href="https://88db.com.hk/Landing/Pet/" target="_top" title="Pet">寵物</a> 
+                        
+                    	
+                        	<a name="UIID:Ftr_1002" style="width:auto;" href="https://88db.com.hk/Landing/Beauty/" target="_top" title="Beauty">美容</a> 
+                        
+                        
+                        	<a name="UIID:Ftr_1021" style="width:auto;" href="https://88db.com.hk/Landing/Lesson-Instruction/" target="_top" title="Lesson-Instruction">教學進修</a> 
+                            
+                        
+                        	<a name="UIID:Ftr_1018" style="width:auto;" href="https://88db.com.hk/Landing/Household/" target="_top" title="Household">家居</a> 
+                            
+                        
+                        	<a name="UIID:Ftr_1030" style="width:auto;" href="https://88db.com.hk/Landing/Property/" target="_top" title="Property">物業地產</a> 
+                            
+                        
+                        	<a name="UIID:Ftr_2069" style="width:auto;" href="https://88db.com.hk/Landing/Baby-Maternity/" target="_top" title="Baby-Maternity">親子</a> 
+                            
+                        
+                        	<a name="UIID:Ftr_1016" style="width:auto;" href="https://88db.com.hk/Landing/Food-Beverage/" target="_top" title="Food-Beverage">飲食</a> 
+                            
+                        
+                        	<a name="UIID:Ftr_1006" style="width:auto;" href="https://88db.com.hk/Landing/Car-Bike/" target="_top" title="Car-Bike">汽車及電單車</a> 
+                            
+                        
+                        	<a name="UIID:Ftr_1015" style="width:auto;" href="https://88db.com.hk/Landing/Buy-Sell/" target="_top" title="Buy-Sell">買賣及批發</a> 
+                            
+                    </dd>
+                    <dd>
+                        
+                        	<a name="UIID:Ftr_1033" style="width:auto;" href="https://88db.com.hk/Landing/Wedding/" target="_top" title="Wedding">結婚</a> 
+                            
+                        
+                        	<a name="UIID:Ftr_1020" style="width:auto;" href="https://88db.com.hk/Landing/Leisure-Dating/" target="_top" title="Leisure-Dating">消閒及交友</a> 
+                            
+                        
+                        	<a name="UIID:Ftr_1011" style="width:auto;" href="https://88db.com.hk/Landing/Design/" target="_top" title="Design">設計</a> 
+                            
+                        
+                        	<a name="UIID:Ftr_1004" style="width:auto;" href="https://88db.com.hk/Landing/Business/" target="_top" title="Business">商業</a> 
+                            
+                        
+                        	<a name="UIID:Ftr_1025" style="width:auto;" href="https://88db.com.hk/Landing/Performing-Art/" target="_top" title="Performing-Art">表演藝術</a> 
+                            
+                        
+                        	<a name="UIID:Ftr_1032" style="width:auto;" href="https://88db.com.hk/Landing/Travel/" target="_top" title="Travel">旅遊</a> 
+                            
+                        
+                        	<a name="UIID:Ftr_1028" style="width:auto;" href="https://88db.com.hk/Landing/Photo-AV/" target="_top" title="Photo-AV">攝影及影音</a> 
+                            
+                        
+                        	<a name="UIID:Ftr_1060000" style="width:auto;" href="https://88db.com.hk/Landing/Service-Recruitment/" target="_top" title="Service-Recruitment">服務業招聘</a> 
+                            
+                    </dd>
+                </dl>
+                <dl class="mR20">
+                    <dt>88DB推介</dt>
+                    <dd>					
+                        <a name="UIID:Ftr_focusblog" href="http://focus.88db.com.hk/" target="_blank">FOCUS</a>
+                        <a name="UIID:Ftr_blogdb" href="http://blog.88db.com.hk/" target="_blank">BlogDB</a>
+                        <a name="UIID:Ftr_my88DBApp" href="http://88db.com.hk/info/bTalk" target="_blank">my88DB app</a>
+                        <a name="UIID:Ftr_petpetplayground" href="https://www.facebook.com/petpet.playground" target="_blank">PetPet遊樂場</a>
+                    </dd>
+                </dl>
+                <dl>
+                    <dt>服務中心</dt>
+                    <dd>
+					<a name="UIID:Ftr_PostAd" href="javascript:DB88.Dialog.Login({callBack:function(){location.href='/hk/Services/Post_Ad.page?lang=zh-hk'}});">於88DB刊登廣告</a>							
+					<a name="UIID:Ftr_ProductInfo" href="/info/producttips/intro">增加廣告曝光貼士</a>						
+					<a name="UIID:Ftr_Advertising" href="/ContactUs/">其他廣告查詢</a>
+                        <a name="UIID:Ftr_Services" href="/FAQ/">常見問題</a> <a name="UIID:Ftr_Services" href="http://88db.com.hk/AboutUs/">
+                            關於我們</a> <a name="UIID:Ftr_Services" href="/ContactUs/">聯絡我們</a> <a name="UIID:Ftr_Services" href="http://88db.com.hk/Sitemap/">
+                                網站導覽</a> <a name="UIID:Ftr_Services" href="/Privacy/">私隱權聲明</a>
+                        <a name="UIID:Ftr_Services" href="/Terms/">使用條款及細則 </a></dd>
+                </dl>
+		 <dl class="mR20">
+                    <dt title="88DB Partnership">合作伙伴計劃</dt>
+                    <dd>
+                        <a name="UIID:Ftr_partnership_agency" href="http://partnership.88db.com.hk/" title="Agency">特約推廣代理</a> 
+<a name="UIID:Ftr_partnership_memberoffer" href="http://www.partnership.88db.com.hk/memberoffer"
+                            title="Partnership - Members Offer">提供產品或服務優惠</a> 
+<a name="UIID:Ftr_partnership_ngo" href="http://www.partnership.88db.com.hk/ngo" title="Partnership - NGO">
+                                非牟利慈善組織</a> 
+<a name="UIID:Ftr_partnership_others" href="http://www.partnership.88db.com.hk/others" title="Partnership - Others">新合作項目題議</a>                     
+                    </dd>
+                </dl>
+                <div class="clearboth">
+                </div>
+            </div><!-- .about88 -->     
+			<style>
+			.float_banner{
+				position: fixed;display:none;
+				background: cover;
+				bottom: 0px;
+				top: 0px;
+				left: 0px;
+				right: 0px;
+				text-align: center;
+				background: rgba(0,0,0,0.85);
+				 white-space: nowrap;    
+				text-align: center;
+				vertical-align: middle;
+			
+			}
+			.float_banner_inner{
+			
+				position: absolute;
+				width: 500px;
+				height: 320px;
+				top: 50%;
+				left: 50%;
+				margin-left: -250px; 
+				margin-top: -160px; 
+				color:#fff
+			}
+			a.close-float{
+				color:#fff;display:inline-block;padding:5px; font-size:26px; line-height:40px
+			}
+			@media  only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+				.float_banner_inner{
+					width:300px;
+					height:180px;
+					margin-left: -160px; 
+					margin-top: -120px; 
+					
+				}
+				.float_banner_inner img{
+					width:500px;
+				
+				}
+				a.close-float{
+					font-size:16px;
+				}
+			}
+			</style>
+          
+
+
+
+		<style>
+			.popup-float{
+				background:rgba(0,0,0,0.65);position:fixed;bottom:-400px;left:0;right:0;height:280px;transition: 1s;
+				z-index:999999;
+				padding-bottom:80px;
+				
+			}
+			.popup-float.active{
+				bottom:0px;
+			}
+	
+		</style>
+<div id="ios-promote" class="popup-float">
+	<div style="text-align:right">
+		<div style="display:inline-block; font-size:36px; line-height:40px; color:#fff"><a href="javascript:;" onclick="closeIosPromote()"><i class="fa fa-remove"></i></a></div>
+		
+	</div>
+	<div style="text-align:center">
+		<a href="https://itunes.apple.com/hk/app/gong-shang-sha-pu/id1095993881?mt=8" target="_blank"><img style="display:inline-block" src="https://edm.88db.com.hk/banner/prop_app_320.jpg" width="320" /></a>
+	</div>
+</div>
+<script src="/hk/js/master/float.js?v=20160914a">
+</script>
+
+        <!--URLs frontpage.aspx frontpage.aspx-->
+
+	<!-- Kevin -->
+
+
+
+        
+        
+        
+        <div class="ftNote">
+            <div class="left">
+                
+                
+            </div>
+            <div class="right">
+                COPYRIGHT &copy; 2013 - 2016, 88DB Services Limited. ALL RIGHTS RESERVED.</div>
+            <div class="clearboth">
+            </div>
+        </div>
+        <style>
+	#browser_suggest{
+		position:fixed;
+		overflow:hidden;
+		background: rgba(255,229,105,0.95);
+		padding:8px;
+		width:300px;
+
+		font-size:14px;
+		line-height:28px;
+		color:#ff0000;
+		bottom:-400px;
+		right:10px;
+		z-index:9999;
+		border-bottom:#990000 1px solid;
+	
+		transition:1.2s;
+		border-radius:4px;
+	
+	}
+	#browser_suggest.active{
+		bottom:10px;
+	
+	}
+	a.bs_button{
+		padding:2px 5px;
+		border:1px solid #999;
+		background:#dedede;
+		color:#333;
+		font-size:12px;
+		border-radius:2px;
+		text-decoration:none;
+	}
+	a.bs_button:hover{
+		background:#ff5500;
+		color:#ffffff;
+	}
+
+</style>
+<div id="browser_suggest">
+
+		<div style="float:left">
+			<i class="fa fa-info"></i>&nbsp;88DB系統已全面提昇為HTTPS安全協議，提供更可靠及更安全的使用服務！為享受升級使用體驗及安全性，請安裝並使用最新版的瀏覽器。	* 我們偵察到你的瀏覽器版本可能不相容，請安裝較新版本之瀏覽器			
+		</div>
+		<div style="float:right; margin-right:60px"> 
+			<a class="bs_button" href="https://www.google.com.hk/intl/zh-HK/chrome/browser/desktop/" target="_blank">下載 Google Chrome</a>  
+			<a class="bs_button" onclick="javascript:dismiss_bs()">暫不理會 (<span id="bs_tick">30</span>)</a>
+		</div>
+	
+</div>
+<script>
+function dismiss_bs(){
+		$('#browser_suggest').removeClass('active');
+		$.cookie('hide_bs',true,{path:'/',expires:7});
+	}
+$(document).ready(function(){
+	var	bscc = 30;
+	var isMobile = 'False' == 'True' ? true:false;
+	
+	function msieversion() {
+
+			var ua = window.navigator.userAgent;
+			var msie = ua.indexOf("MSIE ");
+
+			if (msie > 0 || !!navigator.userAgent.match(/Trident.*rv\:11\./))      // If Internet Explorer, return version number
+				return (parseInt(ua.substring(msie + 5, ua.indexOf(".", msie))));
+			else                 // If another browser, return 0
+				return 0;
+
+	   return false;
+	}
+	function closeBrowserSuggest(){
+		if (bscc-- > 0){
+			$('#bs_tick').html(bscc);
+			setTimeout(closeBrowserSuggest,1000);
+		}
+		else{
+			$('#browser_suggest').removeClass('active');
+		}
+	}
+	function isChrome(){
+		return navigator.userAgent.toLowerCase().indexOf('chrome') > -1;
+	}
+	function getChromeVersion () {     
+		var raw = navigator.userAgent.match(/Chrom(e|ium)\/([0-9]+)\./);
+
+		return raw ? parseInt(raw[2], 10) : false;
+	}
+
+	if (IsLogin && (!isChrome() || (isChrome() && getChromeVersion() < 48 )) && !isMobile && !$.cookie('hide_bs')   ){
+	
+		setTimeout(closeBrowserSuggest,1000);
+		$('#browser_suggest').addClass('active');
+	}
+
+
+});
+
+
+
+
+</script>
+        
+<!--8 8:html path="/zh-hk/master/rtl.html" /-->        
+    </div>
+    
+    <script type="text/javascript" src="https://cdn.88db.com.hk/hk/js-min/linkLog.js"></script>
+        
+        <script data-cfasync="false" id="loginjs" type="text/javascript" src="https://88db.com.hk/hk/Views/RenderLoginJS.aspx?lang=zh-hk&currentTime=20161010015756"></script>
+        <input id="NotVerifiedMemberID" type="hidden" value="" />
+        <!-- isFacebookCrawler False -->
+    </form>
+    
+</body>
+</html>
+<!-- HK88DBWEB2:10/10/2016 1:57:56 AM | exec time:0.4687773 | https://88db.com.hk/hk/Views/frontpage.aspx?lang= -->

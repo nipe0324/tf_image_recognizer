@@ -10,7 +10,7 @@ class ImageProcessor
   def initialize(src_dir, out_dir, image_size = 32)
     @src_dir = src_dir
     @out_dir = out_dir
-    @image_size = 32
+    @image_size = image_size
     @images = {}
   end
 
@@ -72,10 +72,17 @@ class ImageProcessor
   end
 
   def write_images_by_cifar10bin(imgs, filename)
+    errors = 0
     out_path = [out_dir, filename].join('/')
     data = String.new
-    imgs.each { |img| data << img.to_cifar10_binary }
+    imgs.each do |img|
+      begin
+        data << img.to_cifar10_binary
+      rescue
+        errors += 1
+      end
+    end
     File.open(out_path, "wb") { |out| out.write(data) }
-    puts "Write cifar10 binary: #{out_path} (num: #{imgs.size})"
+    puts "Write cifar10 binary: #{out_path}, num: #{imgs.size}, errors: #{errors}"
   end
 end

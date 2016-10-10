@@ -9,6 +9,7 @@ GEM
     columnize (0.9.0)
     ffi (1.9.14)
     method_source (0.8.2)
+    open_uri_redirections (0.2.1)
     pry (0.10.1)
       coderay (~> 1.1.0)
       method_source (~> 0.8.1)
@@ -30,6 +31,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  open_uri_redirections
   pry-byebug
   rmagick
   selenium-webdriver

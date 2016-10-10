@@ -1,0 +1,873 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8" />
+<link rel="shortlink" href="/node/70" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/home" />
+  <title>Home | San Diego Zoo Animals</title>
+  <style type="text/css" media="all">
+@import url("http://animals.sandiegozoo.org/modules/system/system.base.css?oep4l9");
+@import url("http://animals.sandiegozoo.org/modules/system/system.menus.css?oep4l9");
+@import url("http://animals.sandiegozoo.org/modules/system/system.messages.css?oep4l9");
+@import url("http://animals.sandiegozoo.org/modules/system/system.theme.css?oep4l9");
+</style>
+<style type="text/css" media="all">
+@import url("http://animals.sandiegozoo.org/modules/aggregator/aggregator.css?oep4l9");
+@import url("http://animals.sandiegozoo.org/sites/all/modules/date/date_api/date.css?oep4l9");
+@import url("http://animals.sandiegozoo.org/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?oep4l9");
+@import url("http://animals.sandiegozoo.org/sites/all/modules/date/date_repeat_field/date_repeat_field.css?oep4l9");
+@import url("http://animals.sandiegozoo.org/modules/field/theme/field.css?oep4l9");
+</style>
+<style type="text/css" media="screen">
+@import url("http://animals.sandiegozoo.org/sites/all/modules/flexslider/assets/css/flexslider_img.css?oep4l9");
+</style>
+<style type="text/css" media="all">
+@import url("http://animals.sandiegozoo.org/sites/all/modules/google_cse/google_cse.css?oep4l9");
+@import url("http://animals.sandiegozoo.org/modules/node/node.css?oep4l9");
+@import url("http://animals.sandiegozoo.org/modules/search/search.css?oep4l9");
+@import url("http://animals.sandiegozoo.org/modules/user/user.css?oep4l9");
+@import url("http://animals.sandiegozoo.org/sites/all/modules/views/css/views.css?oep4l9");
+</style>
+<style type="text/css" media="all">
+@import url("http://animals.sandiegozoo.org/sites/all/modules/colorbox/styles/default/colorbox_style.css?oep4l9");
+@import url("http://animals.sandiegozoo.org/sites/all/modules/ctools/css/ctools.css?oep4l9");
+@import url("http://animals.sandiegozoo.org/sites/all/modules/flickrgallery/flickrgallery.css?oep4l9");
+@import url("http://animals.sandiegozoo.org/sites/all/modules/lexicon/css/lexicon.css?oep4l9");
+@import url("http://animals.sandiegozoo.org/sites/all/modules/lightbox2/css/lightbox.css?oep4l9");
+@import url("http://animals.sandiegozoo.org/sites/all/modules/panels/css/panels.css?oep4l9");
+@import url("http://animals.sandiegozoo.org/sites/all/modules/user_dashboard/user_dashboard.css?oep4l9");
+@import url("http://animals.sandiegozoo.org/sites/all/modules/jcarousel/skins/default/jcarousel-default.css?oep4l9");
+@import url("http://animals.sandiegozoo.org/sites/all/modules/panels/plugins/layouts/threecol_33_34_33/threecol_33_34_33.css?oep4l9");
+@import url("http://animals.sandiegozoo.org/sites/all/modules/panels/plugins/layouts/twocol/twocol.css?oep4l9");
+@import url("http://animals.sandiegozoo.org/sites/all/modules/panels/plugins/layouts/onecol/onecol.css?oep4l9");
+@import url("http://animals.sandiegozoo.org/sites/all/modules/menu_minipanels/css/menu_minipanels.css?oep4l9");
+</style>
+<style type="text/css" media="all">
+@import url("http://animals.sandiegozoo.org/sites/all/themes/fold/style.css?oep4l9");
+</style>
+  <script type="text/javascript" src="//code.jquery.com/jquery-1.8.3.min.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.8/jquery.min.js'>\x3C/script>")
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://animals.sandiegozoo.org/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://animals.sandiegozoo.org/misc/drupal.js?oep4l9"></script>
+<script type="text/javascript" src="http://animals.sandiegozoo.org/sites/all/modules/jquery_update/replace/ui/external/jquery.cookie.js?v=67fb34f6a866c40d0570"></script>
+<script type="text/javascript" src="http://animals.sandiegozoo.org/sites/all/modules/jquery_update/replace/misc/jquery.form.min.js?v=2.69"></script>
+<script type="text/javascript" src="http://animals.sandiegozoo.org/misc/form.js?v=7.51"></script>
+<script type="text/javascript" src="http://animals.sandiegozoo.org/misc/ajax.js?v=7.51"></script>
+<script type="text/javascript" src="http://animals.sandiegozoo.org/sites/all/modules/jquery_update/js/jquery_update.js?v=0.0.1"></script>
+<script type="text/javascript" src="http://animals.sandiegozoo.org/sites/all/modules/google_cse/google_cse.js?oep4l9"></script>
+<script type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js"></script>
+<script type="text/javascript" src="http://animals.sandiegozoo.org/sites/all/libraries/colorbox/jquery.colorbox-min.js?oep4l9"></script>
+<script type="text/javascript" src="http://animals.sandiegozoo.org/sites/all/modules/colorbox/js/colorbox.js?oep4l9"></script>
+<script type="text/javascript" src="http://animals.sandiegozoo.org/sites/all/modules/colorbox/styles/default/colorbox_style.js?oep4l9"></script>
+<script type="text/javascript" src="http://animals.sandiegozoo.org/sites/all/modules/insertFrame/insertFrame.js?oep4l9"></script>
+<script type="text/javascript" src="http://animals.sandiegozoo.org/sites/all/modules/lightbox2/js/lightbox.js?1476025060"></script>
+<script type="text/javascript" src="http://animals.sandiegozoo.org/sites/all/modules/jcarousel/js/jquery.jcarousel.min.js?oep4l9"></script>
+<script type="text/javascript" src="http://animals.sandiegozoo.org/sites/all/modules/jcarousel/js/jcarousel.js?oep4l9"></script>
+<script type="text/javascript" src="http://animals.sandiegozoo.org/sites/all/modules/views/js/base.js?oep4l9"></script>
+<script type="text/javascript" src="http://animals.sandiegozoo.org/misc/progress.js?v=7.51"></script>
+<script type="text/javascript" src="http://animals.sandiegozoo.org/sites/all/modules/views/js/ajax_view.js?oep4l9"></script>
+<script type="text/javascript" src="http://animals.sandiegozoo.org/sites/all/modules/google_analytics/googleanalytics.js?oep4l9"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-34548724-1", {"cookieDomain":"auto","allowLinker":true});ga("require", "linker");ga("linker:autoLink", ["animals.sandiegozoo.org","adminanimals.sandiegozoo.org"]);ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://animals.sandiegozoo.org/sites/all/modules/menu_minipanels/js/menu_minipanels.callbacks.js?oep4l9"></script>
+<script type="text/javascript" src="http://animals.sandiegozoo.org/misc/collapse.js?v=7.51"></script>
+<script type="text/javascript" src="http://animals.sandiegozoo.org/sites/all/themes/fold/js/thumbnailviewer2.js?oep4l9"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"fold","theme_token":"EAeJf6GCjxxSQx-4DWa-enhLOh4Ru12G7-oWCdENs4U","jquery_version":"1.8","js":{"sites\/all\/modules\/menu_minipanels\/js\/menu_minipanels.js":1,"sites\/all\/libraries\/qtip\/jquery.qtip-1.0.0-rc3.min.js":1,"\/\/code.jquery.com\/jquery-1.8.3.min.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"misc\/form.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/google_cse\/google_cse.js":1,"http:\/\/admin.brightcove.com\/js\/BrightcoveExperiences.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/insertFrame\/insertFrame.js":1,"sites\/all\/modules\/lightbox2\/js\/lightbox.js":1,"sites\/all\/modules\/jcarousel\/js\/jquery.jcarousel.min.js":1,"sites\/all\/modules\/jcarousel\/js\/jcarousel.js":1,"sites\/all\/modules\/views\/js\/base.js":1,"misc\/progress.js":1,"sites\/all\/modules\/views\/js\/ajax_view.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1,"sites\/all\/modules\/menu_minipanels\/js\/menu_minipanels.callbacks.js":1,"misc\/collapse.js":1,"sites\/all\/themes\/fold\/js\/thumbnailviewer2.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/flexslider\/assets\/css\/flexslider_img.css":1,"sites\/all\/modules\/google_cse\/google_cse.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/flickrgallery\/flickrgallery.css":1,"sites\/all\/modules\/lexicon\/css\/lexicon.css":1,"sites\/all\/modules\/lightbox2\/css\/lightbox.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/user_dashboard\/user_dashboard.css":1,"sites\/all\/modules\/jcarousel\/skins\/default\/jcarousel-default.css":1,"sites\/all\/modules\/panels\/plugins\/layouts\/threecol_33_34_33\/threecol_33_34_33.css":1,"sites\/all\/modules\/panels\/plugins\/layouts\/twocol\/twocol.css":1,"sites\/all\/modules\/panels\/plugins\/layouts\/onecol\/onecol.css":1,"sites\/all\/modules\/menu_minipanels\/css\/menu_minipanels.css":1,"sites\/all\/themes\/fold\/style.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"googleCSE":{"cx":"003586353649748028178:sskzwdr28ys","language":"","resultsWidth":889,"domain":"www.google.com"},"jcarousel":{"ajaxPath":"\/jcarousel\/ajax\/views","carousels":{"jcarousel-dom-1":{"view_options":{"view_args":"","view_path":"node\/70","view_base_path":null,"view_display_id":"block","view_name":"featured_animals","jcarousel_dom_id":1},"skin":"default","visible":3,"scroll":3,"autoPause":1,"start":1,"selector":".jcarousel-dom-1"}}},"lightbox2":{"rtl":0,"file_path":"\/(\\w\\w\/)public:\/","default_image":"\/sites\/all\/modules\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":true,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":false,"disable_resize":false,"disable_zoom":false,"force_show_nav":false,"show_caption":true,"loop_items":false,"node_link_text":"View Image Details","node_link_target":false,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003Ca href=\u0022#\u0022 onclick=\u0022hideLightbox(); return FALSE;\u0022\u003E\u003Ckbd\u003Ex\u003C\/kbd\u003E\u003C\/a\u003E to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":true,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":600,"iframe_height":400,"iframe_border":1,"enable_video":false},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:46114dd7ab1aabd25a45b61d08348f0a":{"view_name":"animals_of_a_certain_catigory_slider","view_display_id":"block_1","view_args":"70","view_path":"node\/70","view_base_path":null,"view_dom_id":"46114dd7ab1aabd25a45b61d08348f0a","pager_element":0}}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1,"trackDomainMode":"2","trackCrossDomains":["animals.sandiegozoo.org","adminanimals.sandiegozoo.org"]},"menuMinipanels":{"panels":{"panel_218":{"position":{"target":"false","target_custom":"","type":"absolute","corner":{"target":"bottomLeft","tooltip":"topLeft"}},"show":{"delay":"140","when":{"event":"mouseover"},"effect":{"type":"slide","length":"100"}},"hide":{"delay":"100","effect":{"type":"slide","length":"100"}},"style":{"name":"light","width":{"min":"0","max":"960"},"border":{"width":"3","color":"#d3d3d3","radius":"0"}},"mlid":"218"},"panel_814":{"position":{"target":"custom","target_custom":"#main-menu","type":"absolute","corner":{"target":"bottomLeft","tooltip":"topLeft"}},"show":{"delay":"100","when":{"event":"mouseover"},"effect":{"type":"slide","length":"0"}},"hide":{"delay":"100","effect":{"type":"slide","length":"0"}},"style":{"name":"light","width":{"min":"0","max":"960"},"border":{"width":"3","color":"#d3d3d3","radius":"0"}},"mlid":"814"},"panel_2928":{"position":{"target":"false","target_custom":"","type":"absolute","corner":{"target":"rightTop","tooltip":"topLeft"}},"show":{"delay":"0","when":{"event":"mouseover"},"effect":{"type":"false","length":"0"}},"hide":{"delay":"0","effect":{"type":"false","length":"0"}},"style":{"name":"cream","width":{"min":"217","max":"217"},"border":{"width":"0","color":"#d3d3d3","radius":"0"}},"mlid":"2928"},"panel_2929":{"position":{"target":"false","target_custom":"","type":"absolute","corner":{"target":"rightTop","tooltip":"topLeft"}},"show":{"delay":"0","when":{"event":"mouseover"},"effect":{"type":"false","length":"0"}},"hide":{"delay":"0","effect":{"type":"false","length":"0"}},"style":{"name":"cream","width":{"min":"217","max":"217"},"border":{"width":"0","color":"#d3d3d3","radius":"0"}},"mlid":"2929"},"panel_2930":{"position":{"target":"false","target_custom":"","type":"absolute","corner":{"target":"topRight","tooltip":"topLeft"}},"show":{"delay":"0","when":{"event":"mouseover"},"effect":{"type":"false","length":"0"}},"hide":{"delay":"0","effect":{"type":"false","length":"0"}},"style":{"name":"cream","width":{"min":"217","max":"217"},"border":{"width":"0","color":"#d3d3d3","radius":"0"}},"mlid":"2930"},"panel_2931":{"position":{"target":"false","target_custom":"","type":"absolute","corner":{"target":"rightTop","tooltip":"topLeft"}},"show":{"delay":"0","when":{"event":"mouseover"},"effect":{"type":"false","length":"0"}},"hide":{"delay":"0","effect":{"type":"false","length":"0"}},"style":{"name":"cream","width":{"min":"217","max":"217"},"border":{"width":"0","color":"#d3d3d3","radius":"0"}},"mlid":"2931"},"panel_2932":{"position":{"target":"false","target_custom":"","type":"absolute","corner":{"target":"topRight","tooltip":"topLeft"}},"show":{"delay":"0","when":{"event":"mouseover"},"effect":{"type":"false","length":"0"}},"hide":{"delay":"0","effect":{"type":"false","length":"0"}},"style":{"name":"cream","width":{"min":"217","max":"217"},"border":{"width":"0","color":"#d3d3d3","radius":"0"}},"mlid":"2932"}}},"urlIsAjaxTrusted":{"\/":true}});
+//--><!]]>
+</script>
+<!--Google site verification -->
+<meta name="google-site-verification" content="5fJbC9D35niaeL9MI8BGILfXFCUFtTvtF_kAm-cqVbQ" />
+<!-- Added for audio - KN -->
+  <script src="/sites/all/modules/mediaelement/build/mediaelement-and-player.min.js"></script>
+  <link rel="stylesheet" href="/sites/all/modules/mediaelement/build/mediaelementplayer.min.css" />
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <!--[if IE 7]>
+<style type="text/css">
+#quicktabs-animals_page_content_tabs ul.quicktabs-tabs.quicktabs-style-basic li,
+#quicktabs-habitat_page_content_tabs ul.quicktabs-tabs.quicktabs-style-basic li,
+#quicktabs-region_page_content_tabs ul.quicktabs-tabs.quicktabs-style-basic li,
+#quicktabs-habitats_home_contents_tabs ul.quicktabs-tabs.quicktabs-style-basic li,
+#quicktabs-community_tabs ul.quicktabs-tabs.quicktabs-style-basic li,
+#quicktabs-category_page_content_tabs ul.quicktabs-tabs.quicktabs-style-basic li {
+	padding:10px 5px;
+}
+
+#quicktabs-animals_a_z_by_class ul.quicktabs-tabs.quicktabs-style-basic li {
+	padding:10px 60px;
+}
+
+</style>
+  <![endif]-->
+<!-- Google Custom Search Script -->
+<script>
+  (function() {
+    var cx = '003586353649748028178:sskzwdr28ys';
+    var gcse = document.createElement('script'); gcse.type = 'text/javascript'; gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+</head>
+
+<body class="html front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-70 node-type-page" >
+    <div id="footerBG"></div>
+<div id="wrapper" class="clearfix">
+<div id="header-top" class="clearfix">
+<div id="tabLinks">
+<div class="parktab"><a href="http://www.sdzsafaripark.org" class="parktab">San Diego Zoo Safari Park</a></div>
+<div class="zootab"><a href="http://www.sandiegozoo.org">San Diego Zoo</a> </div>
+
+</div>
+<div id="logo"><!--start logo-->
+<a href="/" title="Home">
+<img src="http://animals.sandiegozoo.org/sites/default/files/logoSanDiegoZooAnimalsBeta.png" alt="Home" />
+</a>
+<div id="site-slogan"></div><!--site slogan-->
+</div><!--end logo-->
+ <!-- / start search box region -->
+    <div class="search-box">
+        <div class="region region-search-box">
+    <div id="block-search-form" class="block block-search">
+
+      
+  <div class="content">
+    <form class="google-cse" action="/" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-b4GLCC1n8k0mxTwnHIAoQUAkNgJEvMBBmKd2F5d_3D4" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+  
+</div> <!-- /.block -->
+  </div>
+    </div> <!-- / end search box region -->
+  </div><!--end header-top-->
+<div id="header" class="clearfix"><!--start header--> 
+    <div id="main-menu">
+<div id="main-menu-links">
+    <ul class="menu"><li class="first leaf"><a href="/" title="" class="active menu-minipanel menu-minipanel-218">animals</a></li>
+<li class="leaf"><a href="/lexicon/animal_glossary" title="">glossary</a></li>
+<li class="leaf"><a href="/animals/giant-panda" class="menu-minipanel menu-minipanel-814">live cams</a></li>
+<li class="leaf"><a href="/video" title="">video</a></li>
+<li class="leaf"><a href="http://zoonooz.sandiegozoo.org" title="">zoonooz online</a></li>
+<li class="last leaf"><a href="/community">community</a></li>
+</ul></div><!-- end main-menu-links -->
+</div><!-- end main-menu -->
+        <div class="region region-navigation">
+    <div id="block-block-1" class="block block-block">
+
+      
+  <div class="content">
+     <ul class="categoryIcons inline clearfix"><li id="iconAmphibians"><a href="/content/amphibians">AMPHIBIANS</a></li>
+<li id="iconBirds"><a href="/content/birds">BIRDS</a></li>
+<li id="iconArthropods"><a href="/content/arthropods">ARTHROPODS</a></li>
+<li id="iconMammals"><a href="/content/mammals">MAMMALS</a></li>
+<li id="iconReptiles"><a href="/content/reptiles">REPTILES</a></li>
+<li id="iconHabitats"><a href="/habitats">HABITATS</a></li>
+<li id="iconPlants"><a href="http://www.sandiegozoo.org/CF/plants/index.html">PLANTS</a></li>
+</ul>   </div>
+  
+</div> <!-- /.block -->
+  </div>
+</div> <!-- /#header -->
+<div id="content-body">
+  <section id="main" role="main" class="clearfix">
+    <a id="main-content"></a>
+
+     <div id="homeSlider">
+        <div class="region region-homeslider">
+    <div id="block-views-featured-animals-block" class="block block-views">
+
+      
+  <div class="content">
+    <div class="view view-featured-animals view-id-featured_animals view-display-id-block view-dom-id-1a78ddcef0baea171abf7fdf22fb482b">
+        
+  
+  
+      <div class="view-content">
+      <ul class="jcarousel jcarousel-view--featured-animals--block jcarousel-dom-1 jcarousel-skin-default">
+      <li class="jcarousel-item-1 odd" style="display: none;">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/animals/bat">Bat</a></span>  </span>  
+  <span class="views-field views-field-field-animals-thumbnail">        <span class="field-content"><a href="/animals/bat"><img typeof="foaf:Image" src="http://animals.sandiegozoo.org/sites/default/files/styles/large/public/bat_thumb.jpg?itok=bE09IWfX" width="294" height="294" alt="" /></a></span>  </span></li>
+      <li class="jcarousel-item-2 even" style="display: none;">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/animals/bee">Bee</a></span>  </span>  
+  <span class="views-field views-field-field-animals-thumbnail">        <span class="field-content"><a href="/animals/bee"><img typeof="foaf:Image" src="http://animals.sandiegozoo.org/sites/default/files/styles/large/public/bee_thumb.jpg?itok=v8iDXLnI" width="294" height="294" alt="" /></a></span>  </span></li>
+      <li class="jcarousel-item-3 odd" style="display: none;">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/animals/beetle">Beetle</a></span>  </span>  
+  <span class="views-field views-field-field-animals-thumbnail">        <span class="field-content"><a href="/animals/beetle"><img typeof="foaf:Image" src="http://animals.sandiegozoo.org/sites/default/files/styles/large/public/beetle_thumb.jpg?itok=9s6VJbi7" width="294" height="294" alt="" /></a></span>  </span></li>
+      <li class="jcarousel-item-4 even" style="display: none;">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/animals/butterfly">Butterfly</a></span>  </span>  
+  <span class="views-field views-field-field-animals-thumbnail">        <span class="field-content"><a href="/animals/butterfly"><img typeof="foaf:Image" src="http://animals.sandiegozoo.org/sites/default/files/styles/large/public/butterfly_thumb.jpg?itok=LCNDW7sI" width="294" height="294" alt="" /></a></span>  </span></li>
+      <li class="jcarousel-item-5 odd" style="display: none;">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/animals/hummingbird">Hummingbird</a></span>  </span>  
+  <span class="views-field views-field-field-animals-thumbnail">        <span class="field-content"><a href="/animals/hummingbird"><img typeof="foaf:Image" src="http://animals.sandiegozoo.org/sites/default/files/styles/large/public/hummingbird_thumb_b.jpg?itok=DaV0qFQv" width="294" height="294" alt="" /></a></span>  </span></li>
+      <li class="jcarousel-item-6 even" style="display: none;">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/animals/lemur">Lemur</a></span>  </span>  
+  <span class="views-field views-field-field-animals-thumbnail">        <span class="field-content"><a href="/animals/lemur"><img typeof="foaf:Image" src="http://animals.sandiegozoo.org/sites/default/files/styles/large/public/lemur_thumb.jpg?itok=ldA-Nehu" width="294" height="294" alt="" /></a></span>  </span></li>
+      <li class="jcarousel-item-7 odd" style="display: none;">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/animals/lory-and-lorikeet">Lory &amp; Lorikeet</a></span>  </span>  
+  <span class="views-field views-field-field-animals-thumbnail">        <span class="field-content"><a href="/animals/lory-and-lorikeet"><img typeof="foaf:Image" src="http://animals.sandiegozoo.org/sites/default/files/styles/large/public/lorikeet_thumb.jpg?itok=Ivm8BsML" width="294" height="294" alt="" /></a></span>  </span></li>
+  </ul>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+  
+</div> <!-- /.block -->
+<div id="block-views-front-page-fun-fact-block" class="block block-views">
+
+      
+  <div class="content">
+    <div class="view view-front-page-fun-fact view-id-front_page_fun_fact view-display-id-block view-dom-id-7aa65659ab62a5c9ccc8cf435b7349a8">
+        
+  
+  
+      <div class="view-content">
+      <table class="views-table cols-0" >
+       <tbody>
+          <tr class="odd views-row-first views-row-last">
+                  <td class="views-field views-field-title views-align-left" >
+            <a href="/animals/beetle">Beetle</a>:&nbsp;Most beetles have a hard time righting themselves when upside down. But the click beetle has a mechanism on its underside that helps it spring into the air to right itself. The beetle makes a clicking sound when it does this, hence the name.          </td>
+              </tr>
+      </tbody>
+</table>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+  
+</div> <!-- /.block -->
+  </div>
+     </div>	<!-- /#homeSlider -->
+
+    <div id="homeCol1">
+        <div class="region region-homecol1">
+    <div id="block-block-20" class="block block-block">
+
+      
+  <div class="content">
+    <div class="homeVideoLink"><a href="/video">more videos</a></div>
+<div class="homeVideoObject"><!-- Start of Brightcove Player -->
+
+<div style="display:none">
+
+</div>
+
+<!--
+By use of this code snippet, I agree to the Brightcove Publisher T and C 
+found at https://accounts.brightcove.com/en/terms-and-conditions/. 
+-->
+
+<script language="JavaScript" type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js"></script>
+
+<object id="myExperience" class="BrightcoveExperience">
+  <param name="bgcolor" value="#FFFFFF" />
+  <param name="width" value="500" />
+  <param name="height" value="282" />
+  <param name="playerID" value="1783580118001" />
+  <param name="playerKey" value="AQ~~,AAAAAGF4K-A~,pM27qCB38SG7viFlL1bV9Uky27pr2rQU" />
+  <param name="isVid" value="true" />
+  <param name="isUI" value="true" />
+  <param name="dynamicStreaming" value="true" />
+  
+</object>
+
+<!-- 
+This script tag will cause the Brightcove Players defined above it to be created as soon
+as the line is read by the browser. If you wish to have the player instantiated only after
+the rest of the HTML is processed and the page load is complete, remove the line.
+-->
+<script type="text/javascript">brightcove.createExperiences();</script>
+
+<!-- End of Brightcove Player -->
+</div>  </div>
+  
+</div> <!-- /.block -->
+<div id="block-block-42" class="block block-block">
+
+      
+  <div class="content">
+    <a href="http://issuu.com/sdzglobal/stacks/b67c3e680c1e45f9bb2623a67b44f28d"><img src="/sites/all/themes/fold/images/ZOONOOZ-ad.jpg" width="528" height="359px"></a>  </div>
+  
+</div> <!-- /.block -->
+  </div>
+    </div>
+    
+    <div id="homeCol2">
+        <div class="region region-homecol2">
+    <div id="block-menu-menu-home-cams-menu" class="block block-menu">
+
+      
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/animals/giant-panda" title="" class="menu-minipanel menu-minipanel-2928">Pandas</a></li>
+<li class="leaf"><a href="/animals/polar-bear" title="" class="menu-minipanel menu-minipanel-2929">Polar Bears</a></li>
+<li class="leaf"><a href="/animals/orangutan" title="" class="menu-minipanel menu-minipanel-2930">Apes</a></li>
+<li class="leaf"><a href="/animals/elephant" title="" class="menu-minipanel menu-minipanel-2931">Elephants</a></li>
+<li class="last leaf"><a href="/animals/california-condor" title="" class="menu-minipanel menu-minipanel-2932">Condors</a></li>
+</ul>  </div>
+  
+</div> <!-- /.block -->
+<div id="block-block-27" class="block block-block">
+
+      
+  <div class="content">
+    <!-- <div class="homeVideoLink"><a href="/flickr">view more</a></div>
+-->
+<style type="text/css"> 
+.flickrimg {border: 0px solid #666666 !important; padding:1px; margin:2px;}
+#flickr_badge_wrapper {width:330px;text-align:left}
+</style>
+<div id="flickr_badge_wrapper">
+
+
+
+<script src="http://badge.dopiaza.org/flickr/badge.js?user=84162130@N05;num=16;sort=date-posted-desc;style=four-wide-bordered"></script>
+
+
+</div>
+<div class="submitlink"><a href="flickr-submission-form"><img src="/sites/all/themes/fold/images/homeSnapshotsSubmitButton.png" border="0"></a></div>  </div>
+  
+</div> <!-- /.block -->
+  </div>
+<div class="clear"></div>
+    </div>
+    
+    <div id="homeBlogs">
+        <div class="region region-homeblogs">
+    <div id="block-block-19" class="block block-block">
+
+      
+  <div class="content">
+                                
+<div class="tabStaff"><img src="http://zoonooz.sandiegozoo.org/wp-content/uploads/2016/10/AlalaExam_004_Med-223x137.jpg" width="220" border="0" alt="‘Alalā Chicks Given Health Exams" />
+  <h1><a href="http://zoonooz.sandiegozoo.org/2016/10/07/alala-chicks-given-health-exams/" title="‘Alalā Chicks Given Health Exams">‘Alalā Chicks Given Health Exams</a></h1>
+  <h2>October 7th, 2016</h2>
+  <h3>Public Relations</h3>
+  <p>Five of Hawaii’s Critically Endangered Crows Being Prepared for Release. A group of ‘Alalā chicks were given thorough medical exams last week at San Diego Zoo Global’s Keauhou Bird Conservation Center in Hawai‘i. The chicks, </p>
+ 
+
+
+
+  </div>
+  
+</div> <!-- /.block -->
+<div id="block-block-21" class="block block-block">
+
+      
+  <div class="content">
+    <div class="homeBlogLink"><a href="http://blogs.sandiegozoo.org/">view all</a></div>
+                            
+<div class="tabBlogItem"><img src="http://zoonooz.sandiegozoo.org/wp-content/uploads/2016/10/Janey-223x137.jpg" width="78" height="78" border="0" alt="Remembering Janey" />
+  <h1><a href="http://zoonooz.sandiegozoo.org/2016/10/06/remembering-janey/" title="Remembering Janey">Remembering Janey</a></h1>
+  <h2>October 6th, 2016</h2>
+  <h4><a href="http://zoonooz.sandiegozoo.org/2016/10/06/remembering-janey/" title="Remembering Janey">read more <span style="font-size:14px;">&#8250;</span></a></h4>
+</div>
+                            
+<div class="tabBlogItem"><img src="http://zoonooz.sandiegozoo.org/wp-content/uploads/2016/10/MYLF_swim_MED-223x137.jpg" width="78" height="78" border="0" alt="Endangered Mountain Yellow-legged Frogs Reintroduced" />
+  <h1><a href="http://zoonooz.sandiegozoo.org/2016/10/04/endangered-mountain-yellow-legged-frogs-reintroduced/" title="Endangered Mountain Yellow-legged Frogs Reintroduced">Endangered Mountain Yellow-legged Frogs Reintroduced</a></h1>
+  <h2>October 4th, 2016</h2>
+  <h4><a href="http://zoonooz.sandiegozoo.org/2016/10/04/endangered-mountain-yellow-legged-frogs-reintroduced/" title="Endangered Mountain Yellow-legged Frogs Reintroduced">read more <span style="font-size:14px;">&#8250;</span></a></h4>
+</div>
+                            
+<div class="tabBlogItem"><img src="http://zoonooz.sandiegozoo.org/wp-content/uploads/2016/10/T15_0489_037-223x137.jpg" width="78" height="78" border="0" alt="The CITES CoP: San Diego Zoo Global Engages on Wildlife Trade" />
+  <h1><a href="http://zoonooz.sandiegozoo.org/2016/10/04/the-cites-cop-san-diego-zoo-global-engages-on-wildlife-trade/" title="The CITES CoP: San Diego Zoo Global Engages on Wildlife Trade">The CITES CoP: San Diego Zoo Global Engages on Wildlife Trade</a></h1>
+  <h2>October 4th, 2016</h2>
+  <h4><a href="http://zoonooz.sandiegozoo.org/2016/10/04/the-cites-cop-san-diego-zoo-global-engages-on-wildlife-trade/" title="The CITES CoP: San Diego Zoo Global Engages on Wildlife Trade">read more <span style="font-size:14px;">&#8250;</span></a></h4>
+</div>
+   </div>
+  
+</div> <!-- /.block -->
+  </div>
+    </div>
+
+    
+  </section> <!-- /#main -->
+
+</div> <!-- end content-body -->
+<div class="clear"></div>
+<!--<div id="content-bottom"></div>
+<div class="clear"></div>
+ -->
+  <!-- /#footer -->
+</div> <!-- /#wrapper -->
+  <div id="footer" class="clearfix">
+                  <div class="clear"></div>
+    <div class="region region-footer">
+    <div id="block-block-2" class="block block-block">
+
+        <h2 >About</h2>
+    
+  <div class="content">
+     <h1>San Diego Zoo Animals</h1>
+<p>San Diego Zoo Animals (formerly Animal Bytes) is the source for facts, articles, photos, videos, sounds, and more about the wildlife that you can find at the San Diego Zoo and San Diego Zoo Safari Park, as well as animals and habitats that San Diego Zoo Global Wildlife Conservancy is working to help through conservation and research projects.<br /> </p>
+   </div>
+  
+</div> <!-- /.block -->
+<div id="block-panels-mini-main-drop-animals-sub2" class="block block-panels-mini">
+
+      
+  <div class="content">
+    
+<div class="panel-display panel-3col-33 clearfix" id="mini-panel-main_drop_animals_sub2">
+  <div class="panel-panel panel-col-first">
+    <div class="inside"><div class="panel-pane pane-block pane-menu-menu-animals"  >
+  
+        <h2 class="pane-title">
+      Animals    </h2>
+    
+  
+  <div class="pane-content">
+    <ul class="menu"><li class="first leaf"><a href="/content/amphibians" title="">Amphibians</a></li>
+<li class="leaf"><a href="/content/birds" title="">Birds</a></li>
+<li class="leaf"><a href="/content/arthropods" title="">Insects &amp; Spiders</a></li>
+<li class="leaf"><a href="/content/mammals" title="">Mammals</a></li>
+<li class="last leaf"><a href="/content/reptiles" title="">Reptiles</a></li>
+</ul>  </div>
+
+  
+  </div>
+</div>
+  </div>
+
+  <div class="panel-panel panel-col">
+    <div class="inside"><div class="panel-pane pane-block pane-menu-menu-habitats"  >
+  
+        <h2 class="pane-title">
+      Habitats    </h2>
+    
+  
+  <div class="pane-content">
+    <ul class="menu"><li class="first leaf"><a href="/habitats/desert" title="">Desert</a></li>
+<li class="leaf"><a href="/habitats/island" title="">Island</a></li>
+<li class="leaf"><a href="/habitats/ocean-coastline" title="">Ocean &amp; Coastline</a></li>
+<li class="leaf"><a href="/habitats/prairie-steppes" title="">Prairie &amp; Steppes</a></li>
+<li class="leaf"><a href="/habitats/rivers-lakes-wetlands" title="">River, Lake, &amp; Wetlands</a></li>
+<li class="leaf"><a href="/habitats/savanna" title="">Savanna</a></li>
+<li class="leaf"><a href="/habitats/scrubland" title="">Scrubland</a></li>
+<li class="leaf"><a href="/habitats/temperate-forest-taiga" title="">Temperate Forest &amp; Taiga</a></li>
+<li class="leaf"><a href="/habitats/tropical-rain-forest" title="">Tropical Rain Forest</a></li>
+<li class="last leaf"><a href="/habitats/tundra" title="">Tundra</a></li>
+</ul>  </div>
+
+  
+  </div>
+</div>
+  </div>
+
+  <div class="panel-panel panel-col-last">
+    <div class="inside"><div class="panel-pane pane-block pane-menu-menu-regions"  >
+  
+        <h2 class="pane-title">
+      Regions    </h2>
+    
+  
+  <div class="pane-content">
+    <ul class="menu"><li class="first leaf"><a href="/regions/africa" title="">Africa</a></li>
+<li class="leaf"><a href="/regions/asia" title="">Asia</a></li>
+<li class="leaf"><a href="/regions/australia" title="">Australia</a></li>
+<li class="leaf"><a href="/regions/central-america-caribbean" title="">Central America &amp; Caribbean</a></li>
+<li class="leaf"><a href="/regions/europe" title="">Europe</a></li>
+<li class="leaf"><a href="/regions/north-america" title="">North America</a></li>
+<li class="leaf"><a href="/regions/pacific-islands" title="">Pacific Islands</a></li>
+<li class="last leaf"><a href="/regions/south-america" title="">South America</a></li>
+</ul>  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+  </div>
+  
+</div> <!-- /.block -->
+<div id="block-block-3" class="block block-block">
+
+      
+  <div class="content">
+     <p><img alt="Explore San Diego Zoo Global's Family of Sites" src="/sites/all/themes/fold/images/footer_SDZGFamilyOfSites.png" style="width: 945px; height: 13px; border-width: 0pt; border-style: solid;margin-top:10px;" /></p>
+<div id="footerSites"><a href="http://www.sandiegozoo.org">San Diego Zoo</a> <a href="http://www.sdzsafaripark.org">San Diego Zoo Safari Park</a> <a href="http://www.endextinction.org">Wildlife Conservancy</a> <a href="http://institute.sandiegozoo.org">Institute for Conservation Research</a> <a href="http://kids.sandiegozoo.org">San Diego Zoo Kids</a> <a class="footerLast" href="http://sandiegozooglobal.org">SDZ Global</a></div>
+<div id="footerLeft">Sitemap | <a href="http://www.sandiegozoo.org/disclaimers/privacy.html">Privacy Policy</a> | <a href="http://www.sandiegozoo.org/contact/index.html">Contact Us</a></div>
+<div id="footerRight">
+<script type="text/javascript">
+<!--//--><![CDATA[// ><!--
+
+                var mydate= new Date()
+                var theyear=mydate.getFullYear()
+                document.write("&copy; ")
+                document.write(theyear)
+                document.write(" San Diego Zoo Global &#8212;  All Rights Reserved")
+              
+//--><!]]>
+</script></div>
+   </div>
+  
+</div> <!-- /.block -->
+  </div>
+  <div class="clear"></div>
+  </div>
+  <div class="menu-minipanels menu-minipanel-218"><div class="panel-display panel-2col clearfix" id="mini-panel-main_drop_animals">
+  <div class="panel-panel panel-col-first">
+    <div class="inside"><div class="panel-pane pane-panels-mini pane-main-drop-animals-sub1"  >
+  
+        <h2 class="pane-title">
+      Animals A-Z    </h2>
+    
+  
+  <div class="pane-content">
+    <div class="panel-display panel-1col clearfix" id="mini-panel-main_drop_animals_sub1">
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-custom pane-1"  >
+  
+      
+  
+  <div class="pane-content">
+    <table id="Table_01" width="181" height="152" border="0" cellpadding="0" cellspacing="0">
+	<tr height="30">
+		<td height="30"><a href="/animals-a-z#A"><img src="/sites/all/themes/fold/images/AnimalsA-Z_01.png" alt="A" width="29" height="30" border="0"></a></td>
+		<td height="30"><a href="/animals-a-z#B"><img src="/sites/all/themes/fold/images/AnimalsA-Z_02.png" width="31" height="30" alt="B"></a></td>
+		<td height="30"><a href="/animals-a-z#C"><img src="/sites/all/themes/fold/images/AnimalsA-Z_03.png" alt="C" width="30" height="30" border="0"></a></td>
+		<td height="30"><a href="/animals-a-z#D"><img src="/sites/all/themes/fold/images/AnimalsA-Z_04.png" width="30" height="30" alt="D" border="0"></a></td>
+		<td height="30"><a href="/animals-a-z#E"><img src="/sites/all/themes/fold/images/AnimalsA-Z_05.png" width="30" height="30" alt="E" border="0"></a></td>
+		<td height="30"><a href="/animals-a-z#F"><img src="/sites/all/themes/fold/images/AnimalsA-Z_06.png" width="31" height="30" alt="F" border="0"></a></td>
+	</tr>
+	<tr height="30">
+		<td height="30"><a href="/animals-a-z#G"><img src="/sites/all/themes/fold/images/AnimalsA-Z_07.png" width="29" height="30" alt="G" border="0"></a></td>
+		<td height="30"><a href="/animals-a-z#H"><img src="/sites/all/themes/fold/images/AnimalsA-Z_08.png" width="31" height="30" alt="H" border="0"></a></td>
+		<td height="30">
+			<a href="/animals-a-z#I"><img src="/sites/all/themes/fold/images/AnimalsA-Z_09.png" width="30" height="30" alt="I" border="0"></a></td>
+		<td height="30"><a href="/animals-a-z#J"><img src="/sites/all/themes/fold/images/AnimalsA-Z_10.png" width="30" height="30" alt="J" border="0"></a></td>
+		<td height="30"><a href="/animals-a-z#K"><img src="/sites/all/themes/fold/images/AnimalsA-Z_11.png" width="30" height="30" alt="K" border="0"></a></td>
+		<td height="30"><a href="/animals-a-z#L"><img src="/sites/all/themes/fold/images/AnimalsA-Z_12.png" width="31" height="30" alt="L" border="0"></a></td>
+	</tr>
+	<tr height="30">
+		<td height="30"><a href="/animals-a-z#M"><img src="/sites/all/themes/fold/images/AnimalsA-Z_13.png" width="29" height="30" alt="M" border="0"></a></td>
+		<td height="30"><a href="/animals-a-z#N"><img src="/sites/all/themes/fold/images/AnimalsA-Z_14.png" width="31" height="30" alt="N" border="0"></a></td>
+		<td height="30"><a href="/animals-a-z#O"><img src="/sites/all/themes/fold/images/AnimalsA-Z_15.png" width="30" height="30" alt="O" border="0"></a></td>
+		<td height="30"><a href="/animals-a-z#P"><img src="/sites/all/themes/fold/images/AnimalsA-Z_16.png" width="30" height="30" alt="P" border="0"></a></td>
+		<td height="30"><a href="/animals-a-z#Q"><img src="/sites/all/themes/fold/images/AnimalsA-Z_17.png" width="30" height="30" alt="Q" border="0"></a></td>
+		<td height="30"><a href="/animals-a-z#R"><img src="/sites/all/themes/fold/images/AnimalsA-Z_18.png" width="31" height="30" alt="R" border="0"></a></td>
+	</tr>
+	<tr height="30">
+		<td height="30"><a href="/animals-a-z#S"><img src="/sites/all/themes/fold/images/AnimalsA-Z_19.png" width="29" height="31" alt="S" border="0"></a></td>
+		<td height="30"><a href="/animals-a-z#T"><img src="/sites/all/themes/fold/images/AnimalsA-Z_20.png" width="31" height="31" alt="T" border="0"></a></td>
+		<td height="30"><a href="/animals-a-z#U"><img src="/sites/all/themes/fold/images/AnimalsA-Z_21.png" width="30" height="31" alt="U" border="0"></a></td>
+		<td height="30"><a href="/animals-a-z#V"><img src="/sites/all/themes/fold/images/AnimalsA-Z_22.png" width="30" height="31" alt="V" border="0"></a></td>
+		<td height="30"><a href="/animals-a-z#W"><img src="/sites/all/themes/fold/images/AnimalsA-Z_23.png" width="30" height="31" alt="W" border="0"></a></td>
+		<td height="30"><a href="/animals-a-z#X"><img src="/sites/all/themes/fold/images/AnimalsA-Z_24.png" width="31" height="31" alt="X" border="0"></a></td>
+	</tr>
+	<tr height="30">
+		<td height="30"><a href="/animals-a-z#Y"><img src="/sites/all/themes/fold/images/AnimalsA-Z_25.png" width="29" height="31" alt="Y" border="0"></a></td>
+		<td height="30"><a href="/animals-a-z#Z"><img src="/sites/all/themes/fold/images/AnimalsA-Z_26.png" width="31" height="31" alt="Z" border="0"></a></td>
+		<td height="30"><img src="/sites/all/themes/fold/images/AnimalsA-Z_27.png" width="30" height="31" alt="" border="0"></td>
+		<td height="30"><img src="/sites/all/themes/fold/images/AnimalsA-Z_28.png" width="30" height="31" alt="" border="0"></td>
+		<td height="30"><img src="/sites/all/themes/fold/images/AnimalsA-Z_29.png" width="30" height="31" alt="" border="0"></td>
+		<td height="30"><img src="/sites/all/themes/fold/images/AnimalsA-Z_30.png" width="31" height="31" alt="" border="0"></td>
+	</tr>
+</table>
+  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+  </div>
+
+  
+  </div>
+</div>
+  </div>
+
+  <div class="panel-panel panel-col-last">
+    <div class="inside"><div class="panel-pane pane-panels-mini pane-main-drop-animals-sub2"  >
+  
+      
+  
+  <div class="pane-content">
+    
+<div class="panel-display panel-3col-33 clearfix" id="mini-panel-main_drop_animals_sub2-1">
+  <div class="panel-panel panel-col-first">
+    <div class="inside"><div class="panel-pane pane-block pane-menu-menu-animals"  >
+  
+        <h2 class="pane-title">
+      Animals    </h2>
+    
+  
+  <div class="pane-content">
+    <ul class="menu"><li class="first leaf"><a href="/content/amphibians" title="">Amphibians</a></li>
+<li class="leaf"><a href="/content/birds" title="">Birds</a></li>
+<li class="leaf"><a href="/content/arthropods" title="">Insects &amp; Spiders</a></li>
+<li class="leaf"><a href="/content/mammals" title="">Mammals</a></li>
+<li class="last leaf"><a href="/content/reptiles" title="">Reptiles</a></li>
+</ul>  </div>
+
+  
+  </div>
+</div>
+  </div>
+
+  <div class="panel-panel panel-col">
+    <div class="inside"><div class="panel-pane pane-block pane-menu-menu-habitats"  >
+  
+        <h2 class="pane-title">
+      Habitats    </h2>
+    
+  
+  <div class="pane-content">
+    <ul class="menu"><li class="first leaf"><a href="/habitats/desert" title="">Desert</a></li>
+<li class="leaf"><a href="/habitats/island" title="">Island</a></li>
+<li class="leaf"><a href="/habitats/ocean-coastline" title="">Ocean &amp; Coastline</a></li>
+<li class="leaf"><a href="/habitats/prairie-steppes" title="">Prairie &amp; Steppes</a></li>
+<li class="leaf"><a href="/habitats/rivers-lakes-wetlands" title="">River, Lake, &amp; Wetlands</a></li>
+<li class="leaf"><a href="/habitats/savanna" title="">Savanna</a></li>
+<li class="leaf"><a href="/habitats/scrubland" title="">Scrubland</a></li>
+<li class="leaf"><a href="/habitats/temperate-forest-taiga" title="">Temperate Forest &amp; Taiga</a></li>
+<li class="leaf"><a href="/habitats/tropical-rain-forest" title="">Tropical Rain Forest</a></li>
+<li class="last leaf"><a href="/habitats/tundra" title="">Tundra</a></li>
+</ul>  </div>
+
+  
+  </div>
+</div>
+  </div>
+
+  <div class="panel-panel panel-col-last">
+    <div class="inside"><div class="panel-pane pane-block pane-menu-menu-regions"  >
+  
+        <h2 class="pane-title">
+      Regions    </h2>
+    
+  
+  <div class="pane-content">
+    <ul class="menu"><li class="first leaf"><a href="/regions/africa" title="">Africa</a></li>
+<li class="leaf"><a href="/regions/asia" title="">Asia</a></li>
+<li class="leaf"><a href="/regions/australia" title="">Australia</a></li>
+<li class="leaf"><a href="/regions/central-america-caribbean" title="">Central America &amp; Caribbean</a></li>
+<li class="leaf"><a href="/regions/europe" title="">Europe</a></li>
+<li class="leaf"><a href="/regions/north-america" title="">North America</a></li>
+<li class="leaf"><a href="/regions/pacific-islands" title="">Pacific Islands</a></li>
+<li class="last leaf"><a href="/regions/south-america" title="">South America</a></li>
+</ul>  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+</div><div class="menu-minipanels menu-minipanel-814"><div class="panel-display panel-2col clearfix" id="mini-panel-main_drop_live_cams">
+  <div class="panel-panel panel-col-first">
+    <div class="inside"><div class="panel-pane pane-panels-mini pane-main-drop-live-cams-1-2-3"  >
+  
+      
+  
+  <div class="pane-content">
+    
+<div class="panel-display panel-3col-33 clearfix" id="mini-panel-main_drop_live_cams_1_2_3">
+  <div class="panel-panel panel-col-first">
+    <div class="inside"><div class="panel-pane pane-custom pane-2"  >
+  
+      
+  
+  <div class="pane-content">
+     <p><a href="/animals/orangutan"><img src="/sites/all/themes/fold/images/nav-cams-apecam.jpg" border="0" width="144" height="98" /></a><br /><a href="/animals/orangutan">Ape Cam</a><br /><em>San Diego Zoo</em></p>
+   </div>
+
+  
+  </div>
+</div>
+  </div>
+
+  <div class="panel-panel panel-col">
+    <div class="inside"><div class="panel-pane pane-custom pane-3"  >
+  
+      
+  
+  <div class="pane-content">
+     <p><a href="/animals/california-condor"><img src="/sites/all/themes/fold/images/nav-cams-condorcam.jpg" border="0" width="144" height="98" /></a><br /><a href="/animals/california-condor">California Condor Cam</a><br /><em>Safari Park</em></p>
+   </div>
+
+  
+  </div>
+</div>
+  </div>
+
+  <div class="panel-panel panel-col-last">
+    <div class="inside"><div class="panel-pane pane-custom pane-4"  >
+  
+      
+  
+  <div class="pane-content">
+     <p><a href="/animals/elephant"><img src="/sites/all/themes/fold/images/nav-cams-elephantcam.jpg" border="0" width="144" height="98" /></a><br /><a href="/animals/elephant">Elephant Cam</a><br /><em>Safari Park</em></p>
+   </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+  </div>
+
+  
+  </div>
+</div>
+  </div>
+
+  <div class="panel-panel panel-col-last">
+    <div class="inside"><div class="panel-pane pane-panels-mini pane-clone-of-main-drop-live-cams-1-2-3"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="panel-display panel-2col clearfix" id="mini-panel-clone_of_main_drop_live_cams_1_2_3">
+  <div class="panel-panel panel-col-first">
+    <div class="inside"><div class="panel-pane pane-custom pane-5"  >
+  
+      
+  
+  <div class="pane-content">
+     <p><a href="/animals/giant-panda"><img src="/sites/all/themes/fold/images/nav-cams-pandacam.jpg" border="0" width="144" height="98" /></a><br /><a href="/animals/giant-panda">Panda Cam</a><br /><em>San Diego Zoo</em></p>
+   </div>
+
+  
+  </div>
+</div>
+  </div>
+
+  <div class="panel-panel panel-col-last">
+    <div class="inside"><div class="panel-pane pane-custom pane-6"  >
+  
+      
+  
+  <div class="pane-content">
+     <p><a href="/animals/polar-bear"><img src="/sites/all/themes/fold/images/nav-cams-polarcam.jpg" border="0" width="144" height="98" /></a><br /><a href="/animals/polar-bear">Polar Bear Cam</a><br /><em>San Diego Zoo</em></p>
+   </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+</div><div class="menu-minipanels menu-minipanel-2928"><div class="panel-display panel-1col clearfix" id="mini-panel-home_cams_panda_cam">
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-block pane-block-22"  >
+  
+      
+  
+  <div class="pane-content">
+     <p><a href="node/62" border="0"><img src="/sites/all/themes/fold/images/homeCamsPandacam.jpg" /></a></p>
+   </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+</div><div class="menu-minipanels menu-minipanel-2929"><div class="panel-display panel-1col clearfix" id="mini-panel-home_cams_polar_cam">
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-block pane-block-24"  >
+  
+      
+  
+  <div class="pane-content">
+     <p><a href="node/64" border="0"><img src="/sites/all/themes/fold/images/homeCamsPolarcam.jpg" /></a></p>
+   </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+</div><div class="menu-minipanels menu-minipanel-2930"><div class="panel-display panel-1col clearfix" id="mini-panel-home_cams_ape_cam">
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-block pane-block-23"  >
+  
+      
+  
+  <div class="pane-content">
+     <p><a href="node/76" border="0"><img src="/sites/all/themes/fold/images/homeCamsApecam.jpg" /></a></p>
+   </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+</div><div class="menu-minipanels menu-minipanel-2931"><div class="panel-display panel-1col clearfix" id="mini-panel-home_cams_elephant_cam">
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-block pane-block-25"  >
+  
+      
+  
+  <div class="pane-content">
+     <p><a href="node/77" border="0"><img src="/sites/all/themes/fold/images/homeCamsElephantcam.jpg" /></a></p>
+   </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+</div><div class="menu-minipanels menu-minipanel-2932"><div class="panel-display panel-1col clearfix" id="mini-panel-home_cams_condor_cam">
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-block pane-block-26"  >
+  
+      
+  
+  <div class="pane-content">
+     <p><a href="node/75" border="0"><img src="/sites/all/themes/fold/images/homeCamsCondorcam.jpg" /></a></p>
+   </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+</div><script type="text/javascript" src="http://animals.sandiegozoo.org/sites/all/modules/menu_minipanels/js/menu_minipanels.js?oep4l9"></script>
+<script type="text/javascript" src="http://animals.sandiegozoo.org/sites/all/libraries/qtip/jquery.qtip-1.0.0-rc3.min.js?oep4l9"></script>
+</body>
+<script language="JavaScript" type="text/javascript" src="/central/js/purl/purl.js"></script>
+<!-- SITECATALYST BEGINS -->
+<script language="JavaScript" type="text/javascript" src="/central/js/omniture/sitecode/s_code.js"></script>
+<script language="JavaScript" type="text/javascript" src="/central/js/omniture/sitecat_page_include.js"></script>
+<!-- SITECATALYST ENDS -->
+</html>

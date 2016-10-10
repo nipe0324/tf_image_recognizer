@@ -8,11 +8,9 @@ require_relative './image_processor'
 
 # Process your images to CIFAR-10 binary
 #
-# [Usage] ./image_processor/processor.rb -s ./data/raw -o ./data/input -i 32
+# [Usage] ./image_processor/processor.rb -s ./data/raw/google -o ./data/input -i 32
 #
 class Processor < Thor
-  IMAGE_SIZE = 32
-
   default_command :execute
 
   desc 'Processor', 'Process your images to CIFAR-10 binary'
@@ -20,9 +18,9 @@ class Processor < Thor
   option :out_dir,  type: :string,  aliases: '-o', desc: 'Out dir'
   option :image_size, type: :string,  aliases: '-i', desc: 'Image size (width = height)'
   def execute
-    src_dir = options[:src_dir]
-    out_dir = options[:out_dir]
-    image_size = options.fetch(:image_size, 32).to_i
+    src_dir = options['src_dir']
+    out_dir = options['out_dir']
+    image_size = options.fetch('image_size', 32).to_i
 
     puts "Start Image Processor"
     processor = ImageProcessor.new(src_dir, out_dir, image_size)

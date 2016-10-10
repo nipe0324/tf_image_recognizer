@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<!--[if IE 6]><html
+id="ie6" lang="en" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if IE 7]><html
+id="ie7" lang="en" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if IE 8]><html
+id="ie8" lang="en" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!--><html
+lang="en" prefix="og: http://ogp.me/ns#">
+<!--<![endif]--><head><meta
+charset="UTF-8" /><link
+rel="pingback" href="http://www.canadogs.ca/xmlrpc.php" /><!--[if lt IE 9]> <script src="http://www.canadogs.ca/wp-content/themes/Divi/js/html5.js" type="text/javascript"></script> <![endif]--> <script type="text/javascript">document.documentElement.className='js';</script> <title>Dog Breeders in Canada - CanaDogs</title><meta
+name="description" content="Welcome to the number one source of dog information in Canada.  Find dog breeders, trainers, handlers, groomer, and boarding kennels. Learn about dog breeds."/><meta
+name="robots" content="noodp"/><link
+rel="canonical" href="http://www.canadogs.ca/" /><meta
+property="og:locale" content="en_US" /><meta
+property="og:type" content="website" /><meta
+property="og:title" content="Dog Breeders in Canada - CanaDogs" /><meta
+property="og:description" content="Welcome to the number one source of dog information in Canada.  Find dog breeders, trainers, handlers, groomer, and boarding kennels. Learn about dog breeds." /><meta
+property="og:url" content="http://www.canadogs.ca/" /><meta
+property="og:site_name" content="CanaDogs" /><meta
+property="og:image" content="http://www.canadogs.ca/wp-content/uploads/2015/05/facebook_icon-collar.png" /><meta
+property="og:image" content="http://www.canadogs.ca/wp-content/uploads/2016/02/Join200-150x150.png" /><meta
+property="og:image" content="http://www.canadogs.ca/wp-content/uploads/2016/02/Poppy-e1456953639436.gif" /><meta
+name="twitter:card" content="summary" /><meta
+name="twitter:description" content="Welcome to the number one source of dog information in Canada.  Find dog breeders, trainers, handlers, groomer, and boarding kennels. Learn about dog breeds." /><meta
+name="twitter:title" content="Dog Breeders in Canada - CanaDogs" /><meta
+name="twitter:image" content="http://www.canadogs.ca/wp-content/uploads/2015/05/facebook_icon-collar.png" /> <script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/www.canadogs.ca\/","name":"CanaDogs","potentialAction":{"@type":"SearchAction","target":"http:\/\/www.canadogs.ca\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script> <link
+rel='dns-prefetch' href='//fonts.googleapis.com' /><link
+rel='dns-prefetch' href='//s.w.org' /><link
+rel="alternate" type="application/rss+xml" title="CanaDogs &raquo; Feed" href="http://www.canadogs.ca/feed/" /><link
+rel="alternate" type="application/rss+xml" title="CanaDogs &raquo; Comments Feed" href="http://www.canadogs.ca/comments/feed/" /><link
+rel="alternate" type="application/rss+xml" title="CanaDogs &raquo; Dog Breeds in Canada Comments Feed" href="http://www.canadogs.ca/dog-breeds-canada-2/feed/" /> <script type="text/javascript">window._wpemojiSettings={"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.canadogs.ca\/wp-includes\/js\/wp-emoji-release.min.js?ver=c971e27cbb358760d2698e2551ff6490"}};!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);</script> <meta
+content="Divi v.3.0.9" name="generator"/><style type="text/css">img.wp-smiley,img.emoji{display:inline !important;border:none !important;box-shadow:none !important;height:1em !important;width:1em !important;margin:0
+.07em !important;vertical-align:-0.1em !important;background:none !important;padding:0
+!important}</style><link
+rel='stylesheet' id='contact-form-7-css'  href='http://www.canadogs.ca/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.5.1' type='text/css' media='all' /><link
+rel='stylesheet' id='css3_vertical_table_font_sans_narrow-css'  href='http://fonts.googleapis.com/css?family=PT+Sans+Narrow&#038;ver=c971e27cbb358760d2698e2551ff6490' type='text/css' media='all' /><link
+rel='stylesheet' id='css3_vertical_table_font_sans_condensed-css'  href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed%3A300&#038;ver=c971e27cbb358760d2698e2551ff6490' type='text/css' media='all' /><link
+rel='stylesheet' id='css3_table_style-css'  href='http://www.canadogs.ca/wp-content/plugins/css3_vertical_web_pricing_tables/style/css3_table_style.css?ver=c971e27cbb358760d2698e2551ff6490' type='text/css' media='all' /><link
+rel='stylesheet' id='wtfdivi-user-css-css'  href='http://www.canadogs.ca/wp-content/uploads/wtfdivi/wp_head.css?1459231446&#038;ver=c971e27cbb358760d2698e2551ff6490' type='text/css' media='all' /><link
+rel='stylesheet' id='send-link-to-friend-css'  href='http://www.canadogs.ca/wp-content/plugins/send-link-to-friend/style.css?ver=c971e27cbb358760d2698e2551ff6490' type='text/css' media='all' /><link
+rel='stylesheet' id='divi-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&#038;subset=latin,latin-ext' type='text/css' media='all' /><link
+rel='stylesheet' id='divi-style-css'  href='http://www.canadogs.ca/wp-content/themes/Divi/style.css?ver=3.0.9' type='text/css' media='all' /><link
+rel='stylesheet' id='tablepress-default-css'  href='http://www.canadogs.ca/wp-content/tablepress-combined.min.css?ver=80' type='text/css' media='all' /><link
+rel='stylesheet' id='et-shortcodes-css-css'  href='http://www.canadogs.ca/wp-content/themes/Divi/epanel/shortcodes/css/shortcodes.css?ver=3.0.9' type='text/css' media='all' /><link
+rel='stylesheet' id='et-shortcodes-responsive-css-css'  href='http://www.canadogs.ca/wp-content/themes/Divi/epanel/shortcodes/css/shortcodes_responsive.css?ver=3.0.9' type='text/css' media='all' /><link
+rel='stylesheet' id='magnific-popup-css'  href='http://www.canadogs.ca/wp-content/themes/Divi/includes/builder/styles/magnific_popup.css?ver=3.0.9' type='text/css' media='all' /> <script type="text/javascript">(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');__gaTracker('create','UA-75595705-1','auto');__gaTracker('set','forceSSL',true);__gaTracker('send','pageview');</script> <script type='text/javascript' src='http://www.canadogs.ca/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script> <script type='text/javascript' src='http://www.canadogs.ca/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script> <script type='text/javascript' src='http://www.canadogs.ca/wp-content/plugins/send-link-to-friend/send-link-to-friend.js?ver=c971e27cbb358760d2698e2551ff6490'></script> <link
+rel='https://api.w.org/' href='http://www.canadogs.ca/wp-json/' /><link
+rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.canadogs.ca/xmlrpc.php?rsd" /><link
+rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.canadogs.ca/wp-includes/wlwmanifest.xml" /><link
+rel='shortlink' href='http://www.canadogs.ca/' /><link
+rel="alternate" type="application/json+oembed" href="http://www.canadogs.ca/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.canadogs.ca%2F" /><link
+rel="alternate" type="text/xml+oembed" href="http://www.canadogs.ca/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.canadogs.ca%2F&#038;format=xml" /><style>.db_pb_team_member_website_icon:before{content:"\e0e3"}</style><style>#et_builder_outer_content .db_pb_button_2,.db_pb_button_2{margin-left:30px}</style><script type="text/javascript">(function(url){if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){return;}
+var addEvent=function(evt,handler){if(window.addEventListener){document.addEventListener(evt,handler,false);}else if(window.attachEvent){document.attachEvent('on'+evt,handler);}};var removeEvent=function(evt,handler){if(window.removeEventListener){document.removeEventListener(evt,handler,false);}else if(window.detachEvent){document.detachEvent('on'+evt,handler);}};var evts='contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');var logHuman=function(){var wfscr=document.createElement('script');wfscr.type='text/javascript';wfscr.async=true;wfscr.src=url+'&r='+Math.random();(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);for(var i=0;i<evts.length;i++){removeEvent(evts[i],logHuman);}};for(var i=0;i<evts.length;i++){addEvent(evts[i],logHuman);}})('//www.canadogs.ca/?wordfence_logHuman=1&hid=27B97C2FD0B3CDC980E20CC16A42C8BC');</script><meta
+name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" /><style id="theme-customizer-css">body{color:#fff}body{line-height:1.3em}.woocommerce #respond input#submit, .woocommerce-page #respond input#submit, .woocommerce #content input.button, .woocommerce-page #content input.button,.woocommerce-message,.woocommerce-error,.woocommerce-info{background:#1b8749 !important}#et_search_icon:hover, .mobile_menu_bar:before, .mobile_menu_bar:after, .et_toggle_slide_menu:after, .et-social-icon a:hover, .et_pb_sum, .et_pb_pricing li a, .et_pb_pricing_table_button, .et_overlay:before, .entry-summary p.price ins, .woocommerce div.product span.price, .woocommerce-page div.product span.price, .woocommerce #content div.product span.price, .woocommerce-page #content div.product span.price, .woocommerce div.product p.price, .woocommerce-page div.product p.price, .woocommerce #content div.product p.price, .woocommerce-page #content div.product p.price, .et_pb_member_social_links a:hover, .woocommerce .star-rating span:before, .woocommerce-page .star-rating span:before, .et_pb_widget li a:hover, .et_pb_filterable_portfolio .et_pb_portfolio_filters li a.active, .et_pb_filterable_portfolio .et_pb_portofolio_pagination ul li a.active, .et_pb_gallery .et_pb_gallery_pagination ul li a.active, .wp-pagenavi span.current, .wp-pagenavi a:hover, .nav-single a, .posted_in
+a{color:#1b8749}.et_pb_contact_submit, .et_password_protected_form .et_submit_button, .et_pb_bg_layout_light .et_pb_newsletter_button, .comment-reply-link, .form-submit input, .et_pb_bg_layout_light .et_pb_promo_button, .et_pb_bg_layout_light .et_pb_more_button, .woocommerce a.button.alt, .woocommerce-page a.button.alt, .woocommerce button.button.alt, .woocommerce-page button.button.alt, .woocommerce input.button.alt, .woocommerce-page input.button.alt, .woocommerce #respond input#submit.alt, .woocommerce-page #respond input#submit.alt, .woocommerce #content input.button.alt, .woocommerce-page #content input.button.alt, .woocommerce a.button, .woocommerce-page a.button, .woocommerce button.button, .woocommerce-page button.button, .woocommerce input.button, .woocommerce-page
+input.button{color:#1b8749}.footer-widget
+h4{color:#1b8749}.et-search-form, .nav li ul, .et_mobile_menu, .footer-widget li:before, .et_pb_pricing li:before,blockquote{border-color:#1b8749}.et_pb_counter_amount, .et_pb_featured_table .et_pb_pricing_heading,.et_quote_content,.et_link_content,.et_audio_content,.et_pb_post_slider.et_pb_bg_layout_dark,.et_slide_in_menu_container{background-color:#1b8749}a{color:#008000}#main-header, #main-header .nav li ul, .et-search-form, #main-header
+.et_mobile_menu{background-color:#bc0c00}#main-header .nav li
+ul{background-color:#8c1200}#top-header, #et-secondary-nav li
+ul{background-color:#000}#top-header, #top-header
+a{color:#26b55f}.et_header_style_centered .mobile_nav .select_page, .et_header_style_split .mobile_nav .select_page, .et_nav_text_color_light #top-menu > li > a, .et_nav_text_color_dark #top-menu > li > a, #top-menu a, .et_mobile_menu li a, .et_nav_text_color_light .et_mobile_menu li a, .et_nav_text_color_dark .et_mobile_menu li a, #et_search_icon:before, .et_search_form_container input, span.et_close_search_field:after, #et-top-navigation .et-cart-info{color:#fff}.et_search_form_container input::-moz-placeholder{color:#fff}.et_search_form_container input::-webkit-input-placeholder{color:#fff}.et_search_form_container input:-ms-input-placeholder{color:#fff}#top-header, #top-header a, #et-secondary-nav li li a, #top-header .et-social-icon a:before{font-size:14px;font-weight:bold;font-style:normal;text-transform:none;text-decoration:none}#top-menu li a, .et_search_form_container
+input{font-weight:bold;font-style:normal;text-transform:none;text-decoration:none}.et_search_form_container input::-moz-placeholder{font-weight:bold;font-style:normal;text-transform:none;text-decoration:none}.et_search_form_container input::-webkit-input-placeholder{font-weight:bold;font-style:normal;text-transform:none;text-decoration:none}.et_search_form_container input:-ms-input-placeholder{font-weight:bold;font-style:normal;text-transform:none;text-decoration:none}#top-menu li.current-menu-ancestor > a, #top-menu li.current-menu-item > a,
+.et_color_scheme_red #top-menu li.current-menu-ancestor > a, .et_color_scheme_red #top-menu li.current-menu-item > a,
+.et_color_scheme_pink #top-menu li.current-menu-ancestor > a, .et_color_scheme_pink #top-menu li.current-menu-item > a,
+.et_color_scheme_orange #top-menu li.current-menu-ancestor > a, .et_color_scheme_orange #top-menu li.current-menu-item > a,
+.et_color_scheme_green #top-menu li.current-menu-ancestor > a, .et_color_scheme_green #top-menu li.current-menu-item>a{color:#26b55f}#main-footer .footer-widget
+h4{color:#1b8749}.footer-widget li:before{border-color:#1b8749}.footer-widget, .footer-widget li, .footer-widget li a,#footer-info{font-size:12px}.footer-widget .et_pb_widget div, .footer-widget .et_pb_widget ul, .footer-widget .et_pb_widget ol, .footer-widget .et_pb_widget
+label{line-height:1.2em }#footer-widgets .footer-widget li:before{top:4.2px}#et-footer-nav .bottom-nav li.current-menu-item
+a{color:#26b55f}#footer-bottom .et-social-icon
+a{color:#1b8749}@media only screen and ( min-width: 981px ){.et_pb_section{padding:0% 0}.et_pb_section.et_pb_section_first{padding-top:inherit}.et_pb_fullwidth_section{padding:0}.et_pb_row{padding:1% 0}.footer-widget
+h4{font-size:16px}.et_header_style_left #et-top-navigation, .et_header_style_split #et-top-navigation{padding:22px
+0 0 0}.et_header_style_left #et-top-navigation nav > ul > li > a, .et_header_style_split #et-top-navigation nav>ul>li>a{padding-bottom:22px}.et_header_style_split .centered-inline-logo-wrap{width:44px;margin:-44px 0}.et_header_style_split .centered-inline-logo-wrap
+#logo{max-height:44px}.et_pb_svg_logo.et_header_style_split .centered-inline-logo-wrap
+#logo{height:44px}.et_header_style_centered #top-menu>li>a{padding-bottom:8px}.et_header_style_slide #et-top-navigation, .et_header_style_fullscreen #et-top-navigation{padding:13px
+0 13px 0 !important}.et_header_style_centered #main-header
+.logo_container{height:44px}.et_header_style_centered.et_hide_primary_logo #main-header:not(.et-fixed-header) .logo_container, .et_header_style_centered.et_hide_fixed_logo #main-header.et-fixed-header
+.logo_container{height:7.92px}.et_header_style_left .et-fixed-header #et-top-navigation, .et_header_style_split .et-fixed-header #et-top-navigation{padding:22px
+0 0 0}.et_header_style_left .et-fixed-header #et-top-navigation nav > ul > li > a, .et_header_style_split .et-fixed-header #et-top-navigation nav>ul>li>a{padding-bottom:22px}.et_header_style_centered header#main-header.et-fixed-header
+.logo_container{height:44px}.et_header_style_split .et-fixed-header .centered-inline-logo-wrap{width:44px;margin:-44px 0}.et_header_style_split .et-fixed-header .centered-inline-logo-wrap
+#logo{max-height:44px}.et_pb_svg_logo.et_header_style_split .et-fixed-header .centered-inline-logo-wrap
+#logo{height:44px}.et_header_style_slide .et-fixed-header #et-top-navigation, .et_header_style_fullscreen .et-fixed-header #et-top-navigation{padding:13px
+0 13px 0 !important}.et_header_style_split .centered-inline-logo-wrap{width:auto;height:33.36px}.et_header_style_split .et-fixed-header .centered-inline-logo-wrap{width:auto;height:33.36px}.et_header_style_split .centered-inline-logo-wrap #logo,
+.et_header_style_split .et-fixed-header .centered-inline-logo-wrap
+#logo{height:auto;max-height:100%}.et-fixed-header#top-header, .et-fixed-header#top-header #et-secondary-nav li
+ul{background-color:#000}.et-fixed-header #top-menu a, .et-fixed-header #et_search_icon:before, .et-fixed-header #et_top_search .et-search-form input, .et-fixed-header .et_search_form_container input, .et-fixed-header .et_close_search_field:after, .et-fixed-header #et-top-navigation .et-cart-info{color:#fff !important}.et-fixed-header .et_search_form_container input::-moz-placeholder{color:#fff !important}.et-fixed-header .et_search_form_container input::-webkit-input-placeholder{color:#fff !important}.et-fixed-header .et_search_form_container input:-ms-input-placeholder{color:#fff !important}.et-fixed-header #top-menu li.current-menu-ancestor > a,
+.et-fixed-header #top-menu li.current-menu-item>a{color:#26b55f !important}}@media only screen and ( min-width: 1350px){.et_pb_row{padding:13px
+0}.et_pb_section{padding:0px
+0}.single.et_pb_pagebuilder_layout.et_full_width_page
+.et_post_meta_wrapper{padding-top:40px}.et_pb_section.et_pb_section_first{padding-top:inherit}.et_pb_fullwidth_section{padding:0}}@media only screen and ( max-width: 980px ){}@media only screen and ( max-width: 767px ){}</style><style id="module-customizer-css"></style><link
+rel="shortcut icon" href="http://www.canadogs.ca/wp-content/uploads/2016/02/canadogs.ico" /><style type="text/css">.broken_link,a.broken_link{text-decoration:line-through}</style><style type="text/css" id="custom-background-css">body.custom-background{background-color:#1b8749}</style><meta
+name="google-site-verification" content="uz5VVIc6z-t26AWDd_Cf-Uf4oMqe-hImXoaYo3M8F0I" /> <script type="text/javascript">jQuery(document).ready(function(){jQuery(".et-extra-social-icon a").attr("target","_blank");});</script><style type="text/css" id="et-custom-css">#page-container{padding-top:5px}#footer-widgets{padding-top:10px}/*
+#sidebar{background:none !important}</style></head><body
+class="home page page-id-6 page-template-default custom-background desktop et_pb_button_helper_class et_fullwidth_nav et_fixed_nav et_boxed_layout et_show_nav et_secondary_nav_enabled et_secondary_nav_only_menu et_pb_gutter et_pb_gutters2 et_primary_nav_dropdown_animation_flip et_secondary_nav_dropdown_animation_fade et_pb_footer_columns1 et_header_style_split et_pb_pagebuilder_layout et_right_sidebar et_divi_theme unknown"><div
+id="page-container"><div
+id="top-header"><div
+class="container clearfix"><div
+id="et-secondary-menu"><ul
+id="et-secondary-nav" class="menu"><li
+class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2971"><a
+href="http://www.canadogs.ca/allergies/">Allergies</a></li><li
+class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2970"><a
+href="http://www.canadogs.ca/how-to-buy-a-puppy/">Buying a Dog</a></li><li
+class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2969"><a
+href="http://www.canadogs.ca/protecting-your-dog-in-a-disaster/">Disaster Proofing</a></li><li
+class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3914"><a
+href="http://www.canadogs.ca/contact-us/">Contact Us</a></li></ul></div></div></div>
+<header
+id="main-header" data-height-onload="44"><div
+class="container clearfix et_menu_container"><div
+class="logo_container">
+<span
+class="logo_helper"></span>
+<a
+href="http://www.canadogs.ca/">
+<img
+src="http://www.canadogs.ca/wp-content/uploads/2016/02/Green-paw.png" alt="CanaDogs" id="logo" data-height-percentage="44" />
+</a></div><div
+id="et-top-navigation" data-height="44" data-fixed-height="44">
+<nav
+id="top-menu-nav"><ul
+id="top-menu" class="nav"><li
+id="menu-item-1960" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-6 current_page_item menu-item-1960"><a
+href="http://www.canadogs.ca/">Go Home</a></li><li
+id="menu-item-2191" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2191"><a
+href="http://canadogs.ca/breed-list">Breed List</a></li><li
+id="menu-item-2498" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2498"><a
+href="http://www.canadogs.ca/advertising/">Join Us!</a></li><li
+id="menu-item-3581" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3581"><a
+href="http://www.canadogs.ca/fun-stuff/">Fun Stuff</a></li><li
+id="menu-item-2688" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2688"><a
+href="http://www.canadogs.ca/dog-shop/">Shop CanaDogs</a></li><li
+id="menu-item-3438" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3438"><a
+href="http://www.canadogs.ca/trainers/">Trainers</a></li><li
+id="menu-item-3379" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3379"><a
+href="http://www.canadogs.ca/handlers/">Handlers</a></li><li
+id="menu-item-3182" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3182"><a
+href="http://www.canadogs.ca/groomers/">Groomers</a></li><li
+id="menu-item-3166" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3166"><a
+href="http://www.canadogs.ca/boarding-kennel/">Boarding Kennels</a></li><li
+id="menu-item-3123" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3123"><a
+href="http://www.canadogs.ca/rescue/">Rescue</a></li></ul>						</nav><div
+id="et_top_search">
+<span
+id="et_search_icon"></span></div><div
+id="et_mobile_nav_menu"><div
+class="mobile_nav closed">
+<span
+class="select_page">Select Page</span>
+<span
+class="mobile_menu_bar mobile_menu_bar_toggle"></span></div></div></div></div><div
+class="et_search_outer"><div
+class="container et_search_form_container"><form
+role="search" method="get" class="et-search-form" action="http://www.canadogs.ca/">
+<input
+type="search" class="et-search-field" placeholder="Search &hellip;" value="" name="s" title="Search for:" /></form>
+<span
+class="et_close_search_field"></span></div></div>
+</header><div
+id="et-main-area"><div
+id="main-content">
+<article
+id="post-6" class="post-6 page type-page status-publish hentry"><div
+class="entry-content"><div
+class="et_pb_section  et_pb_section_0 et_pb_with_background et_section_regular"><div
+class=" et_pb_row et_pb_row_0 et_pb_gutters2"><div
+class="et_pb_column et_pb_column_1_2  et_pb_column_0"><div
+class="et_pb_module et-waypoint et_pb_image et_pb_animation_off et_pb_image_0 et_always_center_on_mobile et_pb_image_sticky">
+<a
+href="http://www.canadogs.ca/wp-content/uploads/2016/03/website-e1459293868281.png" class="et_pb_lightbox_image" title="CanaDogs logo: Canadian dog breeders"><img
+src="http://www.canadogs.ca/wp-content/uploads/2016/03/website-e1459293868281.png" alt="CanaDogs logo: Canadian dog breeders" title="CanaDogs logo" />
+</a></div></div><div
+class="et_pb_column et_pb_column_1_2  et_pb_column_1"><div
+class="et_pb_text et_pb_module et_pb_bg_layout_dark et_pb_text_align_left  et_pb_text_0"><p><a
+href="https://www.facebook.com/canadogs" target="_blank"><img
+class="alignright wp-image-6371 size-full" src="http://www.canadogs.ca/wp-content/uploads/2015/05/facebook_icon-collar.png" alt="facebook_icon-collar CanaDogs" width="85" height="68" /></a></p><h1 style="text-align: center;"><span
+style="color: #ff0000;">Welcome!</span></h1><p
+style="text-align: center;">You&#8217;ve come to Canada&#8217;s number one site for purebred dogs!</p><p>Learn about the many beautiful dog breeds in the world. Check out the hundreds of dog breeders in Canada. Find a dog for you and your lifestyle!</p><p>Need more? We&#8217;ve got obedience trainers, handlers, groomers, and boarding kennels listed too!</p></div></div></div><div
+class=" et_pb_row et_pb_row_1"><div
+class="et_pb_column et_pb_column_4_4  et_pb_column_2"><div
+class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_center  et_pb_text_1"><h1><span
+style="color: #ff0000;">Dog Breeders in Canada</span></h1></div></div></div><div
+class=" et_pb_row et_pb_row_2 et_pb_gutters1"><div
+class="et_pb_column et_pb_column_1_4  et_pb_column_3"><div
+class="et_pb_module et-waypoint et_pb_image et_pb_animation_left et_pb_image_1 et_always_center_on_mobile">
+<a
+href="http://www.canadogs.ca/wp-content/uploads/2016/03/IrishSetterHomePage.jpg" class="et_pb_lightbox_image" title="Irish Setter"><img
+src="http://www.canadogs.ca/wp-content/uploads/2016/03/IrishSetterHomePage.jpg" alt="Irish Setter" title="Irish Setter" />
+</a></div></div><div
+class="et_pb_column et_pb_column_1_4  et_pb_column_4"><div
+class="et_pb_module et-waypoint et_pb_image et_pb_animation_left et_pb_image_2 et_always_center_on_mobile">
+<a
+href="http://www.canadogs.ca/wp-content/uploads/2016/03/BeardedCollieHomePage.jpg" class="et_pb_lightbox_image" title="Bearded Collie"><img
+src="http://www.canadogs.ca/wp-content/uploads/2016/03/BeardedCollieHomePage.jpg" alt="Bearded Collie" title="Bearded Collie courtesy of Rhonda Mousseau, Rhosown" />
+</a></div></div><div
+class="et_pb_column et_pb_column_1_4  et_pb_column_5"><div
+class="et_pb_module et-waypoint et_pb_image et_pb_animation_left et_pb_image_3 et_always_center_on_mobile">
+<a
+href="http://www.canadogs.ca/wp-content/uploads/2016/03/BullmastiffHomePage.jpg" class="et_pb_lightbox_image" title="Bullmastiff puppy"><img
+src="http://www.canadogs.ca/wp-content/uploads/2016/03/BullmastiffHomePage.jpg" alt="Bullmastiff puppy" title="Bullmastiff puppy courtesy of Renee Pollon, AllyRae" />
+</a></div></div><div
+class="et_pb_column et_pb_column_1_4  et_pb_column_6"><div
+class="et_pb_module et-waypoint et_pb_image et_pb_animation_left et_pb_image_4 et_always_center_on_mobile">
+<a
+href="http://www.canadogs.ca/wp-content/uploads/2016/03/HavaneseHomePage.jpg" class="et_pb_lightbox_image" title="Havanese puppy"><img
+src="http://www.canadogs.ca/wp-content/uploads/2016/03/HavaneseHomePage.jpg" alt="Havanese puppy" title="Havanese puppy courtesy of Cathy Enns, Jomarans Reg&#039;d" />
+</a></div></div></div><div
+class=" et_pb_row et_pb_row_3 et_pb_equal_columns et_pb_gutters1"><div
+class="et_pb_column et_pb_column_1_4  et_pb_column_7"><div
+class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left  et_pb_text_2"><p
+style="text-align: center;"><span
+style="color: #008000;"><strong><span
+style="font-size: 14pt;"><a
+style="color: #008000;" href="http://www.canadogs.ca/choosing-a-breed/">Choosing a Breed</a></span></strong></span></p><p
+style="text-align: left;"><span
+style="color: #ffffff;"><a
+style="color: #ffffff;" href="http://www.canadogs.ca/choosing-a-breed/">Every breed belongs to a group of dogs bred for a similar function. </a></span><br
+/>
+<span
+style="color: #ffffff;"> <a
+style="color: #ffffff;" href="http://www.canadogs.ca/choosing-a-breed/"> Which would best suit you and your lifestyle?</a></span></p></div></div><div
+class="et_pb_column et_pb_column_1_4  et_pb_column_8"><div
+class="et_pb_text et_pb_module et_pb_bg_layout_dark et_pb_text_align_left  et_pb_text_3"><p
+style="text-align: center;"><span
+style="color: #008000;"><strong><span
+style="font-size: 14pt;"><a
+href="http://www.canadogs.ca/dog-sports-and-titles/" target="_blank">Dog Sports and Titles</a></span></strong></span></p><p
+style="text-align: left;"><a
+href="http://www.canadogs.ca/dog-sports-and-titles/" target="_blank"><span
+style="color: #ffffff;">Ever seen a dog with all sorts of letters before and after his name? Wonder what they mean?</span></a></p></div></div><div
+class="et_pb_column et_pb_column_1_4  et_pb_column_9"><div
+class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left  et_pb_text_4"><p
+style="text-align: center;"><strong><span
+style="color: #008000;"><span
+style="font-size: 14pt;">Need Help?</span></span></strong></p><ul><li><strong><a
+href="http://www.canadogs.ca/allergies/">Allergies</a></strong></li><li
+style="text-align: left;"><strong><a
+href="http://www.canadogs.ca/how-to-buy-a-puppy/">Buying a Puppy</a></strong></li><li
+style="text-align: left;"><strong><a
+href="http://www.canadogs.ca/protecting-your-dog-in-a-disaster/">Disaster Proofing</a></strong></li><li
+style="text-align: left;"><strong><a
+href="http://www.canadogs.ca/toxic-to-dogs/">Toxic to Dogs</a></strong></li></ul></div></div><div
+class="et_pb_column et_pb_column_1_4  et_pb_column_10"><div
+class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left  et_pb_text_5"><p
+style="text-align: center;"><span
+style="color: #008000;"><strong><span
+style="font-size: 14pt;"><a
+href="http://www.canadogs.ca/store/">The Dog Shop</a></span></strong></span></p><p
+style="text-align: left;"><span
+style="color: #ffffff;"><a
+style="color: #ffffff;" href="http://www.canadogs.ca/store/"> All kinds of products and gadgets from calendars to collars for your dog.</a></span></p></div></div></div><div
+class=" et_pb_row et_pb_row_4"><div
+class="et_pb_column et_pb_column_1_3  et_pb_column_11 et_pb_column_empty"></div><div
+class="et_pb_column et_pb_column_1_3  et_pb_column_12"><div
+class="et_pb_text et_pb_module et_pb_bg_layout_dark et_pb_text_align_center  et_pb_text_6"><p
+style="text-align: center;"><a
+href="http://www.canadogs.ca/advertising/" target="_blank"><span
+style="font-size: 12pt;"><img
+class="size-thumbnail wp-image-3485 aligncenter" src="http://www.canadogs.ca/wp-content/uploads/2016/02/Join200-150x150.png" alt="Join200" width="150" height="150" /></span></a></p></div></div><div
+class="et_pb_column et_pb_column_1_3  et_pb_column_13 et_pb_column_empty"></div></div><div
+class=" et_pb_row et_pb_row_5"><div
+class="et_pb_column et_pb_column_1_3  et_pb_column_14 et_pb_column_empty"></div><div
+class="et_pb_column et_pb_column_1_3  et_pb_column_15"><div
+class="et_pb_module et_pb_space et_pb_divider et_pb_divider_0 et-hide-mobile"></div><div
+class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left  et_pb_text_7"><h3 style="text-align: center;"><span
+style="color: #ff0000;"><strong><a
+href="http://www.canadogs.ca/dedication/" target="_blank"><img
+class=" wp-image-4063 aligncenter" src="http://www.canadogs.ca/wp-content/uploads/2016/02/Poppy-e1456953639436.gif" alt="Poppy" width="142" height="80" /> A Dedication</a></strong></span></h3></div><div
+class="et_pb_module et_pb_space et_pb_divider et_pb_divider_1 et-hide-mobile"></div></div><div
+class="et_pb_column et_pb_column_1_3  et_pb_column_16 et_pb_column_empty"></div></div><div
+class=" et_pb_row et_pb_row_6"><div
+class="et_pb_column et_pb_column_4_4  et_pb_column_17"><div
+class="et_pb_module et_pb_space et_pb_divider_2 et-hide-mobile"></div></div></div></div></div>
+</article></div><span
+class="et_pb_scroll_top et-pb-icon"></span><footer
+id="main-footer"><div
+class="container"><div
+id="footer-widgets" class="clearfix"><div
+class="footer-widget"><div
+id="text-5" class="fwidget et_pb_widget widget_text"><h4 class="title">Disclaimer</h4><div
+class="textwidget">CanaDogs.ca provides a central registry of Canadian dog breeders, handlers, trainers, groomers, and boarding kennels and does not recommend any one of these individuals over another. The purchase or sale of any purebred dog is strictly between the buyer and seller. The terms and conditions of employment are strictly between the service provider and the user of said service. Accuracy of information and claims made in any CanaDogs.ca advertisement are the sole responsibility of the advertiser and CanaDogs.ca cannot be held responsible for any misrepresentation. CanaDogs.ca reserves the right to refuse listings at its sole discretion. CanaDogs.ca is the updated version of CanaDogs.com established in 2000.  This site  revised: February,  2016</div></div></div></div></div><div
+id="et-footer-nav"><div
+class="container"><ul
+id="menu-menu-1" class="bottom-nav"><li
+class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-6 current_page_item menu-item-1960"><a
+href="http://www.canadogs.ca/">Go Home</a></li><li
+class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2191"><a
+href="http://canadogs.ca/breed-list">Breed List</a></li><li
+class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2498"><a
+href="http://www.canadogs.ca/advertising/">Join Us!</a></li><li
+class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3581"><a
+href="http://www.canadogs.ca/fun-stuff/">Fun Stuff</a></li><li
+class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2688"><a
+href="http://www.canadogs.ca/dog-shop/">Shop CanaDogs</a></li><li
+class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3438"><a
+href="http://www.canadogs.ca/trainers/">Trainers</a></li><li
+class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3379"><a
+href="http://www.canadogs.ca/handlers/">Handlers</a></li><li
+class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3182"><a
+href="http://www.canadogs.ca/groomers/">Groomers</a></li><li
+class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3166"><a
+href="http://www.canadogs.ca/boarding-kennel/">Boarding Kennels</a></li><li
+class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3123"><a
+href="http://www.canadogs.ca/rescue/">Rescue</a></li></ul></div></div><div
+id="footer-bottom"><div
+class="container clearfix"><ul
+class="et-social-icons"><li
+class="et-social-icon et-social-facebook">
+<a
+href="https://www.facebook.com/canadogs/" class="icon">
+<span>Facebook</span>
+</a></li></ul><p
+id="footer-info">Designed by <a
+href="http://www.elegantthemes.com" title="Premium WordPress Themes">Elegant Themes</a> | Powered by <a
+href="http://www.wordpress.org">WordPress</a></p></div></div>
+</footer></div></div><style type="text/css" id="et-builder-advanced-style">.et_pb_text_4{line-height:1em;background-color:#000;padding-top:3px !important;padding-right:13px !important;padding-bottom:13px !important;padding-left:13px !important;margin-top:5px !important;margin-right:5px !important;margin-bottom:5px !important;margin-left:5px !important}.et_pb_text_5{background-color:#000;padding-top:3px !important;padding-right:23px !important;padding-bottom:23px !important;padding-left:23px !important;margin-top:5px !important;margin-right:5px !important;margin-bottom:5px !important;margin-left:5px !important}.et_pb_text_4
+p{line-height:1em}.et_pb_text_3{background-color:#000;padding-top:3px !important;padding-right:13px !important;padding-bottom:13px !important;padding-left:13px !important;margin-top:5px !important;margin-right:5px !important;margin-bottom:5px !important;margin-left:5px !important}.et_pb_text_2{background-color:#000;padding-top:3px !important;padding-right:13px !important;padding-bottom:13px !important;padding-left:13px !important;margin-top:5px !important;margin-right:5px !important;margin-bottom:5px !important;margin-left:5px !important}.et_pb_text_6{padding-top:15px !important}.et_pb_divider_0:before{border-top-color:#d33}.et_pb_divider_2{height:7px}.et_pb_divider_1{height:2px}.et_pb_divider_1:before{border-top-color:#d33}.et_pb_divider_0{height:2px}.et_pb_image_4{margin-left:0}.et_pb_column_6{padding-top:0px;padding-bottom:0px}.et_pb_text_0{padding-top:0px !important;padding-bottom:0px !important;margin-top:0px !important}.et_pb_image_0{margin-top:0px !important;margin-bottom:5px !important;margin-left:0}.et_pb_row_0{background-color:#000}.et_pb_section_0.et_pb_section{background-color:#000 !important}.et_pb_column_3{padding-top:0px;padding-bottom:0px}.et_pb_image_1{margin-left:0}.et_pb_image_3{margin-left:0}.et_pb_column_5{padding-top:0px;padding-bottom:0px}.et_pb_image_2{margin-left:0}.et_pb_column_4{padding-top:0px;padding-bottom:0px}.et_pb_section_0{}@media only screen and ( min-width: 981px ){.et_pb_row_2.et_pb_row{padding-top:0;padding-bottom:0}}</style> <script>var template_name='Divi';switch(template_name){case'twentyeleven':var classes=['entry-meta'];var regex=' by <a(.*?)\/a>;<span class="sep"> by <\/span>';break;case'twentyten':var classes=['entry-meta'];var regex=' by <a(.*?)\/a>;<span class="meta-sep">by<\/span>';break;case'object':var classes=['post-details','post'];var regex=' by <span(.*?)\/span>;<p class="post-details">by';break;case'theme-revenge':var classes=['post-entry-meta'];var regex='By <a(.*?)\/a> on';break;case'Magnificent':var classes=['meta-info'];var regex='<span>by<\/span> <a(.*?)\/a>;Posted by <a(.*?)\/a> on ';break;case'wp-clearphoto':var classes=['meta'];var regex='\\|\\s*<\/span>\\s*<span class="meta-author">\\s*<a(.*?)\/a>';break;case'wp-clearphoto1':var classes=['meta'];var regex='\\|\\s*<\/span>\\s*<span class="meta-author">\\s*<a(.*?)\/a>';break;default:var classes=['entry-meta'];var regex=' by <a(.*?)\/a>;<span class="sep"> by <\/span>; <span class="meta-sep">by<\/span>;<span class="meta-sep"> by <\/span>';}
+if(typeof classes[0]!=='undefined'&&classes[0]!==null){for(var i=0;i<classes.length;i++){var elements=document.querySelectorAll('.'+classes[i]);for(var j=0;j<elements.length;j++){var regex_array=regex.split(";");for(var k=0;k<regex_array.length;k++){if(elements[j].innerHTML.match(new RegExp(regex_array[k],"i"))){var replaced_txt=elements[j].innerHTML.replace(new RegExp(regex_array[k],"i"),'');elements[j].innerHTML=replaced_txt;}}}}}</script> <script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-75595705-1','auto');ga('send','pageview');</script><script type='text/javascript' src='http://www.canadogs.ca/wp-content/themes/Divi/includes/builder/scripts/frontend-builder-global-functions.js?ver=3.0.9'></script> <script type='text/javascript' src='http://www.canadogs.ca/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script> <script type='text/javascript'>var _wpcf7={"loaderUrl":"http:\/\/www.canadogs.ca\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"sending":"Sending ..."};</script> <script type='text/javascript' src='http://www.canadogs.ca/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.5.1'></script> <script type='text/javascript' src='http://www.canadogs.ca/wp-includes/js/comment-reply.min.js?ver=c971e27cbb358760d2698e2551ff6490'></script> <script type='text/javascript' src='http://www.canadogs.ca/wp-content/themes/Divi/includes/builder/scripts/jquery.mobile.custom.min.js?ver=3.0.9'></script> <script type='text/javascript' src='http://www.canadogs.ca/wp-content/themes/Divi/js/custom.js?ver=3.0.9'></script> <script type='text/javascript' src='http://www.canadogs.ca/wp-content/themes/Divi/js/smoothscroll.js?ver=3.0.9'></script> <script type='text/javascript' src='http://www.canadogs.ca/wp-content/themes/Divi/includes/builder/scripts/jquery.fitvids.js?ver=3.0.9'></script> <script type='text/javascript' src='http://www.canadogs.ca/wp-content/themes/Divi/includes/builder/scripts/waypoints.min.js?ver=3.0.9'></script> <script type='text/javascript' src='http://www.canadogs.ca/wp-content/themes/Divi/includes/builder/scripts/jquery.magnific-popup.js?ver=3.0.9'></script> <script type='text/javascript'>var et_pb_custom={"ajaxurl":"http:\/\/www.canadogs.ca\/wp-admin\/admin-ajax.php","images_uri":"http:\/\/www.canadogs.ca\/wp-content\/themes\/Divi\/images","builder_images_uri":"http:\/\/www.canadogs.ca\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"236d8b3b92","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"7e2af08205","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","is_builder_plugin_used":"","is_divi_theme_used":"1","widget_search_selector":".widget_search","is_ab_testing_active":"","page_id":"6","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"yes","is_shortcode_tracking":""};</script> <script type='text/javascript' src='http://www.canadogs.ca/wp-content/themes/Divi/includes/builder/scripts/frontend-builder-scripts.js?ver=3.0.9'></script> <script type='text/javascript' src='http://www.canadogs.ca/wp-content/uploads/wtfdivi/wp_footer.js?1459231446&#038;ver=c971e27cbb358760d2698e2551ff6490'></script> <script type='text/javascript' src='http://www.canadogs.ca/wp-includes/js/wp-embed.min.js?ver=c971e27cbb358760d2698e2551ff6490'></script> </body></html>
+<!--
+*** This site runs WP Super Minify plugin v1.4 - http://wordpress.org/plugins/wp-super-minify ***
+*** Total size saved: 10.012% | Size before compression: 48104 bytes | Size after compression: 43288 bytes. ***
+-->

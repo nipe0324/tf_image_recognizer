@@ -1,0 +1,1221 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+        <script type="text/javascript" src="//use.typekit.net/ohh4rlo.js"></script>
+        
+<style id="antiClickjack">body{display:none !important;}</style>
+<script type="text/javascript">
+if (self === top) {
+    var antiClickjack = document.getElementById('antiClickjack');
+    antiClickjack.parentNode.removeChild(antiClickjack);
+} else {
+if (document.referrer != undefined) {
+    var doc_referrer = document.referrer.split('/')[2].toLowerCase();
+    allowed_page_referrers = typeof allowed_page_referrers != 'undefined'?allowed_page_referrers:'';
+    var allowed_referrers = 'translate.google.com,translate.googleusercontent.com,'+document.domain+','+''+','+allowed_page_referrers;
+    allowed_referrers = allowed_referrers.toLowerCase();
+    if (allowed_referrers.indexOf(doc_referrer)<0) {
+        top.location = self.location;
+    }
+    else {
+        var antiClickjack = document.getElementById('antiClickjack');
+        antiClickjack.parentNode.removeChild(antiClickjack);
+    }
+  }
+}
+</script>
+
+
+<title>Zoetis - Geneesmiddelen en Vaccins voor Dieren</title>
+<meta name="title" content="Zoetis - Geneesmiddelen en Vaccins voor Dieren"/>
+<meta name="description" content="Zoetis ontdekt, ontwikkelt, produceert en verkoopt een breed portfolio aan geneesmiddelen en vaccins voor dieren die bedoeld zijn om te voorzien in de behoeften van dierenartsen en van de veehouders en eigenaren van gezelschapsdieren die zij ondersteunen."/>
+<meta name="keywords" content="Zoetis, diergezondheid, diergeneeskunde, geneesmiddelen, vaccins, dieren, educatie, producten, dierenarts, hond, kat, paard, rundvee, herkauwers, varken, kleine huisdieren, schapen"/>
+<meta name="site" content="Zoetis Portal"/>
+<meta name="asset_id" content="230401"/>
+<meta name="asset_label" content="index"/>
+<meta name="template_label" content="Homepage-gs"/>
+<meta name="page_language" content="nl"/>
+<meta name="page_country" content="nl"/>
+<meta name="search_relevance" content=""/>
+<meta name="search_show_on_search" content="all"/>
+<meta name="cp_noindex" content=""/>
+<meta name="page_type" content="index"/>
+
+
+
+        <!-- Meta Tags Declaration Section -->
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+        
+    <meta name="description" content="" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+    <link href="/Global-Assets/css/cookiebar.css" rel="stylesheet" type="text/css">
+    <script type="text/javascript">        try { Typekit.load(); } catch (e) { }</script>
+    <link rel="shortcut icon" href="/global-assets/favicons/favicon.ico" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="/global-assets/favicons/apple-touch-icon.png" />
+    <link rel="apple-touch-icon" sizes="57x57" href="/global-assets/favicons/apple-touch-icon-57x57.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="/global-assets/favicons/apple-touch-icon-72x72.png" />
+    <link rel="apple-touch-icon" sizes="76x76" href="/global-assets/favicons/apple-touch-icon-76x76.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="/global-assets/favicons/apple-touch-icon-114x114.png" />
+    <link rel="apple-touch-icon" sizes="120x120" href="/global-assets/favicons/apple-touch-icon-120x120.png" />
+    <link rel="apple-touch-icon" sizes="144x144" href="/global-assets/favicons/apple-touch-icon-144x144.png" />
+    <link rel="apple-touch-icon" sizes="152x152" href="/global-assets/favicons/apple-touch-icon-152x152.png" />
+            <link href="/Global-Assets/css/master-page-gs-non-us.min.css" rel="stylesheet" type="text/css" />
+
+<link href="/global-assets/css/locale-nl.css" rel="stylesheet" type="text/css" />
+
+<script src="/Global-Assets/js/master-page-gs.min.js" type="text/javascript" ></script>
+
+<!-- No Script Loaded from /Zoetis Portal/Global Assets/js/locale-NL.js -->
+        
+<meta name="google-site-verification" content="DfvY21fNgRy49E3_-IkTZC0ReZVb06BaecZsi8Yh_Vs"/>
+
+
+    <script type="text/javascript">
+        function submitWCOForm(primary_species, country, persona_type, returnURL, groups, email) {
+            wcoform = document.forms['wco_form'];
+            wcoform.primary_species.value = primary_species;
+            wcoform.country.value = country;
+            wcoform.persona_type.value = persona_type;
+            wcoform.RedirectUrl.value = returnURL;
+            wcoform.groups.value = groups;
+            wcoform.email.value = email;
+            wcoform.submit();
+        }
+        var dashboardPageURL = "/dashboard.aspx";
+        var interstitialPageURL = "";
+        //UMM Hidden widget vars
+        var registerURL = '/register.aspx';
+        var profileURL = '/user-profile/profile.aspx';
+        var resetPasswordURL = '/user-profile/reset-password.aspx';
+        var loginURL = '/login.aspx';
+        var logoutURL = '/user-profile/logout.aspx';
+        var changePasswordURL = '/change-password.aspx';
+        var pendingApprovalURL = '/user-profile/pending-approval.aspx';
+        var accessRestrictedURL = '/access-restricted.aspx';
+        var currentAuthLocale = 'nl_NL';
+        $(document).ready(function () {
+            loadIframe('5053B80F-1D01-4CA7-A926-ABAC12674997', currentAuthLocale, 'LOGIN', '/global-assets/css/umm_widget_main.css', 'widget-container-hidden', 600, null);
+            var returnUrlPage = "/dashboard.aspx";
+            var returnUrlPageLogin = "/dashboard.aspx";
+            if (typeof isSecuredPage != 'undefined') {
+                returnUrlPageLogin = isSecuredPage == "true" ? encodeURIComponent(window.location.pathname) : returnUrlPageLogin;
+            }
+            $reglink = $('a[href*="/register.aspx"]')
+            if ($reglink.length > 0 && $reglink.attr('href').toLowerCase().indexOf('returnurl') <= 0) {
+                $reglink.attr('href', $reglink.attr('href') + "?ReturnUrl=" + returnUrlPage);
+            }
+            $reglink = $('a[href*="/login.aspx"]')
+            if ($reglink.length > 0 && $reglink.attr('href').toLowerCase().indexOf('returnurl') <= 0) {
+                $reglink.attr('href', $reglink.attr('href') + "?ReturnUrl=" + returnUrlPageLogin);
+            }
+            $reglink = $('a[href*="/user-profile/profile.aspx"]')
+            if ($reglink.length > 0 && $reglink.attr('href').toLowerCase().indexOf('returnurl') <= 0) {
+                $reglink.attr('href', $reglink.attr('href') + "?ReturnUrl=" + returnUrlPage);
+            }
+            $reglink = $('a[href*="/user-profile/reset-password.aspx"]')
+            if ($reglink.length > 0 && $reglink.attr('href').toLowerCase().indexOf('returnurl') <= 0) {
+                $reglink.attr('href', $reglink.attr('href') + "?ReturnUrl=" + returnUrlPage);
+            }
+        });
+    </script>
+        <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+			    m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+        ga('create', 'UA-44700134-8');
+        ga('require', 'linkid', 'linkid.js');
+        ga('send', 'pageview');
+    </script>
+            <script type="text/javascript">
+        $.ajax({
+            url: '//munchkin.marketo.net/munchkin.js',
+            dataType: 'script',
+            cache: true,
+            success: function () {
+                Munchkin.init('743-WKJ-781', { "wsInfo": "hlRZ" });
+            }
+        });
+    </script>
+            <script type="text/javascript">
+        $.ajax({
+            url: '//munchkin.marketo.net/munchkin.js',
+            dataType: 'script',
+            cache: true,
+            success: function () {
+                Munchkin.init('686-BYD-443');
+            }
+        });
+        /* ========================= MOBILE COUNTRY SELECTOR ============================= */
+        /* Mobile only function set to convert country selector from <ul> to <select> HTML element */
+        $(document).ready(function () {
+            // Replace <a> tag with <option> with all attributes
+            // Add new data-iso attribute so we can distinguish which country
+            // this option is so we are able to select it on page load
+            $("#mobile-footer-country ul a").replaceWith(function () {
+                var data_iso = $(this).attr("class").toString().replace("flag", "").replace(" flag-", "");
+                if (data_iso == 'GB') { data_iso = 'UK'; }
+                // build new tag
+                var tag = $("<option />").attr({
+                    "value": $(this).attr("href"),
+                    "data-iso": data_iso
+                });
+                // Select this option if coutry matches
+                if (tag.attr("data-iso").toString().toLowerCase() == "NL".toLowerCase()) {
+                    tag.attr("selected", true);
+                }
+                return tag.append($(this).html());
+            });
+            // Replace <ul> tag with <select> tag
+            $("#mobile-footer-country ul").replaceWith(function () {
+                return $("<select />").append($(this).html());
+            });
+            // Remove <li> tag from around newly created <li> tag
+            $("#mobile-footer-country li option").unwrap();
+            // Insert zoetis link at the top of the list
+            $('<option value="http://zoetis.com" data-iso="global">Zoetis.com</option>').insertBefore("#mobile-footer-country select option:first");
+            // Move selected option to the top of the option list (below zoetis.com item)
+            $("#mobile-footer-country select option").each(function (index) {
+                if ($(this).attr("data-iso").toString().toLowerCase() == "NL".toLowerCase()) {
+                    $(this).insertAfter("#mobile-footer-country select option:first");
+                }
+            });
+            // Add onChange listener to the option tagt
+            $("#mobile-footer-country select").change(function () {
+                window.location.href = $(this).attr("value");
+            });
+        });
+    </script>
+                <script src="/global-assets/js/umm_portal.js" type="text/javascript" ></script>
+
+    <script src="https://umx100.zoetis.eu/widgetserver/shared-resources/widgetlib.js"></script>
+    
+</head>
+<body class="responsive">
+    <div id="cookiebar" class="cookiebar_outercontainer">
+        <div class="cookiebar_innercontainer">
+            <div class="clearfix cookiebar">
+                <div class="cookiebartext">
+                    
+<p>Deze website maakt gebruik van cookies om het gebruik van de website te analyseren en het gebruiksgemak te verhogen.<br />
+U kunt meer lezen over cookies in onze <a href="https://www.zoetis.nl/privacy-verklaring.aspx" target="_blank">disclaimer</a></p>
+                </div>
+                <button class="cookiebar_button">
+                    <span>
+                        <a id="cookieaccept" href='#'>Cookies accepteren</a>
+                    </span>
+                </button>
+            </div>
+        </div>
+    </div>
+    <div id="cookiebarspacer" class="cookiebarspacer"></div>
+    
+                
+                    <script>
+                      dataLayer = [{
+                        'memberID': '',
+                        'loggedIn': 'no',
+                        'condition': '',
+'brand': '',
+'species': ''
+                      }];
+                    </script>
+                  
+        <!-- localeConfigAsset 266349-->
+    <div id="main">
+                <div style="display: none;">
+            <input id="cookieexpiry" type="hidden" value="" />
+        </div>
+        <script type="text/javascript">
+            var cookieexpiry = 3650;
+            $(document).ready(function () {
+                cookieexpiry = parseInt($('#cookieexpiry').val());
+                if (cookieexpiry == '' || cookieexpiry == 0 || isNaN(cookieexpiry)) { cookieexpiry = 3650; }
+                if (!$.cookie("ckiePlcyAcpt")) {
+                    $('#cookiebar').show();
+                    $('#cookiebarspacer').css('height', $('#cookiebar').height()).show();
+                    var newTop = parseFloat($('.nav-toggle-btn').css('top')) + $('#cookiebar').height() + 'px';
+                    $('.nav-toggle-btn').css('top', newTop);
+                }
+            });
+            $("#cookiebar button").click(function () {
+                $.cookie("ckiePlcyAcpt", "y", { expires: cookieexpiry, path: '/' });
+                $('#cookiebar').hide();
+                $('#cookiebarspacer').hide();
+                $('.nav-toggle-btn').css('top', '24px');
+            });
+            $(window).resize(function () {
+                if (!$.cookie("ckiePlcyAcpt")) {
+                    $('#cookiebarspacer').css('height', $('#cookiebar').height());
+                    var newTop = 24 + $('#cookiebar').height() + 'px';
+                    $('.nav-toggle-btn').css('top', newTop);
+                }
+            });
+        </script>
+                        <header class="header-standard clearfix content">
+            <div class="logo col-lg-3">
+                                <a href="/index.aspx">
+                    <img class="img-responsive" border="0" src="/global-assets/img/logo.png" alt="Logo" />
+                </a>
+            </div>
+            <span id="selected-country" class="country-name"><a href="/index.aspx">Nederland</a></span>
+            <button type="button" class="search-toggle-btn btn-link pull-right hidden-lg hidden-md hidden-sm hidden-xs">
+                <i class="glyphicon glyphicon-search"></i>
+            </button>
+            <div class="nav-search-container col-lg-9 col-sm-9 col-xs-12">
+                                                <div class="seperator"></div>
+                <div class="header-standard-menu-options">
+                    <nav class="header-standard-nav hidden-md hidden-sm hidden-xs">
+                                                <div id="serverSideControls" style="display: none">
+                            
+
+<script type="text/javascript">var isSecuredPage = 'false';</script>
+
+
+                            
+                            
+                            <span id="CurrentUserProperties"></span>
+                        </div>
+                        <div id="authholder-hidden" style="display: none;">
+                            <div id="widget-container-hidden"></div>
+                        </div>
+                        <!-- HEADER MENU START -->
+                        <ul>
+                                                                                                                
+                                    <li><a href="/register.aspx">Registreren</a></li>
+                                    <li class="login-li"><a id="LoginView2_LogoutLink" class="sign-in" href="/login.aspx">Inloggen</a>
+</li>
+                                
+                                                                                    <li class="country-text-li">
+                                                                                                                                <a id="country-selector-modal-link" class="country-selector-modal-link" href="#country-selector-modal"><i class="flag flag-NL"></i>Change Location </a>
+                                <!-- COMPONENT: country-selector-modal merin -->
+                                <div class="country-selector-modal" id="country-selector-modal">
+                                    <!-- COMPONENT: country-selector -->
+                                    <div class="country-selector modal hidden-lg">
+                                        <a href="/index.aspx" class="visible-lg">
+                                            <img class="img-responsive" border="0" alt="United States" src="/global-assets/img/small_logo.png" /></a>
+                                        <button class="country-selector-link hidden-lg">Change Location<i class="glyphicon glyphicon-chevron-down"></i></button>
+                                        <ul class="country-header">
+                                            <li class="zoetis-global"><a class="flag flag-ZO" href="http://www.zoetis.com">zoetis.com</a></li>
+                                        </ul>
+                                        <!-- May need to be removed -->
+                                                                                <ul class="country-list show">
+<li><a class="flag flag-AR" href="https://ar.zoetis.com/">Argentina</a></li>
+<li><a class="flag flag-AU" href="http://www.zoetis.com.au">Australia</a></li>
+<li><a class="flag flag-AT" href="http://www.zoetis.at">Austria</a></li>
+<li><a class="flag flag-BE" href="https://www.zoetis.be/">Belgium</a></li>
+<li><a class="flag flag-BR" href="http://www.zoetis.com.br">Brazil</a></li>
+<li><a class="flag flag-BO" href="http://www.zoetis.com.bo">Bolivia</a></li>
+<li><a class="flag flag-BG" href="http://www.zoetis.bg">Bulgaria</a></li>
+<li><a class="flag flag-CA" href="http://www.zoetis.ca">Canada</a></li>
+<li><a class="flag flag-CL" href="http://www.zoetis.cl">Chile</a></li>
+<li><a class="flag flag-CN" href="http://www.zoetis.cn/">China</a></li>
+<li><a class="flag flag-CO" href="http://www.zoetis.com.co">Colombia</a></li>
+<li><a class="flag flag-CR" href="http://www.zoetis.co.cr/">Costa Rica</a></li>
+<li><a class="flag flag-HR" href="http://www.zoetis.hr">Croatia</a></li>
+<li><a class="flag flag-CZ" href="http://www.zoetis.cz">Czech Republic</a></li>
+<li><a class="flag flag-EC" href="http://www.zoetis.com.ec">Ecuador</a></li>
+<li><a class="flag flag-EG" href="http://eg.zoetis.com">Egypt</a></li>
+<li><a class="flag flag-EE" href="http://www.zoetis.ee">Estonia</a></li>
+<li><a class="flag flag-FI" href="http://www.zoetis.fi">Finland</a></li>
+<li><a class="flag flag-FR" href="https://www.zoetis.fr/">France</a></li>
+<li><a class="flag flag-DE" href="https://www.zoetis.de/">Germany</a></li>
+<li><a class="flag flag-GR" href="http://gr.zoetis.com">Greece</a></li>
+<li><a class="flag flag-HU" href="http://www.zoetis.hu">Hungary</a></li>
+<li><a class="flag flag-IN" href="http://www.zoetis.in">India</a></li>
+<li><a class="flag flag-ID" href="http://www.zoetis.co.id">Indonesia</a></li>
+<li><a class="flag flag-IE" href="http://www.zoetis.ie">Ireland</a></li>
+<li><a class="flag flag-IL" href="http://www.zoetis.co.il">Israel</a></li>
+<li><a class="flag flag-IT" href="https://www.zoetis.it/">Italy</a></li>
+<li><a class="flag flag-JP" href="http://www.zoetis.jp">Japan</a></li>
+<li><a class="flag flag-LV" href="http://www.zoetis.lv">Latvia</a></li>
+<li><a class="flag flag-LT" href="http://www.zoetis.lt">Lithuania</a></li>
+<li><a class="flag flag-MY" href="http://www.zoetis.com.my">Malaysia</a></li>
+<li><a class="flag flag-MX" href="https://www.zoetis.mx/">Mexico</a></li>
+<li><a class="flag flag-MA" href="http://ma.zoetis.com">Morocco</a></li>
+<li><a class="flag flag-NL" href="https://www.zoetis.nl/">Netherlands</a></li>
+<li><a class="flag flag-NZ" href="http://www.zoetis.co.nz">New Zealand</a></li>
+<li><a class="flag flag-PY" href="http://www.zoetis.com.py/">Paraguay</a></li>
+<li><a class="flag flag-PE" href="http://www.zoetis.pe">Peru</a></li>
+<li><a class="flag flag-PH" href="http://ph.zoetis.com">Philippines</a></li>
+<li><a class="flag flag-PL" href="http://www.zoetis.com.pl">Poland</a></li>
+<li><a class="flag flag-PT" href="http://www.zoetis.com.pt">Portugal</a></li>
+<li><a class="flag flag-RO" href="http://www.zoetis.ro">Romania</a></li>
+<li><a class="flag flag-RU" href="http://www.zoetis.ru">Russia</a></li>
+<li><a class="flag flag-SR" href="http://rs.zoetis.com">Serbia</a></li>
+<li><a class="flag flag-SK" href="http://www.zoetis.sk">Slovakia</a></li>
+<li><a class="flag flag-SI" href="http://www.zoetis.si">Slovenia</a></li>
+<li><a class="flag flag-ZA" href="http://www.zoetis.co.za">South Africa</a></li>
+<li><a class="flag flag-KR" href="http://www.zoetis.kr">South Korea</a></li>
+<li><a class="flag flag-ES" href="https://www.zoetis.es/">Spain</a></li>
+<li><a class="flag flag-CH" href="http://www.zoetis.ch">Switzerland</a></li>
+<li><a class="flag flag-TW" href="http://www.zoetis.tw">Taiwan</a></li>
+<li><a class="flag flag-TH" href="http://thailand.zoetis.com">Thailand</a></li>
+<li><a class="flag flag-TR" href="http://www.zoetis.com.tr">Turkey</a></li>
+<li><a class="flag flag-UA" href="http://www.zoetis.com.ua">Ukraine</a></li>
+<li><a class="flag flag-GB" href="https://www.zoetis.co.uk/">United Kingdom</a></li>
+<li><a class="flag flag-US" href="https://www.zoetisUS.com/">United States</a></li>
+<li><a class="flag flag-UY" href="http://www.zoetis.com.uy">Uruguay</a></li>
+<li><a class="flag flag-VE" href="http://www.zoetis.com.ve">Venezuela</a></li>
+<li><a class="flag flag-VN" href="http://vn.zoetis.com">Vietnam</a></li>
+</ul>                                                                                <p>U verlaat de Nederlandse website en bezoekt de website van een ander land.</p>
+<p>Wettelijke bepalingen met betrekking tot het tonen van productinformatie verschillen van land tot land. U zult daarom mogelijk informatie vinden die&nbsp;niet&nbsp;overeenkomstig is&nbsp;met de wettelijke bepalingen in Nederland.</p>                                    </div>
+                                </div>
+                                <div class="language-selector-modal" id="language-selector-modal">
+                                    <div class="language-selector modal ">
+                                        <div class="language-selector-modal-logo-div">
+                                            <!--<span class="" id="">-->
+                                            <img src="" alt="">
+                                            <!--</span>-->
+                                        </div>
+                                        <div class="langSelectPrompt">
+                                            <p><strong></strong></p>
+                                        </div>
+                                        <div id="languageOptions">
+                                                                                    </div>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                        <!-- HEADER MENU END -->
+                                            </nav>
+                </div>
+                                <div class="header-standard-search container">
+                    
+				            <div class="search-box-container col-lg-5 col-xs-12">
+                            <script type="text/javascript">
+                                function submitSearch() {
+                                    searchURL = '/search-results.aspx';
+                                    q = document.forms["search-form"]["InputKeywords"].value;
+                                    if ($.trim(q) != "") {
+                                        searchURL = location.protocol + '//' + location.host + searchURL + '?q=' + $.trim(q);
+                                        window.location = searchURL;
+                                    }
+                                }
+                            </script>
+                              <form name="search-form" class="search-box js-form"  onsubmit="submitSearch();return false;">  
+                                   <input type="text" name="InputKeywords" maxlength="200" id="InputKeywords" placeholder="" accesskey="S" title="Enter search words" alt="Enter search words" class="search-field">
+                                   <i class="glyphicon glyphicon-search"></i>
+                                   <input type="submit" value="Go Search" alt="Go Search" class="search-button">     
+                              </form>
+			              </div>
+                    
+                </div>
+            </div>
+        </header>
+                        <nav class="nav-megamenu">
+            <button type="button" class="nav-toggle-btn btn-link pull-right hidden-lg">
+                <p class="nav-toggle-label pull-left hidden-xs">Menu</p>
+                <div class="nav-icon">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <i class="icon-close glyphicon glyphicon-remove hide"></i>
+                </div>
+            </button>
+            <ul class="nav-main">
+
+<li class="hidden-lg"><a href="/register.aspx" class="gtm_head_link" data-cat="Registreren">Registreren</a></li><li class="hidden-lg"><a href="/login.aspx" class="gtm_head_link gtm_sign_in" data-cat="Inloggen">Inloggen</a></li>
+
+<div id="profileLinksForAuthControl_client" style="display:none;"><li class="hidden-lg"><a href="/dashboard.aspx" class="gtm_head_link" data-cat="Mijn persoonlijke pagina">Mijn persoonlijke pagina</a></li><li class="hidden-lg"><a href="/user-profile/profile.aspx" class="gtm_head_link" data-cat="Profiel">Profiel</a></li><li class="hidden-lg"><a href="/user-profile/logout.aspx" class="gtm_head_link gtm_sign_out" data-cat="Logout">Logout</a></li></div><!--OVER ZOETIS-->
+<li><a  href="/over-ons.aspx" class="gtm_head_link" data-cat="OVER ZOETIS">OVER ZOETIS</a>
+<i class="glyphicon glyphicon-chevron-down pull-right hidden-lg"></i>
+<ul class="nav-secondary">
+<li><a href="/zoetis-in-vogelvlucht.aspx"  class="gtm_head_sublink" data-subcat="Zoetis in vogelvlucht">Zoetis in vogelvlucht</a>
+</li>
+<li><a href="/waar-wij-voor-staan.aspx"  class="gtm_head_sublink" data-subcat="Waar wij voor staan">Waar wij voor staan</a>
+</li>
+<li><a href="/antibiotica/antibiotica.aspx"  class="gtm_head_sublink" data-subcat="Onze visie op antibiotica">Onze visie op antibiotica</a>
+</li>
+<li><a href="/bekijk-onze-historie.aspx"  class="gtm_head_sublink" data-subcat="Historie">Historie</a>
+</li>
+<li><a href="/innovatie.aspx"  class="gtm_head_sublink" data-subcat="Innovatie">Innovatie</a>
+</li>
+<li><a href="/vestigingen.aspx"  class="gtm_head_sublink" data-subcat="Vestigingen">Vestigingen</a>
+</li>
+</ul>
+</li>
+<!--DIERSOORT-->
+<li class=" gtm_head_link">DIERSOORT
+<!--no link-->
+<i class="glyphicon glyphicon-chevron-down pull-right hidden-lg"></i>
+<ul class="nav-secondary">
+<li><a href="/diersoort/honden.aspx"  class="gtm_head_sublink" data-subcat="Honden">Honden</a>
+</li>
+<li><a href="/diersoort/katten.aspx"  class="gtm_head_sublink" data-subcat="Katten">Katten</a>
+</li>
+<li><a href="/diersoort/paarden.aspx"  class="gtm_head_sublink" data-subcat="Paarden">Paarden</a>
+</li>
+<li><a href="/diersoort/rundvee.aspx"  class="gtm_head_sublink" data-subcat="Rundvee">Rundvee</a>
+</li>
+<li><a href="/diersoort/schapen.aspx"  class="gtm_head_sublink" data-subcat="Schapen">Schapen</a>
+</li>
+<li><a href="/diersoort/varken.aspx"  class="gtm_head_sublink" data-subcat="Varkens">Varkens</a>
+</li>
+</ul>
+</li>
+<!--PRODUCTEN-->
+<li><a  href="/products/index.aspx" class="gtm_head_link" data-cat="PRODUCTEN">PRODUCTEN</a>
+<i class="glyphicon glyphicon-chevron-down pull-right hidden-lg"></i>
+<ul class="nav-secondary">
+<!--start lvl 3-->
+<li><a href="/products/honden/index.aspx"  class="gtm_head_sublink" data-subcat="Honden">Honden</a>
+<!--start lvl 2- true-->
+<i class="glyphicon glyphicon-chevron-down pull-right hidden-lg"></i>
+<ul class="nav-secondary">
+
+<li><a href="/products/alzane.aspx"  class="gtm_head_sublink test" data-subcat="Alzane">Alzane</a></li>
+<li><a href="/products/honden/bronchi-shield.aspx"  class="gtm_head_sublink test" data-subcat="Bronchi-Shield">Bronchi-Shield</a></li>
+<li><a href="/products/honden/cerenia-tabletten.aspx"  class="gtm_head_sublink test" data-subcat="Cerenia Tabletten">Cerenia Tabletten</a></li>
+<li><a href="/products/honden/depo-promone.aspx"  class="gtm_head_sublink test" data-subcat="Depo-Promone">Depo-Promone</a></li>
+<li><a href="/products/eliminall.aspx"  class="gtm_head_sublink test" data-subcat="Eliminall">Eliminall</a></li>
+<li><a href="/products/honden/index.aspx"  class="gtm_head_sublink test" data-subcat="Alle Producten">Alle Producten</a></li>
+</ul>
+</li>
+<!--start lvl 3-->
+<li><a href="/products/katten/index.aspx"  class="gtm_head_sublink" data-subcat="Katten">Katten</a>
+<!--start lvl 2- true-->
+<i class="glyphicon glyphicon-chevron-down pull-right hidden-lg"></i>
+<ul class="nav-secondary">
+
+<li><a href="/products/alzane.aspx"  class="gtm_head_sublink test" data-subcat="Alzane">Alzane</a></li>
+<li><a href="/products/katten/primucell-fip.aspx"  class="gtm_head_sublink test" data-subcat="Primunell FIP">Primunell FIP</a></li>
+<li><a href="/products/katten/promeris.aspx"  class="gtm_head_sublink test" data-subcat="ProMeris">ProMeris</a></li>
+<li><a href="/products/katten/versifel.aspx"  class="gtm_head_sublink test" data-subcat="Versifel">Versifel</a></li>
+<li><a href="/aandoeningen/katten/urineweginfectie-bij-katten.aspx"  class="gtm_head_sublink test" data-subcat="Urineweginfectie">Urineweginfectie</a></li>
+<li><a href="/products/katten/index.aspx"  class="gtm_head_sublink test" data-subcat="Alle Producten">Alle Producten</a></li>
+</ul>
+</li>
+<!--start lvl 3-->
+<li><a href="/products/paarden/index.aspx"  class="gtm_head_sublink" data-subcat="Paarden">Paarden</a>
+<!--start lvl 2- true-->
+<i class="glyphicon glyphicon-chevron-down pull-right hidden-lg"></i>
+<ul class="nav-secondary">
+
+<li><a href="/products/paarden/detogesic.aspx"  class="gtm_head_sublink test" data-subcat="Detogesic">Detogesic</a></li>
+<li><a href="/products/paarden/equest.aspx"  class="gtm_head_sublink test" data-subcat="Equest">Equest</a></li>
+<li><a href="/products/paarden/equest-pramox.aspx"  class="gtm_head_sublink test" data-subcat="Equest Pramox">Equest Pramox</a></li>
+<li><a href="/products/paarden/equip-ehv14.aspx"  class="gtm_head_sublink test" data-subcat="Equip EHV1,4">Equip EHV1,4</a></li>
+<li><a href="/products/paarden/equip-wnv.aspx"  class="gtm_head_sublink test" data-subcat="Het West Nijil Virus">Het West Nijil Virus</a></li>
+<li><a href="/products/paarden/index.aspx"  class="gtm_head_sublink test" data-subcat="Alle Producten">Alle Producten</a></li>
+</ul>
+</li>
+<!--start lvl 3-->
+<li><a href="/products/rundvee/index.aspx"  class="gtm_head_sublink" data-subcat="Rundvee">Rundvee</a>
+<!--start lvl 2- true-->
+<i class="glyphicon glyphicon-chevron-down pull-right hidden-lg"></i>
+<ul class="nav-secondary">
+
+<li><a href="/producten/rundvee/acegon.aspx"  class="gtm_head_sublink test" data-subcat="Acegon">Acegon</a></li>
+<li><a href="/products/rundvee/avuloxil.aspx"  class="gtm_head_sublink test" data-subcat="Avuloxil">Avuloxil</a></li>
+<li><a href="/products/rundvee/cidr.aspx"  class="gtm_head_sublink test" data-subcat="CIDR">CIDR</a></li>
+<li><a href="/products/rundvee/index.aspx"  class="gtm_head_sublink test" data-subcat="Alle Producten">Alle Producten</a></li>
+</ul>
+</li>
+<!--start lvl 3-->
+<li><a href="/products/schapen/index.aspx"  class="gtm_head_sublink" data-subcat="Schapen">Schapen</a>
+<!--start lvl 2- true-->
+<i class="glyphicon glyphicon-chevron-down pull-right hidden-lg"></i>
+<ul class="nav-secondary">
+
+<li><a href="/products/rundvee/covexin-10.aspx"  class="gtm_head_sublink test" data-subcat="Covexin 10">Covexin 10</a></li>
+<li><a href="/products/schapen/cydectin-orale-oplossing.aspx"  class="gtm_head_sublink test" data-subcat="Cydectin 0,1% orale oplossing">Cydectin 0,1% orale oplossing</a></li>
+<li><a href="/products/schapen/cydectin-triclamox.aspx"  class="gtm_head_sublink test" data-subcat="Cydectin TriclaMox">Cydectin TriclaMox</a></li>
+<li><a href="/products/schapen/dectomax-injectile.aspx"  class="gtm_head_sublink test" data-subcat="Dectomax injectile">Dectomax injectile</a></li>
+<li><a href="/products/schapen/kaopectate.aspx"  class="gtm_head_sublink test" data-subcat="Kaopectate">Kaopectate</a></li>
+<li><a href="/products/schapen/index.aspx"  class="gtm_head_sublink test" data-subcat="Alle Producten">Alle Producten</a></li>
+</ul>
+</li>
+<!--start lvl 3-->
+<li><a href="/products/varkens/index.aspx"  class="gtm_head_sublink" data-subcat="Varkens">Varkens</a>
+<!--start lvl 2- true-->
+<i class="glyphicon glyphicon-chevron-down pull-right hidden-lg"></i>
+<ul class="nav-secondary">
+
+<li><a href="/products/varkens/dectomax.aspx"  class="gtm_head_sublink test" data-subcat="Dectomax injectie">Dectomax injectie</a></li>
+<li><a href="/products/varkens/improvac.aspx"  class="gtm_head_sublink test" data-subcat="Improvac">Improvac</a></li>
+<li><a href="/products/varkens/linco-spectin-44g-premix.aspx"  class="gtm_head_sublink test" data-subcat="Linco-Spectin Premix">Linco-Spectin Premix</a></li>
+<li><a href="/products/varkens/suvaxyn-mh-one.aspx"  class="gtm_head_sublink test" data-subcat="Suvaxyn MH-One">Suvaxyn MH-One</a></li>
+<li><a href="/products/varkens/index.aspx"  class="gtm_head_sublink test" data-subcat="Alle Producten">Alle Producten</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<!--AANDOENINGEN-->
+<li><a  href="/aandoeningen/index.aspx" class="gtm_head_link" data-cat="AANDOENINGEN">AANDOENINGEN</a>
+<i class="glyphicon glyphicon-chevron-down pull-right hidden-lg"></i>
+<ul class="nav-secondary">
+<!--start lvl 3-->
+<li><a href="/aandoeningen/honden/index.aspx"  class="gtm_head_sublink" data-subcat="Honden">Honden</a>
+<!--start lvl 2- true-->
+<i class="glyphicon glyphicon-chevron-down pull-right hidden-lg"></i>
+<ul class="nav-secondary">
+
+<li><a href="/aandoeningen/honden/acute-pancreatitis.aspx"  class="gtm_head_sublink test" data-subcat="Acute pancreatitis, alvleesklierontsteking">Acute pancreatitis, alvleesklierontsteking</a></li>
+<li><a href="/aandoeningen/honden/artritis.aspx"  class="gtm_head_sublink test" data-subcat="Arthritis,artrose">Arthritis,artrose</a></li>
+<li><a href="/aandoeningen/honden/demodexinfectie-of-demodicose.aspx"  class="gtm_head_sublink test" data-subcat="Demodexinfectie of demodicose">Demodexinfectie of demodicose</a></li>
+<li><a href="/aandoeningen/honden/ectoparasieten-bij-honden-en-katten.aspx"  class="gtm_head_sublink test" data-subcat="Ectoparasieten">Ectoparasieten</a></li>
+<li><a href="/aandoeningen/honden/gebitsaandoeningen-bij-honden.aspx"  class="gtm_head_sublink test" data-subcat="Gebitsaandoeningen">Gebitsaandoeningen</a></li>
+<li><a href="/aandoeningen/honden/index.aspx"  class="gtm_head_sublink test" data-subcat="Alle aandoeningen">Alle aandoeningen</a></li>
+</ul>
+</li>
+<!--start lvl 3-->
+<li><a href="/aandoeningen/katten/index.aspx"  class="gtm_head_sublink" data-subcat="Katten">Katten</a>
+<!--start lvl 2- true-->
+<i class="glyphicon glyphicon-chevron-down pull-right hidden-lg"></i>
+<ul class="nav-secondary">
+
+<li><a href="/aandoeningen/katten/acute-pancreatitis.aspx"  class="gtm_head_sublink test" data-subcat="Acute pancreatits, alvleesklierontsteking">Acute pancreatits, alvleesklierontsteking</a></li>
+<li><a href="/aandoeningen/katten/ectoparasieten-bij-honden-en-katten.aspx"  class="gtm_head_sublink test" data-subcat="Ectoparasieten">Ectoparasieten</a></li>
+<li><a href="/aandoeningen/katten/feline-panleukopenie--kattenziekte.aspx"  class="gtm_head_sublink test" data-subcat="Feline panleukopenie, kattenziekte">Feline panleukopenie, kattenziekte</a></li>
+<li><a href="/aandoeningen/katten/niesziekte.aspx"  class="gtm_head_sublink test" data-subcat="Niesziekte">Niesziekte</a></li>
+<li><a href="/aandoeningen/katten/urineweginfectie-bij-katten.aspx"  class="gtm_head_sublink test" data-subcat="Urineweginfectie">Urineweginfectie</a></li>
+<li><a href="/aandoeningen/katten/index.aspx"  class="gtm_head_sublink test" data-subcat="Alle aandoeningen">Alle aandoeningen</a></li>
+</ul>
+</li>
+<!--start lvl 3-->
+<li><a href="/aandoeningen/paarden/index.aspx"  class="gtm_head_sublink" data-subcat="Paarden">Paarden</a>
+<!--start lvl 2- true-->
+<i class="glyphicon glyphicon-chevron-down pull-right hidden-lg"></i>
+<ul class="nav-secondary">
+
+<li><a href="/aandoeningen/paarden/rondwormen-_nematoden_.aspx"  class="gtm_head_sublink test" data-subcat="Rondwormen">Rondwormen</a></li>
+<li><a href="/aandoeningen/paarden/kleine-rode-bloedworm-_kleine-strongyliden_.aspx"  class="gtm_head_sublink test" data-subcat="Kleine rode bloedworm/Kleine strongyliden">Kleine rode bloedworm/Kleine strongyliden</a></li>
+<li><a href="/aandoeningen/paarden/lintwormen-bij-paarden.aspx"  class="gtm_head_sublink test" data-subcat="Lintwormen">Lintwormen</a></li>
+<li><a href="/aandoeningen/paarden/externe-parasieten-bij-paarden.aspx"  class="gtm_head_sublink test" data-subcat="Externe parasieten">Externe parasieten</a></li>
+<li><a href="/aandoeningen/paarden/west-nijl-virus.aspx"  class="gtm_head_sublink test" data-subcat="West-Nijl virus">West-Nijl virus</a></li>
+<li><a href="/aandoeningen/paarden/index.aspx"  class="gtm_head_sublink test" data-subcat="Alle aandoeningen">Alle aandoeningen</a></li>
+</ul>
+</li>
+<!--start lvl 3-->
+<li><a href="/aandoeningen/rundvee/index.aspx"  class="gtm_head_sublink" data-subcat="Rundvee">Rundvee</a>
+<!--start lvl 2- true-->
+<i class="glyphicon glyphicon-chevron-down pull-right hidden-lg"></i>
+<ul class="nav-secondary">
+
+<li><a href="/aandoeningen/rundvee/metritis.aspx"  class="gtm_head_sublink test" data-subcat="Baarmoederontsteking">Baarmoederontsteking</a></li>
+<li><a href="/aandoeningen/rundvee/blauwtong.aspx"  class="gtm_head_sublink test" data-subcat="Blauwtong">Blauwtong</a></li>
+<li><a href="/aandoeningen/rundvee/bovine-virusdiarree-_bvd_.aspx"  class="gtm_head_sublink test" data-subcat="BVD">BVD</a></li>
+<li><a href="/aandoeningen/rundvee/clostridiuminfecties.aspx"  class="gtm_head_sublink test" data-subcat="Clostridiuminfecties">Clostridiuminfecties</a></li>
+<li><a href="/aandoeningen/rundvee/neonatale-diarree.aspx"  class="gtm_head_sublink test" data-subcat="Geboortediarree">Geboortediarree</a></li>
+<li><a href="/aandoeningen/rundvee/index.aspx"  class="gtm_head_sublink test" data-subcat="Alle aandoeningen">Alle aandoeningen</a></li>
+</ul>
+</li>
+<!--start lvl 3-->
+<li><a href="/aandoeningen/varkens/index.aspx"  class="gtm_head_sublink" data-subcat="Varkens">Varkens</a>
+<!--start lvl 2- true-->
+<i class="glyphicon glyphicon-chevron-down pull-right hidden-lg"></i>
+<ul class="nav-secondary">
+
+<li><a href=""  class="gtm_head_sublink test" data-subcat="Actinobacillus pleuropneumoniae">Actinobacillus pleuropneumoniae</a></li>
+<li><a href="/aandoeningen/varkens/berengedrag.aspx"  class="gtm_head_sublink test" data-subcat="Berengedrag">Berengedrag</a></li>
+<li><a href="/aandoeningen/varkens/influenza-griep-bij-varkens.aspx"  class="gtm_head_sublink test" data-subcat="Griepinfecties">Griepinfecties</a></li>
+<li><a href="/aandoeningen/varkens/haemophilus-parasuis-_hps_-ziekte-van-glasser.aspx"  class="gtm_head_sublink test" data-subcat="Haemophilus parasuis">Haemophilus parasuis</a></li>
+<li><a href="/aandoeningen/varkens/mycoplasma-hyopneumoniae-infecties-bij-varkens.aspx"  class="gtm_head_sublink test" data-subcat="Mycoplasma hyopneumoniae-infecties">Mycoplasma hyopneumoniae-infecties</a></li>
+<li><a href="/aandoeningen/varkens/index.aspx"  class="gtm_head_sublink test" data-subcat="Alle aandoeningen">Alle aandoeningen</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<!--CONTACT-->
+<li><a  href="/contact.aspx" class="gtm_head_link" data-cat="CONTACT">CONTACT</a>
+</li>
+</ul>
+        </nav>
+                
+<script src="/global-assets/js/umm_portal.js" type="text/javascript" ></script>
+
+        <script src="https://umx100.zoetis.eu/widgetserver/shared-resources/widgetlib.js"></script>
+        <script>
+            $(document).ready(function () {
+                if ($('#widget-container').length>0) {
+                    loadIframe('5053B80F-1D01-4CA7-A926-ABAC12674997', 'nl_NL', 'LOGIN', '/global-assets/css/umm_login_widget_home.css', 'widget-container', 287, null);
+                }
+                
+            });   	
+        </script><script src="/global-assets/js/jquery.rwdimagemaps.min.js" type="text/javascript" ></script>
+<style>
+    .page_container {
+        width: 100% !important;
+        margin: 0;
+    }    .nav-megamenu {
+        /* Sandy change 20/01/2014 */
+        border-bottom: 0 !important;
+    }</style>	<div class="one-three-column Homepage">
+  
+	<article class="hero-container">
+        <div id="carousel-main" class="carousel slide carousel-advanced carousel-large-banner"><script type="text/javascript">
+$(function () {
+var jcarousel = $('.jcarousel');
+$(jcarousel).on('jcarousel:reload jcarousel:create', function () {
+var width = $(jcarousel).innerWidth();
+ $(jcarousel).jcarousel('items').css('width', width + 'px');
+ $('.jcarousel .views-field.views-field-body').css('width', width + 'px');
+ });
+  $(jcarousel)
+ .jcarousel
+({
+    animation: 'fast',
+    wrap: 'circular'
+})
+.jcarouselAutoscroll
+({
+interval:7500,
+  autostart: true
+ });
+$(jcarousel).on('jcarousel:targetin', 'li', function (event, carousel) {
+     $("div[data-menu-item-id='" + $(this).attr("data-menu-item-id") + "']").removeClass("active").addClass("active");
+     $("#widget_pager_list_items_slideshow-block li[data-menu-item-id='" + $(this).attr("data-menu-item-id") + "']").removeClass("active").addClass("active");
+ });
+ $(jcarousel).on('jcarousel:targetout', 'li', function (event, carousel) {
+     $("div[data-menu-item-id='" + $(this).attr("data-menu-item-id") + "']").removeClass("active");
+     $("#widget_pager_list_items_slideshow-block li[data-menu-item-id='" + $(this).attr("data-menu-item-id") + "']").removeClass("active");
+ });
+ $("div[data-menu-item-id*='jcarousel-menu-item_']").off("click").click(function () {
+     var menuItem = $('li[data-menu-item-id="' + $(this).attr('data-menu-item-id') + '"]');
+     $(jcarousel).jcarousel('scroll', GetCarouselListItemIndex(menuItem));
+ });
+  $("#widget_pager_list_items_slideshow-block li[data-menu-item-id*='jcarousel-menu-item_']").off("click").click(function () {
+      var menuItem = $('li[data-menu-item-id="' + $(this).attr('data-menu-item-id') + '"]');
+      $(jcarousel).jcarousel('scroll', GetCarouselListItemIndex(menuItem));
+  });
+  $("#block-views-slideshow-block .views-slideshow-controls-bottom.views-banner-full-width .arrow-left").off("click").click(function () {
+      $('.jcarousel').jcarousel('scroll', '-=1');
+  });
+  $("#block-views-slideshow-block .views-slideshow-controls-bottom.views-banner-full-width .arrow-right").off("click").click(function () {
+      $('.jcarousel').jcarousel('scroll', '+=1');
+  });
+  function GetCarouselListItemIndex(item) {
+      return $('#jcarousel-list > li').index($(item));
+  }
+ });
+</script>
+
+<section id="block-views-slideshow-block" class="block block-views">
+   <div class="view-content">
+       <div class="skin-default">
+           <div class="jcarousel views_slideshow_cycle_main views_slideshow_main viewsSlideshowCycle-processed">
+               <ul id="jcarousel-list">
+          <li data-menu-item-id="jcarousel-menu-item_0" class="jcarousel-item">               <div class="gtm_hero" data-title="Breng leptospirose in kaart">
+               <div class="views-field views-field-body">
+                   <div class="field-content">
+                     <div class="h1"></div>
+                       </div>
+                   </div>
+                       <div class="views-field views-field-php">
+<a href="/meld-lepto.aspx" target=""><span class="field-content">
+<img alt="" src="/asset_upload_file79_230401.jpg"/></span>
+</a>
+</div>
+</div>
+</li>
+          <li data-menu-item-id="jcarousel-menu-item_1" class="jcarousel-item">               <div class="gtm_hero" data-title="Gezondheid van mens en dier">
+               <div class="views-field views-field-body">
+                   <div class="field-content">
+                     <div class="h1"></div>
+                       </div>
+                   </div>
+                       <div class="views-field views-field-php">
+<a href="/news-and-media/samenwerking-gezondheidszorg-mens-en-dier.aspx" target=""><span class="field-content">
+<img alt="" src="/asset_upload_file633_230401.png"/></span>
+</a>
+</div>
+</div>
+</li>
+          <li data-menu-item-id="jcarousel-menu-item_2" class="jcarousel-item">               <div class="gtm_hero" data-title="Bekijk de PCV webinars">
+               <div class="views-field views-field-body">
+                   <div class="field-content">
+                     <div class="h1"></div>
+                       </div>
+                   </div>
+                       <div class="views-field views-field-php">
+<a href="/varkens-webinars/pcv-serie.aspx" target=""><span class="field-content">
+<img alt="" src="/asset_upload_file983_230401.png"/></span>
+</a>
+</div>
+</div>
+</li>
+          <li data-menu-item-id="jcarousel-menu-item_3" class="jcarousel-item">               <div class="gtm_hero" data-title="Verantwoord antibioticagebruik">
+               <div class="views-field views-field-body">
+                   <div class="field-content">
+                     <div class="h1"><p>GEBRUIK ANTIBIOTICA<br/>ZO MIN MOGELIJK,<br/>ZOVEEL ALS NODIG.</p>
+<h4><span style="color: #ffffff;">De verantwoordelijkheid ligt </span><span style="color: #ffffff;">in onze handen, en die van u.</span></h4></div><p>&nbsp;&nbsp;<span style="font: 13px/20.65px Arial, Helvetica, sans-serif; color: #828282; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; float: none; display: inline !important; white-space: none; -webkit-text-stroke-width: 0px;"><a href="https://www.zoetis.nl/antibiotica">&gt;&gt; Lees meer&nbsp;</a></span></p>
+                       </div>
+                   </div>
+                       <div class="views-field views-field-php">
+<a href="/antibiotica/antibiotica.aspx" target=""><span class="field-content">
+<img alt="" src="/asset_upload_file103_230401.png"/></span>
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="views-slideshow-controls-bottom  clearfix">               <div id="widget_pager_bottom_slideshow-block" class="views-slideshow-pager-fields widget_pager widget_pager_bottom views_slideshow_pager_field views-slideshow-pager-field-processed">
+<div data-menu-item-id="jcarousel-menu-item_0" class="views-slideshow-pager-field-item views_slideshow_active_pager_field_item active">   <div class="views-field-title">
+     <div class="views-content-title gtm_hero_link">Breng leptospirose in kaart</div>   </div>
+</div>
+<div data-menu-item-id="jcarousel-menu-item_1" class="views-slideshow-pager-field-item views_slideshow_active_pager_field_item ">   <div class="views-field-title">
+     <div class="views-content-title gtm_hero_link">Gezondheid van<br/>mens en dier</div>   </div>
+</div>
+<div data-menu-item-id="jcarousel-menu-item_2" class="views-slideshow-pager-field-item views_slideshow_active_pager_field_item ">   <div class="views-field-title">
+     <div class="views-content-title gtm_hero_link">Bekijk de PCV webinars</div>   </div>
+</div>
+<div data-menu-item-id="jcarousel-menu-item_3" class="views-slideshow-pager-field-item views_slideshow_active_pager_field_item ">   <div class="views-field-title">
+     <div class="views-content-title gtm_hero_link">Verantwoord antibioticagebruik</div>   </div>
+</div>
+
+               </div>
+               <div id="widget_pager_list_items_slideshow-block">
+                   <ol class="carousel-indicators">
+<li data-menu-item-id="jcarousel-menu-item_0" class="active"></li><li data-menu-item-id="jcarousel-menu-item_1" class=""></li><li data-menu-item-id="jcarousel-menu-item_2" class=""></li><li data-menu-item-id="jcarousel-menu-item_3" class=""></li>
+                   </ol>
+               </div>
+           </div>
+       </div>
+   </div>
+</section>
+</div>
+    </article>
+		<section class="tiles"><div class=""><div class="widget-container clearfix">
+<article class="press-release-tile"><h2>Nieuws <a href="/news-and-media/index.aspx" target="">View All</a></h2><ul><li><a href="/news-and-media/2015-8-breng-leptospirose-in-kaart.aspx"><span>19 augustus 2015 - </span>Introductie Witness® Lepto: Breng Leptospirose in kaart!</a></li><li><a href="/news-and-media/samenwerking-gezondheidszorg-mens-en-dier.aspx"><span>20 maart 2015 - </span>Deskundigenpanel roept op tot nauwere samenwerking gezondheidszorg mens en dier</a></li><li><a href="/news-and-media/antibiotica-verantwoord-gebruik.aspx"><span>18 november 2014 - </span>Zoetis start Europese campagne voor verantwoord gebruik van antibiotica in de veterinaire praktijk </a></li><li><a href="/news-and-media/swine-webinar-december-2014.aspx"><span>17 november 2014 - </span>Aanmelding voor de 2e Swine webinar met Joaquim Segales nu geopend</a></li><li><a href="/news-and-media/poultry-webinar-infectious-bronchitis.aspx"><span>07 november 2014 - </span>Poultry Webinar Infectious Bronchitis</a></li></ul></article></div>
+
+</div><div class=""><div class="widget-container clearfix">
+<article class="brightcove-tile <h2>Antibiotica - Verantwoord gebruik</h2>
+">
+<a class="still-frame" href="#video_myExperience3901370873001"></a>
+<div class="brightcove-video-player">
+<div id="video_myExperience3901370873001" class="wrapper-with-intrinsic-ratio"><div style="display:none"></div>
+<h3>Antibiotica - Verantwoord gebruik</h3><script src="https://sadmin.brightcove.com/js/BrightcoveExperiences.js " type="text/javascript" language="JavaScript"></script>
+<div class="border">
+<object id="myExperience3901370873001" class="BrightcoveExperience stretch-to-ratio">
+<param name="bgcolor" value="#FFFFFF" />
+<param name="width" value="480" />
+<param name="height" value="270" />
+<param name="isVid" value="true" />
+<param name="isUI" value="true" />
+<param name="dynamicStreaming" value="true" />
+<param name="playerID" value="3901408409001" /><param name="playerKey" value="AQ~~,AAABUtE_oFE~,3Wkr0rcTD9y-EDav1n-j27155bzII3t0" /><param name="@videoPlayer" value="3901370873001" /><param name="wmode" value="opaque" />
+<param name="secureConnections" value="true" />
+<param name="secureHTMLConnections" value="true" />
+</object>
+<span width="430" class="description"></span></div>
+</div>
+</div>
+</article>
+</div>
+
+</div><div class=""><div class="widget-container clearfix">
+
+<script type="text/javascript">var registerURL = '/register.aspx';var profileURL = '/user-profile/profile.aspx';var resetPasswordURL = '/user-profile/reset-password.aspx';var changePasswordURL = '/change-password.aspx';var pendingApprovalURL = '/user-profile/pending-approval.aspx';var loginURL = '/login.aspx';</script><div id="authholder" class="authholder-small"><h4 style="font-weight: 700;  font-size: 10pt;  line-height: 14pt;  color: #ff671f;  background: #e1e1e1;  margin: 0px 0 0;  padding: 3px 5px;  font-family: proxima-nova-condensed, Arial, sans-serif;  text-transform: uppercase;">AANMELDEN</h4><div id="widget-container"></div><div id="testwidget"></div></div>
+</div>
+
+</div></section></div>
+        <div class="country-selector hidden-lg">
+            <a class="visible-lg" href="/index.aspx">
+                <img border="0" src="/global-assets/img/small_logo.png"
+                    alt="United States" class="img-responsive"></a>
+            <button class="country-selector-link hidden-lg pull-right">
+                Change Location<i
+                    class="glyphicon glyphicon-chevron-up"></i></button>
+            <ul class="country-header">
+                <li class="zoetis-global"><a class="flag flag-ZO" href="http://www.zoetis.com">zoetis.com</a></li>
+                <li class="country-selected"><a class="flag flag-NL"
+                    href="">zoetisNL.com</a></li>
+            </ul>
+            <!-- May need to be removed -->
+                        <ul class="country-list show">
+<li><a class="flag flag-AR" href="https://ar.zoetis.com/">Argentina</a></li>
+<li><a class="flag flag-AU" href="http://www.zoetis.com.au">Australia</a></li>
+<li><a class="flag flag-AT" href="http://www.zoetis.at">Austria</a></li>
+<li><a class="flag flag-BE" href="https://www.zoetis.be/fr/">Belgium (French)</a></li>
+<li><a class="flag flag-BE" href="https://www.zoetis.be/nl/">Belgium (Dutch)</a></li>
+<li><a class="flag flag-BR" href="http://www.zoetis.com.br">Brazil</a></li>
+<li><a class="flag flag-BO" href="http://www.zoetis.com.bo">Bolivia</a></li>
+<li><a class="flag flag-BG" href="http://www.zoetis.bg">Bulgaria</a></li>
+<li><a class="flag flag-CA" href="http://www.zoetis.ca">Canada</a></li>
+<li><a class="flag flag-CL" href="http://www.zoetis.cl">Chile</a></li>
+<li><a class="flag flag-CN" href="http://www.zoetis.cn/">China</a></li>
+<li><a class="flag flag-CO" href="http://www.zoetis.com.co">Colombia</a></li>
+<li><a class="flag flag-CR" href="http://www.zoetis.co.cr/">Costa Rica</a></li>
+<li><a class="flag flag-HR" href="http://www.zoetis.hr">Croatia</a></li>
+<li><a class="flag flag-CZ" href="http://www.zoetis.cz">Czech Republic</a></li>
+<li><a class="flag flag-EC" href="http://www.zoetis.com.ec">Ecuador</a></li>
+<li><a class="flag flag-EG" href="http://eg.zoetis.com">Egypt</a></li>
+<li><a class="flag flag-EE" href="http://www.zoetis.ee">Estonia</a></li>
+<li><a class="flag flag-FI" href="http://www.zoetis.fi">Finland</a></li>
+<li><a class="flag flag-FR" href="https://www.zoetis.fr/">France</a></li>
+<li><a class="flag flag-DE" href="https://www.zoetis.de/">Germany</a></li>
+<li><a class="flag flag-GR" href="http://gr.zoetis.com">Greece</a></li>
+<li><a class="flag flag-HU" href="http://www.zoetis.hu">Hungary</a></li>
+<li><a class="flag flag-IN" href="http://www.zoetis.in">India</a></li>
+<li><a class="flag flag-ID" href="http://www.zoetis.co.id">Indonesia</a></li>
+<li><a class="flag flag-IE" href="http://www.zoetis.ie">Ireland</a></li>
+<li><a class="flag flag-IL" href="http://www.zoetis.co.il">Israel</a></li>
+<li><a class="flag flag-IT" href="https://www.zoetis.it/">Italy</a></li>
+<li><a class="flag flag-JP" href="http://www.zoetis.jp">Japan</a></li>
+<li><a class="flag flag-LV" href="http://www.zoetis.lv">Latvia</a></li>
+<li><a class="flag flag-LT" href="http://www.zoetis.lt">Lithuania</a></li>
+<li><a class="flag flag-MY" href="http://www.zoetis.com.my">Malaysia</a></li>
+<li><a class="flag flag-MX" href="https://www.zoetis.mx/">Mexico</a></li>
+<li><a class="flag flag-MA" href="http://ma.zoetis.com">Morocco</a></li>
+<li><a class="flag flag-NL" href="https://www.zoetis.mx/">Netherlands</a></li>
+<li><a class="flag flag-NZ" href="http://www.zoetis.co.nz">New Zealand</a></li>
+<li><a class="flag flag-PY" href="http://www.zoetis.com.py/">Paraguay</a></li>
+<li><a class="flag flag-PE" href="http://www.zoetis.pe">Peru</a></li>
+<li><a class="flag flag-PH" href="http://ph.zoetis.com">Philippines</a></li>
+<li><a class="flag flag-PL" href="http://www.zoetis.com.pl">Poland</a></li>
+<li><a class="flag flag-PT" href="http://www.zoetis.com.pt">Portugal</a></li>
+<li><a class="flag flag-RO" href="http://www.zoetis.ro">Romania</a></li>
+<li><a class="flag flag-RU" href="http://www.zoetis.ru">Russia</a></li>
+<li><a class="flag flag-sr" href="http://rs.zoetis.com">Serbia</a></li>
+<li><a class="flag flag-SK" href="http://www.zoetis.sk">Slovakia</a></li>
+<li><a class="flag flag-SI" href="http://www.zoetis.si">Slovenia</a></li>
+<li><a class="flag flag-ZA" href="http://www.zoetis.co.za">South Africa</a></li>
+<li><a class="flag flag-KR" href="http://www.zoetis.kr">South Korea</a></li>
+<li><a class="flag flag-ES" href="https://www.zoetis.es/">Spain</a></li>
+<li><a class="flag flag-CH" href="http://www.zoetis.ch">Switzerland</a></li>
+<li><a class="flag flag-TW" href="http://www.zoetis.tw">Taiwan</a></li>
+<li><a class="flag flag-TH" href="http://thailand.zoetis.com">Thailand</a></li>
+<li><a class="flag flag-TR" href="http://www.zoetis.com.tr">Turkey</a></li>
+<li><a class="flag flag-UA" href="http://www.zoetis.com.ua">Ukraine</a></li>
+<li><a class="flag flag-GB" href="https://www.zoetis.co.uk/">United Kingdom</a></li>
+<li><a class="flag flag-US" href="https://www.zoetisUS.com/">United States</a></li>
+<li><a class="flag flag-UY" href="http://www.zoetis.com.uy">Uruguay</a></li>
+<li><a class="flag flag-VE" href="http://www.zoetis.com.ve">Venezuela</a></li>
+<li><a class="flag flag-VN" href="http://vn.zoetis.com">Vietnam</a></li>
+</ul>                        <p>U verlaat de Nederlandse website en bezoekt de website van een ander land.</p>
+<p>Wettelijke bepalingen met betrekking tot het tonen van productinformatie verschillen van land tot land. U zult daarom mogelijk informatie vinden die&nbsp;niet&nbsp;overeenkomstig is&nbsp;met de wettelijke bepalingen in Nederland.</p>        </div>
+        <footer class="footer-standard">
+            <!-- SOCIAL ICONS START -->
+            <div class="footer-social-media">
+                            </div>
+            <!-- SOCIAL ICONS END -->
+            <!-- STRAP LINE START -->
+            <div class="strap-line">
+                            </div>
+            <!-- STRAP LINE END -->
+            <nav class="footer-nav">
+                                <div id="footer-body">
+                    <img src="/global-assets/img/small_logo.png" class="footer-logo" />
+                    <ul class="nav-main">
+<!--OVER ZOETIS-->
+<li><a href="/over-ons.aspx"  class="gtm_foot_link" data-cat="OVER ZOETIS">OVER ZOETIS</a>
+<ul class="nav-secondary">
+<li><a href="/zoetis-in-vogelvlucht.aspx"  class="gtm_foot_sublink" data-subcat="Zoetis in vogelvlucht">Zoetis in vogelvlucht</a>
+</li>
+<li><a href="/waar-wij-voor-staan.aspx"  class="gtm_foot_sublink" data-subcat="Waar wij voor staan">Waar wij voor staan</a>
+</li>
+<li><a href="/antibiotica/antibiotica.aspx"  class="gtm_foot_sublink" data-subcat="Onze visie op antibiotica">Onze visie op antibiotica</a>
+</li>
+<li><a href="/bekijk-onze-historie.aspx"  class="gtm_foot_sublink" data-subcat="Historie">Historie</a>
+</li>
+<li><a href="/innovatie.aspx"  class="gtm_foot_sublink" data-subcat="Innovatie">Innovatie</a>
+</li>
+<li><a href="/vestigingen.aspx"  class="gtm_foot_sublink" data-subcat="Vestigingen">Vestigingen</a>
+</li>
+</ul>
+</li>
+<!--DIERSOORT-->
+<li><span class="gtm_foot_link">DIERSOORT</span>
+<!--no link-->
+<ul class="nav-secondary">
+<li><a href="/diersoort/honden.aspx"  class="gtm_foot_sublink" data-subcat="Honden">Honden</a>
+</li>
+<li><a href="/diersoort/katten.aspx"  class="gtm_foot_sublink" data-subcat="Katten">Katten</a>
+</li>
+<li><a href="/diersoort/paarden.aspx"  class="gtm_foot_sublink" data-subcat="Paarden">Paarden</a>
+</li>
+<li><a href="/diersoort/rundvee.aspx"  class="gtm_foot_sublink" data-subcat="Rundvee">Rundvee</a>
+</li>
+<li><a href="/diersoort/schapen.aspx"  class="gtm_foot_sublink" data-subcat="Schapen">Schapen</a>
+</li>
+<li><a href="/diersoort/varken.aspx"  class="gtm_foot_sublink" data-subcat="Varkens">Varkens</a>
+</li>
+</ul>
+</li>
+<!--PRODUCTEN-->
+<li><a href="/products/index.aspx"  class="gtm_foot_link" data-cat="PRODUCTEN">PRODUCTEN</a>
+<ul class="nav-secondary">
+<!--start lvl 3-->
+<li><a href="/products/honden/index.aspx"  class="gtm_foot_sublink" data-subcat="Honden">Honden</a>
+<!--start lvl 2- true-->
+<ul class="nav-tertiary">
+
+<li><a href="/products/alzane.aspx"  class="gtm_foot_sublink" data-subcat="Alzane">Alzane</a></li>
+<li><a href="/products/honden/bronchi-shield.aspx"  class="gtm_foot_sublink" data-subcat="Bronchi-Shield">Bronchi-Shield</a></li>
+<li><a href="/products/honden/cerenia-tabletten.aspx"  class="gtm_foot_sublink" data-subcat="Cerenia Tabletten">Cerenia Tabletten</a></li>
+<li><a href="/products/honden/depo-promone.aspx"  class="gtm_foot_sublink" data-subcat="Depo-Promone">Depo-Promone</a></li>
+<li><a href="/products/eliminall.aspx"  class="gtm_foot_sublink" data-subcat="Eliminall">Eliminall</a></li>
+<li><a href="/products/honden/index.aspx"  class="gtm_foot_sublink" data-subcat="Alle Producten">Alle Producten</a></li>
+</ul>
+</li>
+<!--start lvl 3-->
+<li><a href="/products/katten/index.aspx"  class="gtm_foot_sublink" data-subcat="Katten">Katten</a>
+<!--start lvl 2- true-->
+<ul class="nav-tertiary">
+
+<li><a href="/products/alzane.aspx"  class="gtm_foot_sublink" data-subcat="Alzane">Alzane</a></li>
+<li><a href="/products/katten/primucell-fip.aspx"  class="gtm_foot_sublink" data-subcat="Primunell FIP">Primunell FIP</a></li>
+<li><a href="/products/katten/promeris.aspx"  class="gtm_foot_sublink" data-subcat="ProMeris">ProMeris</a></li>
+<li><a href="/products/katten/versifel.aspx"  class="gtm_foot_sublink" data-subcat="Versifel">Versifel</a></li>
+<li><a href="/aandoeningen/katten/urineweginfectie-bij-katten.aspx"  class="gtm_foot_sublink" data-subcat="Urineweginfectie">Urineweginfectie</a></li>
+<li><a href="/products/katten/index.aspx"  class="gtm_foot_sublink" data-subcat="Alle Producten">Alle Producten</a></li>
+</ul>
+</li>
+<!--start lvl 3-->
+<li><a href="/products/paarden/index.aspx"  class="gtm_foot_sublink" data-subcat="Paarden">Paarden</a>
+<!--start lvl 2- true-->
+<ul class="nav-tertiary">
+
+<li><a href="/products/paarden/detogesic.aspx"  class="gtm_foot_sublink" data-subcat="Detogesic">Detogesic</a></li>
+<li><a href="/products/paarden/equest.aspx"  class="gtm_foot_sublink" data-subcat="Equest">Equest</a></li>
+<li><a href="/products/paarden/equest-pramox.aspx"  class="gtm_foot_sublink" data-subcat="Equest Pramox">Equest Pramox</a></li>
+<li><a href="/products/paarden/equip-ehv14.aspx"  class="gtm_foot_sublink" data-subcat="Equip EHV1,4">Equip EHV1,4</a></li>
+<li><a href="/products/paarden/equip-wnv.aspx"  class="gtm_foot_sublink" data-subcat="Het West Nijil Virus">Het West Nijil Virus</a></li>
+<li><a href="/products/paarden/index.aspx"  class="gtm_foot_sublink" data-subcat="Alle Producten">Alle Producten</a></li>
+</ul>
+</li>
+<!--start lvl 3-->
+<li><a href="/products/rundvee/index.aspx"  class="gtm_foot_sublink" data-subcat="Rundvee">Rundvee</a>
+<!--start lvl 2- true-->
+<ul class="nav-tertiary">
+
+<li><a href="/producten/rundvee/acegon.aspx"  class="gtm_foot_sublink" data-subcat="Acegon">Acegon</a></li>
+<li><a href="/products/rundvee/avuloxil.aspx"  class="gtm_foot_sublink" data-subcat="Avuloxil">Avuloxil</a></li>
+<li><a href="/products/rundvee/cidr.aspx"  class="gtm_foot_sublink" data-subcat="CIDR">CIDR</a></li>
+<li><a href="/products/rundvee/index.aspx"  class="gtm_foot_sublink" data-subcat="Alle Producten">Alle Producten</a></li>
+</ul>
+</li>
+<!--start lvl 3-->
+<li><a href="/products/schapen/index.aspx"  class="gtm_foot_sublink" data-subcat="Schapen">Schapen</a>
+<!--start lvl 2- true-->
+<ul class="nav-tertiary">
+
+<li><a href="/products/rundvee/covexin-10.aspx"  class="gtm_foot_sublink" data-subcat="Covexin 10">Covexin 10</a></li>
+<li><a href="/products/schapen/cydectin-orale-oplossing.aspx"  class="gtm_foot_sublink" data-subcat="Cydectin 0,1% orale oplossing">Cydectin 0,1% orale oplossing</a></li>
+<li><a href="/products/schapen/cydectin-triclamox.aspx"  class="gtm_foot_sublink" data-subcat="Cydectin TriclaMox">Cydectin TriclaMox</a></li>
+<li><a href="/products/schapen/dectomax-injectile.aspx"  class="gtm_foot_sublink" data-subcat="Dectomax injectile">Dectomax injectile</a></li>
+<li><a href="/products/schapen/kaopectate.aspx"  class="gtm_foot_sublink" data-subcat="Kaopectate">Kaopectate</a></li>
+<li><a href="/products/schapen/index.aspx"  class="gtm_foot_sublink" data-subcat="Alle Producten">Alle Producten</a></li>
+</ul>
+</li>
+<!--start lvl 3-->
+<li><a href="/products/varkens/index.aspx"  class="gtm_foot_sublink" data-subcat="Varkens">Varkens</a>
+<!--start lvl 2- true-->
+<ul class="nav-tertiary">
+
+<li><a href="/products/varkens/dectomax.aspx"  class="gtm_foot_sublink" data-subcat="Dectomax injectie">Dectomax injectie</a></li>
+<li><a href="/products/varkens/improvac.aspx"  class="gtm_foot_sublink" data-subcat="Improvac">Improvac</a></li>
+<li><a href="/products/varkens/linco-spectin-44g-premix.aspx"  class="gtm_foot_sublink" data-subcat="Linco-Spectin Premix">Linco-Spectin Premix</a></li>
+<li><a href="/products/varkens/suvaxyn-mh-one.aspx"  class="gtm_foot_sublink" data-subcat="Suvaxyn MH-One">Suvaxyn MH-One</a></li>
+<li><a href="/products/varkens/index.aspx"  class="gtm_foot_sublink" data-subcat="Alle Producten">Alle Producten</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<!--AANDOENINGEN-->
+<li><a href="/aandoeningen/index.aspx"  class="gtm_foot_link" data-cat="AANDOENINGEN">AANDOENINGEN</a>
+<ul class="nav-secondary">
+<!--start lvl 3-->
+<li><a href="/aandoeningen/honden/index.aspx"  class="gtm_foot_sublink" data-subcat="Honden">Honden</a>
+<!--start lvl 2- true-->
+<ul class="nav-tertiary">
+
+<li><a href="/aandoeningen/honden/acute-pancreatitis.aspx"  class="gtm_foot_sublink" data-subcat="Acute pancreatitis, alvleesklierontsteking">Acute pancreatitis, alvleesklierontsteking</a></li>
+<li><a href="/aandoeningen/honden/artritis.aspx"  class="gtm_foot_sublink" data-subcat="Arthritis,artrose">Arthritis,artrose</a></li>
+<li><a href="/aandoeningen/honden/demodexinfectie-of-demodicose.aspx"  class="gtm_foot_sublink" data-subcat="Demodexinfectie of demodicose">Demodexinfectie of demodicose</a></li>
+<li><a href="/aandoeningen/honden/ectoparasieten-bij-honden-en-katten.aspx"  class="gtm_foot_sublink" data-subcat="Ectoparasieten">Ectoparasieten</a></li>
+<li><a href="/aandoeningen/honden/gebitsaandoeningen-bij-honden.aspx"  class="gtm_foot_sublink" data-subcat="Gebitsaandoeningen">Gebitsaandoeningen</a></li>
+<li><a href="/aandoeningen/honden/index.aspx"  class="gtm_foot_sublink" data-subcat="Alle aandoeningen">Alle aandoeningen</a></li>
+</ul>
+</li>
+<!--start lvl 3-->
+<li><a href="/aandoeningen/katten/index.aspx"  class="gtm_foot_sublink" data-subcat="Katten">Katten</a>
+<!--start lvl 2- true-->
+<ul class="nav-tertiary">
+
+<li><a href="/aandoeningen/katten/acute-pancreatitis.aspx"  class="gtm_foot_sublink" data-subcat="Acute pancreatits, alvleesklierontsteking">Acute pancreatits, alvleesklierontsteking</a></li>
+<li><a href="/aandoeningen/katten/ectoparasieten-bij-honden-en-katten.aspx"  class="gtm_foot_sublink" data-subcat="Ectoparasieten">Ectoparasieten</a></li>
+<li><a href="/aandoeningen/katten/feline-panleukopenie--kattenziekte.aspx"  class="gtm_foot_sublink" data-subcat="Feline panleukopenie, kattenziekte">Feline panleukopenie, kattenziekte</a></li>
+<li><a href="/aandoeningen/katten/niesziekte.aspx"  class="gtm_foot_sublink" data-subcat="Niesziekte">Niesziekte</a></li>
+<li><a href="/aandoeningen/katten/urineweginfectie-bij-katten.aspx"  class="gtm_foot_sublink" data-subcat="Urineweginfectie">Urineweginfectie</a></li>
+<li><a href="/aandoeningen/katten/index.aspx"  class="gtm_foot_sublink" data-subcat="Alle aandoeningen">Alle aandoeningen</a></li>
+</ul>
+</li>
+<!--start lvl 3-->
+<li><a href="/aandoeningen/paarden/index.aspx"  class="gtm_foot_sublink" data-subcat="Paarden">Paarden</a>
+<!--start lvl 2- true-->
+<ul class="nav-tertiary">
+
+<li><a href="/aandoeningen/paarden/rondwormen-_nematoden_.aspx"  class="gtm_foot_sublink" data-subcat="Rondwormen">Rondwormen</a></li>
+<li><a href="/aandoeningen/paarden/kleine-rode-bloedworm-_kleine-strongyliden_.aspx"  class="gtm_foot_sublink" data-subcat="Kleine rode bloedworm/Kleine strongyliden">Kleine rode bloedworm/Kleine strongyliden</a></li>
+<li><a href="/aandoeningen/paarden/lintwormen-bij-paarden.aspx"  class="gtm_foot_sublink" data-subcat="Lintwormen">Lintwormen</a></li>
+<li><a href="/aandoeningen/paarden/externe-parasieten-bij-paarden.aspx"  class="gtm_foot_sublink" data-subcat="Externe parasieten">Externe parasieten</a></li>
+<li><a href="/aandoeningen/paarden/west-nijl-virus.aspx"  class="gtm_foot_sublink" data-subcat="West-Nijl virus">West-Nijl virus</a></li>
+<li><a href="/aandoeningen/paarden/index.aspx"  class="gtm_foot_sublink" data-subcat="Alle aandoeningen">Alle aandoeningen</a></li>
+</ul>
+</li>
+<!--start lvl 3-->
+<li><a href="/aandoeningen/rundvee/index.aspx"  class="gtm_foot_sublink" data-subcat="Rundvee">Rundvee</a>
+<!--start lvl 2- true-->
+<ul class="nav-tertiary">
+
+<li><a href="/aandoeningen/rundvee/metritis.aspx"  class="gtm_foot_sublink" data-subcat="Baarmoederontsteking">Baarmoederontsteking</a></li>
+<li><a href="/aandoeningen/rundvee/blauwtong.aspx"  class="gtm_foot_sublink" data-subcat="Blauwtong">Blauwtong</a></li>
+<li><a href="/aandoeningen/rundvee/bovine-virusdiarree-_bvd_.aspx"  class="gtm_foot_sublink" data-subcat="BVD">BVD</a></li>
+<li><a href="/aandoeningen/rundvee/clostridiuminfecties.aspx"  class="gtm_foot_sublink" data-subcat="Clostridiuminfecties">Clostridiuminfecties</a></li>
+<li><a href="/aandoeningen/rundvee/neonatale-diarree.aspx"  class="gtm_foot_sublink" data-subcat="Geboortediarree">Geboortediarree</a></li>
+<li><a href="/aandoeningen/rundvee/index.aspx"  class="gtm_foot_sublink" data-subcat="Alle aandoeningen">Alle aandoeningen</a></li>
+</ul>
+</li>
+<!--start lvl 3-->
+<li><a href="/aandoeningen/varkens/index.aspx"  class="gtm_foot_sublink" data-subcat="Varkens">Varkens</a>
+<!--start lvl 2- true-->
+<ul class="nav-tertiary">
+
+<li><a href=""  class="gtm_foot_sublink" data-subcat="Actinobacillus pleuropneumoniae">Actinobacillus pleuropneumoniae</a></li>
+<li><a href="/aandoeningen/varkens/berengedrag.aspx"  class="gtm_foot_sublink" data-subcat="Berengedrag">Berengedrag</a></li>
+<li><a href="/aandoeningen/varkens/influenza-griep-bij-varkens.aspx"  class="gtm_foot_sublink" data-subcat="Griepinfecties">Griepinfecties</a></li>
+<li><a href="/aandoeningen/varkens/haemophilus-parasuis-_hps_-ziekte-van-glasser.aspx"  class="gtm_foot_sublink" data-subcat="Haemophilus parasuis">Haemophilus parasuis</a></li>
+<li><a href="/aandoeningen/varkens/mycoplasma-hyopneumoniae-infecties-bij-varkens.aspx"  class="gtm_foot_sublink" data-subcat="Mycoplasma hyopneumoniae-infecties">Mycoplasma hyopneumoniae-infecties</a></li>
+<li><a href="/aandoeningen/varkens/index.aspx"  class="gtm_foot_sublink" data-subcat="Alle aandoeningen">Alle aandoeningen</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<!--CONTACT-->
+<li><a href="/contact.aspx"  class="gtm_foot_link" data-cat="CONTACT">CONTACT</a>
+</li>
+</ul></ul>
+                </div>
+                                <div style="clear: both;"></div>
+                <span class="legal">© Copyright, 2013-<script language="javascript" type="text/javascript">document.write(new Date().getFullYear());</script>. Zoetis B.V. </span>
+                <div class="print-footer">
+                    <p> </p>
+                </div>
+                <div class="footer-left">
+                    <div class="footer-footer">
+                        <div class="footer-country">
+                                                        <div id="mobile-footer-country">
+                                <i class="flag flag-NL"></i>
+                                <span class="mobile-footer-country-text">Change Location</span>
+                                <ul class="country-list show">
+<li><a class="flag flag-AR" href="https://ar.zoetis.com/">Argentina</a></li>
+<li><a class="flag flag-AU" href="http://www.zoetis.com.au">Australia</a></li>
+<li><a class="flag flag-AT" href="http://www.zoetis.at">Austria</a></li>
+<li><a class="flag flag-BE" href="https://www.zoetis.be/">Belgium</a></li>
+<li><a class="flag flag-BR" href="http://www.zoetis.com.br">Brazil</a></li>
+<li><a class="flag flag-BO" href="http://www.zoetis.com.bo">Bolivia</a></li>
+<li><a class="flag flag-BG" href="http://www.zoetis.bg">Bulgaria</a></li>
+<li><a class="flag flag-CA" href="http://www.zoetis.ca">Canada</a></li>
+<li><a class="flag flag-CL" href="http://www.zoetis.cl">Chile</a></li>
+<li><a class="flag flag-CN" href="http://www.zoetis.cn/">China</a></li>
+<li><a class="flag flag-CO" href="http://www.zoetis.com.co">Colombia</a></li>
+<li><a class="flag flag-CR" href="http://www.zoetis.co.cr/">Costa Rica</a></li>
+<li><a class="flag flag-HR" href="http://www.zoetis.hr">Croatia</a></li>
+<li><a class="flag flag-CZ" href="http://www.zoetis.cz">Czech Republic</a></li>
+<li><a class="flag flag-EC" href="http://www.zoetis.com.ec">Ecuador</a></li>
+<li><a class="flag flag-EG" href="http://eg.zoetis.com">Egypt</a></li>
+<li><a class="flag flag-EE" href="http://www.zoetis.ee">Estonia</a></li>
+<li><a class="flag flag-FI" href="http://www.zoetis.fi">Finland</a></li>
+<li><a class="flag flag-FR" href="https://www.zoetis.fr/">France</a></li>
+<li><a class="flag flag-DE" href="https://www.zoetis.de/">Germany</a></li>
+<li><a class="flag flag-GR" href="http://gr.zoetis.com">Greece</a></li>
+<li><a class="flag flag-HU" href="http://www.zoetis.hu">Hungary</a></li>
+<li><a class="flag flag-IN" href="http://www.zoetis.in">India</a></li>
+<li><a class="flag flag-ID" href="http://www.zoetis.co.id">Indonesia</a></li>
+<li><a class="flag flag-IE" href="http://www.zoetis.ie">Ireland</a></li>
+<li><a class="flag flag-IL" href="http://www.zoetis.co.il">Israel</a></li>
+<li><a class="flag flag-IT" href="https://www.zoetis.it/">Italy</a></li>
+<li><a class="flag flag-JP" href="http://www.zoetis.jp">Japan</a></li>
+<li><a class="flag flag-LV" href="http://www.zoetis.lv">Latvia</a></li>
+<li><a class="flag flag-LT" href="http://www.zoetis.lt">Lithuania</a></li>
+<li><a class="flag flag-MY" href="http://www.zoetis.com.my">Malaysia</a></li>
+<li><a class="flag flag-MX" href="https://www.zoetis.mx/">Mexico</a></li>
+<li><a class="flag flag-MA" href="http://ma.zoetis.com">Morocco</a></li>
+<li><a class="flag flag-NL" href="https://www.zoetis.nl/">Netherlands</a></li>
+<li><a class="flag flag-NZ" href="http://www.zoetis.co.nz">New Zealand</a></li>
+<li><a class="flag flag-PY" href="http://www.zoetis.com.py/">Paraguay</a></li>
+<li><a class="flag flag-PE" href="http://www.zoetis.pe">Peru</a></li>
+<li><a class="flag flag-PH" href="http://ph.zoetis.com">Philippines</a></li>
+<li><a class="flag flag-PL" href="http://www.zoetis.com.pl">Poland</a></li>
+<li><a class="flag flag-PT" href="http://www.zoetis.com.pt">Portugal</a></li>
+<li><a class="flag flag-RO" href="http://www.zoetis.ro">Romania</a></li>
+<li><a class="flag flag-RU" href="http://www.zoetis.ru">Russia</a></li>
+<li><a class="flag flag-SR" href="http://rs.zoetis.com">Serbia</a></li>
+<li><a class="flag flag-SK" href="http://www.zoetis.sk">Slovakia</a></li>
+<li><a class="flag flag-SI" href="http://www.zoetis.si">Slovenia</a></li>
+<li><a class="flag flag-ZA" href="http://www.zoetis.co.za">South Africa</a></li>
+<li><a class="flag flag-KR" href="http://www.zoetis.kr">South Korea</a></li>
+<li><a class="flag flag-ES" href="https://www.zoetis.es/">Spain</a></li>
+<li><a class="flag flag-CH" href="http://www.zoetis.ch">Switzerland</a></li>
+<li><a class="flag flag-TW" href="http://www.zoetis.tw">Taiwan</a></li>
+<li><a class="flag flag-TH" href="http://thailand.zoetis.com">Thailand</a></li>
+<li><a class="flag flag-TR" href="http://www.zoetis.com.tr">Turkey</a></li>
+<li><a class="flag flag-UA" href="http://www.zoetis.com.ua">Ukraine</a></li>
+<li><a class="flag flag-GB" href="https://www.zoetis.co.uk/">United Kingdom</a></li>
+<li><a class="flag flag-US" href="https://www.zoetisUS.com/">United States</a></li>
+<li><a class="flag flag-UY" href="http://www.zoetis.com.uy">Uruguay</a></li>
+<li><a class="flag flag-VE" href="http://www.zoetis.com.ve">Venezuela</a></li>
+<li><a class="flag flag-VN" href="http://vn.zoetis.com">Vietnam</a></li>
+</ul>
+                            </div>
+                                                        <div id="standard-footer-country">
+                                <i class="flag flag-NL"></i>
+                                <a id="country-selector-modal-link-footer" class="country-selector-modal-link" href="#country-selector-modal">Change Location </a>
+                            </div>
+                        </div>
+                        <ul>
+                                                        <li><span></span><a href='http://www.zoetis.com/' target="_self">Global Home</a></li>
+                                                        <li><span>|</span><a href='' target="_self">Contact</a></li>
+                                                        <li><span>|</span><a href='/sitemap.aspx' target="_self">Sitemap</a></li>
+                                                        <li><span>|</span><a href='/privacy-verklaring.aspx' target="_self">Privacy Verklaring</a></li>
+                                                        <li><span>|</span><a href='/gebruiksvoorwaarden.aspx' target="_self">Gebruiksvoorwaarden</a></li>
+                                                        <li><span>|</span><a href='/technische-hulp.aspx' target="_self">Help</a></li>
+                                                        <li><span>|</span><a href='https://www.zoetis.nl/werken-bij-zoetis.aspx' target="_self">carrieremogelijkheden</a></li>
+                                                    </ul>
+                    </div>
+                </div>
+                <div style="clear: both"></div>
+            </nav>
+        </footer>
+    </div>
+        <div style="clear: both">
+    </div>
+    <ul class="footer-outer">
+                <li>
+            <span></span><a href='http://www.zoetis.com/'
+                target="_self">Global Home</a></li>
+                <li>
+            <span>|</span><a href=''
+                target="_self">Contact</a></li>
+                <li>
+            <span>|</span><a href='/sitemap.aspx'
+                target="_self">Sitemap</a></li>
+                <li>
+            <span>|</span><a href='/privacy-verklaring.aspx'
+                target="_self">Privacy Verklaring</a></li>
+                <li>
+            <span>|</span><a href='/gebruiksvoorwaarden.aspx'
+                target="_self">Gebruiksvoorwaarden</a></li>
+                <li>
+            <span>|</span><a href='/technische-hulp.aspx'
+                target="_self">Help</a></li>
+                <li>
+            <span>|</span><a href='https://www.zoetis.nl/werken-bij-zoetis.aspx'
+                target="_self">carrieremogelijkheden</a></li>
+            </ul>
+            <!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-557a9a9d76b90c65" async="async"></script>
+        <!-- ====================== AddThis Placeholder - no longer used but will cause errors if removed. ================================== -->
+    
+    <!-- ====================== END AddThis Placeholder ================================== -->
+        <!-- ====================== START SOCIAL API's ================================ -->
+                <!-- ====================== END SOCIAL API's ================================== -->
+</body>
+</html>

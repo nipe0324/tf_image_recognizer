@@ -1,0 +1,264 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<!--- Doteasy 404 Template --->
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+		<title>Error 404 File Not Found - Doteasy.com</title>
+		<link href='http://fonts.googleapis.com/css?family=Open+Sans:300,600,700italic,800,800italic' rel='stylesheet' type='text/css'>
+		
+		<link rel="stylesheet" href="js/fancybox/jquery.fancybox.css" type="text/css" media="screen" />
+		<link rel="stylesheet" href="js/selectBox/jquery.selectBox.min.css" type="text/css" media="screen" />
+		
+		<link rel="stylesheet" type="text/css" href="css/style.css" />
+		<!--[if lte IE 7]>
+		<link rel="stylesheet" type="text/css" href="css/ie_styles.css" />
+		<![endif]-->
+		
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+		
+		<script type="text/javascript" src="js/selectBox/jquery.selectBox.min.js"></script>
+		<script type="text/javascript" src="js/jquery.watermark.min.js"></script>
+		<script type="text/javascript" src="js/fancybox/jquery.fancybox.js"></script>
+		<script type="text/javascript" src="js/fancybox/helpers/jquery.fancybox-media.js"></script>
+	</head>
+	<body class="notFound">
+		<script>
+		  (function() {
+		    var c = document.createElement('script');
+		    c.type = 'text/javascript'; c.async = true;
+		    c.src = "https://chat.doteasy.com/ChatLink.ashx?config=3&id=delivechat";
+		    var s = document.getElementsByTagName('script')[0];
+		    s.parentNode.insertBefore(c,s);
+		  })();
+		</script>
+		<script type="text/javascript">
+			var liveChatOpen = function(e){
+				e.preventDefault();
+				var liveChatOffline = function(){
+					$.fancybox.open([
+				        {
+				            type: 'html',
+				            content: '<h3 style="font-size:16px;font-weight:bold;margin-bottom:15px;line-height:1.5em;">Doteasy Live Chat Support</h3><p style="color:#000;font-size:14px;line-height:1.5em;">Our Live Chat is now either offline or busy. If you have any questions, please feel free to contact us by opening a new service ticket at <a href="https://www.doteasy.com/ContactUs/SMS3" target="_blank">https://www.doteasy.com/ContactUs/SMS3</a></p>'
+				        }
+				    ], {
+				        maxWidth	: 400,
+						maxHeight	: 150,
+						fitToView	: false,
+						autoSize	: false,
+						closeClick	: false,
+						openEffect	: 'none',
+						closeEffect	: 'none'
+				    });
+				};
+				$("a","#delivechat").each(function(){
+					var $chatLink = $(this);
+					if($chatLink.css("display") !== "none"){
+						var liveChatID = $chatLink.attr("id");
+						if(liveChatID==="delivechat_online"){
+							$("a#delivechat_online","#delivechat").click();
+						} else if (liveChatID==="delivechat_offline"){
+							liveChatOffline();
+						}
+					}
+				});
+			};
+		</script>
+		<div id="container">
+			<div id="header">
+				<h1>Error <span>404 File Not Found</span></h1>
+				<div id="poweredBy" class="right">
+					<div>
+						<span class="image"></span>
+						Powered by
+					</div>
+					<div> 
+						<a href="http://www.doteasy.com" target="_blank" id="doteasyHomepage">
+						Web Hosting
+						</a>
+					</div>
+				</div>
+			</div>
+			
+			<div class="left top box">
+				<div id="textContainer" class="image left top">
+					<div class="container">
+						<div class="text">
+							<div class="title">404 File Not Found</div>
+							<p>The page you are looking for might have been removed, had its name changed, or is temporarily unavailable. </p>
+						</div>
+						<div class="link">
+							<a id="backLink" href="#" class="button">Go back</a>
+							<a id="returnToMain" class="image button" href="http://www.doteasy.com">Go to Doteasy.com</a>
+						</div>
+					</div>
+				</div>
+				
+				<div id="personalizedContainer" class="left bottom">
+					<div class="container">
+						<div class="title">Get a Personalized Domain name.</div>
+						<div class="subtitle">Each domain name registration includes:</div>
+						<ul>
+							<li class="image">FREE Domain Privacy Protection</li>
+							<li class="image">FREE Domain Locking</li>
+							<li class="image">Domain Forwarding</li>
+							<li class="two top image">Advanced DNS Controls</li>
+							<li class="two image">A free parked page & <a href="http://www.doteasy.com/web-hosting/basic.cfm"><span>More...</span><div class="triangle"></div></a></li>
+							<li class="two price">All of this for just <span>US$15.00/year</span>!</li>
+						</ul>
+						<a id="transferDomain" class="button" href="https://www.doteasy.com/sign-up/index.cfm?transfer=1"><span>Transfer Domain</span><div class="triangle"></div></a>
+						<div class="domainSearch">
+							<form action='https://www.doteasy.com/sign-up/index.cfm' method='post'>
+								<div class='input'>
+									<input name='xf_nameToSearch' id='domain-search'>
+									<input type='hidden' name='xf_externalFormPost' value='1' />
+									<input type='hidden' name='xf_signupType' value='new-domain' />
+									<!-- NOTE: this list of extensions is statically generated, might not reflect the list in other pages-->
+									<select name='xf_extToSearch' id='domain-type'>
+										<option>.com</option>
+										<option>.co</option>
+										<option>.net</option>
+										<option>.org</option>
+										<option>.biz</option>
+										<option>.info</option>
+										<option>.co.uk</option>
+										<option>.org.uk</option>
+										<option>.me.uk</option>
+										<option>.us</option>
+										<option>.ca</option>
+										<option>.tv</option>
+										<option>.eu</option>
+										<option>.mobi</option>
+										<option>.me</option>
+									</select>
+								</div>
+								<span class='button'>
+									<input type='submit' id='search-button' class='image' value='Search Domain'>
+								</span>
+							</form>
+						</div>
+					</div>
+				</div>
+			</div>	
+				
+			
+			<div id="wordpressContainer" class="image right top box">
+				<div class="container">
+					<div class="title">Start <span>with</span></div>
+					<div class="title">WordPress <span>Hosting</span></div>
+					<p>
+						WordPress is currently the most popular website content management system on the internet.  It's the easiest and fastest way to setup and maintain a full-featured website.  No coding required.  Get started with WordPress and blazing fast SSD hosting starting at just <span>US$4.95/month</span> for the first year.
+					</p>
+					<a href="https://www.doteasy.com/affiliate/sign-up-first-step.cfm?" target="_blank" id="signUpLink" class="image button"><span>Sign up now</span></a>
+				</div>
+			</div>
+			
+			<div class="box left">			
+				<div id="buildContainer" class="left">
+					<div class="container">
+						<div class="title">Wanna build a website?</div>
+						<p>
+							We have over 250 web hosting apps to help you build the site you want. Regardless if you need
+							a Wordpress site, a blog, a forum, or an online store, we have the perfect solution for you.
+							Building a website is easy with Doteasy.
+						</p>
+						<div class="image"></div>
+						<a href="http://www.doteasy.com/scripts/" target="_blank" id="learnMoreWebsite" class="image button"><span>Find out more</span></a>
+					</div>
+				</div>
+				
+				<div id="needHelpContainer" class="left box">
+					<div class="container">
+						<div class="title">Need Help?</div>
+						<ul>
+							<li><a id="forum" href="http://forums.doteasy.com/" target="_blank"><div class="image"></div><span>Doteasy Forum</span></a></li>
+							<li><a id="liveChat" href="#" onclick="liveChatOpen(event);"><div class="image"></div><span>Live Chat</span></a>
+								<div id="delivechat" style="display:none"></div>
+							</li>
+							<li><a id="contactUs" target="_blank" href="https://www.doteasy.com/contact-us"><div class="image"></div><span>Contact Us</span></a></li>
+							<li class="paddingRight"><a target="_blank" id="knowledgeBase" href="http://kb.doteasy.com/"><div class="image"></div><span>Knowledge Base</span></a></li>
+							<li><a id="videoTutorials" target="_blank" href="http://www.youtube.com/doteasyhosting"><div class="image"></div><span>Video Tutorials</span></a></li>
+						</ul>
+					</div>
+				</div>
+				
+				<div id="followDoteasyContainer" class="box">
+					<div class="container">
+						<div class="title">Follow Doteasy</div>
+						<ul>
+							<li><a id="scriptLibrary" target="_blank" href="http://scriptslibrary.doteasy.com/"><span>Script Library</span></a></li>
+							<li><a id="twitter" target="_blank" class="image" href="http://twitter.com/doteasy"></a></li>
+							<li><a id="youtube" target="_blank" class="image" href="http://www.youtube.com/doteasyhosting"></a></li>
+							<li><a id="googlePlus" target="_blank" class="image" href="http://plus.google.com/+DoteasyTechnology"></a></li>
+							<li><a id="facebook" target="_blank" class="image" href="http://www.facebook.com/Doteasy"></a></li>
+							<li><a id="blog" target="_blank" class="image" href="http://blog.doteasy.com/"></a></li>
+						</ul>
+					</div>
+				</div>
+			</div>	
+			
+			<div id="videoContainer" class="right box">
+				<div class="container">
+					<div class="image"></div>
+					<div class="subtitle">Doteasy</div>
+					<div class="title">Video Tutorials</div>
+					<p>Doteasy has a number of video tutorials that can help you make the best of your web hosting services.</p>
+					
+					<div class="create">
+						<div class="heading">Create Your Website:</div>
+						<ul>
+							<li><a href="http://www.youtube.com/playlist?list=PLaAFSCvSX__5GwIpZPldUJuRSIdJeEbOY" target="_blank">Website.com Site Builder</a></li>
+							<li><a href="http://youtu.be/4KMB2U8tJ-M" target="_blank" class="fancybox">Installing 5 Scripts in 5 Minutes</a></li>
+							<li><a href="http://youtu.be/D0nrbBujVNM" target="_blank" class="fancybox">Using FTP</a></li>
+							<li><a href="http://youtu.be/YcDC3eo8URs" target="_blank" class="fancybox">Using FTP (Mac version)</a></li>
+						</ul>
+					</div>
+					
+					<div class="setup">
+						<div class="heading">Setup Email Accounts:</div>
+						<ul>
+							<li><a href="http://youtu.be/BF4VLYgJR4g" target="_blank" class="fancybox">Email on iPhone</a></li>
+							<li><a href="http://youtu.be/Vh1Vr9xCL8o" target="_blank" class="fancybox">Email on Android</a></li>
+							<li><a href="http://youtu.be/qeF0HqSBkKM" target="_blank" class="fancybox">Email on Thunderbird</a></li>
+							<li><a href="http://youtu.be/6VYCXrxHDOs" target="_blank" class="fancybox">Email on Mac Mail</a></li>
+							<li><a href="http://youtu.be/z5rv844Oops" target="_blank" class="fancybox">Email on Window Live Mail</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			
+			<div id="footer">
+				<div>
+					Copyright &copy; 2000-<span class="cpyear">2014</span> Doteasy Technology Inc. All Rights Reserved.
+					<br>
+					All other trademarks and copyrights are the property of their respective holders.
+				</div>
+				<div>
+					<a href="http://www.in2net.com/Legal/DRA/">Domain Registration Agreement</a> | <a href="http://www.doteasy.com/terms/terms-and-conditions.cfm">Terms & Conditions</a> | 
+					<a href="http://www.doteasy.com/terms/hosted-applications-policy.cfm">Hosting Application Policy</a> | <a href="http://www.doteasy.com/terms/privacy-policy.cfm">Privacy Policy</a>
+				</div>
+			</div>
+		</div>	
+	</body>
+	
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$("#domain-search").watermark("Enter the domain name you want to get");
+			$("#domain-type").selectBox();
+			
+			$("#backLink").click(function(event){
+				event.preventDefault();
+				history.back();
+			});
+			
+			$(".fancybox").fancybox({
+				helpers : {
+					media : {}
+				}
+			});
+			
+			var currentYear = new Date().getFullYear();
+			$('#footer .cpyear').html(currentYear);
+		});
+	</script>
+	</body>
+</html>
