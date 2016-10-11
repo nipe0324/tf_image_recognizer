@@ -54,8 +54,7 @@ Run training (training will take 1 hours. depends on machine power)
 Be careful to re-run this command. because checkpoint file(trained data) is removed and new one is created.
 
 ```
-$ cd recognizer
-$ python model_train.py
+$ python recognizer/train.py
 Filling queue with 40 CIFAR images before starting to train. This will take a few minutes.
 2016-10-07 11:02:45.512924: step 0, loss = 4.77 (78.8 examples/sec; 0.813 sec/batch)
 2016-10-07 11:02:55.742913: step 10, loss = 4.72 (87.8 examples/sec; 0.729 sec/batch)

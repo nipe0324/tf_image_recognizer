@@ -219,7 +219,7 @@ def inputs(eval_data, data_dir, batch_size):
     num_examples_per_epoch = NUM_EXAMPLES_PER_EPOCH_FOR_TRAIN
   else:
     # filenames = [os.path.join(data_dir, 'test_batch.bin')]
-    filenames = [os.path.join(data_dir, 'test.bin')]
+    filenames = [os.path.join(data_dir, 'one_cat.bin')]
     num_examples_per_epoch = NUM_EXAMPLES_PER_EPOCH_FOR_EVAL
 
   for f in filenames:

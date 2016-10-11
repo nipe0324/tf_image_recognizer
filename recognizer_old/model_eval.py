@@ -48,13 +48,13 @@ FLAGS = tf.app.flags.FLAGS
 
 # tf.app.flags.DEFINE_string('eval_dir', '/tmp/cifar10_eval',
 #                            """Directory where to write event logs.""")
-tf.app.flags.DEFINE_string('eval_dir', '/tmp/my_cifar10_eval',
+tf.app.flags.DEFINE_string('eval_dir', '/tmp/my_model_eval',
                            """Directory where to write event logs.""")
 tf.app.flags.DEFINE_string('eval_data', 'test',
                            """Either 'test' or 'train_eval'.""")
 # tf.app.flags.DEFINE_string('checkpoint_dir', '/tmp/cifar10_train',
 #                            """Directory where to read model checkpoints.""")
-tf.app.flags.DEFINE_string('checkpoint_dir', '/tmp/my_cifar10_train',
+tf.app.flags.DEFINE_string('checkpoint_dir', '/tmp/my_model_train',
                            """Directory where to read model checkpoints.""")
 # tf.app.flags.DEFINE_integer('eval_interval_secs', 60 * 5,
 #                             """How often to run the eval.""")
@@ -62,13 +62,13 @@ tf.app.flags.DEFINE_integer('eval_interval_secs', 60,
                             """How often to run the eval.""")
 # tf.app.flags.DEFINE_integer('num_examples', 10000,
 #                             """Number of examples to run.""")
-tf.app.flags.DEFINE_integer('num_examples', 100,
+tf.app.flags.DEFINE_integer('num_examples', 1,
                             """Number of examples to run.""")
 tf.app.flags.DEFINE_boolean('run_once', False,
                          """Whether to run eval only once.""")
 
 
-def eval_once(saver, summary_writer, top_k_op, summary_op):
+def eval_once(saver, summary_writer, top_k_op, summary_op, logits):
   """Run Eval once.
 
   Args:
@@ -98,12 +98,14 @@ def eval_once(saver, summary_writer, top_k_op, summary_op):
         threads.extend(qr.create_threads(sess, coord=coord, daemon=True,
                                          start=True))
 
-      num_iter = int(math.ceil(FLAGS.num_examples / FLAGS.batch_size))
+      # num_iter = int(math.ceil(FLAGS.num_examples / FLAGS.batch_size))
+      num_iter = 1
       true_count = 0  # Counts the number of correct predictions.
-      total_sample_count = num_iter * FLAGS.batch_size
+      total_sample_count = num_iter * 1 # FLAGS.batch_size
       step = 0
       while step < num_iter and not coord.should_stop():
-        predictions = sess.run([top_k_op])
+        p, predictions = sess.run([tf.nn.softmax(logits), top_k_op])
+        print('logits:', p)
         true_count += np.sum(predictions)
         step += 1
 
@@ -148,10 +150,11 @@ def evaluate():
     summary_writer = tf.train.SummaryWriter(FLAGS.eval_dir, g)
 
     while True:
-      eval_once(saver, summary_writer, top_k_op, summary_op)
-      if FLAGS.run_once:
-        break
-      time.sleep(FLAGS.eval_interval_secs)
+      eval_once(saver, summary_writer, top_k_op, summary_op, logits)
+      break
+      # if FLAGS.run_once:
+      #   break
+      # time.sleep(FLAGS.eval_interval_secs)
 
 
 def main(argv=None):  # pylint: disable=unused-argument
