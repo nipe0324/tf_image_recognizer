@@ -7,7 +7,7 @@ You can gather images, convert them to fit learning model's input. and then trai
 
 * [x] 1. Gather images you want to recognize from TensorFlow and put into `/data/raw`
 * [x] 2. Process the images to CIFAR-10 dataset (`data/input/images.bin`)
-* [ ] 3. Train CIFAR-10's model using by your images.
+* [x] 3. Train CIFAR-10's model using by your images.
 * [ ] 4. Classify from New data.
 
 # Versions
@@ -54,8 +54,8 @@ Run training (training will take 1 hours. depends on machine power)
 Be careful to re-run this command. because checkpoint file(trained data) is removed and new one is created.
 
 ```
-$ cd recognizer/my_cifar3
-$ python cifar10_train.py
+$ cd recognizer
+$ python model_train.py
 Filling queue with 40 CIFAR images before starting to train. This will take a few minutes.
 2016-10-07 11:02:45.512924: step 0, loss = 4.77 (78.8 examples/sec; 0.813 sec/batch)
 2016-10-07 11:02:55.742913: step 10, loss = 4.72 (87.8 examples/sec; 0.729 sec/batch)
@@ -68,7 +68,7 @@ Filling queue with 40 CIFAR images before starting to train. This will take a fe
 Visualize results by TensorBoard.
 
 ```
-$ tensorboard --logdir=/tmp/my_cifar10_train
+$ tensorboard --logdir=/tmp/my_model_train
 ```
 
 ## 4. Classify images as web application.
@@ -76,8 +76,8 @@ $ tensorboard --logdir=/tmp/my_cifar10_train
 Measure accuracy by using test data.
 
 ```
-$ cd recognizer/my_cifar3
-$ python cifar10_eval.py
+$ cd recognizer
+$ python model_eval.py
 
 # if 2 classifications (cat or dog)
 2016-10-07 13:30:44.203764: precision @ 1 = 0.802

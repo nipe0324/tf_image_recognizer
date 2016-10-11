@@ -42,7 +42,7 @@ import numpy as np
 import tensorflow as tf
 
 # from tensorflow.models.image.cifar10 import cifar10
-import cifar10
+import model
 
 FLAGS = tf.app.flags.FLAGS
 
@@ -56,7 +56,9 @@ tf.app.flags.DEFINE_string('eval_data', 'test',
 #                            """Directory where to read model checkpoints.""")
 tf.app.flags.DEFINE_string('checkpoint_dir', '/tmp/my_cifar10_train',
                            """Directory where to read model checkpoints.""")
-tf.app.flags.DEFINE_integer('eval_interval_secs', 60 * 5,
+# tf.app.flags.DEFINE_integer('eval_interval_secs', 60 * 5,
+#                             """How often to run the eval.""")
+tf.app.flags.DEFINE_integer('eval_interval_secs', 60,
                             """How often to run the eval.""")
 # tf.app.flags.DEFINE_integer('num_examples', 10000,
 #                             """Number of examples to run.""")
@@ -125,18 +127,18 @@ def evaluate():
   with tf.Graph().as_default() as g:
     # Get images and labels for CIFAR-10.
     eval_data = FLAGS.eval_data == 'test'
-    images, labels = cifar10.inputs(eval_data=eval_data)
+    images, labels = model.inputs(eval_data=eval_data)
 
     # Build a Graph that computes the logits predictions from the
     # inference model.
-    logits = cifar10.inference(images)
+    logits = model.inference(images)
 
     # Calculate predictions.
     top_k_op = tf.nn.in_top_k(logits, labels, 1)
 
     # Restore the moving average version of the learned variables for eval.
     variable_averages = tf.train.ExponentialMovingAverage(
-        cifar10.MOVING_AVERAGE_DECAY)
+        model.MOVING_AVERAGE_DECAY)
     variables_to_restore = variable_averages.variables_to_restore()
     saver = tf.train.Saver(variables_to_restore)
 
@@ -153,7 +155,7 @@ def evaluate():
 
 
 def main(argv=None):  # pylint: disable=unused-argument
-  # cifar10.maybe_download_and_extract()
+  # model.maybe_download_and_extract()
   if tf.gfile.Exists(FLAGS.eval_dir):
     tf.gfile.DeleteRecursively(FLAGS.eval_dir)
   tf.gfile.MakeDirs(FLAGS.eval_dir)

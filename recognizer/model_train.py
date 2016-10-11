@@ -45,14 +45,14 @@ from six.moves import xrange  # pylint: disable=redefined-builtin
 import tensorflow as tf
 
 # from tensorflow.models.image.cifar10 import cifar10
-import cifar10
+import model
 
 FLAGS = tf.app.flags.FLAGS
 
 # tf.app.flags.DEFINE_string('train_dir', '/tmp/cifar10_train',
 #                            """Directory where to write event logs """
 #                            """and checkpoint.""")
-tf.app.flags.DEFINE_string('train_dir', '/tmp/my_cifar10_train',
+tf.app.flags.DEFINE_string('train_dir', '/tmp/my_model_train',
                            """Directory where to write event logs """
                            """and checkpoint.""")
 # tf.app.flags.DEFINE_integer('max_steps', 1000000,
@@ -69,18 +69,18 @@ def train():
     global_step = tf.Variable(0, trainable=False)
 
     # Get images and labels for CIFAR-10.
-    images, labels = cifar10.distorted_inputs()
+    images, labels = model.distorted_inputs()
 
     # Build a Graph that computes the logits predictions from the
     # inference model.
-    logits = cifar10.inference(images)
+    logits = model.inference(images)
 
     # Calculate loss.
-    loss = cifar10.loss(logits, labels)
+    loss = model.loss(logits, labels)
 
     # Build a Graph that trains the model with one batch of examples and
     # updates the model parameters.
-    train_op = cifar10.train(loss, global_step)
+    train_op = model.train(loss, global_step)
 
     # Create a saver.
     saver = tf.train.Saver(tf.all_variables())
@@ -129,7 +129,7 @@ def train():
 
 
 def main(argv=None):  # pylint: disable=unused-argument
-  # cifar10.maybe_download_and_extract()
+  # model.maybe_download_and_extract()
   if tf.gfile.Exists(FLAGS.train_dir):
     tf.gfile.DeleteRecursively(FLAGS.train_dir)
   tf.gfile.MakeDirs(FLAGS.train_dir)
